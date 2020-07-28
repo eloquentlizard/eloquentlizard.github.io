@@ -1,0 +1,14 @@
+created: 20141228081125620
+creator: Jeanbeaux
+modified: 20200728191117122
+modifier: Jeanbeaux
+tags: Template
+title: scrollabletab
+type: text/vnd.tiddlywiki
+
+<$scrollable class="tc-scrollable-tab tc-tiddler-frame">
+
+
+<$transclude tiddler=<<currentTab>> field="text"/>
+
+</$scrollable>

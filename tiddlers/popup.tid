@@ -1,0 +1,9 @@
+created: 20150119035710056
+creator: Jeanbeaux
+modified: 20200728191116804
+modifier: Jeanbeaux
+tags: Template
+title: popup
+type: text/vnd.tiddlywiki
+
+<$button class="tc-btn-invisible tc-tiddlylink" message="tm-notify" param={{!!title}}><$reveal type=nomatch state=!!caption text="">{{!!caption}}</$reveal><$reveal type=match state=!!caption text="">{{!!title}}</$reveal></$button>

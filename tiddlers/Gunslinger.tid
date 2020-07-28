@@ -1,0 +1,66 @@
+created: 20140825044120746
+creator: Jeanbeaux
+modified: 20200728191110699
+modifier: Jeanbeaux
+tags: [[Advanced Class]] Class [[d20 Modern]]
+title: Gunslinger
+type: text/vnd.tiddlywiki
+
+!Requirements
+To qualify to become a Gunslinger, a character must fulfill the following criteria.
+
+*''Base Attack Bonus'' +2.
+
+*''Skills'' Sleight of Hand 6 ranks, Tumble 6 ranks.
+
+*''Feat'' Personal Firearms Proficiency.
+!Game Rule Information
+
+''Hit Die'' d10 
+
+''Action Points'' 6 + &#189; character level, rounded down
+
+!!Class Skills
+The Gunslinger's class skills are Bluff, Demolitions, Drive, Escape Artist, Gamble, Intimidate, Knowledge (current events, popular culture, streetwise), Move Silently, Profession, Read/Write Language, Ride, Sleight of Hand, Speak Language, Spot, Survival, & Tumble.
+
+''Skill Points at Each Level'' 5 + Int modifier.
+
+|!Level|!Base Attack|!Fort|!Ref|!Will|!Special|!Defense|!Reputation|
+|!1st|+0|+0|+1|+1|Close combat|	+1|+0|
+|!2nd|+1|+0|+2|+2|Weapon focus|+1|+0|
+|!3rd|+2|+1|+2|+2|Bonus feat|+2|+1|
+|!4th|+3|+1|+2|+2|Defensive position |+2|+1|
+|!5th|+3|+1|+3|+3|Lightning shot|+3|+1|
+|!6th|+4|+2|+3|+3|Bonus feat|+3|+2|
+|!7th|+5|+2|+4|+4|Sharp-shooting|+4|+2|
+|!8th|+6|+2|+4|+4|Greater weapon focus |+4|+2|
+|!9th|+6|+3|+4|+4|Bonus feat|+5|+3|
+|!10th|+7|+3|+5|+5|Bullseye|+5|+3|
+!!Class Features
+The following features pertain to the Gunslinger advanced class.
+
+;Close Combat Shot
+:At 1st level, a Gunslinger gains the ability to make a ranged attack with a Medium-size or smaller firearm while in a threatened area without provoking an attack of opportunity.
+
+;Weapon Focus
+:At 2nd level, a Gunslinger gains the Weapon Focus class feature, providing the benefit of the feat with the same name. The Gunslinger must choose a specific personal firearm. The gunslinger adds +1 to all attack rolls you make using the selected personal firearm.
+
+;Bonus Feats
+:At 3rd, 6th, and 9th level, the Gunslinger gets a bonus feat. The bonus feat must be selected from the following list, and the Gunslinger must meet all the prerequisites of the feat to select it.
+```
+Advanced Firearms Proficiency, Advanced Two-Weapon Fighting, Burst Fire, Dead Aim, Double Tap, Far Shot, Improved Two-Weapon Fighting, Precise Shot, Quick Draw, Quick Reload, Shot on the Run, Skip Shot, Strafe, Two-Weapon Fighting.
+```
+;Defensive Position
+:Starting at 4th level, the Gunslinger gains an additional +2 cover bonus to Defense and an additional +2 cover bonus on Reflex saves whenever he or she has one-quarter, one-half, three-quarters, or nine-tenths cover.
+
+;Lightning Shot
+:Starting at 5th level, a Gunslinger can make a flurry of ranged attacks with a personal firearm at the expense of accuracy. With a lightning shot, the Gunslinger may make one extra ranged attack with a personal firearm in a round at his or her highest base attack bonus. This attack and each other attack made in the round take a -2 penalty. Using lightning shot is a full-round action. The Gunslinger can't take more than a 5-foot step and use lightning shot in the same round.
+
+;Sharp-Shooting
+:At 7th level, if the Gunslinger uses a personal firearm to attack a target, the cover bonus to the target's Defense for one-quarter, one-half, three-quarters, or nine-tenths cover is reduced by 2.
+
+;Greater Weapon Focus
+:At 8th level, a Gunslinger receives a +1 competence bonus on attack rolls made with the firearm selected for the Weapon Focus ability at 2nd level. This bonus stacks with the earlier bonus.
+
+;Bullseye
+:At 10th level, a Gunslinger becomes so adept at using the firearm to which he or she has applied Weapon Focus and Greater Weapon Focus that the gunslinger's attacks with that firearm can deal extra damage. With a successful attack, before damage is rolled, the gunslinger can spend 1 action point to deal +3d6 points of damage.

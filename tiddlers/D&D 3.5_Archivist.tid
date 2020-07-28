@@ -1,0 +1,34 @@
+caption: Class: Archivist
+created: 20141203045441657
+creator: Jeanbeaux
+modified: 20200728191108843
+modifier: Jeanbeaux
+tags: [[Dungeons & Dragons 3.5]] Class
+title: D&D 3.5/Archivist
+type: text/vnd.tiddlywiki
+
+| Level | Special |>|>|>|>|>|>|>|>|>| Spells per Day |h
+|~|~|0|1st|2nd|3rd|4th|5th|6th|7th|8th|9th|h
+|!1st|Dark knowledge (tactics) 3/day, Scribe Scroll|3|2|||||||||
+|!2nd|Lore Mastery|4|3|||||||||
+|!3rd|Dark Knowledge 4/day|4|3|2||||||||
+|!4th|Still Mind|4|4|3||||||||
+|!5th|Dark Knowledge (puissance)|4|4|3|2|||||||
+|!6th|Dark Knowledge 5/day|4|4|4|3|||||||
+|!7th|Lore Mastery|4|5|4|3|2||||||
+|!8th|Dark Knowledge (foe)|4|5|4|4|3||||||
+|!9th|Dark Knowledge 6/day|4|5|5|4|3|2|||||
+|!10th|Bonus Feat|4|5|5|4|4|3|||||
+|!11th|Dark Knowledge (dread secret)|4|5|5|5|4|3|2||||
+|!12th|Dark Knowledge 7/day|4|5|5|5|4|4|3||||
+|!13th|Lore Mastery|4|5|5|5|5|4|3|2|||
+|!14th|Dark Knowledge (foreknowledge)|4|5|5|5|5|4|4|3|||
+|!15th|Dark Knowledge 8/day|4|5|5|5|5|5|4|3|2||
+|!16th|---|4|5|5|5|5|5|4|4|3||
+|!17th|Lore Mastery|4|5|5|5|5|5|5|4|3|2|
+|!18th|Dark Knowledge 9/day|4|5|5|5|5|5|5|4|4|3|
+|!19th|---|4|5|5|5|5|5|5|5|4|4|
+|!20th|Bonus Feat|4|5|5|5|5|5|5|5|5|5|
+|''Hit Die'': 1d6<br>''Skill Points'': 4 + Int modifier (×4 @ 1st level)<br>''Class Skills'': Concentration, Craft, Decipher Script, Diplomacy, Gather Information, Heal, Knowledge, Profession, Search, Spellcraft<br>''Base Attack Bonus'': Poor (½ level); ''Saves'' Good Fort, Poor Ref, Good Will|c
+
+!!!{{D&D 3.5/Archivist/Class Features||modal}}

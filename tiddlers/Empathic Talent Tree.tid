@@ -1,0 +1,20 @@
+created: 20150202033111278
+creator: Jeanbeaux
+modified: 20200728191109711
+modifier: Jeanbeaux
+tags: Components
+title: Empathic Talent Tree
+type: text/vnd.tiddlywiki
+
+The Dedicated hero's innate talents give him or her a great capacity for empathy.
+
+;Empathy
+:The Dedicated hero has a knack for being sensitive to the feelings and thoughts of others without having those feelings and thoughts communicated in any objectively explicit manner. This innate talent provides a bonus on checks involving interaction skills (Bluff, Diplomacy, Handle Animal, Intimidate, Perform, and Sense Motive), provided the hero spends at least 1 minute observing his or her target prior to making the skill check. The bonus is equal to the hero's Dedicated level.
+;Improved Aid Another
+:The Dedicated hero's bonus on attempts to aid another increases by +1 on a successful aid another check. This talent can be selected multiple times, each time increasing the bonus by +1.
+:;Prerequisite
+::Empathy.
+;Intuition
+:The Dedicated hero has an innate ability to sense trouble in the air. The Dedicated hero can make a Will saving throw (DC 15). On a successful save, the hero gets a hunch that everything is all right, or the hero gets a bad feeling about a specific situation, based on the GM's best guess relating to the circumstances. This talent is usable a number of times per day equal to the character's Dedicated level.
+:;Prerequisite
+::Empathy.

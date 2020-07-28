@@ -1,0 +1,21 @@
+created: 20140825035351917
+creator: Jeanbeaux
+modified: 20200728191109925
+modifier: Jeanbeaux
+ordering: 2
+tags: Class [[d20 Modern]] [[Base Class]]
+title: Fast Hero
+type: text/vnd.tiddlywiki
+
+|!Class Level|!Base Attack Bonus|!Fort Save|!Ref Save|!Will Save|!Class Features|!Defense Bonus|!Reputation Bonus|
+|1st|+0|+0|+1|+0|{{Fast Hero/Talent||modal}}|+3|+0|
+|2nd|+1|+0|+2|+0|{{Fast Hero/Bonus Feat||modal}}|+4|+0|
+|3rd|+2|+1|+2|+1|{{Fast Hero/Talent||modal}}|+4|+1|
+|4th|+3|+1|+2|+1|{{Fast Hero/Bonus Feat||modal}}|+5|+1|
+|5th|+3|+1|+3|+1|{{Fast Hero/Talent||modal}}|+5|+1|
+|6th|+4|+2|+3|+2|{{Fast Hero/Bonus Feat||modal}}|+6|+2|
+|7th|+5|+2|+4|+2|{{Fast Hero/Talent||modal}}|+6|+2|
+|8th|+6/+1|+2|+4|+2|{{Fast Hero/Bonus Feat||modal}}|+7|+2|
+|9th|+6/+1|+3|+4|+3|{{Fast Hero/Talent||modal}}|+7|+3|
+|10th|+7/+2|+3|+5|+3|{{Fast Hero/Bonus Feat||modal}}|+8|+3|
+|''Key Ability'': Dexterity<br>''Hit Die'':1d8<br>''Action Points'': 5 + ½ level<br>''Skill Points'': 5 + Int modifier (×4 @ 1st level)<br>''Class Skills'': Balance, Craft,,mechanical,,, Drive, Escape Artist, Hide, Knowledge,,current events, popular culture, streetwise,,, Move Silently, Pilot, Profession, Read/Write Language, Ride, Sleight of Hand, Speak Language, & Tumble.|c

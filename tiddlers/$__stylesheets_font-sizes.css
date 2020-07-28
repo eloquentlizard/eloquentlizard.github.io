@@ -1,0 +1,30 @@
+.fine {
+	font-size: 0.30em;
+}
+.diminutive {
+	font-size: 0.45em;
+}
+.tiny {
+	font-size: 0.60em;
+}
+.small {
+	font-size: 0.85em;
+}
+.medium {
+	font-size: 1.00em;
+}
+.large {
+	font-size: 1.15em;
+}
+.huge {
+	font-size: 1.30em;
+}
+.gargantuan {
+	font-size: 1.45em;
+}
+.colossal {
+	font-size: 1.60em;
+}
+.colossal+ {
+	font-size: 1.75em;
+}

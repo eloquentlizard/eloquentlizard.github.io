@@ -1,0 +1,11 @@
+created: 20150119040458267
+creator: Jeanbeaux
+modified: 20200728191109805
+modifier: Jeanbeaux
+subtitle: {{!!title}}{{modal!!button}}
+tags: Info
+title: Euler's Identity
+type: text/vnd.tiddlywiki
+
+!Euler's Identity
+$$e^{\pi i} = -1$$

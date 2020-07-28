@@ -1,0 +1,12 @@
+caption: defensive strike
+created: 20150203112739185
+creator: Jeanbeaux
+modified: 20200728191108443
+modifier: Jeanbeaux
+subtitle: {{!!title}}{{modal!!button}}
+tags: Components
+title: Bodyguard/Defensive Strike
+type: text/vnd.tiddlywiki
+
+!Defensive Strike
+At 7th level, if an opponent makes a melee attack against the Bodyguard and misses while the Bodyguard is using the total defense option, the Bodyguard can attack that opponent on his or her next turn (as an attack action) with a +4 bonus on his or her attack roll. The Bodyguard gains no bonus against an opponent who doesn't attack the Bodyguard or against an opponent who makes a successful attack.

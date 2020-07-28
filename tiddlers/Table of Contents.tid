@@ -1,0 +1,18 @@
+caption: Main Menu
+color: #d7ceff
+created: 20141226012554082
+creator: Jeanbeaux
+description: The Main Menu of this TiddlyWiki
+icon: $:/core/icon
+list: HelloThere Campaign [[RPG System]] Projects [[My Character]] Miscellaneous [[External Source]]
+modified: 20200728192727332
+modifier: Jeanbeaux
+tags: $:/tags/SideBar
+title: Table of Contents
+type: text/vnd.tiddlywiki
+
+<div style="z-index:-1;position:absolute;padding-left:9em;">{{Image/Cryogonal}}</div><div class="tc-table-of-contents">
+<<toc-selective-expandable 'Table of Contents'>>
+</div>
+<hr>
+{{$:/core/ui/SideBar/Open}}

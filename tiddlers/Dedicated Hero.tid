@@ -1,0 +1,21 @@
+created: 20140825040600239
+creator: Jeanbeaux
+modified: 20200728191109325
+modifier: Jeanbeaux
+ordering: 5
+tags: Class [[d20 Modern]] [[Base Class]]
+title: Dedicated Hero
+type: text/vnd.tiddlywiki
+
+|!Class Level|!Base Attack Bonus|!Fort Save|!Ref Save|!Will Save|!Class Features|!Defense Bonus|!Reputation Bonus|
+|1st|+0|+1|+0|+1|{{Dedicated Hero/Talent||modal}}|+1|+1|
+|2nd|+1|+2|+0|+2|{{Dedicated Hero/Bonus Feat||modal}}|+2|+1|
+|3rd|+2|+2|+1|+2|{{Dedicated Hero/Talent||modal}}|+2|+1|
+|4th|+3|+2|+1|+2|{{Dedicated Hero/Bonus Feat||modal}}|+3|+2|
+|5th|+3|+3|+1|+3|{{Dedicated Hero/Talent||modal}}|+3|+2|
+|6th|+4|+3|+2|+3|{{Dedicated Hero/Bonus Feat||modal}}|+3|+2|
+|7th|+5|+4|+2|+4|{{Dedicated Hero/Talent||modal}}|+4|+3|
+|8th|+6/+1|+4|+2|+4|{{Dedicated Hero/Bonus Feat||modal}}|+4|+3|
+|9th|+6/+1|+4|+3|+4|{{Dedicated Hero/Talent||modal}}|+5|+3|
+|10th|+7/+2|+5|+3|+5|{{Dedicated Hero/Bonus Feat||modal}}|+5|+4|
+|''Key Ability'': Wisdom<br>''Hit Die'':1d6<br>''Action Points'': 5 + ½ level<br>''Skill Points'': 5 + Int modifier (×4 @ 1st level)<br>''Class Skills'': Craft,,pharmaceutical, visual art, writing,,, Gamble, Investigate, Knowledge, Listen, Profession, Read/Write Language, Sense Motive, Speak Language, Spot, Survival, & Treat Injury.|c

@@ -1,0 +1,16 @@
+caption: maneuvers
+created: 20150104030750154
+creator: Jeanbeaux
+modified: 20200728191111221
+modifier: Jeanbeaux
+tags: Components
+title: Homebrew/Fighter/Maneuvers
+type: text/vnd.tiddlywiki
+
+!Maneuvers
+A fighter may select from the disciplines of Desert Wind, Diamond Mind, Iron Heart, Setting Sun, Stone Dragon, and White Raven for his martial maneuvers & stances. It takes 5 minutes to ready his known maneuvers, and stances take a swift action to initiate, end, or change.
+
+The table above indicates the fighter's number of maneuvers `K`nown, `R`eadied, the number of `S`tances he knows, and the `(`highest level of maneuver he has access to`)`. 
+
+:;→ See Also
+::{{Homebrew/Fighter/Quick Recovery||modal}}, {{Homebrew/Fighter/Retrain Maneuver||modal}}

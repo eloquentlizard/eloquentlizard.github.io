@@ -1,0 +1,16 @@
+caption: Miscellaneous
+color: #b8f68b
+created: 20140825031533705
+creator: Jeanbeaux
+description: A collection of tiddlers that don't meet any specific criteria
+icon: $:/core/images/info-button
+list-after: [[My Character]]
+modified: 20200728191114465
+modifier: Jeanbeaux
+tags: [[Table of Contents]]
+title: Miscellaneous
+type: text/vnd.tiddlywiki
+
+<$list filter="[is[current]tagging[title]sort[title]]">
+
+</$list>

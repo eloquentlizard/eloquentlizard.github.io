@@ -1,0 +1,12 @@
+caption: medical mastery
+created: 20150204144450439
+creator: Jeanbeaux
+modified: 20200728191110166
+modifier: Jeanbeaux
+subtitle: {{!!title}}{{modal!!button}}
+tags: Components
+title: Field Medic/Medical Mastery
+type: text/vnd.tiddlywiki
+
+!Medical Mastery
+When making a Treat Injury skill check, a Field Medic of 4th level or higher may take 10 even if stress and distractions would normally prevent him or her from doing so.

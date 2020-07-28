@@ -1,0 +1,14 @@
+caption: evasion
+created: 20150106004459800
+creator: Jeanbeaux
+modified: 20200728191111394
+modifier: Jeanbeaux
+tags: Components
+title: Homebrew/Monk/Evasion
+type: text/vnd.tiddlywiki
+
+!Evasion (Ex)
+At 2nd level or higher if a monk makes a successful Reflex saving throw against an attack that normally deals half damage on a successful save, she instead takes no damage. Evasion can be used only if a monk is wearing light armor or no armor. A helpless monk does not gain the benefit of evasion.
+
+:;→ See Also
+::{{Homebrew/Monk/Improved Evasion||modal}}

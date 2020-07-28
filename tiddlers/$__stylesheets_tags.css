@@ -1,0 +1,14 @@
+.tc-tagged-Tyranids {
+	font-family: "Cardo", "Celestia Antiqua Alt", "Liberation Serif", "Times New Roman", serif;
+}
+.tc-tagged-Tyranids svg {
+	width: 0.85em;
+	height: 0.85em;
+	fill: #333353;
+	verical-align: bottom;
+}
+.tc-tagged-Tyranids sub, .tc-tagged-Tyranids sup {
+	font-variant: small-caps;
+}
+
+.tc-tagged-Tyranids h1,.tc-tagged-Tyranids h2,.tc-tagged-Tyranids h3,.tc-tagged-Tyranids h4,.tc-tagged-Tyranids h5,.tc-tagged-Tyranids h6 {font-family: "Montserrat", "Heveltica Neue", "Heveltica", "Arial";}

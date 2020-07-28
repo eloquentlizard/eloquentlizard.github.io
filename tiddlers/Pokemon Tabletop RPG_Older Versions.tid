@@ -1,0 +1,18 @@
+created: 20150111023352864
+creator: Jeanbeaux
+modified: 20200728191116775
+modifier: Jeanbeaux
+tags: Homebrew Pokémon [[Pokémon Tabletop RPG]]
+title: Pokémon Tabletop RPG/Older Versions
+type: text/vnd.tiddlywiki
+
+So here's where I compile my attempts and building an RPG system where a DM can run collective Pokémon games. <div style="margin:0.5em;float:right;">[img width='300em' [Image/Poké Ball Z]]</div>
+
+
+All of these sheets are auto-calculating ~LibreOffice spreadsheets. They likely won't open perfectly in anything else, because I utilize ~LibreOffice to its fullest, despite not using macros (because they're slow and pose security issues with many computers). `STYLE()` functions abound, as well as hidden cells and cell protection.
+
+*''Version 1'': This sheet is no longer available for download (although I still have it for now), but was my first attempt, with many mechanics functioning similarly to how they work in the video games. Later versions //attempted// to drift away from heavy micromanaging and overcomplication.
+*''Version 2'': This sheet is an attempt to utilize the ~TriStat dX system to make something fun, but I still feel it suffers from the issues of micromanaging, but is a lot less rigid that V1. Download is available [[here|https://dl.dropboxusercontent.com/u/9660034/pokesheet-tristat.ods]].
+*''Version 3'': This is the one I'm currently working on; expect updates every ten minutes. I'm making it like a d20 in concept, rolling an unmodified d20 versus a DC. Moves are modular and mostly fluff, allowing you to make your own. Still a work in progress, but it seems promising. Download is available [[here|https://dl.dropboxusercontent.com/u/9660034/pocket monsters d20.ods]].
+*''Version 4'': See [[here|Pokémon Tabletop RPG/d20 Version]].
+*''Version 40,000'': After being exposed to the Warhammer 40,000 tabletop game, I see it as a very nifty platform to work from, without requiring nearly as much micromanaging as with other versions. All in all, there's no way to get around micromanaging in a Pokémon game that attempts to at least give a shit about the rules, but the Special Rules and Characteristic systems make the game feel a lot more standardized. No sheet will be available for download, but I might make a ruleset and Pokédex available at some point.

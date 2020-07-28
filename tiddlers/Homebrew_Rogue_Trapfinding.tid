@@ -1,0 +1,17 @@
+caption: trapfinding
+created: 20150105145433908
+creator: Jeanbeaux
+modified: 20200728191111939
+modifier: Jeanbeaux
+tags: Components
+title: Homebrew/Rogue/Trapfinding
+type: text/vnd.tiddlywiki
+
+!Trapfinding (Ex)
+Rogues (and only rogues) can use the ~~Search~~ Perception (Int) skill to locate traps when the task has a Difficulty Class higher than 20.
+
+Finding a nonmagical trap has a DC of at least 20, or higher if it is well hidden. Finding a magic trap has a DC of 25 + the level of the spell used to create it.
+
+Rogues (and only rogues or factotums) can use the Disable Device skill to disarm magic traps. A magic trap generally has a DC of 25 + the level of the spell used to create it.
+
+A rogue who beats a trap’s DC by 10 or more with a Disable Device check can study a trap, figure out how it works, and bypass it (with her party) without disarming it.

@@ -1,0 +1,28 @@
+created: 20140825062557243
+creator: Jeanbeaux
+modified: 20200728191108550
+modifier: Jeanbeaux
+tags: Monster [[Extinguishing the Guiding Light]]
+title: Bugbear Lieutenant
+type: text/vnd.tiddlywiki
+
+|Bugbear Lieutenant (generic) | Challenge Rating 7th|h
+|Medium humanoid (goblinoid) | Treasure: 1/2 coins|
+|>|''Description'' bugbear 4th-level fighter |
+|>|''Initiative'' +5; ''Senses'' Spot/Listen +7, Search +7; darkvision 60 ft., scent |
+|>|''Aura -- Leading the Charge'' 30-ft. radius. All goblinoids within the aura gain +4 to damage rolls when making charge attacks. |
+|>|''Hit Dice'' 3d8+6 + 4d10+8 (49 hp); Bloodied @ 25 hp|
+|>|''AC'' 16 (t13 f14); ''Fort'' +6, ''Ref'' +2, ''Will'' +1|
+|>|''Speed'' 30 ft. (6 squares) |
+|>|{{melee}}'' Glaive'' -- ''masterwork, reach, slashing, weapon'' |h
+|>|---10-ft. reach; +10 vs AC; 1d10+5 HP of damage, &#215;3 crit. |
+|>|{{ranged}}'' Javelin'' -- ''piercing, weapon'' |h
+|>|---30-ft. range increment (max range 150 ft.); +7 vs AC; 1d6+2 HP of damage, &#215;3 crit. |
+|>|{{boost}}'' White Raven Tactics'' (swift; recharge {{d6-6}}) |h
+|>|---The bugbear lieutenant chooses a single ally who can see and hear it. The chosen ally's initiative is now equal to that of the bugbear lieutenant - 1. If the ally has already acted on this turn, it may do so again. |
+|>|{{melee}}'' Lieutenant's Charge'' (full-round; 1/encounter) |h
+|>|---The bugbear lieutenant makes a single charge attack against a target, provoking no attacks of opportunity for its movement and dealing an additional 5 points of damage (in addition to being affected by its own aura, see above). In addition, any goblinoids within its aura (see above) may make a free charge attack as well. |
+|>|''Allegiances'' chaos, evil, Sgruft the Warlord; ''Languages'' Goblin, Trade |
+|>|''Skills & Feats'' Climb +5, Handle Animal +6, Hide +7, Jump +2, Move Silently +8, Sense Motive +1; Improved Initiative, Quick Draw, Short Haft, Skill Focus,,Hide, Move Silently,,, Weapon Focus,,glaive,,, Weapon Specialization,,glaive,, |
+|>|''Str'' 15 (+2), ''Dex'' 12 (+1), ''Con'' 14 (+2), ''Int'' 10 (+0), ''Wis'' 10 (+0), ''Cha'' 9 (-1) |
+|>|''Equipment'' masterwork glaive, 5 javelins, light steel shield, leather armor, traveler's outfit |

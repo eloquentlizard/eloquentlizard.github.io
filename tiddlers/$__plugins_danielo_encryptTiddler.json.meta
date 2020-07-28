@@ -1,0 +1,11 @@
+created: 20140411102957660
+creator: Danielo Rodriguez
+dependencies: crypto
+description: adds the ability to encrypt single tiddlers
+modified: 20200728191106700
+modifier: Jeanbeaux
+plugin-type: plugin
+tags: $:/tags/Plugin
+title: $:/plugins/danielo/encryptTiddler
+type: application/json
+version: 0.0.2

@@ -1,0 +1,13 @@
+.illustration {
+      border: 1px black solid;
+      float: right;
+      padding: 0em;
+      margin: 0.5em;
+      box-shadow: 5px 5px 5px #bbbbbb;
+}
+.tc-inline-image svg {
+	width: 1em;
+	height: 1em;
+	fill: #333353;
+	verical-align: middle;
+}

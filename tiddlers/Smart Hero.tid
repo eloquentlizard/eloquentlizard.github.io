@@ -1,0 +1,21 @@
+created: 20140825041151756
+creator: Jeanbeaux
+modified: 20200728191117311
+modifier: Jeanbeaux
+ordering: 4
+tags: Class [[d20 Modern]] [[Base Class]]
+title: Smart Hero
+type: text/vnd.tiddlywiki
+
+|!Class Level|!Base Attack Bonus|!Fort Save|!Ref Save|!Will Save|!Class Features|!Defense Bonus|!Reputation Bonus|
+|1st|+0|+0|+0|+1|{{Smart Hero/Talent||modal}}|+0|+1|
+|2nd|+1|+0|+0|+2|{{Smart Hero/Bonus Feat||modal}}|+1|+1|
+|3rd|+1|+1|+1|+2|{{Smart Hero/Talent||modal}}|+1|+1|
+|4th|+2|+1|+1|+2|{{Smart Hero/Bonus Feat||modal}}|+1|+2|
+|5th|+2|+1|+1|+3|{{Smart Hero/Talent||modal}}|+2|+2|
+|6th|+3|+2|+2|+3|{{Smart Hero/Bonus Feat||modal}}|+2|+2|
+|7th|+3|+2|+2|+4|{{Smart Hero/Talent||modal}}|+2|+3|
+|8th|+4|+2|+2|+4|{{Smart Hero/Bonus Feat||modal}}|+3|+3|
+|9th|+4|+3|+3|+4|{{Smart Hero/Talent||modal}}|+3|+3|
+|10th|+5|+3|+3|+5|{{Smart Hero/Bonus Feat||modal}}|+3|+4|
+|''Key Ability'': Intelligence<br>''Hit Die'': 1d6<br>''Action Points'': 5 + ½ level<br>''Skill Points'': 9 + Int modifier (×4 @ 1st level)<br>''Class Skills'': Computer Use, Craft, Decipher Script, Demolitions, Disable Device, Forgery, Investigate, Knowledge, Navigate, Profession, Read/Write Language, Repair, Research, Search, & Speak Language; plus any from starting occupation|c

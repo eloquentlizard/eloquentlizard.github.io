@@ -1,0 +1,13 @@
+created: 20140826064041499
+creator: Jeanbeaux
+modified: 20200728191108763
+modifier: Jeanbeaux
+tags: $:/tags/Macro
+title: CommentMacro
+type: text/vnd.tiddlywiki
+
+\define x(test:"")
+@@.comment
+$text$
+@@
+\end

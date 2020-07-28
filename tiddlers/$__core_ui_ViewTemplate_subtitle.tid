@@ -1,0 +1,19 @@
+created: 20141226002613038
+creator: Jeanbeaux
+description: description field shows up here
+modified: 20200728191106375
+modifier: Jeanbeaux
+tags: $:/tags/ViewTemplate
+title: $:/core/ui/ViewTemplate/subtitle
+type: text/vnd.tiddlywiki
+
+<$reveal type=nomatch state=!!created text="" default=""><div class="tc-improvement-banner">
+<$reveal type=match state={{!!icon}} text="" default="">{{$:/core/icon}}</$reveal><$reveal type=nomatch state={{!!icon}} text="" default=""><$transclude tiddler={{!!icon}}/></$reveal> <$reveal type=nomatch text="" default="" state=!!description> <span class="tc-title" style="color:#5959c0;"> <$transclude field="description"/></span> ---</$reveal> <$reveal type=nomatch text="" default="" state=!!modified> edited<$reveal type=nomatch text="" default="" state=!!modifier> by <$link to={{!!modifier}}>
+<$view field="modifier"/>
+</$link></$reveal> <$view field="modified" format="relativedate"/> ---</$reveal><$reveal type=nomatch text="" default="" state=!!created> created<$reveal type=nomatch text="" default="" state=!!creator> by <$link to={{!!creator}}>
+<$view field="creator"/>
+</$link></$reveal> <$view field="created" format="relativedate"/></$reveal><$reveal type=nomatch text="" default="" state=!!_canonical_uri> (<a href={{!!_canonical_uri}}>source</a>)</$reveal>
+<$reveal type=nomatch text="" default="" state=!!_canonical_uri><$reveal type=match text="" default="" state=!!_canonical_uri> (<a href={{!!_canonical_uri}}>source</a>)</$reveal></$reveal>
+
+</div>
+</$reveal>

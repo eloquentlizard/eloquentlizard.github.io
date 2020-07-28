@@ -1,0 +1,10 @@
+created: 20141226031336766
+creator: Jeanbeaux
+description: Usage: `{{tiddler||code}}` renders the tiddler as a codeblock
+modified: 20200728191108737
+modifier: Jeanbeaux
+tags: Template
+title: code
+type: text/vnd.tiddlywiki
+
+<pre><$view field="text"/></pre>

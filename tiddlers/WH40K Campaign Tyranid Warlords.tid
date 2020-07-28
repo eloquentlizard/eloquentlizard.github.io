@@ -1,0 +1,40 @@
+created: 20150917052016796
+creator: Jeanbeaux
+modified: 20200728191118138
+modifier: Jeanbeaux
+starting-planet: [planet name here]
+system: [System Name Here]
+tags: Projects [[Warhammer 40,000]] Tyranids
+title: WH40K Campaign Tyranid Warlords
+type: text/vnd.tiddlywiki
+
+<$edit-text field=system/> ''>'' <$edit-text field=starting-planet/>
+
+<$list filter="[is[current]tagging[]!tag[Archived]!has[draft.of]sort[title]]">
+
+<div class="tc-sidediv tc-row" style="float:none;width:auto;max-width:100%;-moz-border-radius:15px;-webkit-border-radius:15px;border-radius:15px;">
+
+<div class="tc-col">
+
+!!{{!!prefix}} {{!!title}} --- {{!!points}} points
+{{||Warhammer 40,000 Characteristics Table}}
+
+{{}}
+
+</div>
+
+<div class="tc-col">
+
+!!{{!!description}}
+
+<$list filter="[tag{!!title}]">
+
+{{}}
+
+</$list>
+
+</div>
+
+</div>
+
+</$list>

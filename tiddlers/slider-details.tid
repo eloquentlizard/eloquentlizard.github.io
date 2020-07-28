@@ -1,0 +1,24 @@
+created: 20150917052505165
+creator: Jeanbeaux
+modified: 20200728191117298
+modifier: Jeanbeaux
+tags: Template
+title: slider-details
+type: text/vnd.tiddlywiki
+
+\define slider(label,tiddler)
+<$button popup="$:/state/$tiddler$" class="tc-btn-invisible tw-slider large"><$reveal type="match" text="" default="" state="$:/state/$tiddler$">{{$:/core/images/right-arrow}}</$reveal><$reveal type="nomatch" text="" default="" state="$:/state/$tiddler$">{{$:/core/images/down-arrow}}</$reveal> {{$label$||unwikified}}</$button>
+<$reveal type="nomatch" text="" default="" state="$:/state/$tiddler$" animate="yes">
+<div>
+
+<blockquote>
+
+<$transclude/>
+
+</blockquote>
+
+</div>
+</$reveal>
+\end
+
+<$macrocall $name="slider" label={{!!description}} tiddler={{!!title}}/>

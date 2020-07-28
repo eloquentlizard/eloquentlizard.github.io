@@ -1,0 +1,20 @@
+created: 20150201201011022
+creator: Jeanbeaux
+modified: 20200728191108673
+modifier: Jeanbeaux
+tags: Components
+title: Charm Talent Tree
+type: text/vnd.tiddlywiki
+
+The Charismatic hero has an innate talent for being charming and captivating.
+
+;Charm
+:The Charismatic hero gets a bonus on all Charisma-based skill checks made to influence members of his chosen gender. (Some characters are charming to members of the opposite gender, others to members of the same gender.) The bonus is equal to the character's Charismatic level. A Charismatic hero can only charm Gamemaster characters with attitudes of indifferent or better. The charm bonus can't be used against characters who are unfriendly or hostile.
+;Favor
+:The Charismatic hero has the ability to acquire minor aid from anyone he or she meets. By making a favor check, a Charismatic hero can gain important information without going through the time and trouble of doing a lot of research. Favors can also be used to acquire the loan of equipment or documents, or to receive other minor assistance in the course of an adventure. A Charismatic hero spends 1 action point to activate this talent. To make a favor check, roll a d20 and add the character's favor bonus, equal to the character's Charismatic level. The GM sets the DC based on the scope of the favor being requested. The DC ranges from 10 for a simple favor to as high as 30 for formidable and highly dangerous, expensive, or illegal favors. A Charismatic hero can't take 10 or 20 on this check, nor can the hero retry the check for the same (or virtually the same) favor. Favors should help advance the plot of an adventure. A favor that would enable a character to avoid an adventure altogether should always be unavailable to the character, regardless of the result of a favor check. The GM should carefully monitor a Charismatic hero's use of favors to ensure that this ability isn't abused. The success or failure of a mission shouldn't hinge on the use of a favor, and getting a favor shouldn't replace good roleplaying or the use of other skills. The GM may disallow any favor deemed to be disruptive to the game.
+:;Prerequisite
+::Charm.
+;Captivate
+:The Charismatic hero has the ability to temporarily beguile a target through the use of words and bearing. The target must have an Intelligence score of 3 or higher to be susceptible to a captivate attempt, must be within 30 feet of the hero, and must be able to see, hear, and understand the hero. To captivate a target, the hero must use an attack action and make a Charisma check (DC 15), adding his or her Charismatic level as a bonus. If the Charisma check succeeds, the target can try to resist. The target resists the captivation attempt by making a Will saving throw (DC 10 + Charismatic hero's class level + Charismatic hero's Cha bonus). If the saving throw fails, the hero becomes the target's sole focus. The target pays no attention to anyone else for 1 round. This focusing of the target's attention allows other characters to take actions of which the captivated target is unaware. The effect ends immediately if the target is attacked or threatened. A Charismatic hero can concentrate to keep a target captivated for additional rounds. The Charismatic hero concentrates all his or her effort on the task, and the target gets to make a new Will save each round. The effect ends when the hero stops concentrating, or when the target succeeds on the save. 
+:;Prerequisites
+::Charm, Favor.

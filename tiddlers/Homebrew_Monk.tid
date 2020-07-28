@@ -1,0 +1,33 @@
+caption: Monk
+created: 20141228165150793
+creator: Jeanbeaux
+modified: 20200728191111301
+modifier: Jeanbeaux
+ordering: 1
+tags: Class Homebrew
+title: Homebrew/Monk
+type: text/vnd.tiddlywiki
+
+!Monk
+| Level | Base<br>Attack<br>Bonus | Fort,<br>Ref,<br>& Will | Special | AC Bonus | Fast Movement | Flurry<br>of<br>Blows | Unarmed<br>Damage | Maneuvers |h
+|!1st|+0|+2|{{Homebrew/Monk/Bonus Feat||modal}}, {{Homebrew/Monk/Discipline Focus||modal}}, {{Homebrew/Monk/Flurry of Blows||modal}}, {{Homebrew/Monk/Maneuvers||modal}}, {{Homebrew/Monk/Meditative Recovery||modal}}, {{Homebrew/Monk/Quick to Act||modal}} +1, {{Homebrew/Monk/Unarmed Strike||modal}}|---|+0 ft.|-2/-2|1d6|6K, 4R, 1S (1st)|
+|!2nd|+1|+3|{{Homebrew/Monk/AC Bonus||modal}}, {{Homebrew/Monk/Bonus Feat||modal}}, {{Homebrew/Monk/Evasion||modal}}|+0|+0 ft.|-1/-1|1d6|7K, 4R, 2S (1st)|
+|!3rd|+2|+3|{{Homebrew/Monk/Fast Movement||modal}}, {{Homebrew/Monk/Still Mind||modal}}|+0|+10 ft.|+0/+0|1d6|8K, 5R, 2S (2nd)|
+|!4th|+3|+4|{{Homebrew/Monk/Disciplined Strikes||modal}}, {{Homebrew/Monk/Ki Strike||modal}} (magic), {{Homebrew/Monk/Retrain Maneuver||modal}}|+0|+10 ft.|+1/+1|1d8|9K, 5R, 2S (2nd)|
+|!5th|+3|+4|{{Homebrew/Monk/Purity of Body||modal}}, {{Homebrew/Monk/Quick to Act||modal}} +2|+1|+10 ft.|+2/+2|1d8|10K, 5R, 3S (3rd)|
+|!6th|+4|+5|{{Homebrew/Monk/Bonus Feat||modal}}, {{Homebrew/Monk/Retrain Maneuver||modal}}|+1|+20 ft.|+3/+3|1d8|11K, 6R, 3S (3rd)|
+|!7th|+5|+5|---|+1|+20 ft.|+4/+4|1d8|12K, 6R, 3S (4th)|
+|!8th|+6/+1|+6|{{Homebrew/Monk/Disciplined Defense||modal}}, {{Homebrew/Monk/Retrain Maneuver||modal}}|+1|+20 ft.|+5/+5/+0|1d10|13K, 7R, 3S (4th)|
+|!9th|+6/+1|+6|{{Homebrew/Monk/Improved Evasion||modal}}|+1|+30 ft.|+6/+6/+1|1d10|14K, 7R, 4S (5th)|
+|!10th|+7/+2|+7|{{Homebrew/Monk/Ki Strike||modal}} (lawful), {{Homebrew/Monk/Retrain Maneuver||modal}}, {{Homebrew/Monk/Quick to Act||modal}} +3|+2|+30 ft.|+7/+7/+2|1d10|15K, 8R, 4S (5th)|
+|!11th|+8/+3|+7|{{Homebrew/Monk/Diamond Body||modal}}, {{Homebrew/Monk/Greater Flurry||modal}}|+2|+30 ft.|+8/+8/+8/+3|1d10|16K, 8R, 4S (6th)|
+|!12th|+9/+4|+8|{{Homebrew/Monk/Disciplined Strikes||modal}}, {{Homebrew/Monk/Retrain Maneuver||modal}}|+2|+40 ft.|+9/+9/+9/+4|2d6|17K, 8R, 4S (6th)|
+|!13th|+9/+4|+8|---|+2|+40 ft.|+9/+9/+9/+4|2d6|18K, 9R, 4S (7th)|
+|!14th|+10/+5|+9|{{Homebrew/Monk/Retrain Maneuver||modal}}|+2|+40 ft.|+10/+10/+10/+5|2d6|19K, 9R, 5S (7th)|
+|!15th|+11/+6/+1|+9|{{Homebrew/Monk/Quick to Act||modal}} +4, {{Homebrew/Monk/Quivering Palm||modal}}|+3|+50 ft.|+11/+11/+11/+6/+1|2d6|20K, 10R, 5S (8th)|
+|!16th|+12/+7/+2|+10|{{Homebrew/Monk/Disciplined Defense||modal}}, {{Homebrew/Monk/Ki Strike||modal}} (adamantine), {{Homebrew/Monk/Retrain Maneuver||modal}}|+3|+50 ft.|+12/+12/+12/+7/+2|2d8|21K, 10R, 5S (8th)|
+|!17th|+12/+7/+2|+10|{{Homebrew/Monk/Timeless Body||modal}}, {{Homebrew/Monk/Tongue of the Sun and Moon||modal}}|+3|+50 ft.|+12/+12/+12/+7/+2|2d8|22K, 10R, 5S (9th)|
+|!18th|+13/+8/+3|+11|{{Homebrew/Monk/Retrain Maneuver||modal}}|+3|+60 ft.|+13/+13/+13/+8/+3|2d8|23K, 11R, 5S (9th)|
+|!19th|+14/+9/+4|+11|---|+3|+60 ft.|+14/+14/+14/+9/+4|2d8|24K, 11R, 5S (9th)|
+|!20th|+15/+10/+5|+12|{{Homebrew/Monk/Perfect Self||modal}}, {{Homebrew/Monk/Quick to Act||modal}} +5, {{Homebrew/Monk/Retrain Maneuver||modal}}|+4|+60 ft.|+15/+15/+15/+10/+5|2d10|25K, 12R, 6S (9th)|
+|''Hit Die'': d8<br>''Skill Points / Level'': 6 + Intelligence modifier (×4 at 1st level)<br>''Class Skills'': Acrobatics, Athletics, Concentration, Craft, Heal, Hide, Intimidate, Jump, Knowledge,,all except planes,,, Move Silently, Perception, Perform, Profession, Sense Motive<br>''Martial Disciplines'': Desert Wind, Diamond Mind, Setting Sun, Shadow Hand, Stone Dragon, Tiger Claw|c

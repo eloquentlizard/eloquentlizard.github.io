@@ -1,0 +1,118 @@
+created: 20140825044821572
+creator: Jeanbeaux
+modified: 20200728191114251
+modifier: Jeanbeaux
+tags: [[d20 Modern]] [[Advanced Class]] Class
+title: Mage
+type: text/vnd.tiddlywiki
+
+!Requirements
+<div style="font-size:0.9em;float:right;position:relative;border: 1px;margin:0.1em;border-color:#547599;line-height:1em;border-style:solid;padding:0.2em;background:#f7f7f9;width:20em;">
+
+!Mages & Spellbooks
+The Mage must study his spellbook each day to prepare his spells. The Mage can’t prepare any spell not recorded in his spellbook (except for //read magic//, which the Mage can prepare from memory). The Mage begins play with a spellbook containing all 0-level arcane spells and three 1st-level arcane spells of the player’s choice. For each point of Intelligence bonus the Mage has, his spellbook holds one additional 1st-level arcane spell. Each time the character attains a new level of Mage, he gains two new spells of any level or levels that he can cast, according to his new level. The Mage can also add spells found in other Mages’ spellbooks. A spellbook can be an actual book or any other information storage device, such as a notebook computer, desktop computer, or PDA (personal data assistant).
+
+;Looking for the Mage Spell List?
+:You can find it at [[Arcane Spell List]].
+</div>
+To qualify to become a Mage, a character must fulfill the following criteria.
+
+*''Skills'' Craft (chemical) 6 ranks, Decipher Script 6 ranks, Knowledge (arcane lore) 6 ranks, Research 6 ranks.
+
+!Game Rule Information
+''Hit Die'' d6
+
+''Action Points'' 6 + &#189; character level, rounded down
+
+!!Class Skills
+The Mage’s class skills are Computer Use, Concentration, Craft (chemical, pharmaceutical, visual arts, writing), Decipher Script, Knowledge (arcane lore, art, current events, earth and life sciences, physical sciences, popular culture, technology), Profession, Read/Write Language, Research, Search, Speak Language, & Spellcraft.
+
+''Skill Points at Each Level'' 7 + Int modifier.
+
+!!Class Features
+All of the following are class features of the Mage
+<div style="font-size:0.7em;float:left;position:relative;border: 1px;margin:0.1em;border-color:#547599;line-height:1em;border-style:solid;padding:0.2em;background:#f7f7f9;width:20em;">
+
+!Arcana & Armor
+The Mage can become proficient in the use of armor, but he still has a difficult time casting most arcane spells while wearing it. Armor restricts movement, making it harder to perform the complicated gestures needed to cast spells with somatic components. When casting an arcane spell with a somatic component, the chance of arcane spell failure depends on the type of armor being worn and whether the Mage has the appropriate Armor Proficiency feat.<br>
+Light armor incurs a 20% spell failure chance, Medium a 30%, and Heavy a 40%. Proficiency with the armor reduces the spell failure percentage by 10%.
+</div>
+
+;Arcane Skills
+:A Mage has access to the Spellcraft skill, and it is considered a class skill for him. In addition, he gains Concentration as a class skill, and the skill's uses expand to include spellcasting.
+;Arcane Spells
+:The Mage’s key characteristic is the ability to cast arcane spells. <br>He is limited to a certain number of spells of each spell level per day, according to his Mage class level. In addition, the Mage receives bonus spells based on his Intelligence score.The Mage must prepare spells ahead of time by resting for 8 hours and spending 1 hour studying his spellbook. While studying, the Mage decides which spells to prepare. To learn, prepare, or cast a spell, the Mage must have an Intelligence score of at least 10 + the spell’s level.<br>A Mage can prepare a lower-level spell in place of a higher-level one if he desires.<br>The Difficulty Class for saving throws to resist the effects of a Mage’s spells is 10 + the spell’s level + the Mage’s Intelligence modifier.
+
+|!Level|!Base Attack|!Fort|!Ref|!Will|!Special|!Defense|!Reputation|>|>|>|>|>|!Spells per Day|
+|~|~|~|~|~|~|~|~|!0|!1st|!2nd|!3rd|!4th|!5th|
+|!1st|+0|+0|+0|+2|Arcane skills, arcane spells, summon familiar|+1|+1|3|1|--|--|--|--|
+|!2nd|+1|+0|+0|+3|Scribe scroll, arcane spells|+1|+1|4|2|--|--|--|--|
+|!3rd|+1|+1|+1|+3|Bonus feat, arcane spells, brew potion|+2|+1|4|2|1|--|--|--|
+|!4th|+2|+1|+1|+4|Scribe tattoo, arcane spells|+2|+2|4|3|2|--|--|--|
+|!5th|+2|+1|+1|+4|Spell mastery, arcane spells|+3|+2|4|3|2|1|--|--|
+|!6th|+3|+2|+2|+5|Bonus feat, arcane spells|+3|+2|4|3|3|2|--|--|
+|!7th|+3|+2|+2|+5|Combat casting, arcane spells|+4|+3|4|4|3|2|1|--|
+|!8th|+4|+2|+2|+6|Spell mastery, arcane spells|+4|+3|4|4|3|3|2|--|
+|!9th|+4|+3|+3|+6|Bonus feat, arcane spells|+5|+3|4|4|4|3|2|1|
+|!10th|+5|+3|+3|+7|Maximize spell, arcane spells|+5|+4|4|4|4|3|3|2|
+;Summon Familiar
+:A Mage has the ability to obtain a familiar.<br><div style="font-size:0.8em;float:right;position:relative;border: 1px;margin:0.5em;border-color:#547599;line-height:1em;border-style:solid;padding:0.5em;background:#f7f7f9;width:40em;">
+
+!Sidebar: Familiars
+<div style="float:right;">
+
+|!Familiar|!Special benefit|
+|Bat|Mage gains +3 bonus on Listen checks|
+|Cat|Mage gains +3 bonus on Move Silently checks|
+|Ferret|Mage gains +2 bonus on Reflex saves|
+|Hawk|Mage gains +3 bonus on Spot checks in daylight|
+|Owl|Mage gains +3 bonus on Spot checks in dusk or darkness|
+|Rat|Mage gains +2 bonus on Fortitude saves|
+|Snake (Tiny viper)|Mage gains +3 bonus on Bluff checks|
+|Toad|Mage gains +3 hit points|
+</div>
+*''Familiar Qualities'' Use the basic statistics for a creature of its type but make these changes.
+*''Hit Dice'' Treat as the Mage’s character level (for effects related to Hit Dice). Use the familiar’s normal total if it is higher.
+*''Hit Points'' One-half the Mage’s total, rounded down. 
+*''Action Points'' A familiar cannot gain or spend action points, and a Mage cannot spend an action point through his familiar.
+*''Attacks'' Use the Mage’s base attack bonus. Use the familiar’s Dexterity modifier or Strength modifier, whichever is greater, to determine the familiar’s melee attack bonus with unarmed attacks. Damage equals that of a normal creature of its type.
+*''Saving Throws'' The familiar uses the Mage’s base saving throw bonuses if they’re better than the familiar’s. The familiar uses its own ability modifiers to saves, and does not enjoy other bonuses that the Mage may have (such as from feats).
+*''Skills'' For each skill, use either the normal skill ranks for a creature of its type or the Mage’s skill ranks, whichever is better. In either case, the familiar uses its own ability modifiers. Regardless of a familiar’s total skill modifiers, some skills may remain beyond the ability of the familiar to perform (such as Craft, for instance). 
+*''Familiar Special Abilities'' Familiars have special abilities, or impart abilities to their Mages, depending on the level of the Mage.
+*//Natural Armor (Ex)// This number represents a bonus to the familiar’s existing natural armor bonus to Defense. Add the given value directly to the familiar’s Defense. It represents a familiar’s preternatural toughness.
+*Familiar’s Intelligence (Ex): The familiar’s Intelligence score. (Normal creatures of its type have a much lower Intelligence score.)
+*//Alertness (Ex)// The presence of a familiar sharpens its master’s senses. While the familiar is within 5 feet, the Mage gains the Alertness feat.
+*//Share Spells (Su)// At the Mage’s option, he may have any spell he casts on himself also affect his familiar. The familiar must be within 5 feet at the time. If the spell has a duration other than instantaneous, the spell stops affecting the familiar if the creature moves farther than 5 feet away. The spell’s effect is not restored even if the familiar returns to the Mage before the duration would otherwise have ended. Additionally, the Mage may cast a spell with a target of “You” on his familiar (as a touch range spell) instead of on himself. The Mage and the familiar can share spells even if the spells normally do not affect creatures of the familiar’s type (magical beast).
+*//Empathic Link (Su)// The Mage has an empathic link with the familiar out to a distance of up to 1 mile. The Mage can’t see through the familiar’s eyes, but the two of them can communicate telepathically. Note that the relatively low Intelligence of a low-level Mage’s familiar limits what it is able to communicate or understand, and even intelligent familiars see the world differently from humans.
+*//Touch (Su)// The familiar of a Mage who is 3rd level or higher can deliver touch spells for him. When the mage casts a touch spell, he can designate his familiar as the “toucher.” (The Mage and the familiar have to be in contact at the time of casting.) The familiar can then deliver the touch spell just as the Mage could. As normal, if the Mage casts another spell, the touch spell dissipates.
+*//Improved Evasion (Ex)// If a familiar is subjected to an attack that normally allows a Reflex saving throw for half damage, the familiar takes no damage if it makes a successful saving throw and half damage even if the saving throw fails.
+*//Speak with Familiar/Speak with Master (Ex)// A Mage of 5th level or higher and his familiar can communicate verbally as if they were using a common language. Other creatures do not understand the communication without magical help.
+*//Speak with Animals of Its Type (Ex)// The familiar of a Mage of 7th level or higher can communicate with animals of approximately the same type as itself: bats and rats with rodents, cats with felines, ferrets with creatures of the family Mustelidae (weasels, minks, polecats, ermines, skunks, wolverines, and badgers), hawks and owls with birds, snakes with reptiles, toads with amphibians. The communication is limited by the Intelligence of the conversing creatures.
+*//Spell Resistance (Ex)// The familiar of a Mage of 9th level or higher gains spell resistance equal to the Mage’s level + 5.
+
+</div>A familiar is magically linked to its master. In some sense, the familiar and the Mage who controls it are practically one being. That’s why, for example, the Mage can cast a personal range spell on a familiar even though normally he can only cast such a spell on himself. A familiar is a magical beast, similar physically to the normal creature it resembles. However, a familiar grants special abilities to its master, as described below. A special ability granted by a familiar only applies when the Mage and the familiar are within 1 mile of each other. For all familiar special abilities based on the master’s level count only Mage levels. Any levels from classes other than Mage are not included in this calculation unless specifically stated otherwise.
+
+;Scribe Scroll
+:Starting at 2nd level, a Mage can create scrolls from which he or another spellcaster can cast a scribed spell. You can create a scroll of any spell you know. Scribing a scroll takes one day. The purchase DC for the raw materials to scribe a scroll is 13 + the scroll’s spell level + the scroll’s caster level.
+The Mage must also spend experience points to scribe a scroll. The XP cost is equal to the spell level &#215; the caster level &#215; the purchase DC of the raw materials.<br>Finally, the Mage makes a Craft (writing) check. The DC for the check is 10 + the spell level + the caster level of the scroll. If the check fails, the raw materials are used up but the XP are not spent. The Mage can try scribing the scroll again as soon as he purchases more raw materials.<br>Any scroll that stores a spell with a costly material component or an XP cost also carries a commensurate cost. In addition to the costs derived from the base price, you must expend the material component or pay the XP when scribing the scroll.<br>A scroll can be written on a sheet of paper or parchment, or it can be saved as a file on a computer or PDA.
+
+;Bonus Feats
+:At 3rd, 6th, and 9th level, the Mage gets a bonus feat. The bonus feat must be selected from the following list, and the Mage must meet all the prerequisites of the feat to select it.<br>
+```
+Attentive, Archaic Weapons Proficiency, Combat Expertise, Educated, Frightful Presence, Low Profile, Nimble, Studious.
+```
+
+;Brew Potion
+:At 3rd level, a Mage can create potions, which carry spells within themselves.<br>The Mage can create a potion of any spell of 3rd level or lower that he knows. The spell must target a character or characters. Brewing a potion takes 24 hours. When the Mage creates a potion, he sets the caster level. The caster level must be sufficient to cast the spell in question and no higher than the Mage’s class level. The caster level has an effect on the purchase DC of the raw materials to brew the potion, the skill check to create the potion, the experience point cost to brew the potion, and the DC of a saving throw (if applicable) to resist the effect of the potion.<br>The purchase DC for the raw materials to brew a potion is 15 + the potion’s spell level + the potion’s caster level.<br>The Mage must also spend experience points to brew a potion. The XP cost is equal to the spell level &#215; the caster level &#215; the purchase DC of the raw materials.<br>Finally, the Mage makes a Craft (chemical) check. The DC for the check is 10 + the spell level + the caster level of the potion. If the check fails, the raw materials are used up but the XP are not spent. The Mage can try brewing the potion again as soon as he purchases more raw materials.<br>When a Mage creates a potion, he makes any choices that he would normally make when casting the spell. Whoever drinks the potion is the target of the spell.<br>Any potion that stores a spell with a costly material component or an XP cost also carries a commensurate cost. In addition to the raw materials cost, the Mage must expend the material component or pay the XP when creating the potion.
+
+;Scribe Tattoo
+:At 4th level, a Mage can create tattoos on his body or someone else’s. Tattoos function similarly to scrolls, and are created in the same way (see the scribe scroll ability), except that the pertinent skill is Craft (visual arts).
+
+;Spell Mastery
+:At 5th and 8th level, a Mage gains the spell mastery ability. Each time, the Mage chooses a number of spells that he already knows equal to his Intelligence modifier. From that point on, the Mage can prepare these spells without referring to a spellbook. The Mage is so intimately familiar with these spells that he doesn’t need a spellbook to prepare them anymore.
+
+;Combat Casting
+:At 7th level, a Mage becomes adept at casting spells during combat. He gets a +4 bonus on Concentration checks made to cast a spell while on the defensive.
+
+;Maximize Spell
+:At 10th level, a Mage learns to cast some of his spells to maximum effect. All variable, numeric effects of a maximized spell automatically achieve their maximum values. A maximized spell deals the most possible points of damage, affects the maximum number of targets, and so forth, as appropriate. Saving throws and opposed checks are not affected. Spells without random variables are not affected.<br>When a maximized spell is prepared, it is treated as a spell of three levels higher than the spell’s actual level. Therefore, a Mage can only maximize 0-, 1st-, or 2nd-level spells—a maximized 1st-level spell is treated as a 4th-level spell when you decide what spells the Mage will have available for the coming day, so it limits the number of other 4th-level spells the Mage can prepare. Likewise, a maximized 2nd-level spell is treated as a 5th-level spell.

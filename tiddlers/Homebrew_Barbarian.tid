@@ -1,0 +1,33 @@
+caption: Barbarian
+created: 20141225051728259
+creator: Jeanbeaux
+modified: 20200728191110807
+modifier: Jeanbeaux
+ordering: 1
+tags: Class Homebrew
+title: Homebrew/Barbarian
+type: text/vnd.tiddlywiki
+
+!Barbarian
+|Level| Base<br>Attack<br>Bonus |Fort| Ref<br>& Will | Special | Maneuvers |h
+|!1st|+1|+2|+0|{{Homebrew/Barbarian/Fast Movement||modal}}; {{Homebrew/Barbarian/Maneuvers||modal}}, {{Homebrew/Barbarian/Illiteracy||modal}}; {{Homebrew/Barbarian/Rage||modal}} 1/day; {{Homebrew/Barbarian/Roaring Recovery||modal}}, {{Homebrew/Barbarian/Toughness||modal}}|6K, 4R, 1S (1st)|
+|!2nd|+2|+3|+0|{{Homebrew/Barbarian/Uncanny Dodge||modal}}|7K, 4R, 2S (1st)|
+|!3rd|+3|+3|+1|{{Homebrew/Barbarian/Trap Sense||modal}} +1|8K, 5R, 2S (2nd)|
+|!4th|+4|+4|+1|{{Homebrew/Barbarian/Improved Toughness||modal}}, {{Homebrew/Barbarian/Rage||modal}} 2/day, {{Homebrew/Barbarian/Retrain Maneuver||modal}}|9K, 5R, 2S (2nd)|
+|!5th|+5|+4|+1|{{Homebrew/Barbarian/Improved Uncanny Dodge||modal}}|10K, 6R, 3S (3rd)|
+|!6th|+6/+1|+5|+2|{{Homebrew/Barbarian/Retrain Maneuver||modal}}, {{Homebrew/Barbarian/Trap Sense||modal}} +2|11K, 6R, 3S (3rd)|
+|!7th|+7/+2|+5|+2|{{Homebrew/Barbarian/Damage Reduction||modal}} 1/---|12K, 6R, 3S (4th)|
+|!8th|+8/+3|+6|+2|{{Homebrew/Barbarian/Rage||modal}} 3/day, {{Homebrew/Barbarian/Retrain Maneuver||modal}}|13K, 7R, 3S (4th)|
+|!9th|+9/+4|+6|+3|{{Homebrew/Barbarian/Trap Sense||modal}} +3|14K, 7R, 4S (5th)|
+|!10th|+10/+5|+7|+3|{{Homebrew/Barbarian/Damage Reduction||modal}} 2/---, {{Homebrew/Barbarian/Retrain Maneuver||modal}}, {{Homebrew/Barbarian/Special Ability||modal}}, {{Homebrew/Barbarian/Surging Fury||modal}} 1/day|15K, 8R, 4S (5th)|
+|!11th|+11/+6/+1|+7|+3|{{Homebrew/Barbarian/Greater Rage||modal}}|16K, 8R, 4S (6th)|
+|!12th|+12/+7/+2|+8|+4|{{Homebrew/Barbarian/Rage||modal}} 4/day, {{Homebrew/Barbarian/Retrain Maneuver||modal}}, {{Homebrew/Barbarian/Trap Sense||modal}} +4|17K, 8R, 4S (6th)|
+|!13th|+13/+8/+3|+8|+4|{{Homebrew/Barbarian/Damage Reduction||modal}} 3/---|18K, 9R, 4S (7th)|
+|!14th|+14/+9/+4|+9|+4|{{Homebrew/Barbarian/Indomitable Will||modal}}, {{Homebrew/Barbarian/Retrain Maneuver||modal}}|19K, 9R, 4S (7th)|
+|!15th|+15/+10/+5|+9|+5|{{Homebrew/Barbarian/Surging Fury||modal}} 2/day, {{Homebrew/Barbarian/Trap Sense||modal}} +5|20K, 10R, 5S (8th)|
+|!16th|+16/+11/+6/+1|+10|+5|{{Homebrew/Barbarian/Damage Reduction||modal}} 4/---, {{Homebrew/Barbarian/Rage||modal}} 5/day, {{Homebrew/Barbarian/Retrain Maneuver||modal}}|21K, 10R, 5S (8th)|
+|!17th|+17/+12/+7/+2|+10|+5|{{Homebrew/Barbarian/Tireless Rage||modal}}|22K, 10R, 5S (9th)|
+|!18th|+18/+13/+8/+3|+11|+6|{{Homebrew/Barbarian/Retrain Maneuver||modal}}, {{Homebrew/Barbarian/Trap Sense||modal}} +6|23K, 11R, 5S (9th)|
+|!19th|+19/+14/+9/+4|+11|+6|{{Homebrew/Barbarian/Damage Reduction||modal}} 5/---, {{Homebrew/Barbarian/Improved Roaring Recovery||modal}}|24K, 11R, 5S (9th)|
+|!20th|+20/+15/+10/+5|+12|+6|{{Homebrew/Barbarian/Mighty Rage||modal}} 6/day, {{Homebrew/Barbarian/Retrain Maneuver||modal}}, {{Homebrew/Barbarian/Special Ability||modal}}, {{Homebrew/Barbarian/Surging Fury||modal}} 3/day|25K, 12R, 6S (9th)|
+|''Hit Die'': d12<br>''Skill Points / Level'': 4 + Int modifer (×4 @ 1st level)<br>''Class Skills'': Acrobatics, Athletics, Craft, Handle Animal, Intimidate, Ride, & Survival<br>''Martial Disciplines'': Iron Heart, Stone Dragon, Tiger Claw|c

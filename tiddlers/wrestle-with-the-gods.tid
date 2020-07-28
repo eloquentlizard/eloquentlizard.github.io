@@ -1,0 +1,41 @@
+created: 20140826103252958
+creator: Jeanbeaux
+modified: 20200728191118164
+modifier: Jeanbeaux
+tags: scratch
+title: wrestle-with-the-gods
+type: text/vnd.tiddlywiki
+
+```
+Cleric of Kord/Fighter (Dungeon Crasher); Domains: Luck (reroll 1/day), and Strength (+lv Str 1 round, 1/day)
+Feats: Lost Tradition (Str), Improved Unarmed Strike, Improved Grapple, Superior Unarmed Strike
+
+Lv 10:
+Fighter Feats: Improved Unarmed Strike (1st), Clever Wrestling (4th), Superior Unarmed Strike (8th), Improved Bull Rush (10th)
+Normal Feats: Improved Grapple (H), Lost Tradition (Strength) (1st), Extend Spell (3rd), Ability Enhancer (5th), Divine Metamagic (7th), Persistent Spell (9th)
+
+Race: Human
+Levels: Fighter(Dungeon Crasher)/Cleric of Kord 10
+BAB +10
+Saves: Fort/Will +7, Ref +3
+Special: +4 AC vs traps, +10 on Str checks to break objects, bull rush foe against a wall = 8d6+3*Str mod
+Domain Powers: Luck (reroll 1/day), and Strength (+lv Str 1 round, 1/day)
+[Array: 18/16/14/12/10/8]
+Str 30(22+8enh), Dex 14, Con 14, Int 8, Wis 10 Cha 12
+Turn Attempts/Day: 3+1[Cha]+4[N]+2[RHS]=10
+Skills: Climb +23, Jump +65, Concentration +20
+Gold: 50
+Speed: 60ft
+AC: 26 (+3 dex, +11 armor, +2 deflection) touch 15, flat-footed 23
+Items: belt of jumping +30, boots of expeditious retreat +30, +5 mithral chainmail (+11/[+6]/-0/20lbs), ring of protection +2, nightstick, requilary holy symbol (+2turn)
+Unarmed Strike +20/+10 (1d8+10)
+CMB +20 (+2 with grapple, +2 vs L, +4 vs H, +6 vs G, +8 vs C); CMD 33 (+2 with grapple, +2 vs L, +4 vs H, +6 vs G, +8 vs C)
+Spells: DC = 20 + lv, bonus spells based on Str, (4/4+D+3/4+D+3/3+D+2/3+D+2/2+D+2
+0--create water, resistance, read magic, detect magic
+1st--divine favor, hide from undead, obscuring mist, comprehend languages, endure elements, sanctuary, enlarge person (D)
+2nd--hold person, aid (D), zone of truth, bear's endurance x2, bull's strength x2
+3rd--bestow curse, remove curse, cure serious wounds, inflict serious wounds, vigor, protection from energy (D)
+4th--divine persistent divine power (used, 5turn), poison x2, inflict critical wounds x2, spell immunity (D)
+5th--mass cure light wounds, spell resistance, slay living, raise dead, break enchantment (D)
+Languages: Common
+```

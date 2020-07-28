@@ -1,0 +1,17 @@
+caption: Greater Three-Weapon Fighting
+created: 20141230024935482
+creator: Jeanbeaux
+description: Gain additional tertiary attack
+description-full: You gain a third attack with a tertiary weapon at a -10 penalty.
+flavor: You are a master of the three-weapon fighting style.
+list-after: Improved Three-Weapon Fighting
+list-before: Perfect Three-Weapon Fighting
+modified: 20200728191110634
+modifier: Jeanbeaux
+prereqs: Dex 17, Three-Weapon Fighting, Improved Three-Weapon Fighting, Two-Weapon Fighting, Improved Two-Weapon Fighting, Greater Two-Weapon Fighting
+tags: Feats [[Extinguishing the Guiding Light]] Homebrew
+tags-feat: Fighter Bonus Feat
+title: Greater Three-Weapon Fighting
+type: text/vnd.tiddlywiki
+
+{{||Feats}}

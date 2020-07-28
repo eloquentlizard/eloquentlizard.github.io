@@ -1,0 +1,9 @@
+created: 20150205071306029
+creator: Jeanbeaux
+description: A simple JavaScript macro for adding up to twenty-six numbers together.
+modified: 20200728191107244
+modifier: Jeanbeaux
+module-type: macro
+tags: $:/tags/Macro
+title: $:/scripts/add.js
+type: application/javascript

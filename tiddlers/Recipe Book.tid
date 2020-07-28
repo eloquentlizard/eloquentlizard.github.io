@@ -1,0 +1,19 @@
+caption: Good Eating
+color: #b9b1f8
+created: 20140825030406164
+creator: Jeanbeaux
+description: A collection of things that taste good
+icon: $:/core/images/_tea
+modified: 20200728191116962
+modifier: Jeanbeaux
+tags: Miscellaneous
+title: Recipe Book
+type: text/vnd.tiddlywiki
+
+<div style="float:left;border: 1px;margin:0.5em;border-color:#547599;line-height:1em;border-style:solid;padding:0.5em;background:#f7f7f9;">tagging:<br><$list filter="[tag[Recipe Book]sort[title]]">
+
+</$list></div>
+
+This tiddler is here to keep tabs on really yummy dishes I know how to make or things I want to make sure I have access to. To quote the late [[Truett Cathy|http://en.wikipedia.org/wiki/S._Truett_Cathy]], "Food is essential to life; therefore, make it good."
+
+I am not one for things like Cheetos, meatbread, or Mountain Dew (in fact, I hate Mountain Dew and mayonnaise). You'll find most of the stuff I make has little to no mayonnaise (if there is any, it's as little as possible to achieve the desired effect), but is generally high in Calorie content (due to my dietary needs).

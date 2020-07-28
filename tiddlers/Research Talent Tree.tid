@@ -1,0 +1,17 @@
+created: 20150201200314392
+creator: Jeanbeaux
+modified: 20200728191117014
+modifier: Jeanbeaux
+tags: Components
+title: Research Talent Tree
+type: text/vnd.tiddlywiki
+
+The Smart hero has a natural aptitude for study and fact-finding. These talents can be selected in any order.
+
+;Savant
+:Select one of the skills in the following list. The Smart hero gets to add a bonus equal to his or her Smart level when making checks with that skill. A Smart hero can take this talent multiple times; each time it applies to a different skill. Computer Use, Craft (any single skill), Decipher Script, Demolitions, Disable Device, Forgery, Investigate, Knowledge (any single skill), Navigate, Repair, Research, Search.{{br}}
+
+;Linguist
+:With this talent, the Smart hero becomes a master linguist. Whenever the hero encounters a new language, either spoken or written, he or she can make an Intelligence check to determine if he or she can understand it. The check is made with a bonus equal to the hero's Smart level. For a written language, the bonus applies to a Decipher Script check instead. The DC for the check depends on the situation: DC 15 if the language is in the same group as a language the hero has as a Read/Write Language or Speak Language skill; DC 20 if the language is unrelated to any other languages the hero knows; and DC 25 if the language is ancient or unique. With this special ability, a Smart hero can glean enough meaning from a conversation or document to ascertain the basic message, but this ability in no way simulates actually being able to converse or fluently read and write in a given language. 
+:;Prerequisite
+::At least 1 rank in either Read/Write Language or Speak Language for each of three different languages.

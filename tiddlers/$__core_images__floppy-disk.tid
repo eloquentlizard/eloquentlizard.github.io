@@ -1,0 +1,17 @@
+created: 20150211160550558
+creator: Jeanbeaux
+modified: 20200728191105894
+modifier: Jeanbeaux
+tags: $:/tags/Image
+title: $:/core/images/_floppy-disk
+type: text/vnd.tiddlywiki
+
+<svg class="tc-image-button" width="22pt" height="22pt" viewBox="0 0 32 32">
+<g>
+	<path d="M26,0h-2v13H8V0H0v32h32V6L26,0z M28,30H4V16h24V30z"/>
+	<rect x="6" y="18" width="20" height="2"/>
+	<rect x="6" y="22" width="20" height="2"/>
+	<rect x="6" y="26" width="20" height="2"/>
+	<rect x="18" y="2" width="4" height="9"/>
+</g>
+</svg>

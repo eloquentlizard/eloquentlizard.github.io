@@ -1,0 +1,55 @@
+created: 20150608200106374
+creator: Jeanbeaux
+modified: 20200728191114693
+modifier: Jeanbeaux
+tags: Language Projects
+title: Nol-dwergor
+type: text/vnd.tiddlywiki
+
+//<abbr title='Literally translates to "tongue of dwarves"'>Nol-dwergor</abbr>// is the dwarvish language, and it is a fairly simple language to learn in concept, unlike some of the other languages around.
+
+It is based around root words and supplying prefixes and suffixes to denote parts of speech and pronouns. Dwarven names are generally comprised entirely of root words.
+
+For example, the sentence //<abbr title='Root word for "clasp" or "hold", here it is the name of a dwarf'>Dodók</abbr> <abbr title='root work for "hold"'>kegeth</abbr><abbr title='verb suffix "-osk"'>osk</abbr> <abbr title='prefix for a definite article "må-"'>må</abbr><abbr title='root word for "axe"'>libash</abbr><abbr title='noun suffix "-ask"'>ask</abbr>//. Means "Dodók holds the axe" and literally translates as such.
+
+!Grammar and Mechanics
+
+Verb tenses are denoted by prefixes directly attached to the beginning of the root word. The prefix for past tense is "egar-", literally the root word for "old". The prefix for future tense is "ir-", literally the root word for "new". Verb tenses are always directly attached to their constituent root verbs, and any extra prefixes like negation or possessive pronouns are attached to the begining of the verb tense-delimiting prefix.
+
+!!Sentence structure
+
+`Adjectives`-`Subject` `Adverbs`-`Verb` `Direct Object`.
+
+More complicated (in)direct objects or prepositional phrases are normally hypenated root words, sometimes delimited as nouns at the conclusion of the phrase if they are being used as an object of the sentence. Prepositions themselves are normally implied, and not written. For example, the dwarvish name for their language, //Nol-dwegor// means "language of the dwarves", combining the root words "tongue" and "dwarf", although if the lanugage was the object of a sentece, such as in "Urist doesn't speak Dwarvish", the phrase would be delimited as a noun (//Urist mosâmosk nol-dwergorask//).
+
+!!Referring to Indiviuals
+Individuals are referred to as "beards", so "I" or "me" would be //sangrim//, "you" would be //rebgrim//, and "him", "her", or "it" would be //lobgrim//.
+
+!!Plurality and Structure
+Plurality of items is done by repeating the first syllable  in the root word. For example, //ururistask umidosk// means "the daggers fell". "Urist" is the root word for "dagger", and its first syllable is "ur", it is repeated. In verbs or nouns with prefixes, the prefixes are ignored for determining which syllable is duplicated. One could also repeat the syllable a number of specific times to indicate an exact quantity. 
+
+For verbs, their plurality is irrelevant in regards to subjects; verb conjugation is not a thing. Plurality with verbs indicates that the action to which the verb refers applies multiple times, following rules for repetition for nouns. So //uristask umumidosk// means "the dagger fell [more than once]". Compare to the example in the above paragraph.
+
+For lists, //Nol-dwergor// uses a special suffix, -//ol// for the relevant combinations, so if Urist polished his axe and his shield, we would say //Urist egardelethosk loblibashaskol lobsodelaskol.// This -//ol// suffix can even be applied to verbs or subjects in the same manner as the direct objects presented here.
+
+!Table of Special Prefixes/Suffixes
+These are mostly words that either have special meanings as prefixes not covered above, or are not root words in their own right.
+
+|tc-tagged-Class|k
+|Prefix or Suffix|Meaning|h
+|san-|my (first-person singular possessive)|
+|reb-|your (second-person singular possessive)|
+|lod-|his, hers, its, one's (third-person singlular possessive)|
+|sanreb- //or// rebsan-|first person plural possessive (yours & mine)|
+|sanlod- //or// lodsan-|first person plural possessive (his/hers/its & mine)|
+|rebreb-|your (second person plural possessive, multiple audience)|
+|reblod- //or// lobreb-|(you get the idea)|
+|lodlod-|(you get the idea)|
+|mos-|without, not, or general negation|
+|nas-|nothing (negation)|
+|mar-|never (negation)|
+|-osk|denotes a word as a verb|
+|-ask|denotes a word as a noun|
+|-ol|denotes list/compound plurality|
+|må-|the (definite article)|
+|nå-|a (indefinite article)|

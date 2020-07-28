@@ -1,0 +1,12 @@
+caption: adrenaline rush
+created: 20150204145748880
+creator: Jeanbeaux
+modified: 20200728191109111
+modifier: Jeanbeaux
+subtitle: {{!!title}}{{modal!!button}}
+tags: Components
+title: Daredevil/Adrenaline Rush
+type: text/vnd.tiddlywiki
+
+!Adrenaline Rush
+At 5th level, a Daredevil can temporarily increase one of his or her physical ability scores (Strength, Dexterity, or Constitution). The Daredevil spends 1 action point and gets to increase the selected ability score by 1d4+1 points. The increase lasts for a number of rounds equal to his or her class level. At the end of the duration, the Daredevil is fatigued for 1d4+1 rounds. At 8th level, a Daredevil can temporarily increase two physical ability scores. At the end of the duration, the Daredevil is fatigued for 1d6+2 rounds.

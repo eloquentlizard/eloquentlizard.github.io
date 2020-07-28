@@ -1,0 +1,63 @@
+created: 20140825052306907
+creator: Jeanbeaux
+modified: 20200728191114853
+modifier: Jeanbeaux
+tags: [[Advanced Class]] [[d20 Modern]] Class
+title: Occultist
+type: text/vnd.tiddlywiki
+
+!Requirements
+To qualify to become an Occultist, a character must fulfill the following criteria.
+
+*''Skills'' Decipher Script 6 ranks, Knowledge (arcane lore) 6 ranks, Research 6 ranks.
+
+*''Feats'' Educated, Studious.
+!Game Rule Information
+The following information pertains to the Occultist advanced class.
+
+''Hit Die'' d6
+
+''Action Points'' 6 + &#189; character level, rounded down
+
+!!Class Skills
+The Occultist’s class skills are Craft (visual arts, writing), Decipher Script, Drive, Escape Artist, Forgery, Knowledge (arcane lore, history, theology and philosophy), Profession, Read/Write Language, Re­ search, Sleight of Hand, Search, Speak Language, & Use Magic Device.
+
+''Skill Points at Each Level'' 5 + Int modifier.
+
+|!Level|!Base Attack|!Fort|!Ref|!Will|!Special|!Defense|!Reputation|>|>|>|!Scrolls discovered/level|!Scrolls chosen (DC)|
+|~|~|~|~|~|~|~|~|!1st|!2nd|!3rd|!4th|~|
+|!1st|+0|+0|+0|+2|Arcane skills, spell resistance|+0|+0||||||
+|!2nd|+1|+0|+0|+3|Arcane research (scrolls)|+1|+0|3||||1 (20)|
+|!3rd|+1|+1|+1|+3|Bonus feat|+1|+1|4||||2 (23)|
+|!4th|+2|+1|+1|+4|Shadow contact|+1|+1|5|2|||3 (25)|
+|!5th|+2|+1|+1|+4|Bind shadow creature (2 HD)|+2|+1|5|3|||4 (28)|
+|!6th|+3|+2|+2|+5|Bonus feat|+2|+2|5|4|||5 (30)|
+|!7th|+3|+2|+2|+5|Arcane research (items)|+2|+2|6|5|2||6 (33)|
+|!8th|+4|+2|+2|+6|Bind shadow creature (4 HD)|+3|+2|6|5|3||7 (35)|
+|!9th|+4|+3|+3|+6|Bonus feat|+3|+3|6|5|4||8 (38)|
+|!10th|+5|+3|+3|+7|Banish|+3|+3|7|6|5|2|9 (40)|
+!!Class Features
+;Arcane Skills
+:An Occultist has access to the Spellcraft and use Magic Device skills, and they is considered class skills for her. In addition, she gains Concentration as a class skill, and the skill's uses expand to include spellcasting.
+
+:Spell Resistance
+:An Occultist has spell resistance equal to 5 + her Occultist level. It never interferes with her own spells, and she can voluntarily lower her spell resistance at any time.
+;Arcane Research (Scrolls)
+:Starting at 2nd level, an Occultist can research spells and scribe scrolls. Indeed, the only way for an Occultist to cast an arcane spell is by using a scroll. The method and process is unique to the Occultist, and it differs from the Mage’s scribe scroll ability. There is no purchase DC or XP cost for the scrolls the Occultist gains with each new level attained in this class.<br>When the Occultist attains 2nd level, and upon attaining each new level thereafter, she uncovers spell scrolls through arcane research and study. The GM randomly selects the spells contained on the scrolls, though the Occultist can make a Research check to select a certain number of her own spells. The table above shows how many scrolls of each spell level the Occultist receives upon gaining a new level, and how many of these can be researched at each level. A failed Research check indicates that the Occultist instead discovers all random spells.<br>So, at 2nd level, the Occultist gains three 1st-level arcane spell scrolls. One of these spells can be selected by the Occultist if she makes a successful Research check (DC 20); the other two spells are selected randomly. These are all the spell scrolls the Occultist has until she attains 3rd level. Once a spell is used, it disappears from the scroll that contained it. The Occultist may find other scrolls in the course of her adventures.<br>The Occultist uses the Use Magic Device arcane skill to cast a spell from a scroll (see above).
+
+;Bonus Feats
+:At 3rd, 6th, and 9th level, the Occultist gets a bonus feat. The bonus feat must be selected from the following list, and the Occultist must meet all the prerequisites of the feat to select it.
+```
+Alertness, Archaic Weapons Proficiency, Attentive, Confident, Defensive Martial Arts, Focused, Frightful Presence, Iron Will, Personal Firearms Proficiency, Point Blank Shot.
+```
+;Shadow Contact
+:At 4th level, an Occultist gains a denizen of Shadow as a contact. The Shadow creature can have HD equal to one-half the Occultist’s class level or less. This Shadow creature may or may not be overtly hostile toward humans, but it tolerates the Occultist. The Shadow creature will provide information or other minor assistance as though its attitude toward the Occultist were friendly. It might still omit important details, depending on its relationship with the Occultist. The Shadow creature doesn’t accompany the Occultist on adventures, and it may not always be available when the Occultist wants it. In most cases, the Shadow contact can be called upon once per week, and the creature requires some form of compensation for each favor. Compensation can be a favor in return or something appropriate to the creature in question. If the Shadow creature dies, a new creature replaces it when the Occultist attains her next level in this class.
+
+;Bind Shadow Creature
+:At 5th level, an Occultist can select a type of Shadow creature (any creature type other than animal or vermin) and bind one such creature into service. A Shadow creature of the appropriate type and Hit Dice (GM’s choice) appears at the Occultist’s side in 1d6+1 days. Thereafter, it serves the Occultist, with an outward attitude of helpful (though it might inwardly hate the Occultist who has trapped it into service). It obeys the Occultist, providing protection, fighting at her side, and performing other services. It always seeks to obey the letter of the Occultist’s command, and can sometimes use this behavior to harm the Occultist or otherwise hinder as much as it helps.<br>At 5th level, the Occultist can bind a Shadow creature with 2 HD or less.<br>At 8th level, the Occultist can bind a Shadow creature with 4 HD or less.
+
+;Arcane Research (Items)
+:Starting at 7th level, an Occultist can perform research to find magic items. The method and process is unique to the Occultist. There is no purchase DC or XP cost for the magic items the Occultist gains with each new level attained in this class.<br>When the Occultist attains 7th level, and upon attaining each new level thereafter, she uncovers one magic item through arcane research and study. The GM randomly selects the item, though the Occultist can make a Research check (DC 25) to specify the type of item gained. The item must be a wondrous item, a wand, a magic weapon, or a set of magic armor. The Occultist uses the Use Magic Device arcane skill to use a magic item (see above).
+
+;Banish
+:At 10th level, an Occultist comes into her full power. By spending 1 action point and an attack action, the Occultist can utter a word of power that forces a denizen of Shadow to return to the Shadow dimension. The Shadow creature gets a Will save (DC 10 + Occultist’s level + Occultist’s Cha modifier), adding a bonus equal to its HD to the save. If the save succeeds, the Shadow creature doesn’t disappear but is instead stunned for 1d4+1 rounds.

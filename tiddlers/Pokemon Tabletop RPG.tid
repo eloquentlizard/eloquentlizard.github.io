@@ -1,0 +1,29 @@
+created: 20151007013337945
+creator: Jeanbeaux
+modified: 20200728191116750
+modifier: Jeanbeaux
+tags: Pokémon [[RPG System]] Projects Homebrew
+title: Pokémon Tabletop RPG
+type: text/vnd.tiddlywiki
+
+!Pocket Monsters Tabletop RPG
+This tiddler is about my homebrew RPG system. For /tg/'s construction, look up //Pokémon Tabletop Adventures// on Google.
+
+See [[Older Versions|Pokémon Tabletop RPG/Older Versions]] for previous attempts at a system.
+
+!This Attempt
+;Problems with older attempts:
+*Excessive micromanagement
+*Extremely slow combat
+*Not enough adventuring
+*Very rigid systems that require lots of GM work to do anything fancy or exotic, like exploration hazards.
+
+So before we go any further, we need to address these issues. We need a system base that has:
+
+*More centralized mechanics that reduce the amount of micromanagement and constant recalculation.
+*Fast-paced, simple combat
+*Lots of GM control with minimal tampering.
+
+One system that has these traits is the ''Cypher System'', the one that //Numenera// and //The Strange// work off of.
+
+Anyway, that's the thought process. I'm currently working on a ~TiddlyWiki for this project. You can view it <a href="./pokerpg.html">here</a>.

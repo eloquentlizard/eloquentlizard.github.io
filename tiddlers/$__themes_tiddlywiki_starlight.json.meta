@@ -1,0 +1,11 @@
+author: JeremyRuston
+core-version: >=5.0.0
+created: 20200728191107564
+dependents: $:/themes/tiddlywiki/snowwhite
+description: Example alternative theme
+modified: 20200728191107564
+name: Starlight
+plugin-type: theme
+title: $:/themes/tiddlywiki/starlight
+type: application/json
+version: 5.1.21

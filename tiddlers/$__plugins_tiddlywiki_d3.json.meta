@@ -1,0 +1,11 @@
+author: JeremyRuston
+core-version: >=5.0.0
+created: 20200728191107069
+dependents: 
+description: D3: data visualisation
+list: readme
+modified: 20200728191107069
+plugin-type: plugin
+title: $:/plugins/tiddlywiki/d3
+type: application/json
+version: 5.1.21

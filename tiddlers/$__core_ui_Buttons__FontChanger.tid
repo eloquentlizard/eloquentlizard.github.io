@@ -1,0 +1,19 @@
+caption: {{$:/core/images/_font}} {{$:/language/Buttons/_FontChanger/Caption}}
+created: 20150209115128050
+creator: Jeanbeaux
+description: {{$:/language/Buttons/_FontChanger/Hint}}
+list-before: $:/core/ui/Buttons/storyview
+modified: 20200728191106160
+modifier: Jeanbeaux
+tags: $:/tags/PageControls
+title: $:/core/ui/Buttons/_FontChanger
+type: text/vnd.tiddlywiki
+
+<$button message="tm-modal" param="$:/_FontChanger" tooltip={{$:/language/Buttons/_FontChanger/Hint}} aria-label={{$:/language/Buttons/_FontChanger/Caption}} class=<<tv-config-toolbar-class>>>
+<$list filter="[<tv-config-toolbar-icons>prefix[yes]]">
+{{$:/core/images/_font}}
+</$list>
+<$list filter="[<tv-config-toolbar-text>prefix[yes]]">
+<span class="tc-btn-text"><$text text={{$:/language/Buttons/_FontChanger/Caption}}/></span>
+</$list>
+</$button>

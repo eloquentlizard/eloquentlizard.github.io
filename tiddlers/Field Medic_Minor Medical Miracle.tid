@@ -1,0 +1,15 @@
+caption: minor medical miracle
+created: 20150204144543236
+creator: Jeanbeaux
+modified: 20200728191110206
+modifier: Jeanbeaux
+subtitle: {{!!title}}{{modal!!button}}
+tags: Components
+title: Field Medic/Minor Medical Miracle
+type: text/vnd.tiddlywiki
+
+!Minor Medical Miracle
+At 7th level or higher, a Field Medic can save a character reduced to -10 hit points or lower. If the Field Medic is able to administer aid within 3 rounds of the character's death, he or she can make a Treat Injury check. The DC for this check is 30, and the Field Medic can't take 10 or take 20. If the check succeeds, the dead character can make a Fortitude save (DC 15) to stabilize and be restored to 0 hit points. If the Field Medic fails the skill check or the patient fails the save, the dead character can't be saved.
+
+:;See Also
+::→ {{Field Medic/Medical Miracle||modal}}

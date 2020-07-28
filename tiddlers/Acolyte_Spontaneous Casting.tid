@@ -1,0 +1,12 @@
+caption: spontaneous casting
+created: 20150203023538844
+creator: Jeanbeaux
+modified: 20200728191108007
+modifier: Jeanbeaux
+subtitle: {{!!title}}{{modal!!button}}
+tags: Components
+title: Acolyte/Spontaneous Casting
+type: text/vnd.tiddlywiki
+
+!Spontaneous Casting
+An Acolyte of 4th level or higher can channel stored energy into spells she has not prepared ahead of time. The Acolyte “loses” a prepared spell to cast another spell of the same level or lower. An Acolyte with a good allegiance can spontaneously cast cure spells (spells with “cure” in their name). An Acolyte with an evil allegiance can spontaneously convert prepared spells into inflict spells (spells with “inflict” in their name).

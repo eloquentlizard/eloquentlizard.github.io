@@ -1,0 +1,10 @@
+created: 20150212173914745
+creator: Jeanbeaux
+modified: 20200728191118098
+modifier: Jeanbeaux
+tags: [[Warhammer 40,000]] Components
+title: Warhammer 40,000 Characteristics Table
+type: text/vnd.tiddlywiki
+
+| WS | BS | S | T | W | I | A | Ld | Sv | Type |h
+| {{!!weapon-skill}} | {{!!ballistics-skill}} | {{!!strength}} | {{!!toughness}} | {{!!wounds}} | {{!!initiative}} | {{!!attacks}} | {{!!leadership}} | {{!!armor-save}} | {{!!unit-type}} |

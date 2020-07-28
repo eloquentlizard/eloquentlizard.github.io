@@ -1,0 +1,17 @@
+created: 20140828054758235
+creator: Jeanbeaux
+modified: 20200728191105079
+modifier: Jeanbeaux
+tags: scratch
+title: ~/.bash*
+type: text/vnd.tiddlywiki
+
+<$list filter="[is[current]tagging[]]">
+
+!!<code>{{!!title}}</code>
+
+{{}}
+
+----
+
+</$list>

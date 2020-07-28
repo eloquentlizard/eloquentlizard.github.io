@@ -1,0 +1,20 @@
+created: 20150201202351513
+creator: Jeanbeaux
+modified: 20200728191109885
+modifier: Jeanbeaux
+tags: Components
+title: Extreme Effort Talent Tree
+type: text/vnd.tiddlywiki
+
+A Strong hero can push him or herself to make an extreme effort. The effort must relate either to a Strength check or a Strength-based skill check. You must decide to use this ability before making the check.
+
+;Extreme Effort
+:The effort requires a full-round action and provides a +2 bonus on the check.
+;Improved Extreme Effort
+:The effort requires a full-round action and provides a +2 bonus that stacks with the bonus provided by extreme effort (+4 total).
+:;Prerequisite
+::Extreme effort.
+;Advanced Extreme Effort
+:The effort requires a full-round action and provides a +2 bonus that stacks with the bonuses provided by extreme effort and improved extreme effort (+6 total). 
+:;Prerequisites
+::Extreme effort, improved extreme effort

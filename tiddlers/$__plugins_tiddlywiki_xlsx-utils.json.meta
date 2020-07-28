@@ -1,0 +1,11 @@
+author: Jeremy Ruston and SheetJS
+core-version: >=5.0.0
+created: 20200728191107231
+dependents: 
+description: XLSX spreadsheet utilities
+list: readme controls license
+modified: 20200728191107231
+plugin-type: plugin
+title: $:/plugins/tiddlywiki/xlsx-utils
+type: application/json
+version: 5.1.21

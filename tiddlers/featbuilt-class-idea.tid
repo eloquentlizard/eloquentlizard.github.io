@@ -1,0 +1,30 @@
+created: 20140826103527644
+creator: Jeanbeaux
+modified: 20200728191109978
+modifier: Jeanbeaux
+tags: scratch
+title: featbuilt-class-idea
+type: text/vnd.tiddlywiki
+
+```
+A "featbuilt" class is one where the player gets access to a very large number of feats, but may trade them for various abilities, and can essentially build their own class from scratch using the rules.
+
+Starting Level-dependent benefits: Poor BAB, Poor Saves, d6 HD.
+May increase HD for 1 feat/1 stage. Max of d12. Must be chosen at Lv1.
+May learn cantrips + 1st level spells for 1 feat/spell level. Additional spell levels can be bought with more feats when caster level hits minimum (2*spell level -1). Spell list is built along with character.
+May get better saves for 1 feat/save. Must be chosen at Lv1.
+May increase BAB for 1 feat/increase stage. Picked at character creation.
+Start with 5+Int mod skills per level. 6 class skills of your choice, plus Craft and Profession. Add 6 more class skills for 1 feat, or increase skills/level by 2 for 1 feat. Must be chosen at 1st level. Move skill points to 3/level in exchange for feat.
+Start with seven feats. Gain 1 feat/level, and one additional one every fourth level.
+Class Feats: Every time you would gain a class feature from a class, it costs a feat. Look to the class in question for minimum level requirement, etc.
+
+Additional Feats:
+Improved <Ability Score Name>:
+Benefits: +1 inherent bonus to an ability score. Can be taken multiple times and stacked up to normal +5 inherent ability increase per score.
+
+Great <Ability Score Name>:
+Prerequisites: Improved <Same Ability Score Name as the one for this feat> x 5, 10+ HD
+Benefit: +1 untyped bonus to the chosen ability score. This feat may be taken multiple times, and its effects stack.
+Basically, this is a new set of Prereqs for the epic feats of the same names.
+
+```

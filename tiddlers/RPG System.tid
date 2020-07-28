@@ -1,0 +1,38 @@
+caption: RPG Systems
+color: #7b21d5
+created: 20140823110129845
+creator: Jeanbeaux
+description: A jumplist for all the RPG systems I care to scribble information about.
+icon: $:/core/images/_d6
+list-after: Campaign
+modified: 20200728191117056
+modifier: Jeanbeaux
+src: http://1d4chan.org/wiki/Roleplaying_game
+tags: [[Table of Contents]]
+title: RPG System
+type: text/vnd.tiddlywiki
+
+<div class="tc-sidediv">tagging:<br><$list filter="[tag[RPG System]!tag[Homebrew]sort[title]]">
+
+</$list>Homebrew Systems:<br><$list filter="[tag[RPG System]tag[Homebrew]!tag[Archived]sort[title]]">
+
+</$list>Miscellaneous Tools:<br>[[The Smartass Smackdown Table]]<br>
+[[The Wandering Damage System]]</div>
+RPGs are ~~Rocket Propelled Grenades used to break tanks, helicopters and other armored targets~~ traditional games, usually played with pens, paper and dice.
+
+!RPG History
+Roleplaying games began their journey [[somewhere in the mists|http://1d4chan.org/wiki/Old_School_Roleplaying]] of history as simple storytelling and play pretend, evolving later through reenactments and "theatre games," then continued to grow in forms of organized war games (with the first "official" GM ever was an officer training professor in the Prussian Military using the game Kriegsspiel; he was there to make sure officers couldn't change the orders of their models when they were too far away to feasibly receive them, as well as to moderate the game in general). RPGs truly sprang into life in 1974 when Gary Gygax and Dave Arneson produced the Dungeons & Dragons game. At first D&D was just a way to play individual characters from the Chainmail fantasy wargame, but spawned an entire hobby that grew into different directions, producing a vast number of different games.<span style="float:right;">[img width='300em' [Seems legit.|Image/GURPS]]</span>
+
+!What are RPGs?
+Roleplaying could be best described as collective storytelling, and cowboys and Indians with rules, preventing the "Pew pew! I shot you!" "No, I'm immortal!" syndrome (although most adults are //supposedly// mature enough not to pull shit like that). In other words, players gather round a table (or campfire or whatever floats your boat) and engage in producing a story, by taking on the role of protagonists or Characters within the game's world. One of the player takes the role of the [[Game Master|http://1d4chan.org/wiki/GM]] who is not a protagonist but instead serves as the overall narrator, describing the world, events and non-player characters (antagonists, monsters, redshirts...) and their actions.
+
+Roleplaying games take place in many different settings and use many different genres, with fantasy, science-fiction and horror being the prime examples. Some games provide only a system which can be used to play anything, others are designed and produced in a manner that heavily favors just one specific genre or setting. 
+
+!Rollplayan v.s. Roleplayan
+There has always been some controversy whether RPG means a rollplaying game or a roleplaying game. Both categorizations are muddy, so what follows is a general overview of the two and should never be taken as final or completely accurate.
+
+The advocates of rollplayan insist that RPGs are, all in all, games and thusly throwing dice and numbers around is their central point of existence. Because nobody really finds moving numbers around and doing calculus fun in and of itself, the crunching usually serves a purpose. Rollplayers are thus usually equated with hackan & slashan, munchkinism and optimization. All of these views focus on the game's mechanic and creation of characters that use them to their best advantages or even exploit them. This tends to be very unpopular with a lot of people, simply because it operates under the assumption that the game must be somehow "won", while the contrary is precisely what largely separates RPGs from most other tabletop games. Rollplayers tend to regard the GM as a source of challenges or even an enemy they must defeat by creating the most efficient characters possible. A less extreme view just insists that rolling dice and crunching numbers is simply fun.
+
+Roleplayers tend to put more emphasis on the narrative, and insist that the dice stay in the backstage, operating from behind the veil with minimal or no intrusion in the actual "story" being played. This is why they are often called dramafags. A popular distinction puts rollplayers in the D&D campus while roleplayers are supposed to be ~WoD players, goths, wannabe "deep" etc. Roleplayers are also often ridiculed for writing extensive backgrounds for their characters, which "no one ever reads" and for falling too deep into the whole 'play pretend' aspect of RPGs. This also puts them closer to LARPfags whom nobody likes (except Scandinavian ones, that shit puts hair on your chest). As with the previous example, this view consists mostly of stereotypes and generalizations.
+
+The truth is, as always, somewhere in the middle and there are always exceptions to the rules. Hardcore examples of both sides can often ruin the fun for the rest of the people at the table either by propagation of their Mary Sue fantasies, that nobody is interested in, or by creating characters that beat everything up before anyone else gets the chance to act. Neither side is able to see eye-to-eye with the other because they operate under different mindsets and arguments and they will never strike the right chords as they're hearing different frequencies. 

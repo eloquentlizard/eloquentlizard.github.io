@@ -1,0 +1,18 @@
+caption: special ability
+created: 20150105054138396
+creator: Jeanbeaux
+modified: 20200728191111034
+modifier: Jeanbeaux
+tags: Components
+title: Homebrew/Barbarian/Special Ability
+type: text/vnd.tiddlywiki
+
+!Special Ability
+
+At 10th level, and again at 20th level, a barbarian may gain one of the following abilities.
+
+*''Enduring Rage'' (Ex): The barbarian's rages last an additional 5 rounds. This ability may be selected more than once.
+*''Trap Smasher'' (Ex): The barbarian gains a damage bonus against traps equal to ½ his barbarian level. If selected a second time, the bonus increases to equal his barbarian level.
+*''Bloody Frenzy'' (Ex): The barbarian's rages grant him an additional +2 to Strength and Constitution, an additional +1 on Will saves, but impose an additional -2 penalty to AC.
+*''Second Wind'' (Ex): The barbarian may spend a use of rage as a swift action to remove any fatigue he has. When the barbarian has acquired Tireless Rage, the barbarian becomes immune to fatigue, and any exhaustion effect instead fatigues him. Unlike the other abilities, Second Wind may not be selected more than once.
+*''Additional Rage'' (Ex): The barbarian gains an additional use of rage per day. This ability may be selected more than once.

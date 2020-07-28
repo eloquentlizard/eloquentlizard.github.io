@@ -1,0 +1,16 @@
+caption: talent
+created: 20150131165556853
+creator: Jeanbeaux
+modified: 20200728191117336
+modifier: Jeanbeaux
+subtitle: {{!!title}}{{modal!!button}}
+tags: Components
+title: Smart Hero/Talent
+type: text/vnd.tiddlywiki
+
+!Talents
+At 1st, 3rd, 5th, 7th, and 9th level, the Smart hero selects a talent from the following talent trees. Some trees have a set order that must be followed, while others provide a list to choose from. As long as the hero qualifies, he or she can select freely from any and all talent trees. No talent can be selected more than once unless expressly indicated.
+
+{{Research Talent Tree||slider}}
+
+{{Strategy Talent Tree||slider}}

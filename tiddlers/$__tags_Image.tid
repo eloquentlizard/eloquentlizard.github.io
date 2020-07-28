@@ -1,0 +1,16 @@
+created: 20140828063307878
+creator: Jeanbeaux
+modified: 20200728191107482
+modifier: Jeanbeaux
+title: $:/tags/Image
+type: text/vnd.tiddlywiki
+
+!Shadows
+<$list filter="[all[shadows]tag[$:/tags/Image]!tag[Image Gallery]sort[title]]">
+<$link to={{!!title}}>{{}}</$link>
+</$list>
+
+!Normal Tiddlers
+<$list filter="[tag[$:/tags/Image]!tag[Image Gallery]sort[title]]">
+<$link to={{!!title}}>{{}}</$link>
+</$list>

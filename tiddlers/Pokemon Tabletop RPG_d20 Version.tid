@@ -1,0 +1,59 @@
+created: 20141027052848434
+creator: Jeanbeaux
+modified: 20200728191116763
+modifier: Jeanbeaux
+tags: Pokémon [[RPG System]] Projects Homebrew Archived
+title: Pokémon Tabletop RPG/d20 Version
+type: text/vnd.tiddlywiki
+
+!Pocket Monsters Tabletop RPG
+This tiddler is about my homebrew RPG system. For /tg/'s construction, look up //Pokémon Tabletop Adventures// on Google.
+
+See [[Older Versions|Pokémon Tabletop RPG/Older Versions]] for previous attempts at a system.
+
+!This Version
+This is like the eighth attempt I've made at a game, but I think it's playable this time. Also won't require as much micromanagement as previous versions (but still will require some).
+
+Character sheets come in two types: trainers and pokémon
+
+!!Pokémon
+Pokémon have six basic {{Pokémon Tabletop/Pokémon/Characteristics||modal}} that work like Strength, Dexterity, etc. from any d20-based game.
+
+Each Pokémon has a racial modifier to each stat, as well as a modifier from its ''Nature''. Natures increase one stat by two and decrease another by two. There are more natures than exist in the video games, as Vitality can be increased/decreased by natures as well.
+
+In addition, each Pokémon has one or two ''types''. When using an attack move corresponding to one of its types, the Pokémon adds its proficiency bonus to damage rolls. Types also affect resistance, immunity, and vulnerability to other types.
+
+In addition, each Pokémon also has an ''Ability''. Abilities have wildly varying effects, and can change how certain moves affect the target, how other abilities interact, or can even modify characteristics.
+
+!!!Levels and Advancement
+Pokémon have a maximum of 20 levels, as opposed to 100 from the games. This change
+made a huge difference in micromanagement and advancement balance.
+
+Each Pokémon has its own ''Growth Rate'', represented by the amount of XP, or Experience Points required to reach 20th Level. Each growth rate affects amount of XP needed for each level.
+
+In addition, there are three statistics derives from level: ''Hit Points'', ''Proficiency Bonus'', and ''Base Damage''.
+
+;Hit Points
+:Represent how much damage a Pokémon can take before fainting. 0 HP renders a Pokémon unconscious. If not treated soon, an unconscious Pokémon needs to make a DC 11 Vitality check every minute, with the DC increasing by 1 for each additional check. Three failures indicates death. Returning the Pokémon to a Pokéball reduces the check frequency to two minutes. Maximum Hit Points equals your Vitality score + (4½ + your vitality modifier) × (your level - 1). Fractions are kept, but are ignored for the purposes of your actual HP (so at 2nd level, you really only gain 4 + your vitality modifier in HP, and then gain 5 + your vitality modifier in HP at 3rd level, etc.)
+;Proficiency Bonus
+:Your proficiency bonus begins at +2, increases to +3 at 5th level, and then increases by +1 every fourth level therafter, capping at +6 at 17th level. Proficiency bonus is sometimes abbreviated as [P].
+;Base Damage
+:All attacks a Pokémon makes deal damage relative to this value. it begins at d4 at 1st level, increases to d6 at 2nd level, and further increases in size every five levels thereafter, to a maximum of d12 at 17th level. Base Damage is sometimes abbreviated as [W].
+;Gaining Levels
+:When a Pokémon has reached enough XP to advance a level, it gains +1 to a single Characteristic of its Trainer's choice, and, if it learns at least one new move this level-up, it gains an additional Skill, relevant to a move it knows. If the Pokémon is elligible to evolve through level-up, it will attempt to do so. Startling or harassing a Pokémon during the evolution process will arrest its evolution for the time being.
+;Vitamins and Ability Capsules
+:Vitamins are special medicines that alter Pokémon attributes. A Pokémon may have no more than five vitamins applied to its stats. Further vitamins replace the effects of existing ones.
+:;HP Up
+::This vitamin permanently boosts the Pokémon's Vitality by +3.
+:;Protein
+::This vitamin permanently boosts the Pokémon's Attack by +3.
+:;Iron
+::This vitamin permanently boosts the Pokémon's Defense by +3.
+:;Calcium
+::This vitamin permanently boosts the Pokémon's Special Attack by +3.
+:;Zinc
+::This vitamin permanently boosts the Pokémon's Special Defense by +3.
+:;Carbos
+::This vitamin permanently boosts the Pokémon's Speed by +3.
+:;Ability Capsule
+::Although not exactly a vitamin, it functions similarly. These rare capsules contain a special compound that can change a Pokémon's ability. If it has two basic abilities, using this capsule alters the Pokémon's ability, changing it to the other ability. Two of these capsules can be used simultaneously, changing the Pokémon's ability to its //Hidden Ability//, if it has one. The effects of these capsules are permanent, and changing abilities again requires another capsule. Ability capsules do not contribute the the maximum number of vitamins a Pokémon can have at once.

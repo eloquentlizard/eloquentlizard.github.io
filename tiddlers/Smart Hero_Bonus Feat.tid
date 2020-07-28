@@ -1,0 +1,14 @@
+caption: bonus feat
+created: 20150131165706570
+creator: Jeanbeaux
+modified: 20200728191117323
+modifier: Jeanbeaux
+subtitle: {{!!title}}{{modal!!button}}
+tags: Components
+title: Smart Hero/Bonus Feat
+type: text/vnd.tiddlywiki
+
+!Bonus Feats
+At 2nd, 4th, 6th, 8th, and 10th level, the Smart hero gains a bonus feat. This feat must be selected from the following list, and the Smart hero must meet any prerequisites.
+
+>Builder, Cautious, Combat Expertise, Educated, Gearhead, Improved Disarm, Improved Trip, Iron Will, Lightning Reflexes, Meticulous, Studious, Vehicle Expert, Weapon Focus.

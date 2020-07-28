@@ -1,0 +1,18 @@
+created: 20150206150900314
+creator: Jeanbeaux
+modified: 20200728191110007
+modifier: Jeanbeaux
+ordering: 57
+tags: Journal
+title: February 6th, 2015
+type: text/vnd.tiddlywiki
+
+So HTML5/CSS3 are pretty cool shit.{{br}}
+I discovered that `<progress>` and `<meter>` were HTML tags.{{br}}
+Want an example? Here ya go: <br>
+
+<blockquote><progress/> `<progress>` (`value` and `max` attributes can be used to set how the bar's percentage looks).{{br}}
+<meter value={{!!ordering}} max=100/> `<meter>` with `value` of <span class="tc-tagged-Class"><$edit-text tag="input" field="ordering" type="number"/></span> out of a `max` of 100.</blockquote>
+
+This is pretty cool shit, honestly. Progress bars tend to crash Firefox for constantly-changing values, though. Meters are fine, and it opens a whole new wealth of possibility for tracking data here on TiddlyWiki.{{br}}
+If you want to see what I've been working on with these new findings thus far, you can look at [[DtD40k7e Character Sheet test/template]] (better name coming soon). It looks rough right now because I haven't filled out the tiddler, and just have two floating `<div>`s. It should be pretty easy to use soon, combining all the functions of HTML5, CSS3, and TiddlyWiki into a unified, useful whole.

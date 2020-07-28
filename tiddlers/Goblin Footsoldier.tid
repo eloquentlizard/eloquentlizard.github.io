@@ -1,0 +1,25 @@
+created: 20140825063539434
+creator: Jeanbeaux
+modified: 20200728191110485
+modifier: Jeanbeaux
+tags: Monster [[Extinguishing the Guiding Light]]
+title: Goblin Footsoldier
+type: text/vnd.tiddlywiki
+
+|Goblin Footsoldier (generic) | Challenge Rating 3rd|h
+|Small humanoid (goblinoid) | Treasure: 1/2 coins|
+|>|''Description'' Goblin 4th-level fighter |
+|>|''Initiative'' +6; ''Senses'' Spot/Listen +7, Search +0; darkvision 60 ft. |
+|>|''Hit Dice'' 4d10+4 (26 hp); Bloodied @ 13 hp|
+|>|''AC'' 16 (t13 f14); ''Fort'' +5, ''Ref'' +3, ''Will'' +1|
+|>|''Speed'' 30 ft. (6 squares) |
+|>|{{melee}}'' Morningstar'' -- ''bludgeoning, piercing, weapon'' |h
+|>|---5-ft. reach; +5 vs AC; 1d6+1 HP of damage |
+|>|{{ranged}}'' Javelin'' -- ''piercing, weapon'' |h
+|>|---30-ft. increment (max range 150 ft.); +7 vs AC; 1d4+1 HP of damage, &#215;3 crit. |
+|>|{{boost}}'' Tactical Reposition'' (free; recharge {{d6-6}}) |h
+|>|---The goblin footsoldier may take an additional 5-ft. step, even if it has already moved. |
+|>|''Allegiances'' chaos, evil, Sgruft the Warlord; ''Languages'' Goblin, Trade |
+|>|''Skills & Feats'' Climb +4, Handle Animal +5, Hide +7, Jump +3, Move Silently +8, Sense Motive +1; Improved Initiative, Mounted Combat, Quick Draw, Skill Focus,,Hide, Move Silently,, |
+|>|''Str'' 12 (+1), ''Dex'' 14 (+2), ''Con'' 12 (+1), ''Int'' 10 (+0), ''Wis'' 10 (+0), ''Cha'' 6 (-2) |
+|>|''Equipment'' morningstar, 5 javelins, light steel shield, leather armor, traveler's outfit |

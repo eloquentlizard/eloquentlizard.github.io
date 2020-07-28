@@ -1,0 +1,23 @@
+color: 
+created: 20150103182313876
+creator: Jeanbeaux
+icon: $:/core/images/_wannabe-pentagram
+modified: 20200728191117389
+modifier: Jeanbeaux
+tags: Template
+title: Spell
+type: text/vnd.tiddlywiki
+
+!<span style="vertical-align:middle;"><$reveal type=nomatch text="" state=!!discipline>{{$:/core/images/_sword}}</$reveal><$reveal type=match text="" state=!!discipline>{{$:/core/images/_wannabe-pentagram}}</$reveal> {{!!title}}</span>
+//<$reveal type=nomatch text="" state=!!discipline>{{!!discipline}} {{!!level}}</$reveal><$reveal type=match text="" state=!!discipline>{{!!school}}</$reveal> <$reveal type=nomatch text="" state=!!subschool>({{!!subschool}})</$reveal><$reveal type=nomatch text="" state=!!descriptor>[{{!!descriptor}}]</$reveal>//<$reveal type=nomatch text="" state=!!school> --- {{!!level}}</$reveal>
+
+<$reveal type=nomatch text="" state=!!prereqs>''Prerequisites'': {{!!prereqs}}<br></$reveal>
+<$reveal type=match text="" state=!!discipline>''Components'': {{!!components}}<br></$reveal>
+''<$reveal type=nomatch text="" state=!!discipline>Initiation</$reveal><$reveal type=match text="" state=!!discipline>Casting</$reveal> Time'': {{!!time}}<br>
+<$reveal type=nomatch text="" state=!!range>''Range'': {{!!range}}<br></$reveal>
+<$reveal type=nomatch text="" state=!!area>''Area'': {{!!area}}<br></$reveal>
+<$reveal type=nomatch text="" state=!!effect>''Effect'': {{!!effect}}<br></$reveal>
+<$reveal type=nomatch text="" state=!!target>''Target(s)'': {{!!target}}<br></$reveal>
+<$reveal type=nomatch text="" state=!!duration>''Duration'': {{!!duration}}<br></$reveal>
+<$reveal type=nomatch text="" state=!!save>''Saving Throw'': {{!!save}}</$reveal><$reveal type=nomatch text="" state=!!spellresist>; ''Spell Resistance'': {{!!spellresist}}</$reveal>
+

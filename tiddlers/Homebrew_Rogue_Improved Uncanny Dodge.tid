@@ -1,0 +1,15 @@
+caption: improved uncanny dodge
+created: 20150105150019884
+creator: Jeanbeaux
+modified: 20200728191111823
+modifier: Jeanbeaux
+tags: Components
+title: Homebrew/Rogue/Improved Uncanny Dodge
+type: text/vnd.tiddlywiki
+
+!Improved Uncanny Dodge (Ex)
+A rogue of 8th level or higher can no longer be flanked.
+
+This defense denies another rogue the ability to sneak attack the character by flanking her, unless the attacker has at least four more rogue levels than the target does.
+
+If a character already has uncanny dodge from a second class, the character automatically gains improved uncanny dodge instead, and the levels from the classes that grant uncanny dodge stack to determine the minimum rogue level required to flank the character. 

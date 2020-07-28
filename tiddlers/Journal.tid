@@ -1,0 +1,22 @@
+caption: Journals
+color: #a1f1c6
+created: 20141225133621942
+creator: Jeanbeaux
+description: A complete list of all <<tag Journal>> entries
+icon: $:/core/images/new-journal-button
+modified: 20200728191113651
+modifier: eloquentlizard
+signature: <$link to="eloquentlizard"><$transclude tiddler="qed"/></$link>
+tags: Journal Info
+title: Journal
+type: text/vnd.tiddlywiki
+
+<$list filter="[tag[Journal]!title[Journal]!title[JournalTemplate]!has[draft.of]!sort[created]]">
+
+<dl>
+<dt><$link><$view field="title"/></$link><$reveal state=!!description type=nomatch text=""> --- <$view field="description"/></$reveal></dt>
+<dd>{{||JournalTemplate}}</dd>
+</dl>
+
+<hr>
+</$list>

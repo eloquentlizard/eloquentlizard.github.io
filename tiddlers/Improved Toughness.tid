@@ -1,0 +1,15 @@
+created: 20141230031539080
+creator: Jeanbeaux
+description: +1 HP/HD
+description-full: You gain a number of hit points equal to your current hit dice. Each time you gain a hit die (such as by gaining a level), you gain 1 additional hit point. If you lose a hit die (such as by losing a level), you lose 1 hit point permanently.<br>In addition, your Massive Damage Threshold increases by +10.
+flavor: You are significantly tougher than normal.
+list-after: Toughness
+modified: 20200728191113424
+modifier: Jeanbeaux
+prereqs: Toughness, Base Fortitude save +2 or higher
+special: This feat, unlike Toughness, may //not// be taken multiple times.
+tags: Feats Homebrew
+title: Improved Toughness
+type: text/vnd.tiddlywiki
+
+{{||Feats}}

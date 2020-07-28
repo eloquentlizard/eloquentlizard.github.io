@@ -1,0 +1,24 @@
+caption: Characteristics
+created: 20150111143910292
+creator: Jeanbeaux
+modified: 20200728191116789
+modifier: Jeanbeaux
+tags: [[Pokémon Tabletop RPG]] Components
+title: Pokémon Tabletop/Pokémon/Characteristics
+type: text/vnd.tiddlywiki
+
+!Characteristics
+A characteristic check is made by rolling 1d20 + the appropriate Characteristic modifier. If a Skill the Pokémon possesses would be applicable, it may also add its Proficiency Bonus.
+
+;Vitality
+:Affects how many hit points the Pokémon has. Vitality checks can be made for tests of fortitude, where neither Defense nor Special Defense would explicitly apply.
+;Attack
+:Affects damage dealt with physical attacks (<img alt="The physical attack symbol." src="http://veekun.com/dex/media/damage-classes/physical.png">). Attack checks can be made for feats of raw strength or power, such as moving or breaking objects.
+;Defense
+:Reduces damage taken from physical attacks (<img alt="The physical attack symbol." src="http://veekun.com/dex/media/damage-classes/physical.png">). Defense checks can be made for tests of raw endurance.
+;Special Attack
+:Affects damage dealt with special attacks (<img alt="The special attack symbol." src="http://veekun.com/dex/media/damage-classes/special.png">). Special Attack (also shown as Sp.Atk.) checks can be made for feats of intellect. 
+;Special Defense
+:Reduces damage taken from special attacks (<img alt="The special attack symbol." src="http://veekun.com/dex/media/damage-classes/special.png">). Special Defense (also shown as Sp.Def.) checks can be made for tests of willpower.
+;Speed
+:Affects ability to evade attacks and chance to strike first in combat. Speed checks can be made for tests of quickness or finesse.

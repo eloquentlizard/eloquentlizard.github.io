@@ -1,0 +1,117 @@
+caption: Paladin
+created: 20141229042406782
+creator: Jeanbeaux
+modified: 20200728191111729
+modifier: Jeanbeaux
+ordering: 1
+tags: Class Homebrew
+title: Homebrew/Paladin
+type: text/vnd.tiddlywiki
+
+!Paladin `unfinished`
+| Level | Base<br>Attack<br>Bonus | Fort | Ref<br>& Will | Special | Maneuvers |>|>| Divine Spellcasting |h
+|~|~|~|~|~|~|1st|2nd|3rd|h
+|!1st|+1|+2|+0|Aura of good, //detect evil//, fighting challenge +1, knight's challenge, knight's code, maneuvers, honorable recovery|6K, 4R, 1S (1st)|---|---|---|
+|!2nd|+2|+3|+0|Divine grace, lay on hands, mounted combat, shield block +1|7K, 4R, 2S|---|---|---|
+|!3rd|+3|+3|+1|Aura of courage, bulwark of defense, divine health|8K, 5R, 2S (2nd)|---|---|---|
+|!4th|+4|+4|+1|Divine spells, retrain maneuver, test of mettle, turn undead|9K, 5R, 2S|1 (1d6+1)|---|---|
+|!5th|+5|+4|+1|Bonus feat, special mount, vigilant defender|10K, 6R, 3S (3rd)|1 (1d6+1)|---|---|
+|!6th|+6/+1|+5|+2|//remove disease// 1/week, retrain maneuver, shield ally|11K, 6R, 3S|2 (1d6+1)|---|---|
+|!7th|+7/+2|+5|+2|Fighting challenge +2|12K, 6R, 3S (4th)|2 (1d6+1)|---|---|
+|!8th|+8/+3|+6|+2|Call to battle, retrain maneuver|13K, 7R, 3S|2 (1d6+1)|1 (1d6+1)|---|
+|!9th|+9/+4|+6|+3|Remove disease 2/week|14K, 7R, 4S (5th)|2 (1d6+1)|1 (1d6+1)|---|
+|!10th|+10/+5|+7|+3|Diehard, retrain maneuver, smite|15K, 8R, 4S|2 (1d6+1)|2 (1d6+1)|---|
+|!11th|+11/+6/+1|+7|+3|Bonus feat, shield block +2|16K, 8R, 4S (6th)|2 (1d4+1)|2 (1d6+1)|1 (1d6+1)|
+|!12th|+12/+7/+2|+8|+4|Daunting challenge, remove disease 3/week, retrain maneuver|17K, 8R, 4S|2 (1d4+1)|2 (1d6+1)|1 (1d6+1)|
+|!13th|+13/+8/+3|+8|+4|Fighting challenge +3|18K, 9R, 4S (7th)|2 (1d4+1)|2 (1d6+1)|2 (1d6+1)|
+|!14th|+14/+9/+4|+9|+4|Improved shield ally, retrain maneuver|19K, 9R, 4S|3 (1d4+1)|2 (1d4+1)|2 (1d6+1)|
+|!15th|+15/+10/+5|+9|+5|Bonus feat, remove disease 4/week|20K, 10R, 5S (8th)|3 (1d4+1)|3 (1d4+1)|2 (1d6+1)|
+|!16th|+16/+11/+6/+1|+10|+5|Bond of loyalty, retrain maneuver|21K, 10R, 5S)|3 (1d4+1)|3 (1d4+1)|3 (1d6+1)|
+|!17th|+17/+12/+7/+2|+10|+5|---|22K, 10R, 5S (9th)|3 (1d4)|3 (1d4+1)|3 (1d4+1)|
+|!18th|+18/+13/+8/+3|+11|+6|Remove disease 5/week, retrain maneuver|23K, 11R, 5S|4 (1d4)|3 (1d4+1)|3 (1d4+1)|
+|!19th|+19/+14/+9/+4|+11|+6|Fighting challenge +4|24K, 11R, 5S|4 (1d4)|4 (1d4+1)|3 (1d4+1)|
+|!20th|+20/+15/+10/+5|+12|+6|Loyal beyond death, remove disease 1/day, retrain maneuver|25K, 12R, 6S|4 (1d4)|4 (1d4)|4 (1d4+1)|
+|''Hit Die'': d10<br>''Skill Points / Level'': 4 + Intelligence modifier (×4 at 1st level)<br>''Class Skills'': Acrobatics, Athletics, Concentration, Craft, Diplomacy, Diplomacy, Handle Animal, Heal, Intimidate, Knowledge,,history, nobility/royalty, religion,,, Profession, Ride, Sense Motive<br>''Martial Disciplines'': Devoted Spirit, Iron Heart, Stone Dragon, White Raven<br>''Spell List'': Paladin|c
+!!Class Features
+;Aura of Good (Ex)
+:The power of a paladin’s aura of good (see the //detect good// spell) is equal to her paladin level.
+;//Detect Evil// (Sp)
+:At will, a paladin can use //detect evil//, as the spell.
+;Maneuvers
+:A paladin gains maneuvers.
+;Honorable Recovery
+:A paladin may recover a single expended maneuver by
+:*Scoring a critical hit on an evil target.
+:*Successfully dropping an evil foe to 0 HP or lower.
+:*Threatening a critical hit while smiting an evil creature (see below).
+:*Expending a use of her knight's challenge (no action) to recover a maneuver
+:In addition, whenever a paladin gains an additional use of her knight's challenge through using one of her challenges, she may instead immediately recover a single expended maneuver.
+;Knight's Challenge:
+:The paladin's dauntless fighting spirit plays just as much of a role in combat as the strength of her arm or the sharpness of her blade. In battle, she uses the force of her personality to challenge her enemies. By playing on her enemies' ego, she can manipulate her foes.
+:She may use this ability a number of times per day equal to ½ her paladin level + her Charisma bonus (if any), to a minimum of one use per day. As she gains levels, she gains more options she can use in conjuction with this ability.
+:Even if she lacks a shared language with her foe, she can still effectively communicate through body language, tone, and certain oaths and challenges she learns from various tongues.
+:;→ Fighting Challenge (Ex)
+::As a swift action, the paladin can issue a challenge against a single opponent with an Intelligence score of 5 or higher, a language of some sort, and a CR no lower than her character level -- 2. If one or more of these conditions don't apply, the use of the ability is wasted to no effect.
+::If the conditions are met, the paladin gains a +1 bonus on Will saves, attack rolls, and damage rolls against the chosen target. She fights with renewed vigor and determination by placing her honor on the line; if the chosen foe reduces her to 0 or fewer hit point, she loses two uses of her knight's challenge ability for the day from the blow to her confidence and ego.
+::The effect of this challenge lasts for a number of rounds equal to 5 + the paladin's Charisma bonus (if any).
+::If the paladin is capable of issuing more than one knight's challenge per day, she may use this ability more than once in a single encounter. If her first chosen foe is defeated or flees the area, she may issue a new challenge to a different foe, but she may not switch foes if the original target is still active.
+::At 7th level, 13th level, and again at 19th level, the bonus to Will saves, attack rolls, and damage rolls increases by +1.
+:;→ Test of Mettle (Ex)
+::Starting at 4th level, the paladin may shout a challenge to all enemies, calling out for the mightiest among them to face you in combat. Any target of this ability must have a language of some sort and an Intelligence score of 5 or greater. Creatures that do not meet these requirements are immune to test of mettle. The paladin must have line of sight and line of effect to use this ability.
+::As a swift action, the paladin expends one use of her knight's challenge ability to cause all her enemies within 100 feet with a CR of greater than or equal to her character level -- 2 to make Will saves (DC = 10 + ½ her paladin level + her Charisma modifier). Creatures that fail this save are forced to attack her with their ranged and melee attacks in preference over other available targets. If an affected foe attacks by casting a spell or using a supernatural ability, he must target the paladin or include her in the effect's area.
+::An opponent compelled to act in this manner is not thrown into a mindless rage and does not have to move to attack if doing so would provoke attacks of opportunity. In such a case, the foe may utilize ranged attacks against the paladin or any opponents he threatens as normal. If anyone other than the paladin attacks the target, however, the effects of test of mettle end for that specific target.
+::If the paladin is reduced to 0 HP or fewer by an opponent forced to attack her in this manner, she gains one additional use of her knight's challenge ability for the day, due to her increased confidence and knowledge that she has proved her mettle against overwhelming odds. This additional use disappears if unused by the start of the next day. She may only gain one additional use of knight's challenge per day in this manner.
+::The effect of a test of mettle lasts for a number of rounds equal to 5 + the paladin's Charisma bonus (if any). Regardless of whether a creature saves or fails against this ability, it may only be targeted by test of mettle once per day.
+:;→ Turn Undead (Su)
+::When a paladin reaches 4th level, she gains the supernatural ability to turn undead by spending a single use of her knight's challenge. She turns undead as a cleric of three levels lower would. 
+:;→ Smite (Su)
+::At 5th level, the paladin may attempt to smite her foe with a melee attack. As a swift action, she expends one use of her knight's challenge, chooses a single target, and for the rest of her turn, she gains a sacred bonus equal to her Charisma bonus (if any) on attack rolls against the chosen target. In addition, the target takes additional damage dependent on its alignment:
+::*''Lawful Evil'', ''Neutral Evil'', or ''Chaotic Evil'' targets suffer 1 extra point of damage per paladin level.
+::*''Lawful Neutral'', ''Neutral'', or ''Chaotic Neutral'' targets suffer 1 extra point of damage per two paladin levels.
+::*''Lawful Good'', ''Neutral Good'', or ''Chaotic Good'' targets suffer 1 extra point of damage per five paladin levels.
+:;→ Call to Battle (Ex)
+::Starting at 8th level, the paladin becomes an inspiring figure on the battlefield. As a swift action, she expends one use of her knight's challenge ability to grant an ally another save against a fear effect. The target gains a bonus on this save equal to the paladin's Charisma bonus (if any). If the save succeeds, the target gains the benefit on having initially succeeded on the saving throw.
+:;→ Daunting Challenge (Ex)
+::Starting at 12th level, the paladin may expend one use of her knight's challenge ability to issue a daunting challenge. This ability affects all creatures within 100 feet with a CR no higher than the paladin's character level -- 2. Targets must be able hear the paladin, have a language of some sort, and have an Intelligence score of at least 5. All such targets must make a Will save (DC = 10 + ½ the paladin's class level + the paladin's Charisma modifier) or become shaken.
+::Whether a creature fails or succeeds on its save versus a daunting challenge, it can only be affected by the same paladin's daunting challenge once per day.
+:;→ Bonds of Loyalty (Ex)
+::Starting at 16th level, the paladin may spend a use of her knight's challenge ability up to once per round as a free action to grant herself an additional saving throw against a mind-affecting spell or ability, even if her actions are being controlled by such an effect.
+:;→ Loyal Beyond Death (Ex)
+::At 20th level, if reduced to 0 HP or fewer, a paladin may expend one use of her knight's challenge to continue fighting at full strength for one more round. This ability is even usable if the paladin's hit point total is -10 or below. As long as the paladin's body remains intact, she may continue to spend uses of her knight's challenge to continue fighting on. If she recieves healing that brings her hit point total above -10, then she survives (or falls unconscious, as appropriate for her hit point total); otherwise, she dies after she runs out of uses of knight's challenge.
+;The Knight's Code
+:A paladin fights not only to defeat her foes, but to prove her honor; prove her devotion to her deity; to demonstrate her fighting ability; and to gather renown for herself, her order, and her deity. The knight's code focuses on fair play; a victory acieved through pure skill is more difficult, and hence wins more glory, than one achieved through trickery or guile.
+:*A paladin does not gain a bonus on attack rolls when flanking. She still confers the benefits of a flanking position to her allies, but she foregos her own bonus on attack rolls. If she chooses to keep the bonus, she violates her code of honor (see below).
+:*A paladin never strikes a flat-footed opponent; she allows her foe to ready himself before attacking.
+:*A paladin never deals lethal damage to a helpless foe. She may strike such a foe, but only with attacks that deal nonlethal damage.
+:If a paladin violates any portion of her code, she loses a use of her knight's challenge for the day. If she is out of uses of her knight's challenge, she takes a -2 penalty on attack rolls and saves for the rest of the day per violation of her code. Her betrayal of the knight's code undermines the foundations of confidence and honor that drives her forward.
+:While a paladin cleaves to her view of honor, chivalry, and pursuit of glory, she does not force her views on others. She might chide a rogue for sneaking about the battlefield, but she recognizes (possibly smugly so) the reality that not everyone is fit to walk to path of the paladin.
+:In addition, excessive violations of the knight's code, actively cosorting with evil creatures, knowingly committing an evil act, or otherwise grossly violating her deity's or order's code of conduct may revoke her spell-like abilities, supernatural class features, special mount, and spells, and restricting her from taking additional levels as a paladin. Should a paladin be severed from her divine connection in this manner, she must atone for her sins via an //atonement// spell.
+;Divine Grace (Su)
+:At 2nd level, a paladin gains a bonus equal to her Charisma bonus (if any) on all saving throws.
+;Lay on Hands (Su)
+:Beginning at 2nd level, a paladin with a Charisma score of 12 or higher can heal wounds (her own or those of others) by touch. Each day she can heal a total number of hit points of damage equal to her paladin level × her Charisma bonus. A paladin may choose to divide her healing among multiple recipients, and she doesn’t have to use it all at once. Using lay on hands is a standard action.
+:Alternatively, a paladin can use any or all of this healing power to deal damage to undead creatures. Using lay on hands in this way requires a successful melee touch attack and doesn’t provoke an attack of opportunity. The paladin decides how many of her daily allotment of points to use as damage after successfully touching an undead creature.
+;Mounted Combat
+:At 2nd level, a paladin gains Mounted Combat as a bonus feat. If she already has the feat, she may choose another feat for which she meets the prerequisites.
+;Shield Block (Ex)
+:At 2nd level, a paladin who is using a shield or buckler may designate a single target at the beginning of her turn (no action required). For the rest of the round, her shield's AC bonus against that target improves by +1. This bonus increases by +1 at 11th level and again at 20th level.
+;Bulwark of Defense (Ex)
+:An opponent of a paladin of 3rd level or higher who begins its turn in one of the paladin's threatened squares treats all of the paladin's threatened squares as difficult terrain.
+;Divine Spells:
+:Beginning at 4th level, a paladin gains the ability to cast a small number of divine spells, which are drawn from the paladin spell list. A paladin must choose and prepare her spells in advance.
+:To prepare or cast a spell, a paladin must have a Charisma score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a paladin’s spell is 10 + the spell level + the paladin’s Charisma modifier.
+;Retrain Maneuver
+:At 4th level, and every even-numbered level thereafter, a paladin may lose a currently known maneuver and learn a new one in its place. She may even choose a higher-level maneuver, as long as her highest-level maneuvers do not exceed her highest level of maneuver allowed (in parentheses on the table above). She may not retrain stances, however.
+;Bonus Feat
+:At 5th, 11th, and 15th levels, a paladin may gain a feat from the following list, provided she meets the prerequisites for the chosen feat.
+:Animal Affinity, Endurance, Great Fortitude, Iron Will, Quick Draw, Ride-By Attack, Spirited Charge, Trample, or Weapon Focus.
+;Vigilant Defender (Ex)
+:Opponents attemping to use Acrobatics to Tumble through the space or threatened area of a paladin of 5th level or higher have the Acrobatics DC increased by the paladin's class level.
+;//Remove Disease// (Sp)
+:At 6th level, a paladin can produce a //remove disease// effect, as the spell, once per week. She can use this ability one additional time per week for every three levels after 6th (twice per week at 9th, three times at 12th, and so forth). At 20th level, she may use this ability once per day.
+;Shield Ally (Ex)
+:At 6th level, a paladin may opt to take up to ½ of the damage dealt to an adjacent ally as an immediate action when the ally takes damage from a physical melee or ranged attack (but not a spell or supernatural ability). The ally takes the other half as normal. 
+:;→ Improved Sield Ally (Ex)
+::In addition to the Shield Ally ability, a paladin of 14th level or higher may, once per round, take all of the damage dealt to an adjacent ally from a single attack, as long as the attack is a physical melee or ranged attack (but not a spell or supernatural ability).
+;Diehard
+:At 10th level, a paladin gains Diehard as a bonus feat, even if she doesn't meet the prerequisites. If she already has the feat, she may select another feat for which she meets the prerequisites.

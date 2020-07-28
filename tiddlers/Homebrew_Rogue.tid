@@ -1,0 +1,33 @@
+caption: Rogue
+created: 20141230121512563
+creator: Jeanbeaux
+modified: 20200728191111742
+modifier: Jeanbeaux
+ordering: 1
+tags: Class Homebrew
+title: Homebrew/Rogue
+type: text/vnd.tiddlywiki
+
+!Rogue
+| Level | Base<br>Attack<br>Bonus | Fort<br> & Will | Ref | Special | Sneak Attack | Skirmish | Maneuvers |h
+|!1st|+0|+0|+2|{{Homebrew/Rogue/Maneuvers||modal}}, {{Homebrew/Rogue/Quick Recovery||modal}}, {{Homebrew/Rogue/Skirmish||modal}}, {{Homebrew/Rogue/Sneak Attack||modal}}, {{Homebrew/Rogue/Trapfinding||modal}}|+1d6|+1d6|3K, 3R, 1S (1st)|
+|!2nd|+1|+0|+3|{{Homebrew/Rogue/Evasion||modal}}, {{Homebrew/Rogue/Uncanny Dodge||modal}}|+1d6|+1d6|4K, 3R, 1S (1st)|
+|!3rd|+2|+1|+3|{{Homebrew/Rogue/Fast Movement||modal}} +10 ft., {{Homebrew/Rogue/Trap Sense||modal}} +1|+1d6|+1d6, +1 AC|5K, 3R, 1S (2nd)|
+|!4th|+3|+1|+4|{{Homebrew/Rogue/Bonus Feat||modal}}, {{Homebrew/Rogue/Retrain Maneuver||modal}}|+2d6|+1d6, +1 AC|5K, 4R, 2S (2nd)|
+|!5th|+3|+1|+4|---|+2d6|+2d6, +1 AC|6K, 4R, 2S (3rd)|
+|!6th|+4|+2|+5|{{Homebrew/Rogue/Retrain Maneuver||modal}}, {{Homebrew/Rogue/Trap Sense||modal}} +2|+2d6|+2d6, +1 AC|6K, 4R, 2S (3rd)|
+|!7th|+5|+2|+5|---|+3d6|+2d6, +2 AC|7K, 4R, 2S (4th)|
+|!8th|+6/+1|+2|+6|{{Homebrew/Rogue/Bonus Feat||modal}}, {{Homebrew/Rogue/Improved Uncanny Dodge||modal}}, {{Homebrew/Rogue/Retrain Maneuver||modal}}|+3d6|+2d6, +2 AC|7K, 4R, 2S (4th)|
+|!9th|+6/+1|+3|+6|{{Homebrew/Rogue/Trap Sense||modal}} +3|+3d6|+3d6, +2 AC|8K, 4R, 2S (5th)|
+|!10th|+7/+2|+3|+7|{{Homebrew/Rogue/Retrain Maneuver||modal}}, {{Homebrew/Rogue/Special Ability||modal}}|+4d6|+3d6, +2 AC|8K, 5R, 3S (5th)|
+|!11th|+8/+3|+3|+7|{{Homebrew/Rogue/Fast Movement||modal}} +20 ft.|+4d6|+3d6, +3 AC|9K, 5R, 3S (6th)|
+|!12th|+9/+4|+4|+8|{{Homebrew/Rogue/Retrain Maneuver||modal}}, {{Homebrew/Rogue/Special Ability||modal}}, {{Homebrew/Rogue/Trap Sense||modal}} +4|+4d6|+3d6, +3 AC|9K, 5R, 3S (6th)|
+|!13th|+9/+4|+4|+8|{{Homebrew/Rogue/Special Ability||modal}}|+5d6|+4d6, +3 AC|10K, 5R, 3S (7th)|
+|!14th|+10/+5|+4|+9|{{Homebrew/Rogue/Hide in Plain Sight||modal}}, {{Homebrew/Rogue/Retrain Maneuver||modal}}|+5d6|+4d6, +3 AC|10K, 5R, 3S (7th)|
+|!15th|+11/+6/+1|+5|+9|{{Homebrew/Rogue/Trap Sense||modal}} +5|+5d6|+4d6, +4 AC|11K, 6R, 3S (8th)|
+|!16th|+12/+7/+2|+5|+10|{{Homebrew/Rogue/Bonus Feat||modal}}, {{Homebrew/Rogue/Retrain Maneuver||modal}}, {{Homebrew/Rogue/Special Ability||modal}}|+6d6|+4d6, +4 AC|11K, 6R, 4S (8th)|
+|!17th|+12/+7/+2|+5|+10|---|+6d6|+5d6, +4 AC|12K, 6R, 4S (9th)|
+|!18th|+13/+8/+3|+6|+11|{{Homebrew/Rogue/Free Movement||modal}}, {{Homebrew/Rogue/Retrain Maneuver||modal}}, {{Homebrew/Rogue/Trap Sense||modal}} +6|+6d6|+5d6, +4 AC|12K, 6R, 4S (9th)|
+|!19th|+14/+9/+4|+6|+11|{{Homebrew/Rogue/Special Ability||modal}}|+7d6|+5d6, +5 AC|13K, 6R, 4S (9th)|
+|!20th|+15/+10/+5|+6|+12|{{Homebrew/Rogue/Retrain Maneuver||modal}}, {{Homebrew/Rogue/Special Ability||modal}}|+7d6|+5d6, +5 AC|13K, 7R, 4S (9th)|
+|''Hit Die'': d6<br>''Skill Points / Level'': 8 + Int modifer (×4 @ 1st level)<br>''Class Skills'':  Acrobatics, Athletics, Appraise, Bluff, Craft, Decipher Script, Diplomacy, Disable Device, Disguise, Escape Artist, Forgery, Hide, Intimidate, Knowledge,,local,,, Move Silently, Perception, Perform, Profession (Wis), Sense Motive, Sleight of Hand, Use Magic Device, & Use Rope<br>''Martial Disciplines'': Diamond Mind, Setting Sun, Shadow Hand, Tiger Claw|c

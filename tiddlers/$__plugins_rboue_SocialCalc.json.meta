@@ -1,0 +1,11 @@
+author: rboue
+core-version: >=5.1.1
+created: 20200728191106776
+dependents: 
+description: SocialCalc
+list: readme license
+modified: 20200728191106776
+plugin-type: plugin
+title: $:/plugins/rboue/SocialCalc
+type: application/json
+version: 1.0.0

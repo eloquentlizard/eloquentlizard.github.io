@@ -1,0 +1,15 @@
+caption: New Feats
+created: 20140826094816860
+creator: Jeanbeaux
+modified: 20200728191115860
+modifier: Jeanbeaux
+ordering: 5
+tags: [[Extinguishing the Guiding Light]]
+title: Perils2/Feats
+type: text/vnd.tiddlywiki
+
+<$list filter="[tag[Extinguishing the Guiding Light]!has[draft.of]tag[Feats]]" emptyMessage="`nothing to display here`">
+
+{{||slider}} --- {{!!description}}
+
+</$list>

@@ -1,0 +1,44 @@
+created: 20140828055810081
+creator: Jeanbeaux
+modified: 20200728191118177
+modifier: Jeanbeaux
+tags: scratch
+title: XPGain (TI84+ Program)
+type: text/vnd.tiddlywiki
+
+```
+:ClrHome
+:Disp "-PARTY LEVEL?"
+:Input ">",L
+:Disp "-MONSTER CR?"
+:Input ">",M
+:Disp "-HOW MANY"
+:Disp " MONSTERS?"
+:Input ">",N
+:If L≥1 and L≤3 and M≤3
+:Then
+:300*M*N→C
+:Disp C
+:C
+:Else
+:round(M-L,0)→A
+:fPart(A/2)*2→J
+:2^(-(A-J)/2)→H
+:If L=4
+:Then
+:1→O
+:Else
+:0→O
+:End
+:(3+J)*N*M*(100+O*12.5)/H→C
+:Disp C
+:C
+:End
+:Delvar L
+:Delvar M
+:Delvar N
+:Delvar A
+:Delvar J
+:Delvar O
+:Delvar C
+```

@@ -1,0 +1,24 @@
+created: 20150202033013130
+creator: Jeanbeaux
+modified: 20200728191113491
+modifier: Jeanbeaux
+tags: Components
+title: Insightful Talent Tree
+type: text/vnd.tiddlywiki
+
+The Dedicated hero's innate insightfulness serves her well.
+
+;Skill Emphasis
+:The Dedicated hero chooses a single skill and receives a +3 bonus on all checks with that skill. This bonus does not allow the hero to make checks for a trained-only skill if the hero has no ranks in the skill.
+;Aware
+:The Dedicated hero is intuitively aware of his or her surroundings. The hero adds his or her base Will saving throw bonus to Listen or Spot checks to avoid surprise.
+:;Prerequisite
+::Skill emphasis.
+;Faith
+:The Dedicated hero has a great deal of faith. It might be faith in self, in a higher power, or in both. This unswerving belief allows the Dedicated hero to add his or her Wisdom modifier to the die roll whenever the hero spends 1 action point to improve the result of an attack roll, skill check, saving throw, or ability check.
+:;Prerequisite
+::Skill emphasis.
+;Cool Under Pressure
+:The Dedicated hero selects a number of skills equal to 3 + the hero's Wisdom modifier. When making a check with one of these skills, the Dedicated hero can take 10 even when distracted or under duress.
+:;Prerequisite
+::Skill emphasis plus either faith or aware.

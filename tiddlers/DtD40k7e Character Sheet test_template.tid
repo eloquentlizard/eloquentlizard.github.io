@@ -1,0 +1,31 @@
+created: 20150205171640220
+creator: Jeanbeaux
+modified: 20200728191109525
+modifier: Jeanbeaux
+tags: [[Dungeons: The Dragoning 40,000, 7th Edition]]
+title: DtD40k7e Character Sheet test/template
+type: text/vnd.tiddlywiki
+
+<div class="tc-tagged-Class" style="float:left;">
+
+|>|>|>| Characteristics |h
+|| Power | Finesse | Resistance |h
+| !Physical | Strength <$edit-text type="number" field="strength" tag="input" /><br><meter value={{!!strength}} max=5 style="width:9em;"/> | Dexterity <$edit-text type="number" field="dexterity" tag="input" /><br><meter value={{!!dexterity}} max=5 style="width:9em;"/> | Constitution <$edit-text type="number" field="constitution" tag="input" /><br><meter value={{!!constitution}} max=5 style="width:9em;"/> |
+| !Social | Charisma <$edit-text type="number" field="charisma" tag="input" /><br><meter value={{!!charisma}} max=5 style="width:9em;"/> | Fellowship <$edit-text type="number" field="fellowship" tag="input" /><br><meter value={{!!fellowship}} max=5 style="width:9em;"/> | Composure <$edit-text type="number" field="composure" tag="input" /><br><meter value={{!!composure}} max=5 style="width:9em;"/> |
+| !Mental | Intelligence <$edit-text type="number" field="intelligence" tag="input" /><br><meter value={{!!intelligence}} max=5 style="width:9em;"/> | Wisdom <$edit-text type="number" field="wisdom" tag="input" /><br><meter value={{!!wisdom}} max=5 style="width:9em;"/> | Willpower <$edit-text type="number" field="willpower" tag="input" /><br><meter value={{!!willpower}} max=5 style="width:9em;"/> |
+
+</div><div class="tc-tagged-Class" style="float:right;">
+
+|>|>| Skills |h
+| Mental | Physical | Social |h
+| Academic Lore <$edit-text type="number" field="academic lore" tag="input" /><br><meter value={{!!academic lore}} max=6 style="width:9em;"/> | Acrobatics <$edit-text type="number" field="acrobatics" tag="input" /><br><meter value={{!!acrobatics}} max=6 style="width:9em;"/> | Animal Ken <$edit-text type="number" field="animal ken" tag="input" /><br><meter value={{!!animal ken}} max=6 style="width:9em;"/> |
+| Arcana <$edit-text type="number" field="arcana" tag="input" /><br><meter value={{!!arcana}} max=6 style="width:9em;"/> | Athletics <$edit-text type="number" field="athletics" tag="input" /><br><meter value={{!!athletics}} max=6 style="width:9em;"/> | Charm <$edit-text type="number" field="charm" tag="input" /><br><meter value={{!!charm}} max=6 style="width:9em;"/> |
+| Common Lore <$edit-text type="number" field="common lore" tag="input" /><br><meter value={{!!common lore}} max=6 style="width:9em;"/> | Ballistics <$edit-text type="number" field="ballistics" tag="input" /><br><meter value={{!!ballistics}} max=6 style="width:9em;"/> | Command <$edit-text type="number" field="command" tag="input" /><br><meter value={{!!command}} max=6 style="width:9em;"/> |
+| Crafts <$edit-text type="number" field="crafts" tag="input" /><br><meter value={{!!crafts}} max=6 style="width:9em;"/> | Brawl <$edit-text type="number" field="brawl" tag="input" /><br><meter value={{!!brawl}} max=6 style="width:9em;"/> | Deceive <$edit-text type="number" field="deceive" tag="input" /><br><meter value={{!!deceive}} max=6 style="width:9em;"/> |
+| Forbidden Lore <$edit-text type="number" field="forbidden lore" tag="input" /><br><meter value={{!!forbidden lore}} max=6 style="width:9em;"/> | Drive <$edit-text type="number" field="drive" tag="input" /><br><meter value={{!!drive}} max=6 style="width:9em;"/> | Disguise <$edit-text type="number" field="disguise" tag="input" /><br><meter value={{!!disguise}} max=6 style="width:9em;"/> |
+| Medicæ <$edit-text type="number" field="medicæ" tag="input" /><br><meter value={{!!medicæ}} max=6 style="width:9em;"/> | Larceny <$edit-text type="number" field="larceny" tag="input" /><br><meter value={{!!larceny}} max=6 style="width:9em;"/> | Intimidation <$edit-text type="number" field="intimidation" tag="input" /><br><meter value={{!!intimidation}} max=6 style="width:9em;"/> |
+| Perception <$edit-text type="number" field="perception" tag="input" /><br><meter value={{!!perception}} max=6 style="width:9em;"/> | Pilot <$edit-text type="number" field="pilot" tag="input" /><br><meter value={{!!pilot}} max=6 style="width:9em;"/> | Performer <$edit-text type="number" field="performer" tag="input" /><br><meter value={{!!performer}} max=6 style="width:9em;"/> |
+| Politics <$edit-text type="number" field="politics" tag="input" /><br><meter value={{!!politics}} max=6 style="width:9em;"/> | Stealth <$edit-text type="number" field="stealth" tag="input" /><br><meter value={{!!stealth}} max=6 style="width:9em;"/> | Persuasion <$edit-text type="number" field="persuasion" tag="input" /><br><meter value={{!!persuasion}} max=6 style="width:9em;"/> |
+| Tech-Use <$edit-text type="number" field="tech-use" tag="input" /><br><meter value={{!!tech-use}} max=6 style="width:9em;"/> | Weaponry <$edit-text type="number" field="weaponry" tag="input" /><br><meter value={{!!weaponry}} max=6 style="width:9em;"/> | Scrutiny <$edit-text type="number" field="scrutiny" tag="input" /><br><meter value={{!!scrutiny}} max=6 style="width:9em;"/> |
+
+</div>

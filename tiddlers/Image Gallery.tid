@@ -1,0 +1,25 @@
+caption: Image Gallery
+color: #a86821
+created: 20140828065226556
+creator: Jeanbeaux
+description: A collection of various things I find on the Internet.
+icon: $:/core/images/_photo-stack
+modified: 20200728191112035
+modifier: Jeanbeaux
+tags: Miscellaneous
+title: Image Gallery
+type: text/vnd.tiddlywiki
+
+<div class="container">
+<$list filter="[tag[Image Gallery]sort[title]]">
+
+<div class="">
+
+<$link to={{!!title}}>{{||modal-image}}</$link>
+
+</div>
+</$list>
+
+</div>
+
+<$button message=tm-close-tiddler>Close</$button>

@@ -1,0 +1,76 @@
+@font-face {
+font-family: 'London';
+src: url(LondonBetween.ttf) format('truetype');
+}
+
+@font-face {
+font-family: "Montserrat";
+src: url(Montserrat-Regular.ttf) format('truetype')
+}
+
+@font-face {
+font-family: "Cardo";
+src: url(Cardo-Regular.ttf) format('truetype');
+font-style: normal;
+}
+
+@font-face {
+font-family: "Cardo";
+src: url(Cardo-Italic.ttf) format('truetype');
+font-style: italic;
+}
+
+@font-face {
+font-family: "Lobster";
+src : url(lobster-two.regular.ttf) format('truetype');
+font-style: normal;
+}
+
+@font-face {
+font-family: "Lobster";
+src : url(lobster-two.italic.ttf) format('truetype');
+font-style: italic;
+}
+
+
+.title,h1,h2,h3,h4,h5,h6 {font-family:'London';line-height:1em;}
+
+code {font-family:'Courier New'; font-size:1.1em}
+/* others */
+@font-face {
+font-family: 'atk';
+src: url('./dicefonts/attacks.ttf') format('truetype')
+}
+@font-face {
+font-family: 'd4';
+src: url('./dicefonts/d4round.ttf') format('truetype')
+}
+@font-face {
+font-family: 'd6';
+src: url('./dicefonts/d6pips.ttf') format('truetype')
+}
+@font-face {
+font-family: 'd8';
+src: url('./dicefonts/d8.ttf') format('truetype')
+}
+@font-face {
+font-family: 'd10';
+src: url('./dicefonts/d10.ttf') format('truetype')
+}
+@font-face {
+font-family: 'd12';
+src: url('./dicefonts/d12.ttf') format('truetype')
+}
+@font-face {
+font-family: 'd20';
+src: url('./dicefonts/d20.ttf') format('truetype')
+}
+.atk {font-family:'atk'; }
+.d4 {font-family:'d4'; }
+.d6 {font-family:'d6'; }
+.d8 {font-family:'d8'; }
+.d10 {font-family:'d10'; }
+.d12 {font-family:'d12'; }
+.d20 {font-family:'d20'; }
+.sc {font-variant: small-caps;}
+.tc-tag-label {font-family:'Lobster';}

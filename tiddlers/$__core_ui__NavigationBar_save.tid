@@ -1,0 +1,14 @@
+created: 20150914193129511
+creator: Jeanbeaux
+description: A shortcut to the `save-wiki` button that only appears when the sidebar is hidden.
+list-after: $:/core/ui/_NavigationBar/title
+list-before: $:/core/ui/Buttons/menu
+modified: 20200728191106134
+modifier: Jeanbeaux
+tags: $:/tags/_NavigationBar
+title: $:/core/ui/_NavigationBar/save
+type: text/vnd.tiddlywiki
+
+<$reveal state="$:/state/sidebar" type="match" text="no">
+{{$:/core/ui/Buttons/save-wiki}}
+</$reveal>

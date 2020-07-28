@@ -1,0 +1,13 @@
+caption: greater flurry
+created: 20150106004112564
+creator: Jeanbeaux
+modified: 20200728191111473
+modifier: Jeanbeaux
+tags: Components
+title: Homebrew/Monk/Greater Flurry
+type: text/vnd.tiddlywiki
+
+!Greater Flurry (Ex)
+:When a monk reaches 11th level, her {{Homebrew/Monk/Flurry of Blows||modal}} ability improves. In addition to the standard single extra attack she gets from flurry of blows, she gets a second extra attack at her full base attack bonus.
+
+:In addition, she gains the ability to spend a single Stunning Fist attempt (if she has the feat) for an additional extra attack at her full base attack bonus. She may spend no more that ⅕ her monk level (rounded down) per round in Stunning Fist attempts for this purpose. This ability does not impose any additional limitations on how she may use or spend other Stunning Fist attempts for other abilities, feats, or uses, however.

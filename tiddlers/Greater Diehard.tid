@@ -1,0 +1,14 @@
+created: 20141230022630946
+creator: Jeanbeaux
+description: Die at -15 HP
+description-full: You die at -15 HP instead of -10 HP.
+flavor: Your body refuses to break when it should.
+list-after: Improved Diehard
+modified: 20200728191110595
+modifier: Jeanbeaux
+prereqs: Endurance, Diehard, Improved Diehard
+tags: Feats [[Extinguishing the Guiding Light]] Homebrew
+title: Greater Diehard
+type: text/vnd.tiddlywiki
+
+{{||Feats}}

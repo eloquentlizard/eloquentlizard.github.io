@@ -1,0 +1,125 @@
+created: 20141016153158911
+modified: 20200728191117350
+title: SocialCalc/introduction
+type: text/vnd.tiddlywiki
+
+The plugin : [[SocialCalc|$:/plugins/rboue/SocialCalc]]
+
+!Demos
+Some calc sheets to play and see what you can do with ~SocialCalc :
+
+[[one-plus-one|SocialCalc/Demos/one-plus-one--demo]]
+[[field|SocialCalc/Demos/field--demo]]
+[[calligramme|SocialCalc/Demos/calligramme--demo]]
+[[links|SocialCalc/Demos/links--demo]]
+
+!What is ~SocialCalc ?
+A calc sheet to do effective calculations and much more.
+
+Links : 
+[[Documentation|http://sternlife.stern.nyu.edu/help-en/SocialCalc]]
+[[Engine|http://www.softwaregarden.com/products/wikicalc/socialcalc/EngineDoc-8.html]]
+
+!~SocialCalc in ~TiddlyWiki environment
+"""
+__''Calc sheet storage''__
+~SocialCalc stores calc sheets in tiddlers of type `application/x-socialcalc`.
+
+__''Calc sheet edition''__
+There is two ways to edit a calc sheet : with the standard tiddler editor or with the `<$edit-socialcal>` widget.
+For the widget way, see below.
+When you click on the edit icon of an `application/x-socialcalc` tiddler, the tiddler's editor displays an `<$edit-socialcalc>` widget to edit the calc page. You can also modify tiddler's fields the usual way.
+
+__''Data exchange''__
+The "Clipboard" menu allows you to import/export data. However, supported formats are very limited. Don't expect to exchange data with EXCEL. There is simple text formats like CSV and Tab-delimited, and the "~SocialCalc-save" format. You can export a selection of a calc sheet (the clipboard) to a tiddler and you can import a data tiddler to the clipboard, nothing more.
+
+__''Links in calc sheet''__
+~SocialCalc offers a reasonable choice of link's types. See ~SocialCal documentation for details.
+There is two kinds of links that the plugin manages in a different way : calc sheet references (better known as "page references") and URL links.
+
+__Page reference__
+A page reference is a reference to another calc sheet's piece of data in a formula. This type of link is essential to simplify the task of building calc sheets by splitting data between different sheets. In conventional case, calc sheets are web pages on specific servers. In ~TiddlyWiki's case, calc sheets are always stored in local tiddlers.
+Then, with ~TiddlyWiki, the reference to a page is simply the title of its tiddler.
+
+Example of a formula with page references :
+
+&nbsp;&nbsp;&nbsp;&nbsp; `="My first tiddler with a calc sheet"!a11 * "My second tiddler with a calc sheet"!b22`
+
+To ease the task of page referencing, the plugin offers an ambryo of filesystem and relative path handling. Let's say a main sheet is stored in the tiddler named "My directory/my main page" and a sheet with useful data in "My directory/my useful page". With relative path you can simply reference "my useful page" in a formula of the main sheet. This behaviour is configuration dependent (see below). You must define a filesystem.PATH attribute with the list of directories to search for page references.
+
+Example of configuration and formula with relative page references :
+
+Configuration tiddler (`$:config/rboue/SocialCalc`) :
+"""
+
+```
+{
+  "filesystem": {
+    "PATH": "My directory;other directory"
+  },
+  ...
+}
+```
+
+"""
+&nbsp;&nbsp;&nbsp;&nbsp; `="my useful page"!a11 * "my useful page"!b22`
+
+__URL links__
+Conventional ~SocialCalc offers the possibility to define clickable links, with common URLs like "http:...", "mailto:...", etc.
+The plugin adds the possibility to open tiddlers the same way, with a special type of URL :
+&nbsp;&nbsp;&nbsp;&nbsp; ''tw:''`title of a tiddler`
+
+Example of cell's value with a clickable link to a tiddler :
+&nbsp;&nbsp;&nbsp;&nbsp; `'<tw:My tiddler>`
+
+Filesystem and relative path applies also to URL links of type "tw:". This is the same behaviour than with page references.
+
+When creating a link, don't forget to set the cell's format value to `Link`.
+
+__''&lt;$edit-socialcalc&gt; widget''__
+The widget offers quite the same UI than conventional ~SocialCalc editor.
+However there is some slight differences :
+"""
+
+* A new "Save changes" icon enables you to save sheet's data in tiddler. Its colour changes as soon as a change in data occured, to inform you that a save is required.
+* The "Clipboard" menu has more functionnalities. You can import clipboard data from tiddlers, with a choice of different formats. You can also export the clipboard to a data tiddler.
+* The "Graph" menu has been enhanced and offers more effective data display.
+
+"""
+The full set of conventional ~SocialCalc's editor keys is available whith the "Edit" menu, especially Ctrl-c/Ctrl-x/Ctrl-v to copy/delete/paste cells or ranges of cells.
+Please note that Ctrl-s has the same behaviour than a click on the "Save changes" icon.
+
+The content of the `<$edit-socialcalc>` widget is not interpreted.
+"""
+
+|Attribute |Description |h
+|width |Width of the widget in pixel |
+|height |Height of the widget in pixel (300 by default) |
+|mode |Type of display : "edit" to edit the data (default value), "view" to display without modification |
+|grid |"yes" to display the grid (default value), "no" otherwise |
+|class |An optional CSS class name to be assigned to the HTML element |
+
+"""
+__''Configuration''__
+The plugin is configured via the `$:config/rboue/SocialCalc` tiddler (of type `application/json`).
+Example of configuration :
+"""
+
+```
+{
+  "filesystem": {
+    "PATH": "SocialCalc/Tests;SocialCalc/Tests/TestPath1;SocialCalc/Tests/TestPath2"
+  },
+  "grid": "yes",
+  "LANG": "fr-FR",
+  "heightInTiddlerEditor": 500
+}
+```
+
+|Attribute |Description |h
+|filesystem |Activates the pseudo filesystem behaviour. `PATH` is a list of absolute directories to search under when calc sheets are referenced in formula  |
+|grid |If "yes", displays the grid (default). If "no", suppress the grid |
+|LANG |Language for menus, helps and tooltips translations. "en-GB" by default |
+|heightInTiddlerEditor |Height in pixel of the `<$edit-socialcalc>` widget in the tiddler's editor. Default is 300 |
+
+Default configuration is defined in the `$:/plugins/rboue/SocialCalc/config.json` tiddler.

@@ -1,0 +1,11 @@
+created: 20141226033809617
+creator: Jeanbeaux
+description: A web-based tabletop for roleplaying games.
+modified: 20200728191117041
+modifier: Jeanbeaux
+src: https://app.roll20.net
+tags: [[External Source]]
+title: Roll20
+type: text/vnd.tiddlywiki
+
+{{https://app.roll20.net||web}}

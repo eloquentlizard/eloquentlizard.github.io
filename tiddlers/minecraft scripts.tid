@@ -1,0 +1,21 @@
+created: 20140828054329568
+creator: Jeanbeaux
+modified: 20200728191114452
+modifier: Jeanbeaux
+tags: scratch
+title: minecraft scripts
+type: text/vnd.tiddlywiki
+
+!!!Screen Launcher -- Minecraft
+```
+screen -S minecraft /home/jeanbeaux/.minecraft/Servers/Forge/minecraft-server.sh
+```
+!!!Local Minecraft link -- sets .minecraft to local dir, rather than default
+```
+#!/bin/sh
+export HOME=/mnt/home/user-files
+export javaexec=$HOME/.java/bin/java
+cd $HOME
+$javaexec -Duser.home=$HOME -jar $HOME/.minecraft/Minecraft.jar
+cd -
+```

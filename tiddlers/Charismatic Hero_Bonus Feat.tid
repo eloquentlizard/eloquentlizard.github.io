@@ -1,0 +1,14 @@
+caption: bonus feat
+created: 20150201200025845
+creator: Jeanbeaux
+modified: 20200728191108645
+modifier: Jeanbeaux
+subtitle: {{!!title}}{{modal!!button}}
+tags: Components
+title: Charismatic Hero/Bonus Feat
+type: text/vnd.tiddlywiki
+
+!Bonus Feats
+At 2nd, 4th, 6th, 8th, and 10th level, the Charismatic hero gains a bonus feat. This feat must be selected from the following list, and the Charismatic hero must meet any prerequisites.
+
+>Agile Riposte, Creative, Deceptive, Dodge, Frightful Presence, Iron Will, Lightning Reflexes, Low Profile, Point Blank Shot, Renown, Trustworthy, Windfall.

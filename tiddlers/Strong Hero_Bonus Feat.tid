@@ -1,0 +1,14 @@
+caption: bonus feat
+created: 20150201204232102
+creator: Jeanbeaux
+modified: 20200728191117456
+modifier: Jeanbeaux
+subtitle: {{!!title}}{{modal!!button}}
+tags: Components
+title: Strong Hero/Bonus Feat
+type: text/vnd.tiddlywiki
+
+!Bonus Feats
+At 2nd, 4th, 6th, 8th, and 10th level, the Strong hero gains a bonus feat. This feat must be selected from the following list, and the Strong hero must meet any prerequisites.
+
+>Animal Affinity, Archaic Weapons Proficiency, Athletic, Blind-Fight, Brawl, Cleave, Combat Martial Arts, Combat Reflexes, Great Cleave, Improved Brawl, Improved Combat Martial Arts, Power Attack, Weapon Focus.
