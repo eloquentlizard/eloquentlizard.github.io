@@ -1,12 +1,10 @@
 created: 20150127083555098
 creator: Jeanbeaux
-modified: 20200728191107348
+modified: 20201012224806210
 modifier: Jeanbeaux
 tags: $:/tags/Stylesheet
 title: $:/stylesheets/anchors
-type: text/vnd.tiddlywiki
-
-\rules only filteredtranscludeinline transcludeinline macrodef macrocallinline html
+type: text/css
 
 a[href]:not(.tc-tiddlylink)::after {
 	content: " " url(./tw-files/Image/external-link.svg);
