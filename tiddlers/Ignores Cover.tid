@@ -1,0 +1,10 @@
+created: 20150215004604705
+creator: Jeanbeaux
+description: This weapon fires ammunition that cheats an enemy of his shelter.
+modified: 20201012231043692
+modifier: Jeanbeaux
+tags: [[Special Rule]]
+title: Ignores Cover
+type: text/vnd.tiddlywiki
+
+Cover saves cannot be taken against Wounds, glancing hits or penetrating hits caused by weapons with the Ignores Cover special rule.

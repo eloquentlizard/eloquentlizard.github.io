@@ -1,0 +1,11 @@
+created: 20150215041540714
+creator: Jeanbeaux
+description: Some Tyranids serve as synaptic conduits or nodal relays through which a portion of the Hive Mind’s iron will flows, overriding the natural instincts of the swarm.
+list-after: Swarms
+modified: 20201012231046083
+modifier: Jeanbeaux
+tags: [[Special Rule]]
+title: Synapse Creature
+type: text/vnd.tiddlywiki
+
+Models with the Synapse Creature special rule have a synapse range of 12" (or more, if the unit's entry specifies explicitly otherwise). Friendly models with the Tyranids Faction within this synapse range, including the Synapse Creatures themselves, have the [[Fearless]] special rule. If a unit with the Tyranids Faction is falling back and at least one of the unit’s models is within a friendly Synapse Creature’s synapse range before the unit moves, the unit automatically Regroups.

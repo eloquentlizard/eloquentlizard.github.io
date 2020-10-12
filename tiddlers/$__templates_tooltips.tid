@@ -1,0 +1,13 @@
+created: 20151229032019369
+creator: Jeanbeaux
+modified: 20201012231041388
+modifier: Jeanbeaux
+tags: 
+title: $:/templates/tooltips
+type: text/vnd.tiddlywiki
+
+<span class="tc-tooltips"><$link to={{!!title}} ><$view field="title"/></$link><div>
+
+{{}}
+
+</div></span>

@@ -1,0 +1,12 @@
+created: 20150215123718463
+creator: Jeanbeaux
+description: The tails of some Tyranids are deadly weapons, from bony protrusions dense enough to cave in the side of a tank to stingers containing enough poison to kill whole regiments.
+modified: 20201012231046910
+modifier: Jeanbeaux
+points: 10
+tags: [[Tail Biomorphs]]
+title: Toxinspike
+type: text/vnd.tiddlywiki
+
+||Range|S|AP|Type|h
+|Toxinspike| --- | 1 | 6 |Melee, [[Poisoned]] (2+), [[Tail Biomorph]]|

@@ -1,0 +1,141 @@
+color: #ddf0df
+created: 20150214221045949
+creator: Jeanbeaux
+description: Veteran warriors, brilliant officers, possessed prophets and ferocious war-leaders can all inspire their troops to great feats of heroism (or fiendish bravery as the case may be) and are often quicker, stronger and more skilled in combat than those they lead. In Warhammer 40,000, these kinds of powerful individuals are called ‘characters’.
+icon: $:/core/images/home-button
+modified: 20201012231042262
+modifier: Jeanbeaux
+tags: [[Unit Type]]
+title: Character
+type: text/vnd.tiddlywiki
+
+//‘Brave men do not question, they simply act.’//
+
+<div style="float:right;border:1px solid #547599; margin:0.5em;font-size:0.85em;padding:0.5em;width:20em;background:#f7f7f9;">
+
+<div style="text-align:center;">
+
+!!__Forging a Narrative__
+</div>
+Games of Warhammer 40,000 are often tales of the mighty deeds of heroes. With that in mind, it’s always a good idea to name your characters. They won’t necessarily fight any better if you do, but your victories will be all the sweeter.
+</div>
+
+!!Character Types
+Most characters are fielded in units from the start of the game, and represent squad leaders, such as a Space Marine Veteran Sergeant. They have their own profile, but do not have a separate entry. They are effectively just another trooper in their unit, with enhanced characteristics and perhaps a wider selection of weapons and wargear choices. Other characters, such as Mephiston of the Blood Angels, fight as units on their own. They are either mighty enough, or feared enough by their own kind, that they don’t take to the battlefield with other warriors. Regardless of their potency, all follow the rules for characters. 
+
+!!!Independent Characters
+Some characters have the [[Independent Character]] special rule, which allows them to join other units.
+
+!!Characters as Leaders
+Remember that a unit’s Leadership tests are taken using the highest Leadership value in the unit. As characters normally have better Leadership than other warriors, this means that they make very good leaders for units in your army.
+
+!!Characters & Moving
+Characters follow the movement rules for models of their type, whether Infantry, Jump Infantry, Bikes, etc. However, remember that they must maintain unit coherency with any unit they are in. 
+
+!!Characters & Shooting
+Characters shoot just like ordinary models of their type, although they sometimes have a better Ballistic Skill or exotic weaponry that sets them apart. 
+
+<div class=tc-sidediv>
+
+<div style="text-align:center;">
+
+!!Look Out, Sir & Shooting
+</div>
+
+When a Wound is allocated to one of your non-vehicle characters, and there is another model from the same unit within 6", he is allowed a Look Out, Sir attempt. This represents the character ducking back further into the unit, holding a comrade in the line of fire, or being pushed aside by a selfless ally. If no model is in range, then you cannot make a Look Out, Sir attempt.
+
+To make a Look Out, Sir attempt, roll a D6. 
+
+*On a roll of 3 or less, the Look Out, Sir attempt fails. 
+*On a roll of 4+, the Look Out, Sir attempt is successful. Determine which model in the unit is closest to the character, and allocate the Wound to that model instead. This can even be a model that is out of range or line of sight of the shooting attack. 
+
+If the unit only consists of characters, a Look Out, Sir attempt can still be made, with the closest character within 6" taking the place of the erstwhile victim if the roll is passed. Only one Look Out, Sir attempt can be made per Wound allocated – once the Wound has been transferred (or not), no further attempts to reallocate it can be made.
+
+<div style="text-align:center;">
+
+!!Look Out, Sir & Assaults
+</div>
+
+As with shooting attacks, if a non-vehicle character has a Wound allocated to him, and there is another model from the same unit within 6", he’s allowed a Look Out, Sir attempt. This works exactly the same way as for shooting attacks. However, a character who is fighting in a challenge (see below) cannot attempt to make a Look Out, Sir attempt – it is a duel of honour and none can interfere.
+
+</div>
+
+!!Characters & Assaults
+Remember, a character that has joined a unit follows all the normal rules for being part of a unit. If a character is in a unit that charges into close combat, the character charges too, as it is part of the unit. If the character’s unit is locked in close combat, he fights as part of the unit.
+
+If, when it is a character’s turn to make a Pile In move, other friendly models are Piling In at the same time, the character must move to get into base contact with an enemy as soon as it is able. If this is not possible, then they must instead move as close to the enemy as they can – their place is at the forefront!
+
+!!Challenges
+
+>Characters, no matter their rank or race, crave the chance to prove their battle skill. There is no more certain a way to do this than to vanquish enemy characters – preferably in full sight of one’s allies.
+
+!!!Issuing a Challenge
+Challenges are issued at the start of the Fight sub-phase, before any blows are struck. ''Only one challenge can be issued per close combat'' – the side whose turn it is has the opportunity to issue a challenge first. If that side chooses not to, then the other side can issue a challenge.
+
+''To issue a challenge, nominate a character in one of your units locked in the combat to be the challenger.'' We can then assume he’s issued a suitably insulting challenge to the foe, probably impugning their courage, battle skill, heritage, devotion to questionable gods and overall slovenly aspect. You’ll now have to wait and see whether a character amongst the enemy ranks chooses to step forwards and accept the challenge.
+
+Once one challenge has been made, no further challenges can be issued in that combat that turn. If the challenge is accepted (see below), no further challenges can be issued until that challenge has been resolved. If there are no characters in the enemy units, then a challenge cannot be issued. Characters that cannot fight or strike blows (including those that are not engaged with an enemy model) cannot issue challenges.
+
+<div style="float:right;border:1px solid #547599; margin:0.5em;font-size:0.85em;padding:0.5em;width:20em;background:#f7f7f9;">
+
+<div style="text-align:center;">
+
+!!__Forging a Narrative__
+</div>
+
+You’ll find your challenges much more satisfying if you go to the effort of concocting a suitably intimidating and characterful epithet to hurl at your opponent. This will be doubly effective if you can tailor the wording to match the challenger’s temperament. Space Marines should be gruff, matter-of-fact and somewhat laconic. Eldar are prone to convoluted and metaphor-laden insults as likely to leave the foe confused as slighted (thus proving the Eldar’s superiority twice over). Orks are crude and brutal (surprise!), Tyranids roar with bowel-loosening fury, and so on. Just remember that it’s your opponent’s character that you’re trying to insult – not your opponent.
+</div>
+
+!!!Accepting a Challenge
+If your opponent has issued a challenge, you can now accept it – nominate a character in one of your units locked in the combat to be the challengee. Your opponent has probably decided which of your characters he wants to fight, in fact, this bias might affect how the challenge was framed (‘Brother-Captain Minyos challenges thine craven Warlock to single combat!’), but the final choice is yours – he can’t challenge a specific enemy, he just issues a challenge to the foe at large and sees who steps forwards. Characters that cannot fight or strike blows (including those that are not engaged with an enemy model) cannot accept challenges.
+
+!!!Refusing a Challenge
+Alternatively, you can simply refuse the challenge and choose to have your character slink away with sullied honour but beating heart(s). If you refuse, your opponent gets to nominate one of your characters from those that could have accepted. The chosen model cannot strike blows at all this turn, as he is thereafter putting all of his effort into staying clear of the vengeful enemy character. Furthermore, his Leadership cannot be used by the rest of the unit for the remainder of the phase – skulking amongst the ranks is not the stuff of heroism!
+
+Once a challenge has been refused, the model that issued it fights normally.
+
+!!!Heroic Stand
+A unit that consists only of a single character cannot refuse a challenge. He’s got nowhere to hide.
+
+!!!Fighting a Challenge
+If a challenge has been accepted, it is time to move the two combatants into base contact with each other. Note that these moves cannot be used to move a character out of unit coherency. If possible, swap the challenger for a friendly model in base contact with the challengee. If this cannot be done, swap the challengee for a friendly model in base contact with the challenger. If neither of these moves would result in the two models being in base contact, ‘swap’ the challenger to as close as possible to the challengee and assume the two to be in base contact for the purposes of the ensuing fight. In case you were wondering, models that are moved to satisfy a challenge are not subject to Difficult or Dangerous Terrain tests. Furthermore, neither the characters in the challenge nor the models that have made way to allow the characters to get into base contact make a Pile In move when their Initiative step is reached.
+
+For the duration of the challenge, these two models are considered to be in base contact with each other and, when rolling To Hit and To Wound, they always use the Weapon Skill and Toughness of their opponent. When allocating Wounds caused by either of these two models, they must be allocated to their opponent first. These Wounds cannot be reallocated by the Look Out, Sir rule. 
+
+!!!!Combatant Slain
+If a character that is involved in a challenge slays his opponent, each excess Wound inflicted by the victor is then allocated, one at a time, to the next nearest enemy model that is locked in the combat. When one of the combatants in a challenge is slain, regardless of which Initiative Step it is, the challenge is still considered to be ongoing until the end of the phase for the purposes of Outside Forces (see below).
+
+!!!!Outside Forces
+Whilst the challenge is ongoing, other models locked in the combat can only allocate Wounds to the models involved in the challenge after all other enemy models that are locked in that combat (if any) have been removed as casualties, even if the models fighting in a challenge are the closest models. 
+
+!!!Assault Results
+Unsaved Wounds caused in a challenge count towards the assault result, alongside any unsaved Wounds caused by the rest of the characters’ units. 
+
+!!!Round Two
+If both competitors survive a challenge, and neither side fled from the combat, then they continue to fight in the next round of close combat. Note that, if a character with the [[And They Shall Know No Fear]] special rule is caught by a Sweeping Advance, the challenge does not continue. 
+
+Even though further challenges cannot be issued in a combat until the existing challenge has been resolved, there is the possibility that another character in the fight might intercede in a Glorious Intervention.
+
+!!!!Glorious Intervention
+Even in the darkness of the 41st Millennium, there are still tales of personal heroism and glory. A plucky Astra Militarum Sergeant might throw himself into the path of a rampaging Ork Warboss in an attempt to preserve his officer’s life. An Eldar Warlock, about to be cloven in two by the sweep of a Tyranid bonesword, might be saved as an Autarch darts in to parry the blow. These are the kinds of situations that the Glorious Intervention rule is here to represent, where one character hurls himself into harm’s way in order to defend another.
+
+A character can declare a Glorious Intervention at the start of his own Fight sub-phase, before any blows are struck, if a friendly character in the same combat is about to fight a second or subsequent round of a challenge. 
+
+''A character cannot declare a Glorious Intervention in the first round of a challenge or during the enemy turn.'' Nor can a character that cannot fight or strike blows (including those that are not engaged with an enemy model) declare a Glorious Intervention.
+
+To see whether or not the Glorious Intervention has been successful, the intervening character must take an Initiative test. 
+
+If the test is failed, nothing happens – the character has not been quick enough. He fights the current round of close combat as normal.
+
+If the test is passed, the character making the Glorious Intervention takes the place of the friendly character in the ongoing challenge. The character thus displaced now fights in the close combat according to the normal rules, whilst the character that made the Glorious Intervention fights in the challenge. The two characters now fighting the challenge should attempt to move into base contact with each other following the same rules as when the challenge was first accepted, with the character performing the Glorious Intervention as the challenger.
+
+>For example, Idrion, a Space Marine Sergeant has, through skill of arms (and lucky dice), survived the first round of a challenge against the infamous Daemon Prince Volgarax. Fortunately for Idrion, Brother-Captain Dantarion (Initiative 5) charged into the same combat this turn, and is now attempting to make a Glorious Intervention to save the sergeant from his dread foe. Dantarion takes his Initiative test and rolls a 4, passing it with room to spare. He now fights Volgarax in this and subsequent rounds of the challenge, while Idrion fights in the rest of the combat as normal
+
+Note that, whilst it is possible for several Glorious Interventions to occur within the same challenge over the course of the game, only one character can attempt a Glorious Intervention for each challenge per turn.
+
+!!Tyranid Characters
+<$list filter="[tag[Character]tag[Tyranid]sort[title]]">
+
+*<$link><$view field=title/></$link>
+
+</$list>

@@ -1,0 +1,27 @@
+[
+    {
+        "created": "20150219155242846",
+        "title": "Biovore",
+        "text": "!!{{!!caption}} --- {{!!points}} points\n\n{{||CharacteristicsTable}}\n\nUnit Composition --- 1 Biovore\n\n{{||$:/templates/biomorphs-rules}}\n\n;Options\n*May include up to two additional Biovores - {{!!points}} points/model\n*May take items from the {{Biomorphs||$:/templates/tooltips}} list.",
+        "creator": "Jeanbeaux",
+        "modified": "20201012231041915",
+        "modifier": "Jeanbeaux",
+        "tags": "[[Heavy Support]]",
+        "type": "text/vnd.tiddlywiki",
+        "armor-save": "4+",
+        "attacks": "2",
+        "ballistics-skill": "3",
+        "biomorphs": "[[Spore Mine launcher]]",
+        "caption": "Biovore Brood",
+        "footer": "{{$:/Lore/Biovore}}",
+        "initiative": "2",
+        "leadership": "6",
+        "points": " 40",
+        "special-rules": "[[Instinctive Behaviour (Hunt)]] [[Very Bulky]]",
+        "strength": "4",
+        "toughness": "4",
+        "unit-type": "Infantry",
+        "weapon-skill": "3",
+        "wounds": "3"
+    }
+]

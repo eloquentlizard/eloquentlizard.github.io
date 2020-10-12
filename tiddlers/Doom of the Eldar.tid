@@ -1,0 +1,18 @@
+created: 20150227162759759
+creator: Jeanbeaux
+description: At around the same time that one tendril of Hive Fleet Kraken was battling the Imperium on Ichar IV, another was approaching Iyanden, one of the largest and most populous of the Eldar craftworlds. It would be here, amidst eldritch architecture and within wraithbone halls, that the most bloody conflict yet between Eldar and Tyranid would occur.
+list: [[The Shadow Descends]] [[The Kraken Strikes]] [[The Walking Dead]] [[The Prodigal Son]] [[To Slay a Monster]] [[The Cost of Victory]]
+modified: 20201012233424609
+modifier: Jeanbeaux
+tags: Tyranids
+title: Doom of the Eldar
+type: text/vnd.tiddlywiki
+
+Though Iyanden’s rune-casting Farseers had foreseen echoes of doom upon the future, the first proof of the Tyranid threat was reported by the craftworld’s Rangers. A large tendril of Hive Fleet Kraken was headed directly towards Iyanden. It was too vast to outrun and no mere battle line could contain it. Farseer Kelmon, spiritual leader of Iyanden, declared that all would have to fight together if they were to stand a glimmer of hope. The entire craftworld made ready for war, and in a sacred ritual, the Avatar of the Bloody-handed God was awakened. 
+
+<$list filter="[is[current]tagging[]]">
+
+!!{{!!title}}
+{{}}
+
+</$list>

@@ -1,0 +1,19 @@
+created: 20150226231934027
+creator: Jeanbeaux
+description: When Hive Fleet Behemoth arrived at Macragge, the Tyranids found it fortified against them. This was no isolated frontier world, neither was it an ill-defended relay system to be overwhelmed in a brief but vicious struggle. This was Macragge, the Imperium’s bulwark on the eastern rim and home world to an entire Chapter of Space Marines.
+modified: 20201012233424555
+modifier: Jeanbeaux
+tags: Tyranids
+title: Battle for Macragge
+type: text/vnd.tiddlywiki
+
+Thanks to Inquisitor Kryptman, Macragge had been warned of the Tyranids, and Marneus Calgar bent his legendary strategic skills to buttressing Macragge’s already formidable defences. Space Marine Strike Cruisers and Battle Barges loomed like gigantic azure monoliths amongst the Ultramar Defence Fleet and the planet’s orbital weapon platforms; Macragge was surrounded with a ring of firepower. Another foe would have been daunted by the assemblage of might that now guarded the capital world of Ultramar, but the Tyranids came on without delay. The first waves of bio-ships swept past the defences, intent on reaching the planet below. Each vessel was targeted and eliminated in turn by massed firepower, but not before delivering clusters of bio-organisms to Macragge’s surface.
+
+Tyranids swarmed over the planet’s frozen landscape, and the Ultramarines were quick to respond. For a time, Calgar’s forces slowed the tide, trading territory for time as they whittled down the oncoming swarm, dividing the rampaging hordes and staining the snow with alien ichor. Yet even under Calgar’s leadership, such tactics could only last for so long against such numbers, and the Ultramarines were soon forced into making a stand at Cold Steel Ridge.
+
+<$list filter="[is[current]tagging[]]">
+
+!!{{!!title}}
+{{}}
+
+</$list>

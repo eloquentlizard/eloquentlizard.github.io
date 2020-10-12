@@ -1,0 +1,10 @@
+created: 20150215001837927
+creator: Jeanbeaux
+description: Fearless troops never give up and seldom take full use of cover – even if it would be wiser to do so.
+modified: 20201012231042772
+modifier: Jeanbeaux
+tags: [[Special Rule]]
+title: Fearless
+type: text/vnd.tiddlywiki
+
+Units containing one or more models with the Fearless special rule automatically pass [[Pinning]], [[Fear]], Regroup tests and Morale checks, but cannot Go to Ground and cannot choose to fail a Morale check due to the [[Our Weapons Are Useless]] rule. If a unit has Gone to Ground and then gains the Fearless special rule, all the effects of Go to Ground are immediately cancelled.

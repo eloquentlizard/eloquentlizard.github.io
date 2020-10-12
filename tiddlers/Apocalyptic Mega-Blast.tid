@@ -1,0 +1,32 @@
+created: 20150214234516776
+creator: Jeanbeaux
+modified: 20201012231041664
+modifier: Jeanbeaux
+tags: Blast
+title: Apocalyptic Mega-Blast
+type: text/vnd.tiddlywiki
+
+Apocalyptic Mega-blast weapons use the apocalyptic blast marker. They obey the rules for [[Blast]] weapons, with the following exceptions:
+
+*Apocalyptic Mega-blast weapons have three Strength values and three AP values. Correspondingly, the apocalyptic blast marker is divided into three zones, as shown in the diagram to the far right, one for each Strength and AP value.
+
+*The Strength and AP of any hits depends on the zone where the target model is located. The first Strength and AP value are used for the inner zone, the second Strength and AP value are used for the middle zone, and the third Strength and AP value are used for the outer zone. Always use the best Strength and AP if a model straddles two or more zones. If a unit has models in several zones, work out the hits inflicted for each zone separately. Note that there will be a different Wound pool for each zone.
+
+For example, an Aquila macro-cannon firing a quake shell has the Apocalyptic Mega-blast special rule, a Strength of 10/7/5 and an AP value of 1/4/6. The Strength and AP values for the three zones are therefore: 
+
+*Inner - 10 - 1
+*Middle - 7 - 4
+*Outer - 5 - 6
+
+A unit with 3 models in the inner zone and 5 models in the middle zone would suffer 3 Strength 10 AP1 hits, and 5 Strength 7 AP4 hits.
+
+*To determine whether a unit wounded by an Apocalyptic Mega-blast weapon is allowed a cover save, and when determining Wound allocation, always assume the shot is coming from the centre of the apocalyptic blast marker, instead of from the firing model.
+*Hits from Apocalyptic Mega-blast weapons made against vehicles are always resolved against their side armour.
+
+---
+
+!!Apocalyptic Blast Marker
+
+[img[$:/core/images/_apocalyptic-blast-diagram]]
+
+The 10" apocalyptic blast marker has bold rings marked on it (at 5" and 7"). The 5" ring is used for large blast attacks. The 7" ring is used for massive blast attacks. Both rings are used for Apocalyptic Mega-blast attacks: the area enclosed by the 5" ring is the inner zone, the area between the 5" and 7" rings is the middle zone and the area between the 7" ring and the edge of the marker is the outer zone.

@@ -1,0 +1,14 @@
+created: 20150215011513609
+creator: Jeanbeaux
+description: Many of the galaxy’s marksmen are able to single out enemy leaders or soldiers with particularly powerful weapons and snipe them with unerring accuracy.
+modified: 20201012231044606
+modifier: Jeanbeaux
+tags: [[Special Rule]]
+title: Precision Shots
+type: text/vnd.tiddlywiki
+
+If a model with this special rule rolls a 6 To Hit with a shooting weapon, that shot is a ‘Precision Shot’. 
+
+Wounds from Precision Shots are allocated against a model (or models) of your choice in the target unit, as long as it is in range and line of sight of the firer, rather than following the normal rules for Wound allocation. A character that has a Precision Shot Wound allocated to it can still make a Look Out, Sir roll. 
+
+Note that Snap Shots and shots from weapons that scatter, or do not roll To Hit, can never be Precision Shots.

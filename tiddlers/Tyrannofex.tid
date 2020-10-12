@@ -1,0 +1,35 @@
+armor-save: 2+
+attacks: 3
+ballistics-skill: 3
+created: 20151230051405798
+creator: Jeanbeaux
+footer: {{$:/Lore/Tyrannofex}}
+initiative: 1
+leadership: 8
+modified: 20201012231047247
+modifier: Jeanbeaux
+points: 190
+special-rules: [[Instinctive Behaviour (Hunt)]] [[Fearless]] [[Cumbersome]] +[sort[title]]
+strength: 10
+tags: [[Heavy Support]]
+title: Tyrannofex
+toughness: 7
+type: text/vnd.tiddlywiki
+unit-type: Gargantuan Creature
+weapon-skill: 3
+wounds: 6
+
+!!{{!!title}} --- {{!!points}} points
+
+{{||CharacteristicsTable}}
+
+Unit Composition --- 1 {{!!title}}
+
+;Weapons & Biomorphs
+*Must take a single option from the {{Monstrous Heavy Bio-weapons||$:/templates/tooltips}} list at 30 points less (this adjustment is included in the cost of the {{!!title}}).
+
+{{||$:/templates/biomorphs-rules}}
+
+;Options
+
+*May take items from the {{Biomorphs||$:/templates/tooltips}}, {{Carapace Biomorphs||$:/templates/tooltips}}, {{Tail Biomorphs||$:/templates/tooltips}}, and {{Thorax Biomorphs||$:/templates/tooltips}} lists.

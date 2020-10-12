@@ -1,0 +1,13 @@
+[
+    {
+        "created": "20150214233948920",
+        "title": "And They Shall Know No Fear",
+        "text": "A unit that contains at least one model with this special rule automatically passes Fear and Regroup tests. When it Regroups, the unit does not make the 3\" Regroup move, but can instead move, shoot (or Run) and declare charges normally in that turn. Furthermore, if a unit containing one or more models with this special rule is caught by a Sweeping Advance, they are not destroyed, but remain locked in combat instead.",
+        "creator": "Jeanbeaux",
+        "modified": "20201012231041637",
+        "modifier": "Jeanbeaux",
+        "tags": "[[Special Rule]]",
+        "type": "text/vnd.tiddlywiki",
+        "description": "Some warriors refuse to surrender, fighting on whatever the odds. "
+    }
+]

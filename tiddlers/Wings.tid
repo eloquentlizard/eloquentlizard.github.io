@@ -1,0 +1,16 @@
+created: 20150215122808396
+creator: Jeanbeaux
+description: The forelimbs of some Tyranid organisms are in fact leathery wings.
+modified: 20201012231047632
+modifier: Jeanbeaux
+tags: Biomorph
+title: Wings
+type: text/vnd.tiddlywiki
+
+If a [[Monstrous Creature]] has this biomorph, its unit type is [[Flying Monstrous Creature]]. 
+
+If a [[Gargantuan Creature]] has this biomorph, its unit type is [[Flying Gargantuan Creature]].
+
+Any other unit type with this biomorph gains the [[Jump Unit]] designation.
+
+In addition, a Gargantuan or Monstrous Creature with this special rule gains an additional step of the [[Bulky]] special rule, as applicable; models without Bulky, Very Bulky, or Extremely Bulky gain Bulky; models with Bulky replace it with Very Bulky; models with Very Bulky replace it with Extremely Bulky; and models that are already [[Extremely Bulky]] cannot take the Wings biomorph.

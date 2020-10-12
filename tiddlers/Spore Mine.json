@@ -1,0 +1,26 @@
+[
+    {
+        "created": "20150221144456804",
+        "title": "Spore Mine",
+        "text": "!!{{!!caption}} --- {{!!points}} points\n\n{{||CharacteristicsTable}}\n\nUnit Composition --- 1 {{!!title}}\n\n{{||$:/templates/biomorphs-rules}}\n\n;Options\n*May include up to five additional {{!!title}}s --- {{!!points}} points/model\n",
+        "creator": "Jeanbeaux",
+        "modified": "20201012231045641",
+        "modifier": "Jeanbeaux",
+        "tags": "[[Fast Attack]]",
+        "type": "text/vnd.tiddlywiki",
+        "armor-save": "---",
+        "attacks": "---",
+        "ballistics-skill": "---",
+        "caption": "Spore Mine Cluster",
+        "footer": "{{$:/Lore/Spore Mines}}",
+        "initiative": "1",
+        "leadership": "1",
+        "points": "  5",
+        "special-rules": "[[Deep Strike]] [[Fearless]] [[Floating Death]] [[Living Bomb]] +[sort[title]]",
+        "strength": "1",
+        "toughness": "1",
+        "unit-type": "Infantry",
+        "weapon-skill": "---",
+        "wounds": "1"
+    }
+]

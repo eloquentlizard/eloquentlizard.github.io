@@ -1,0 +1,10 @@
+created: 20150215012114567
+creator: Jeanbeaux
+description: Bloodlust is a powerful weapon on the battlefield, spurring a warrior to hack his foes apart in a flurry of mindless (but eminently satisfying) carnage.
+modified: 20201012231045018
+modifier: Jeanbeaux
+tags: [[Special Rule]]
+title: Rage
+type: text/vnd.tiddlywiki
+
+In a turn in which a model with this special rule charges into combat, it gains +2 Attacks for charging, rather than +1. A model that has made a disordered charge that turn receives no benefit from Rage. 

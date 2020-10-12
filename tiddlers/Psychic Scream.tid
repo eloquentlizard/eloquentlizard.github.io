@@ -1,0 +1,13 @@
+created: 20150218203258941
+creator: Jeanbeaux
+modified: 20201012231044906
+modifier: Jeanbeaux
+ordering: 5
+tags: [[Powers of the Hive Mind]] [[Psychic Power]]
+title: Psychic Scream
+type: text/vnd.tiddlywiki
+
+!!#''{{!!ordering}}''. Psychic Scream --- Warp Charge 1
+//Through its vassal, the Hive Mind unleashes a piercing shriek of undiluted psychic energy that shreds the minds of those caught in the wake.//
+
+//Psychic Scream// is a [[nova power|Nova Power]] with a range of 8". For each target unit, roll 2D6+2 and subtract their Leadership. That unit suffers a number of Wounds equal to the result. Armour and cover saves cannot be taken against Wounds caused by //Psychic Scream//.

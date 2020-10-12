@@ -1,0 +1,12 @@
+created: 20150215013042619
+creator: Jeanbeaux
+description: Some warriors are masters of disguise and concealment, able to fade into the ruin of a battlefield until they are ready to strike.
+modified: 20201012231045707
+modifier: Jeanbeaux
+tags: [[Special Rule]]
+title: Stealth
+type: text/vnd.tiddlywiki
+
+A unit that contains at least one model with this special rule counts its cover saves as being 1 point better than normal. Note that this means that a model with the Stealth special rule always has a cover save of at least 6+, even if it is in the open. This rule is often presented as Stealth (X) where X indicates a specific type of terrain, such as Stealth (Woods) or Stealth (Ruins). If this is the case, the unit only gains the benefit whilst it is in terrain of the specified type. 
+
+Cover save bonuses from the Shrouded and Stealth special rules are cumulative (to a maximum of a 2+ cover save).

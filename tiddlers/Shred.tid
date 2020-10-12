@@ -1,0 +1,12 @@
+created: 20150215012430655
+creator: Jeanbeaux
+description: Some weapons and warriors strike in a flurry of blows, tearing flesh asunder in a series of brutal strikes.
+modified: 20201012231045308
+modifier: Jeanbeaux
+tags: [[Special Rule]]
+title: Shred
+type: text/vnd.tiddlywiki
+
+If a model has the Shred special rule, or is attacking with a Melee weapon that has the Shred special rule, it re-rolls failed To Wound rolls in close combat.
+
+Similarly, if a model makes a shooting attack with a weapon that has the Shred special rule, it re-rolls its failed To Wound rolls.

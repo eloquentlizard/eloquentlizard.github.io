@@ -1,0 +1,41 @@
+armor-save: 3+/3++
+attacks: 3
+ballistics-skill: 4
+caption: The Swarmlord
+created: 20150305140916707
+creator: Jeanbeaux
+description: 
+footer: {{$:/Lore/The Swarmlord}}
+initiative: 6
+leadership: 10
+modified: 20201012231045866
+modifier: Jeanbeaux
+points: 285
+special-rules: [[Alien Cunning]] [[Eternal Warrior]] [[Psyker (Mastery Level 3)]] [[Shadow in the Warp]] [[Synapse Creature (18")]] [[Swarm Leader]] +[sort[title]]
+strength: 7
+tags: [[Unique Model]] [[Lord of War]]
+title: Swarmlord
+toughness: 7
+type: text/vnd.tiddlywiki
+unit-type: Monstrous Creature (Character)
+weapon-skill: 9
+wounds: 6
+
+!!{{!!caption}} --- {{!!points}} points
+
+{{||CharacteristicsTable}}
+
+''Unit Composition'': 1 ([[Unique|Unique Model]])
+
+;Bio-artefacts
+*Two pairs of {{Bone Sabres||$:/templates/tooltips}}
+
+{{||$:/templates/biomorphs-rules}}
+
+;Warlord Trait
+<<<
+;Cunning Tactician
+:<span style="font-weight:initial;">At the beginning of each of your movement phases, choose a single friendly unit within synapse range of your warlord. During this movement phase, that unit may move an additional 3".</span>
+<<<
+;Psychic Powers
+:{{!!caption}} generates its psychic powers from the ''Biomancy'', {{Broodmind||$:/templates/tooltips}}, {{Powers of the Hive Mind||$:/templates/tooltips}}, and ''Telepathy'' disciplines.

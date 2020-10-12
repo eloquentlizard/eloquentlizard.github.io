@@ -1,0 +1,39 @@
+armor-save: 4+/3++
+attacks: 3
+ballistics-skill: 4
+biomorphs: [[Psychic Blast]] [[Scything Talons]]
+caption: The Doom of Malan'tai
+created: 20150217162226310
+creator: Jeanbeaux
+description: If your detachment contains the Doom of Malan'tai, you may add an additonal Zoanthrope brood to your detachment. This additional brood does not take up a Force Organization slot. If this option is chosen, the Doom of Malan'tai must deploy attached to that brood of Zoanthropes.
+initiative: 4
+leadership: 10
+modified: 20201012231042573
+modifier: Jeanbeaux
+points: 235
+special-rules: [[Warp Field]] [[Hive Mind's Conduit]] [[Synapse Creature (18")]] [[Shadow in the Warp]] [[Preferred Enemy (Eldar)]] [[Consumptive Field]] [[Psyker (Mastery Level 3)]] +[sort[title]]
+strength: 6
+tags: [[Unique Model]] [[Lord of War]]
+title: Doom of Malan'tai
+toughness: 6
+type: text/vnd.tiddlywiki
+unit-type: Monstrous Creature (Character)
+weapon-skill: 3
+wounds: 5
+
+!!{{!!caption}} --- {{!!points}} points
+
+{{||CharacteristicsTable}}
+
+Unit Composition --- 1 ([[Unique|Unique Model]])
+
+{{||$:/templates/biomorphs-rules}}
+
+;Psychic Powers
+:{{!!caption}} generates its psychic powers from the ''Biomancy'', {{Broodmind||$:/templates/tooltips}}, {{Powers of the Hive Mind||$:/templates/tooltips}}, and ''Telepathy'' disciplines. In addition, it knows the {{Psychic Overload||$:/templates/tooltips}} and {{Spirit Leech||$:/templates/tooltips}} psychic powers.
+
+;Warlord Trait
+<<<
+;The Warp Goes Dead
+:Once per game, you may force a single Psychic Test to fail by spending Warp Charges equal to the number of dice rolled for the power plus two, so long as the manifesting unit is under the Shadow in the Warp.
+<<<

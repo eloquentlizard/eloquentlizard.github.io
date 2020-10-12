@@ -1,13 +1,12 @@
 created: 20140116210927756
 creator: Stephan Hradek
-modified: 20200728191117285
+modified: 20201012231040649
 modifier: Jeanbeaux
-tags: Template
 title: slider
 type: text/vnd.tiddlywiki
 
 \define slider(label)
-<$button popup="$:/state/$label$" class="tc-btn-invisible tw-slider large"><$reveal type="match" text="" default="" state="$:/state/$label$">{{$:/core/images/right-arrow}}</$reveal><$reveal type="nomatch" text="" default="" state="$:/state/$label$">{{$:/core/images/down-arrow}}</$reveal> {{$label$||unwikified}}</$button>
+<$button popup="$:/state/$label$" class="tc-btn-invisible tw-slider tc-tiddlylink"><$reveal type="match" text="" default="" state="$:/state/$label$">{{$:/core/images/right-arrow}}</$reveal><$reveal type="nomatch" text="" default="" state="$:/state/$label$">{{$:/core/images/down-arrow}}</$reveal> {{$label$||unwikified}}</$button>
 <$reveal type="nomatch" text="" default="" state="$:/state/$label$" animate="yes">
 <div>
 

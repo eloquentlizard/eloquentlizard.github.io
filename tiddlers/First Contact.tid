@@ -1,0 +1,22 @@
+created: 20150226214433727
+creator: Jeanbeaux
+description: Mankind’s first recorded contact with Tyranids happened in early 745.M41, on the eastern outskirts of the Imperium. Up to this point, Mankind was wholly unaware of the new threat on its borders, and if any of the galaxy’s older empires knew of the oncoming swarm, they did not see fit to warn the upstart Imperium.
+list: [[The Assault Begins]] [[The Death of Tyran]] [[Death of a World]]
+modified: 20201012233424671
+modifier: Jeanbeaux
+tags: Tyranids
+title: First Contact
+type: text/vnd.tiddlywiki
+
+<p>For decades, since their arrival on the galactic rim, the hive fleets had consumed worlds with no intelligent life, replenishing the reserves of biomatter expended during the long, slow crawl through the interstellar void. Now reinvigorated, the aliens descended upon the far-flung Imperial world of Tyran Primus – an invasion for which the Imperium would thereafter name their race: Tyranids.</p>
+<p>Tyran Primus was home to a heavily fortified Adeptus Mechanicus explorator outpost and was no easy prey. Given the outpost’s position on the very edge of known space, and its separation from the Imperium’s other worlds, it had been founded with both a garrison and armaments deemed adequate to deter the attentions of both piratical raiders and alien invasion. Four giant defence lasers stood guard over the Tyran Primus main base, each protected by void shield generators. This formidable firepower was complemented by an overlapping network of macro-cannon strongpoints, defence bastions and Icarus weapon emplacements. Nor was the planetary garrison lacking in strength. In addition to the Skitarii bodyguard of the outpost’s commander, Magos Varnak, Tyran boasted three Endeavour-class space cruisers and an entire infantry regiment of the Imperial Guard. Such was a standard force for a frontier outpost of the Imperium, a design that had proven itself against a hundred adversaries. Yet here, against this new alien menace, this formidable arsenal would be sorely tested.</p>
+
+<blockquote><p>//‘We cannot live through this. Mankind cannot live through this. In a single day, they have covered this planet with a flood of living blades and needle-fanged mouths. Kill one, and ten take its place. If they are truly without number, then our race is doomed to a violent death before every shred of our civilisation is scoured away by a force more voracious than the fires of hell themselves.// </p>
+<p>//Death! By the Machine God, Death is here!’//</p>--- Magos Varnak, last words</blockquote>
+
+<$list filter="[is[current]tagging[]]">
+
+!!{{!!title}}
+{{}}
+
+</$list>

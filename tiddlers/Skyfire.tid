@@ -1,0 +1,10 @@
+created: 20150215012841081
+creator: Jeanbeaux
+description: Skyfire weapons excel at shooting down enemy aircraft and skimmers.
+modified: 20201012231045375
+modifier: Jeanbeaux
+tags: [[Special Rule]]
+title: Skyfire
+type: text/vnd.tiddlywiki
+
+A model with this special rule, or that is firing a weapon with this special rule, fires using its normal Ballistic Skill when shooting at [[Flyer]]s, [[Flying Monstrous Creature]]s and [[Skimmer]]s, but it can only fire Snap Shots against other targets.

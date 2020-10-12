@@ -1,0 +1,37 @@
+armor-save: 4+/5++
+attacks: 6
+ballistics-skill: 4
+biomorphs: [[Flesh Hooks]] [[Rending Claws]] [[Scything Talons]] [[Feeder Tendrils]] +[sort[title]]
+caption: The Deathleaper
+created: 20151230022512987
+creator: Jeanbeaux
+description: If Deathleaper is in a detachment, that detachment may purchase a single Lictor brood that does not use up a Force Organization slot. Deathleaper must then be attached to that unit when it and the Lictor Brood is deployed, be it normally or via Deep Strike.
+footer: {{$:/Lore/Deathleaper}}
+initiative: 8
+leadership: 10
+modified: 20201012231042429
+modifier: Jeanbeaux
+points: 135
+special-rules: [["Where is it?"]] [[Hyper-reflexes]] [["It's After Me!"]] [[Chameleonic Skin]] [[Deep Strike]] [[Tyranid Assassin]] Fear Fleet [[Hit & Run]] [[Infiltrate]] [[Instinctive Behaviour (Lurk)]] [[Move Through Cover]] [[Pheromone Trail]] [[Stealth]] [[Shrouded]] [[Very Bulky]] +[sort[title]]
+strength: 7
+tags: HQ [[Unique Model]]
+title: Deathleaper
+toughness: 5
+type: text/vnd.tiddlywiki
+unit-type: Infantry (Character)
+weapon-skill: 9
+wounds: 4
+
+!!{{!!caption}} --- {{!!points}} points
+
+{{||CharacteristicsTable}}
+
+Unit Composition --- 1 ([[Unique|Unique Model]])
+
+{{||$:/templates/biomorphs-rules}}
+
+;Warlord Trait
+<<<
+;Mind Eater
+:If your Warlord slays a Character or Independent Character in a challenge, it gains a Mind token. At any point in the game, it may spend a Mind token to reroll a single Leadership test made by it or a friendly unit within 6".
+<<<

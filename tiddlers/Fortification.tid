@@ -1,0 +1,13 @@
+color: #ffffff
+created: 20160109035500873
+creator: Jeanbeaux
+description: 
+icon: $:/core/images/_fortification
+list-after: Lord of War
+modified: 20201012231043080
+modifier: Jeanbeaux
+tags: [[Forces of the Hive Mind]]
+title: Fortification
+type: text/vnd.tiddlywiki
+
+{{||$:/templates/_armylist}}

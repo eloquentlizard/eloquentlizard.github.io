@@ -1,0 +1,32 @@
+abbr: J
+color: #ddf0df
+created: 20150214214910239
+creator: Jeanbeaux
+description: Jump units are equipped with jump packs, wings, teleport devices or other means of moving quickly over short distances. Unlike most other unit type categories, ‘Jump’ is not a classification in and of itself. Instead, you’ll find it occurs before another category – commonly Infantry, sometimes Monstrous Creatures and perhaps, rarely, other things. Jump units therefore share two sets of rules, the Jump unit rules, and those of their base type. Jump [[Infantry]] would, for example, follow the rules for Jump units and [[Infantry]].
+icon: $:/core/images/export-button
+modified: 20201012231043918
+modifier: Jeanbeaux
+tags: [[Unit Type]]
+title: Jump Unit
+type: text/vnd.tiddlywiki
+
+Jump units can use their jump packs once each turn to move more swiftly in either the Movement phase or the Assault phase – they cannot use their jump packs in both phases in the same turn. If not using its jump pack, a model moves as a normal model of its type. Indeed, a Jump unit can always choose to move as a normal model of their type if they wish. Note that the entire unit must always use the same form of movement. Units that are described as ‘moving like’ Jump units follow all of the rules for Jump units, and use the same special rules.
+
+!!Skybourne
+When using its jump pack (whether moving, charging or Falling Back, as we’ll discuss in a moment) a model can move over all other models and all terrain freely. However, if the model begins or ends its move in difficult terrain, it must take a Dangerous Terrain test.
+
+Jump models cannot end their move on top of other models and can only end their move on top of impassable terrain if it is actually possible to place the models on top of it. If they do this, however, they treat the impassable terrain as dangerous terrain.
+
+!!Movement Phase
+If a Jump model uses its jump pack (or equivalent) in the Movement phase, it can move up to 12". 
+
+!!Assault Phase
+If a Jump model uses its jump pack to charge into assault, it can re-roll its charge distance.
+
+Furthermore, to represent the crushing impact of such a charge, a model that uses its jump pack to charge gains the [[Hammer of Wrath]] special rule for the remainder of the turn.
+
+!!Fall Back Moves
+Jump units always use their jump packs when Falling Back, and their Fall Back moves are 3D6", even if they already used their jump pack to move that turn.
+
+!!Special Rules
+Jump units have the [[Bulky]] and [[Deep Strike]] special rules.

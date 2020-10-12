@@ -1,0 +1,27 @@
+[
+    {
+        "created": "20150219202049971",
+        "title": "Carnifex",
+        "text": "!!{{!!caption}} --- {{!!points}} points\n\n{{||CharacteristicsTable}}\n\nUnit Composition --- 1 Carnifex\n\n{{||$:/templates/biomorphs-rules}}\n\n;Options\n*May include up to two additional Carnifexes --- {{!!points}} points/model\n*Any model may take items from the {{Biomorphs||$:/templates/tooltips}}, {{Carapace Biomorphs||$:/templates/tooltips}}, {{Monstrous Bio-cannons||$:/templates/tooltips}}, {{Monstrous Heavy Bio-weapons||$:/templates/tooltips}}, and {{Tail Biomorphs||$:/templates/tooltips}} lists.",
+        "creator": "Jeanbeaux",
+        "modified": "20201012231042184",
+        "modifier": "Jeanbeaux",
+        "tags": "[[Heavy Support]]",
+        "type": "text/vnd.tiddlywiki",
+        "armor-save": "3+",
+        "attacks": "4",
+        "ballistics-skill": "3",
+        "biomorphs": "[[Two pairs of Scything Talons]]",
+        "caption": "Carnifex Brood",
+        "footer": "{{$:/Lore/Carnifex}}",
+        "initiative": "2",
+        "leadership": "7",
+        "points": " 95",
+        "special-rules": "[[Instinctive Behaviour (Feed)]] [[Fearless]] [[Living Battering Ram]] +[sort[title]]",
+        "strength": "9",
+        "toughness": "6",
+        "unit-type": "Monstrous Creature",
+        "weapon-skill": "3",
+        "wounds": "4"
+    }
+]

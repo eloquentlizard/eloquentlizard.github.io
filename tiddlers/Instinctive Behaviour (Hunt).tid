@@ -1,0 +1,12 @@
+created: 20151229043718770
+creator: Jeanbeaux
+modified: 20201012231043853
+modifier: Jeanbeaux
+tags: [[Instinctive Behaviour]]
+title: Instinctive Behaviour (Hunt)
+type: text/vnd.tiddlywiki
+
+|D6|Hunt Result|h
+|1-3|''Burrow and Hide'': //Without the Hive Mind’s direction, the brood burrows to protect itself from enemy fire.//<br>The unit immediately Goes to Ground. Units that contain at least one model with the [[Fearless]] special rule treat this result as Prowl (below), instead.|
+|4-5|''Prowl'': //The Tyranids’ instincts take over and they advance in search of foes to hunt with their bio-weapons.//<br>In the Shooting phase, the unit cannot Run and must instead shoot at the closest enemy unit that is within range and line of sight of at least one model in the Tyranid unit. If there is no viable target, the Tyranid unit can do nothing during the Shooting phase. The unit cannot charge in the Assault phase.|
+|6|''Destroy'': //The brood catches the scent of fresh prey on the wind and they become hyper-actively agitated, bio-weapons spitting death until the prey is utterly destroyed.//<br>This follows all the rules for Prowl (above). In addition, the unit gains the [[Preferred Enemy]] special rule.|

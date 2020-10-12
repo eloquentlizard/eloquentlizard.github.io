@@ -1,0 +1,14 @@
+color: #e8a137
+created: 20150218172644774
+creator: Jeanbeaux
+icon: $:/core/images/_sword
+modified: 20201012231041771
+modifier: Jeanbeaux
+ordering: 1
+tags: [[Wargear List]]
+title: Basic Bio-weapons
+type: text/vnd.tiddlywiki
+
+A model may replace a single pair of ''scything talons'' or a ''fleshborer'' with one of the following:
+
+{{||$:/templates/wargear-list}}

@@ -1,0 +1,13 @@
+color: #ffffff
+created: 20150214213953563
+creator: Jeanbeaux
+description: Heavy Support units are literally the big guns of the army and include the heaviest items of equipment and the toughest creatures. However, they are also very expensive in points, so an over-reliance on them might leave you badly outnumbered.
+icon: $:/core/images/_heavy-support
+list-after: Fast Attack
+modified: 20201012231043386
+modifier: Jeanbeaux
+tags: [[Unit Type]] [[Forces of the Hive Mind]]
+title: Heavy Support
+type: text/vnd.tiddlywiki
+
+{{||$:/templates/_armylist}}

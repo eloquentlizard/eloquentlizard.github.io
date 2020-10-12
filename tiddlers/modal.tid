@@ -1,10 +1,9 @@
 button: <div style="float:right"><$button class="tc-btn-invisible"  message="tm-close-tiddler">{{$:/core/images/close-button}}</$button></div>
 created: 20150104025014654
 creator: Jeanbeaux
-modified: 20200728191114479
+modified: 20201012231040608
 modifier: Jeanbeaux
 subtitle: {{!!title}}{{modal!!button}}
-tags: Template
 title: modal
 type: text/vnd.tiddlywiki
 

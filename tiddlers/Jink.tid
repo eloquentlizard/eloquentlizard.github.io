@@ -1,0 +1,10 @@
+created: 20150215010750797
+creator: Jeanbeaux
+description: Some units favour speed and agility rather than heavy armour to keep them alive on the battlefield, dodging and weaving unscathed through hails of incoming fire.
+modified: 20201012231043906
+modifier: Jeanbeaux
+tags: [[Special Rule]]
+title: Jink
+type: text/vnd.tiddlywiki
+
+When a unit with any models with the Jink special rule is selected as a target for a shooting attack, you may declare that it will Jink. The decision must be made before any To Hit rolls have been made. If the unit Jinks, all models in the unit with this special rule gain a 4+ cover save until the start of their next Movement phase, but they can only fire Snap Shots until the end of their next turn. 

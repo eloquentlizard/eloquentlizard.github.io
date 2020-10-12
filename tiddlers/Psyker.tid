@@ -1,0 +1,12 @@
+color: #ffc576
+created: 20150215011655551
+creator: Jeanbeaux
+description: Psykers are battlefield mystics who harness the power of the Warp.
+icon: $:/core/images/_wannabe-pentagram
+modified: 20201012231044935
+modifier: Jeanbeaux
+tags: [[Special Rule]]
+title: Psyker
+type: text/vnd.tiddlywiki
+
+A model with this special rule is a Psyker. This rule is typically presented with a Mastery Level, shown in brackets – if no Mastery Level is shown then that model has a Mastery Level of 1. Rules for generating and manifesting psychic powers can be found in the Psychic phase section.

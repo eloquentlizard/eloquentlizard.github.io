@@ -1,0 +1,14 @@
+color: #f3ae4a
+created: 20151229031647692
+creator: Jeanbeaux
+description: 
+icon: $:/core/images/import-button
+modified: 20201012231042157
+modifier: Jeanbeaux
+tags: [[Wargear List]]
+title: Carapace Biomorphs
+type: text/vnd.tiddlywiki
+
+A model may take up to one of the following biomorphs:
+
+{{||$:/templates/wargear-list}}

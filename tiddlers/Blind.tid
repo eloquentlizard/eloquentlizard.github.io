@@ -1,0 +1,9 @@
+created: 20150215125039776
+creator: Jeanbeaux
+modified: 20201012231041958
+modifier: Jeanbeaux
+tags: [[Special Rule]]
+title: Blind
+type: text/vnd.tiddlywiki
+
+Any unit hit by a model or weapon with this special rule must immediately take an Initiative test. If the test is passed, all is well – a shouted warning has caused the warriors to avert their gaze. If the Initiative test is failed, all models in the unit are reduced to Weapon Skill and Ballistic Skill 1 until the end of their next turn. Should the attacking unit hit themselves, we assume they are prepared and they automatically pass the test. Furthermore, any model that does not have an Initiative characteristic (for example non-walker Vehicles, Fortifications etc) are unaffected by this special rule.

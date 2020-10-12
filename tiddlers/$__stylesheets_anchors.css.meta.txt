@@ -1,7 +1,0 @@
-created: 20150914065652497
-creator: eloquentlizard
-modified: 20200728191107322
-modifier: eloquentlizard
-tags: $:/tags/Stylesheet
-title: $:/stylesheets/_anchors
-type: text/css

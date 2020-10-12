@@ -1,0 +1,13 @@
+created: 20161002000412170
+creator: Jeanbeaux
+modified: 20201012231042091
+modifier: Jeanbeaux
+tags: [[Psychic Discipline]]
+title: Broodmind
+type: text/vnd.tiddlywiki
+
+<$list filter="[tag[Broodmind]tag[Psychic Power]sort[ordering]]">
+
+{{}}
+
+</$list>

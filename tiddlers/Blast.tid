@@ -1,0 +1,35 @@
+color: #ffc576
+created: 20150214234115605
+creator: Jeanbeaux
+description: Blast weapons fire shells, missiles or packets of energy that explode on impact.
+icon: $:/core/images/_books
+modified: 20201012231041943
+modifier: Jeanbeaux
+tags: [[Special Rule]]
+title: Blast
+type: text/vnd.tiddlywiki
+
+When firing a Blast weapon, models do not roll To Hit. Instead, just pick one enemy model visible to the firer and place the 3" blast marker with its hole entirely over the base of the target model (see diagram), or its hull if the target is a vehicle. The hole at the centre of the marker must be within the weapon’s maximum range. You cannot place the blast marker so that the base or hull of any friendly model is even partially under it. 
+
+The large area affected by the blast means it’s going to be very hard to miss completely. Nonetheless, the shot might not land exactly where intended. Roll for the blast marker to scatter and subtract the firer’s Ballistic Skill from the distance (if any) that it scatters, to a minimum of 0". Note that it is possible, and absolutely fine, for a shot to scatter beyond the weapon’s maximum or minimum range and line of sight. This represents the chance of ricochets, the missile blasting through cover and other random events. In these cases, hits are worked out as normal and can hit and wound units out of range and line of sight (or even your own units, or models locked in combat). If the shot scatters so that the hole in the centre of the marker is beyond the table’s edge, the shot is a complete miss and is discarded. 
+
+Once the final position of the blast marker has been determined, take a good look at it from above – each unit suffers one hit for each of their models which is fully or partially beneath the blast marker, even if those models are not within the firer’s line of sight. 
+
+Once the number of hits inflicted on the unit has been worked out, roll To Wound and save as normal. Remember that any Wounds inflicted by weapons with the Blast special rule must be allocated to the closest model in the target unit even if it is out of sight of any models from the attacking unit. 
+
+!!Multiple Blasts
+If a unit is firing more than one shot with the Blast special rule, scatter each shot, one at a time, as described above and determine how many hits are scored with each individual blast marker. After the last shot, add up the total number of hits scored and roll all of the To Wound rolls as normal.
+
+!!Blast Weapons & Re-rolls
+If a model has the ability to re-roll its rolls To Hit and chooses to do so after firing a Blast weapon, the player must re-roll both the scatter dice and the 2D6.
+
+!!Blast Weapons & Snap Shots
+Blast weapons cannot be fired as Snap Shots.
+
+---
+
+!!Blasts & Scatter
+@@
+[img height="200em" [Blast Scatter Example|$:/core/images/_blast-scatter-example]]
+@@
+A Space Marine (BS4) fires a frag missile and rolls an arrow on the scatter dice. The 2D6 result is a 7, so the blast is moved 3" (7 minus 4) in the direction indicated by the arrow. Two Orks are fully or partially under the final position of the blast marker and, therefore, the unit of Orks suffers two hits from the frag missile.

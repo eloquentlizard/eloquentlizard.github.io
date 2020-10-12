@@ -1,0 +1,26 @@
+[
+    {
+        "created": "20150219161318540",
+        "title": "Pyrovore",
+        "text": "!!{{!!caption}} --- {{!!points}} points\n\n{{||CharacteristicsTable}}\n\nUnit Composition --- 1 {{!!title}}\n\n{{||$:/templates/biomorphs-rules}}\n\n;Options\n*May include up to two additional {{!!title}}s - {{!!points}} points/model\n*May take items from the {{Biomorphs||$:/templates/tooltips}} list.",
+        "creator": "Jeanbeaux",
+        "modified": "20201012231045003",
+        "modifier": "Jeanbeaux",
+        "tags": "Elite Troops",
+        "type": "text/vnd.tiddlywiki",
+        "armor-save": "4+",
+        "attacks": "2",
+        "ballistics-skill": "3",
+        "biomorphs": "[[Acid Blood]] [[Acid Maw]] [[Flamespurt]]",
+        "caption": "Pyrovore Brood",
+        "initiative": "2",
+        "leadership": "6",
+        "points": " 40",
+        "special-rules": "[[Instinctive Behaviour (Feed)]] [[Very Bulky]] [[Volatile]]",
+        "strength": "4",
+        "toughness": "4",
+        "unit-type": "Infantry",
+        "weapon-skill": "3",
+        "wounds": "3"
+    }
+]

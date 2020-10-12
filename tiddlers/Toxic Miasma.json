@@ -1,0 +1,14 @@
+[
+    {
+        "created": "20150215122248969",
+        "title": "Toxic Miasma",
+        "text": "Once per game, in any Assault phase, a unit with this biomorph can unleash its toxic miasma. If it does so, at the Initiative 1 step, all enemy units engaged in the combat suffer a number of hits equal to the number of models from their unit in base contact with any model from the Tyranid unit unleashing the toxic miasma. These hits are resolved at Strength 3 AP- and have the Poisoned and Ignores Cover special rules.\n\n''Special'': Unlike other biomorphs, Toxic Miasma may be taken more than once by a single model. Each additional time it is taken after the first grants it an additional attempt per game to unleash its toxic miasma, as described above. Regardless of the number of times a model possesses this biomorph, it may only use a single toxic miasma in any given Assault phase.",
+        "creator": "Jeanbeaux",
+        "modified": "20201012231046869",
+        "modifier": "Jeanbeaux",
+        "tags": "Biomorph Biomorphs",
+        "type": "text/vnd.tiddlywiki",
+        "description": "Some creatures emit toxins to poison a prey world’s atmosphere. ",
+        "points": " 5"
+    }
+]

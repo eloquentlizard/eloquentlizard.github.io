@@ -1,0 +1,26 @@
+[
+    {
+        "created": "20150217163905003",
+        "title": "Mucolid Spore",
+        "text": "!!{{!!caption}} --- {{!!points}} points\n\n{{||CharacteristicsTable}}\n\nUnit Composition --- 1 {{!!title}}\n\n{{||$:/templates/biomorphs-rules}}\n\n;Options\n*May include up to two additional {{!!title}}s --- {{!!points}} points/model\n",
+        "creator": "Jeanbeaux",
+        "modified": "20201012231044265",
+        "modifier": "Jeanbeaux",
+        "tags": "Troops",
+        "type": "text/vnd.tiddlywiki",
+        "armor-save": "---",
+        "attacks": "---",
+        "ballistics-skill": "---",
+        "caption": "Mucolid Spore Cluster",
+        "footer": "{{$:/Lore/Mucolid Spore}}",
+        "initiative": "3",
+        "leadership": "3",
+        "points": " 15",
+        "special-rules": "[[Deep Strike]] [[Fearless]] [[Shrouded]] [[Skyblast]] [[Massive Floating Bomb]] [[Floating Death]] [[Living Bomb]] +[sort[title]]",
+        "strength": "1",
+        "toughness": "3",
+        "unit-type": "Infantry",
+        "weapon-skill": "---",
+        "wounds": "3"
+    }
+]

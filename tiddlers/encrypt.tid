@@ -1,8 +1,7 @@
-color: #ffffff
-created: 20141227132745690
+color: #000000
+created: 20150218193840239
 creator: Jeanbeaux
-icon: $:/core/images/locked-padlock
-modified: 20200728191109738
+modified: 20201012231040533
 modifier: Jeanbeaux
 title: encrypt
 type: text/vnd.tiddlywiki

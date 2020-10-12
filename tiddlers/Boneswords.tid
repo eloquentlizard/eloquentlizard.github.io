@@ -1,0 +1,12 @@
+created: 20150218171350513
+creator: Jeanbeaux
+description: Boneswords are living monomolecular blades that can drain the life-force of their victims.
+modified: 20201012231042022
+modifier: Jeanbeaux
+points: 15
+tags: Weapon [[Melee Bio-weapons]]
+title: Boneswords
+type: text/vnd.tiddlywiki
+
+|| Range | S | AP | Type |h
+|Boneswords| --- | User | 3 |Melee, [[Life Drain]], [[Shred]]|

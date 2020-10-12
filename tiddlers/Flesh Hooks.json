@@ -1,0 +1,14 @@
+[
+    {
+        "created": "20150215122414181",
+        "title": "Flesh Hooks",
+        "text": "Models equipped with this biomorph don’t suffer the penalty to their Initiative for charging enemies through difficult terrain but fight at their normal Initiative. In addition, they can each be fired as a ranged weapon with the relevant profile below.\n\n||Range|S|AP|Type|h\n|Flesh Hooks| 6\" | User | --- | [[Assault]] 2|\n''Special'': This biomorph //may not// be selected by ''Monstrous'' or ''Gargantuan Creatures'' unless the creature's entry specifies otherwise.",
+        "creator": "Jeanbeaux",
+        "modified": "20201012231042918",
+        "modifier": "Jeanbeaux",
+        "tags": "Biomorph Biomorphs",
+        "type": "text/vnd.tiddlywiki",
+        "description": "Flesh hooks are attached to a Tyranid’s ribcage by ropy tendrils and allow it to scale sheer surfaces or snare prey at close range.",
+        "points": " 3"
+    }
+]

@@ -1,0 +1,13 @@
+created: 20150218191330679
+creator: Jeanbeaux
+description: First named by Inquisitor Kryptman, the Norn Crown is a unique parasitic organism that clings to the armoured crest of the host creature’s head with dozens of tendrils. Burrowing needle-like cerebral bores directly into the brain of its host, the Norn Crown forms a neuro-synaptic link that acts as a hyper-conduit for the Hive Mind. Through this abhorrent union, the Hive Mind’s indomitable will can pour forth to augment and control the hordes of lesser Tyranids that scuttle in the leader-beast’s wake.
+modified: 20201012231046551
+modifier: Jeanbeaux
+points: 25
+tags: Biomorph [[Tyranid Bio-artefacts]]
+title: The Norn Crown
+type: text/vnd.tiddlywiki
+
+A model with //the Norn Crown// adds 6" to its synapse range. If the model does not possess the [[Synapse Creature]] special rule, it gains the [[Synapse Creature]] (6") and [[Shadow in the Warp]] special rules.
+
+''Special'': Unlike other Tyranid Bio-artefacts, //the Norn Crown// does not replace a model's [[scything talons|Scything Talons]] and so can be taken in addition to any other weapon/upgrade.

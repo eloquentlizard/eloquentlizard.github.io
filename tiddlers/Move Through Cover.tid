@@ -1,0 +1,10 @@
+created: 20150215010933334
+creator: Jeanbeaux
+description: Some warriors are skilled at moving over broken and tangled terrain.
+modified: 20201012231044253
+modifier: Jeanbeaux
+tags: [[Special Rule]]
+title: Move Through Cover
+type: text/vnd.tiddlywiki
+
+A unit that contains at least one model with this special rule rolls an extra D6 when rolling to move through difficult terrain and is not slowed by charging through difficult terrain. In most circumstances, this will mean that, when moving, the unit rolls 3D6 and picks the highest roll. Furthermore, a model with the Move Through Cover special rule automatically passes Dangerous Terrain tests.

@@ -1,0 +1,15 @@
+[
+    {
+        "created": "20150214215556414",
+        "title": "Monstrous Creature",
+        "text": "!!Shooting\nMonstrous Creatures can fire up to two of their weapons each Shooting phase – they must, of course, fire both at the same target. They may never Go to Ground, voluntarily or otherwise.\n\n!!Special Rules\nMonstrous Creatures have the [[Fear]], [[Hammer of Wrath]], [[Move Through Cover]], [[Relentless]] and [[Smash]] special rules.\n\n!!Tyranid Monstrous Creatures\n<$list filter=\"[tag[Monstrous Creature]sort[title]]\">\n\n*<$link><$view field=title/></$link>\n\n</$list>",
+        "creator": "Jeanbeaux",
+        "modified": "20201012231044225",
+        "modifier": "Jeanbeaux",
+        "tags": "[[Unit Type]]",
+        "type": "text/vnd.tiddlywiki",
+        "color": "#ddf0df",
+        "description": "Some creatures are just too big to fit into the ordinary Infantry unit category. These are towering giants that are capable of crushing a tank – like the Tyranid Carnifex, a creature bioengineered and evolved to become a living battering ram. While Monstrous Creatures use many of the Infantry rules, their size and destructive capability make them a lot more dangerous. ",
+        "icon": "$:/core/images/_crown"
+    }
+]
