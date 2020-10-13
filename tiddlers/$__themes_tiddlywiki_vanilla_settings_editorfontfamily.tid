@@ -1,6 +1,6 @@
-created: 20201012222626400
-modified: 20201012222626426
+created: 20201013032459532
+modified: 20201013032459555
 title: $:/themes/tiddlywiki/vanilla/settings/editorfontfamily
 type: text/vnd.tiddlywiki
 
-"SFMono-Regular",Consolas,"Liberation Mono",Menlo,Courier,monospace
+"Dwarf Fortress", "SFMono-Regular",Consolas,"Liberation Mono",Menlo,Courier,monospace

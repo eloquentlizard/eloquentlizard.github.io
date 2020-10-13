@@ -1,8 +1,6 @@
-created: 20141016161112160
-creator: Jeanbeaux
-modified: 20201012222946148
-modifier: Jeanbeaux
+created: 20201013032052418
+modified: 20201013032056366
 title: $:/themes/tiddlywiki/vanilla/settings/fontfamily
 type: text/vnd.tiddlywiki
 
-"Highway Gothic","Cardo","Liberation Sans","Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif`
+hwy, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"

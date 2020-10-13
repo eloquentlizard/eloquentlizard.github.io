@@ -1,10 +1,8 @@
 created: 20151007025948698
-modified: 20200728191117002
+modified: 20201013113929416
 tags: 
 title: RenameTags
 type: text/vnd.tiddlywiki
-
-This great trick was shown to the tiddlywiki google group by [[Alberto Molina|https://groups.google.com/forum/#!topic/tiddlywiki/OCntQ79DuwM]]. I enhanced it a bit.
 
 |!Search tag: | <$edit-text tiddler="$:/temp/RenameTags/search" tag="input" type="text"/> |
 |!Replace by: | <$edit-text tiddler="$:/temp/RenameTags/replace" tag="input" type="text"/> |

@@ -3,11 +3,50 @@
     "plugins": [
         "tiddlywiki/tiddlyweb",
         "tiddlywiki/filesystem",
-        "tiddlywiki/highlight"
+        "tiddlywiki/highlight",
+        "tiddlywiki/codemirror",
+        "tiddlywiki/codemirror-autocomplete",
+        "tiddlywiki/codemirror-closebrackets",
+        "tiddlywiki/codemirror-closetag",
+        "tiddlywiki/codemirror-mode-css",
+        "tiddlywiki/codemirror-mode-htmlembedded",
+        "tiddlywiki/codemirror-mode-htmlmixed",
+        "tiddlywiki/codemirror-mode-javascript",
+        "tiddlywiki/codemirror-mode-markdown",
+        "tiddlywiki/codemirror-mode-xml",
+        "tiddlywiki/codemirror-mode-x-tiddlywiki",
+        "tiddlywiki/codemirror-search-replace",
+        "tiddlywiki/d3",
+        "tiddlywiki/browser-sniff",
+        "tiddlywiki/blog",
+        "tiddlywiki/external-attachments",
+        "tiddlywiki/github-fork-ribbon",
+        "tiddlywiki/internals",
+        "tiddlywiki/katex",
+        "tiddlywiki/sax",
+        "tiddlywiki/jszip",
+        "tiddlywiki/menubar",
+        "tiddlywiki/qrcode",
+        "tiddlywiki/stacked-view",
+        "tiddlywiki/text-slicer",
+        "tiddlywiki/xlsx-utils",
+        "tiddlywiki/xmldom",
+        "tiddlywiki/dynaview",
+        "tiddlywiki/nodewebkitsaver"
     ],
     "themes": [
         "tiddlywiki/vanilla",
-        "tiddlywiki/snowwhite"
+        "tiddlywiki/snowwhite",
+        "tiddlywiki/centralised",
+        "tiddlywiki/heavier",
+        "tiddlywiki/readonly",
+        "tiddlywiki/seamless",
+        "tiddlywiki/starlight",
+        "tiddlywiki/tight",
+        "tiddlywiki/tight-heavier"
+    ],
+    "languages": [
+        "en-US"
     ],
     "build": {
         "index": [

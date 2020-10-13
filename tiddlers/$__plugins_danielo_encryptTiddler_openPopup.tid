@@ -1,9 +1,0 @@
-created: 20140406151910358
-creator: Danielo
-modified: 20200728191106749
-modifier: Jeanbeaux
-tags: encrypt
-title: $:/plugins/danielo/encryptTiddler/openPopup
-type: text/vnd.tiddlywiki
-
-<$reveal state="$:/state/encrypt" type="nomatch" text={{!!title}} animate="no"><$button set="$:/state/encrypt" setTo={{!!title}} class=<<tv-config-toolbar-class>>>{{$:/plugins/danielo/encryptTiddler/unlocked}} <span class="tc-btn-text"><$text text="encrypt »"/></span></$button></$reveal><$reveal state="$:/state/encrypt" type="match" text={{!!title}} animate="no"><$button set="$:/state/encrypt" setTo="" class=<<tv-config-toolbar-class>>>{{$:/plugins/danielo/encryptTiddler/unlocked}}<$text text="encrypt «"/></$button></$reveal>

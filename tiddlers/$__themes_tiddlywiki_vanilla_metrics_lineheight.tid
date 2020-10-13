@@ -1,8 +1,6 @@
-created: 20141225105830020
-creator: Jeanbeaux
-modified: 20201012222927644
-modifier: Jeanbeaux
+created: 20201013031749977
+modified: 20201013032942643
 title: $:/themes/tiddlywiki/vanilla/metrics/lineheight
 type: text/vnd.tiddlywiki
 
-18px
+{{$:/themes/tiddlywiki/vanilla/metrics/bodylineheight}}

@@ -1,8 +1,6 @@
-created: 20141225105753660
-creator: Jeanbeaux
-modified: 20200728191107631
-modifier: Jeanbeaux
+created: 20201013031754307
+modified: 20201013031754330
 title: $:/themes/tiddlywiki/vanilla/metrics/bodyfontsize
 type: text/vnd.tiddlywiki
 
-{{$:/themes/tiddlywiki/vanilla/metrics/fontsize}}
+14px

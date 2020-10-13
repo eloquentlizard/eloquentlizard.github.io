@@ -1,3 +1,11 @@
+.title,h1,h2,h3,h4,h5,h6 {
+	font-family:'London';
+}
+
+code {
+	font-family:'Dwarf Fortress','Courier New';
+}
+
 .tc-tagged-Tyranids {
 	font-family: "Cardo", "Celestia Antiqua Alt", "Liberation Serif", "Times New Roman", serif;
 }
