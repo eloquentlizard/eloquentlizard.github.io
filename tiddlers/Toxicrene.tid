@@ -1,14 +1,14 @@
 armor-save: 4+
 attacks: 6
-ballistics-skill: 3
+ballistic-skill: 3
 biomorphs: [[Acid Blood]] [[Choking Cloud]] [[Lash Whips]] [[Feeder Tendrils]] [[Grasping Tendrils]] [[Toxic Miasma]] +[sort[title]]
 created: 20150220124331650
-creator: Jeanbeaux
+creator: eloquentlizard
 footer: {{$:/Lore/Toxicrene}}
 initiative: 3
 leadership: 8
-modified: 20201012231046884
-modifier: Jeanbeaux
+modified: 20201013212927244
+modifier: eloquentlizard
 points: 160
 special-rules: Fearless [[Very Bulky]] Hypertoxic [[Poisoned (2+)]] Shrouded [[Instinctive Behaviour (Feed)]] +[sort[title]]
 strength: 5

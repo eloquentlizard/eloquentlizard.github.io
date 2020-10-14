@@ -1,8 +1,8 @@
 caption: expert healer
 created: 20150204144314519
-creator: Jeanbeaux
+creator: eloquentlizard
 modified: 20200728191110144
-modifier: Jeanbeaux
+modifier: eloquentlizard
 subtitle: {{!!title}}{{modal!!button}}
 tags: Components
 title: Field Medic/Expert Healer

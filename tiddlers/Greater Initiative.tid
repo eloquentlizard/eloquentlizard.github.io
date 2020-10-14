@@ -1,10 +1,10 @@
 created: 20141230022631772
-creator: Jeanbeaux
+creator: eloquentlizard
 description: +4 on Inititative checks, not flat-footed before acting
 description-full: You gain an additional +4 on initiative checks, and are not flat-footed before your first turn in combat, even in surprise rounds.
 flavor: You are quick to act and never caught off-guard.
 modified: 20200728191110612
-modifier: Jeanbeaux
+modifier: eloquentlizard
 prereqs: Improved Initiative
 tags: Feats [[Extinguishing the Guiding Light]] Homebrew
 title: Greater Initiative

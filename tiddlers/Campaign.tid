@@ -1,12 +1,12 @@
 caption: Campaigns
 color: #5bb8d9
 created: 20140823213337120
-creator: Jeanbeaux
+creator: eloquentlizard
 description: An easily accessible menu for roleplaying games
 icon: $:/core/images/_books
 list-after: HelloThere
 modified: 20200728191108577
-modifier: Jeanbeaux
+modifier: eloquentlizard
 tags: [[Table of Contents]]
 title: Campaign
 type: text/vnd.tiddlywiki

@@ -1,8 +1,8 @@
 caption: bonus feat
 created: 20150203023429599
-creator: Jeanbeaux
+creator: eloquentlizard
 modified: 20200728191107909
-modifier: Jeanbeaux
+modifier: eloquentlizard
 subtitle: {{!!title}}{{modal!!button}}
 tags: Components
 title: Acolyte/Bonus Feat

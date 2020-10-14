@@ -1,8 +1,8 @@
 caption: delay damage
 created: 20150204145749686
-creator: Jeanbeaux
+creator: eloquentlizard
 modified: 20200728191109151
-modifier: Jeanbeaux
+modifier: eloquentlizard
 subtitle: {{!!title}}{{modal!!button}}
 tags: Components
 title: Daredevil/Delay Damage

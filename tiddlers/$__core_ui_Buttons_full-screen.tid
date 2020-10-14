@@ -1,9 +1,9 @@
 caption: {{$:/core/images/full-screen-button}} {{$:/language/Buttons/FullScreen/Caption}}
 created: 20141226041657243
-creator: Jeanbeaux
+creator: eloquentlizard
 description: {{$:/language/Buttons/FullScreen/Hint}}
 modified: 20200728191106188
-modifier: Jeanbeaux
+modifier: eloquentlizard
 tags: $:/tags/PageControls
 title: $:/core/ui/Buttons/full-screen
 type: text/vnd.tiddlywiki

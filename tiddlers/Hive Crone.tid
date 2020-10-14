@@ -1,15 +1,15 @@
 armor-save: 4+
 attacks: 3
-ballistics-skill: 3
+ballistic-skill: 3
 biomorphs: [[Drool Cannon]] [[Scything Talons]] [[Four Tentaclids]] [[Wings]]
 caption: Tyranid Hive Crone
 created: 20150221144936489
-creator: Jeanbeaux
+creator: eloquentlizard
 footer: {{$:/Lore/Hive Crone}}
 initiative: 5
 leadership: 10
-modified: 20201012231043478
-modifier: Jeanbeaux
+modified: 20201013212928551
+modifier: eloquentlizard
 points: 155
 special-rules: [[Raking Strike]] [[Instinctive Behaviour (Feed)]] [[Fearless]] +[sort[title]]
 strength: 5

@@ -1,9 +1,9 @@
 caption: {{$:/core/images/menu-button}} {{$:/language/Buttons/More/Caption}}
 created: 20150207062123493
-creator: Jeanbeaux
+creator: eloquentlizard
 description: {{$:/language/Buttons/More/Hint}}
 modified: 20200728191106215
-modifier: Jeanbeaux
+modifier: eloquentlizard
 tags: $:/tags/ViewToolbar
 title: $:/core/ui/Buttons/more-tiddler-actions
 type: text/vnd.tiddlywiki

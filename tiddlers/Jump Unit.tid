@@ -1,11 +1,11 @@
 abbr: J
 color: #ddf0df
 created: 20150214214910239
-creator: Jeanbeaux
+creator: eloquentlizard
 description: Jump units are equipped with jump packs, wings, teleport devices or other means of moving quickly over short distances. Unlike most other unit type categories, ‘Jump’ is not a classification in and of itself. Instead, you’ll find it occurs before another category – commonly Infantry, sometimes Monstrous Creatures and perhaps, rarely, other things. Jump units therefore share two sets of rules, the Jump unit rules, and those of their base type. Jump [[Infantry]] would, for example, follow the rules for Jump units and [[Infantry]].
 icon: $:/core/images/export-button
 modified: 20201012231043918
-modifier: Jeanbeaux
+modifier: eloquentlizard
 tags: [[Unit Type]]
 title: Jump Unit
 type: text/vnd.tiddlywiki

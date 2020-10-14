@@ -1,8 +1,8 @@
 created: 20141226033325850
-creator: Jeanbeaux
+creator: eloquentlizard
 description: Usage: `{{URL||web}}` embeds a webpage into the TiddlyWiki
 modified: 20200728191118112
-modifier: Jeanbeaux
+modifier: eloquentlizard
 tags: Template
 title: web
 type: text/vnd.tiddlywiki

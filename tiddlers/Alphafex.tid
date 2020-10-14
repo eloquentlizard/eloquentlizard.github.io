@@ -1,17 +1,17 @@
 armor-save: 3+
 attacks: 4
-ballistics-skill: 4
+ballistic-skill: 4
 created: 20150919224344022
-creator: Jeanbeaux
+creator: eloquentlizard
 description: The Tyranids' Screaming Demon
 initiative: 3
 leadership: 10
-modified: 20201012233022526
-modifier: Jeanbeaux
+modified: 20201013212929804
+modifier: eloquentlizard
 points: 200
 prefix: The
 strength: 9
-tags: [[WH40K Campaign Tyranid Warlords]] Archived
+tags: [[Campaign Tyranid Warlords]] Archived
 title: Alphafex
 toughness: 6
 type: text/vnd.tiddlywiki

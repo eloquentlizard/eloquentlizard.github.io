@@ -1,11 +1,11 @@
 created: 20141230025617656
-creator: Jeanbeaux
+creator: eloquentlizard
 description: Gain additonal tertiary attack
 description-full: You gain a fourth attack with a tertiary weapon at a -15 penalty.
 flavor: You are a grandmaster of the three-weapon fighting style.
 list-after: Greater Three-Weapon Fighting
 modified: 20200728191115042
-modifier: Jeanbeaux
+modifier: eloquentlizard
 prereqs: Dex 17, Three-Weapon Fighting, Improved Three-Weapon Fighting, Greater Three-Weapon Fighting, Two-Weapon Fighting, Improved Two-Weapon Fighting, Greater Two-Weapon Fighting, Perfect Two-Weapon Fighting
 tags: Feats [[Extinguishing the Guiding Light]] Homebrew
 tags-feat: Fighter Bonus Feat

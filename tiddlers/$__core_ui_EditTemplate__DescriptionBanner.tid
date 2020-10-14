@@ -1,9 +1,9 @@
 created: 20150210024412305
-creator: Jeanbeaux
+creator: eloquentlizard
 description: A simple banner for editing the description of a tiddler.
 list-before: $:/core/ui/EditTemplate/tags
 modified: 20200728191106229
-modifier: Jeanbeaux
+modifier: eloquentlizard
 tags: $:/tags/EditTemplate
 title: $:/core/ui/EditTemplate/_DescriptionBanner
 type: text/vnd.tiddlywiki

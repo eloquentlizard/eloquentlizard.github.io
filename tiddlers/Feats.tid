@@ -1,12 +1,12 @@
 color: 
 created: 20141227133035010
-creator: Jeanbeaux
+creator: eloquentlizard
 description-full: Feat full description goes here
 flavor: flavor text goes here
 icon: $:/core/images/plugin-generic-theme
 list: Bookworm [[Improved Diehard]] [[Greater Diehard]] [[Supreme Diehard]] [[Focused Meditation]] [[Greater Initiative]] [[Supreme Initiative]] [[Perfect Two-Weapon Fighting]] [[Three-Weapon Fighting]] [[Improved Three-Weapon Fighting]] [[Greater Three-Weapon Fighting]] [[Perfect Three-Weapon Fighting]]
 modified: 20200728191109992
-modifier: Jeanbeaux
+modifier: eloquentlizard
 normal: normal rules without this feat (if they're notable)
 prereqs: Prerequisites for the feat
 special: Special rules for the feat (if any)

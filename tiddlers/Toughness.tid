@@ -1,11 +1,11 @@
 caption: Toughness
 created: 20141230030440048
-creator: Jeanbeaux
+creator: eloquentlizard
 description: +5 HP
 description-full: You gain +5 hit points and +5 to your Massive Damage Threshold.
 flavor: You're tougher than most.
 modified: 20200728191117883
-modifier: Jeanbeaux
+modifier: eloquentlizard
 prereqs: (none)
 special: You may take this feat multiple times. Its effects stack.
 tags: Feats Homebrew

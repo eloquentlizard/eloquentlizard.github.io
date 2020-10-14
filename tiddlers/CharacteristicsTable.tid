@@ -1,7 +1,7 @@
 created: 20150212173914745
-creator: Jeanbeaux
-modified: 20201012231042277
-modifier: Jeanbeaux
+creator: eloquentlizard
+modified: 20201013205021407
+modifier: eloquentlizard
 title: CharacteristicsTable
 type: text/vnd.tiddlywiki
 
@@ -21,7 +21,7 @@ type: text/vnd.tiddlywiki
 	<tr>
         <td style="text-align:left;">{{!!unit-type}}</td>
 		<td style="text-align:center;">{{!!weapon-skill}}</td>
-		<td style="text-align:center;">{{!!ballistics-skill}}</td>
+		<td style="text-align:center;">{{!!ballistic-skill}}</td>
 		<td style="text-align:center;">{{!!strength}}</td>
 		<td style="text-align:center;">{{!!toughness}}</td>
 		<td style="text-align:center;">{{!!wounds}}</td>

@@ -1,11 +1,11 @@
 caption: Focused Meditation
 created: 20141230030158580
-creator: Jeanbeaux
+creator: eloquentlizard
 description: Stunt feat gain, then gain extra feat
 description-full: Choose three feats (other than this feat) for which you currently qualify. The next time you gain an odd-numbered level, you gain all three of those feats, and you lose this feat.
 flavor: You meditate a little bit every day, putting off some of your growth until it matures into something better.
 modified: 20200728191110287
-modifier: Jeanbeaux
+modifier: eloquentlizard
 prereqs: Character Level 7th
 special: This feat may not be taken as a bonus feat. It may only be gained as part of normal level advancement (in which feats are gained every odd-numbered level). A character may not take this feat more than once at a time.
 tags: Feats Homebrew [[Extinguishing the Guiding Light]]

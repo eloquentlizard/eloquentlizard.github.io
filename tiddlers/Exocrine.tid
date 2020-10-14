@@ -1,14 +1,14 @@
 armor-save: 3+
 attacks: 3
-ballistics-skill: 3
+ballistic-skill: 3
 biomorphs: [[Bio-plasmic Cannon]] [[Scything Talons]]
 created: 20150219155728552
-creator: Jeanbeaux
+creator: eloquentlizard
 footer: {{$:/Lore/Exocrine}}
 initiative: 3
 leadership: 7
-modified: 20201012231042717
-modifier: Jeanbeaux
+modified: 20201013212925927
+modifier: eloquentlizard
 points: 170
 special-rules: [[Symbiotic Targeting]] [[Bulky]] [[Instinctive Behaviour (Hunt)]] [[Fearless]] +[sort[title]]
 strength: 6

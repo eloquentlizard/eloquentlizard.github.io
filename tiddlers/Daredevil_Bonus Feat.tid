@@ -1,8 +1,8 @@
 caption: bonus feat
 created: 20150204145747119
-creator: Jeanbeaux
+creator: eloquentlizard
 modified: 20200728191109125
-modifier: Jeanbeaux
+modifier: eloquentlizard
 subtitle: {{!!title}}{{modal!!button}}
 tags: Components
 title: Daredevil/Bonus Feat

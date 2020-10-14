@@ -1,8 +1,8 @@
 created: 20141228073713012
-creator: Jeanbeaux
+creator: eloquentlizard
 description: Usage: ``{{tiddler||scrollable}}`` wraps content in a scrollable `<div>`
 modified: 20201012231040622
-modifier: Jeanbeaux
+modifier: eloquentlizard
 title: scrollable
 type: text/vnd.tiddlywiki
 

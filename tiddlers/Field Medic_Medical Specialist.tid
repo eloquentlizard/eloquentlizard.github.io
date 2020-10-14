@@ -1,8 +1,8 @@
 caption: medical specialist
 created: 20150204144057233
-creator: Jeanbeaux
+creator: eloquentlizard
 modified: 20200728191110193
-modifier: Jeanbeaux
+modifier: eloquentlizard
 subtitle: {{!!title}}{{modal!!button}}
 tags: Components
 title: Field Medic/Medical Specialist

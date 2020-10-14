@@ -1,8 +1,8 @@
 created: 20141226031336766
-creator: Jeanbeaux
+creator: eloquentlizard
 description: Usage: `{{tiddler||code}}` renders the tiddler as a codeblock
 modified: 20200728191108737
-modifier: Jeanbeaux
+modifier: eloquentlizard
 tags: Template
 title: code
 type: text/vnd.tiddlywiki

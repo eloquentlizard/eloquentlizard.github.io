@@ -1,8 +1,8 @@
 caption: bonus feat
 created: 20150202030426187
-creator: Jeanbeaux
+creator: eloquentlizard
 modified: 20200728191117849
-modifier: Jeanbeaux
+modifier: eloquentlizard
 subtitle: {{!!title}}{{modal!!button}}
 tags: Components
 title: Tough Hero/Bonus Feat

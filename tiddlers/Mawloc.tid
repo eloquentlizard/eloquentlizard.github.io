@@ -1,13 +1,13 @@
 armor-save: 3+
 attacks: 3
-ballistics-skill: 3
+ballistic-skill: 3
 created: 20150222042038237
-creator: Jeanbeaux
+creator: eloquentlizard
 footer: {{$:/Lore/Mawloc}}
 initiative: 4
 leadership: 8
-modified: 20201012231044146
-modifier: Jeanbeaux
+modified: 20201013212929165
+modifier: eloquentlizard
 points: 140
 special-rules: [[Burrow]] [[Extremely Bulky]] [[Deep Strike]] [[Fearless]] [[Hit & Run]] [[Instinctive Behaviour (Feed)]] [[Terror From the Deep]] +[sort[title]]
 strength: 6

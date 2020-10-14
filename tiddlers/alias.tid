@@ -1,8 +1,8 @@
 created: 20141226031131048
-creator: Jeanbeaux
+creator: eloquentlizard
 description: Usage: `{{the_alias||alias}}` = `[[original tiddler]]`
 modified: 20200728191108125
-modifier: Jeanbeaux
+modifier: eloquentlizard
 tags: Template
 title: alias
 type: text/vnd.tiddlywiki

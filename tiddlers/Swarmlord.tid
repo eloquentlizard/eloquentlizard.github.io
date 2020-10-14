@@ -1,15 +1,15 @@
 armor-save: 3+/3++
 attacks: 3
-ballistics-skill: 4
+ballistic-skill: 4
 caption: The Swarmlord
 created: 20150305140916707
-creator: Jeanbeaux
+creator: eloquentlizard
 description: 
 footer: {{$:/Lore/The Swarmlord}}
 initiative: 6
 leadership: 10
-modified: 20201012231045866
-modifier: Jeanbeaux
+modified: 20201013212929511
+modifier: eloquentlizard
 points: 285
 special-rules: [[Alien Cunning]] [[Eternal Warrior]] [[Psyker (Mastery Level 3)]] [[Shadow in the Warp]] [[Synapse Creature (18")]] [[Swarm Leader]] +[sort[title]]
 strength: 7

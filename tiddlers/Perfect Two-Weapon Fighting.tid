@@ -1,11 +1,11 @@
 caption: 
 created: 20141230022633942
-creator: Jeanbeaux
+creator: eloquentlizard
 description: Gain additional secondary attack
 description-full: You can make as many attacks with your off-hand weapon as with your primary weapon, using the same base attack bonus. You still take the normal penalties for fighting with two weapons.
 flavor: You are a grandmaster of dual-wielding.
 modified: 20200728191115054
-modifier: Jeanbeaux
+modifier: eloquentlizard
 normal: Without this feat, you can only get a single attack with an off-hand weapon (or two attacks with an off-hand weapon if you have Improved Two-Weapon Fighting, or three attacks with an off-hand weapon if you have Greater Two-Weapon Fighting).
 prereqs: Dex 15, Two-Weapon Fighting, Improved Two-Weapon Fighting, Greater Two-Weapon Fighting
 tags: Feats [[Extinguishing the Guiding Light]] Homebrew

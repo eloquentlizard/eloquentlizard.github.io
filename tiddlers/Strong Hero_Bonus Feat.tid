@@ -1,8 +1,8 @@
 caption: bonus feat
 created: 20150201204232102
-creator: Jeanbeaux
+creator: eloquentlizard
 modified: 20200728191117456
-modifier: Jeanbeaux
+modifier: eloquentlizard
 subtitle: {{!!title}}{{modal!!button}}
 tags: Components
 title: Strong Hero/Bonus Feat

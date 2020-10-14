@@ -1,10 +1,9 @@
 caption: {{$:/core/images/_font}} {{$:/language/Buttons/_FontChanger/Caption}}
 created: 20150209115128050
-creator: Jeanbeaux
+creator: eloquentlizard
 description: {{$:/language/Buttons/_FontChanger/Hint}}
-list-before: $:/core/ui/Buttons/storyview
-modified: 20200728191106160
-modifier: Jeanbeaux
+modified: 20201014034630443
+modifier: eloquentlizard
 tags: $:/tags/PageControls
 title: $:/core/ui/Buttons/_FontChanger
 type: text/vnd.tiddlywiki

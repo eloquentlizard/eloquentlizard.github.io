@@ -1,10 +1,10 @@
 created: 20141230022632296
-creator: Jeanbeaux
+creator: eloquentlizard
 description: Add full level to bardic knowledge/lore checks
 description-full: Rather than add three-quarters of your class level to knowledge checks, you add your full class level.
 flavor: Your extensive research gifts you with a wealth of knowledge.
 modified: 20200728191108510
-modifier: Jeanbeaux
+modifier: eloquentlizard
 prereqs: Skill Focus (any Knowledge) or Master of Knowledge, bardic knowledge or lore class feature, Knowledge (any three) 5 ranks
 special: ''Special'': The bonuses from bardic knowledge or lore do not count as skill ranks for the purposes of acquring this feat.
 tags: Homebrew [[Extinguishing the Guiding Light]] Feats

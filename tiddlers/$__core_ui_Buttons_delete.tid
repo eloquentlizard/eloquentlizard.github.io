@@ -1,9 +1,9 @@
 caption: {{$:/core/images/delete-button}} {{$:/language/Buttons/Delete/Caption}}
 created: 20141204030226869
-creator: Jeanbeaux
+creator: eloquentlizard
 description: {{$:/language/Buttons/Delete/Hint}}
 modified: 20200728191106173
-modifier: Jeanbeaux
+modifier: eloquentlizard
 tags: $:/tags/EditToolbar $:/tags/ViewToolbar
 title: $:/core/ui/Buttons/delete
 type: text/vnd.tiddlywiki

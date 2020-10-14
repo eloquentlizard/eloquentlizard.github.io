@@ -1,15 +1,15 @@
 armor-save: 3+/6++
 attacks: 3
-ballistics-skill: 3
+ballistic-skill: 3
 biomorphs: [[Crushing Claws]] [[Scything Talons]] [[Reinforced Carapace]] [[Thresher Scythe]] [[Regeneration]] +[sort[title]]
 created: 20151230040817656
-creator: Jeanbeaux
+creator: eloquentlizard
 description: Detachments containing Old One Eye may purchase a single Carnifex Brood without it taking up a Force Organization slot. If this option is chosen, Old One Eye must start the battle attached to that brood as per its Alpha Leader special rule.
 footer: {{$:/Lore/Carnifex}}
 initiative: 2
 leadership: 9
-modified: 20201012231044334
-modifier: Jeanbeaux
+modified: 20201013212932399
+modifier: eloquentlizard
 points: 235
 special-rules: [[Instinctive Behaviour (Feed)]] [[Alpha Leader]] [[Berserk Rampage]] Rage [[Feel No Pain]] [[Eternal Warrior]] [["Why Won't it Die?"]] [[Fearless]] [[Living Battering Ram]] +[sort[title]]
 strength: 10

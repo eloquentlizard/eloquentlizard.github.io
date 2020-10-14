@@ -1,11 +1,11 @@
 color: #ffc576
 created: 20141227133803469
-creator: Jeanbeaux
+creator: eloquentlizard
 description: Template weapons shoot clouds of fire, gas or other lethal substances, rather than shells or bullets. They’re excellent for killing enemy troops in cover, as the payload simply flows over intervening obstacles to assail the foe behind.
 icon: $:/core/images/_books
 list-after: Swarms
 modified: 20201012231040676
-modifier: Jeanbeaux
+modifier: eloquentlizard
 tags: [[Special Rule]]
 title: Template
 type: text/vnd.tiddlywiki

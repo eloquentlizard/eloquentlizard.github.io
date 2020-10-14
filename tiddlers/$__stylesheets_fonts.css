@@ -1,9 +1,10 @@
-<$list filter="[tag[$:/fonts]!has[draft.of]]">
+<$list filter="[tag[$:/tags/font]!has[draft.of]]">
 
 @font-face {
 	font-family: 
 "{{!!description}}";
-	src: url(<<datauri ""{{}}"">>) format('truetype');
+	src: url(<a href={{!!title}}><<datauri ""{{}}"">></a>);
+	{{!!info}}
 }
 
 </$list>

@@ -6,6 +6,35 @@ code {
 	font-family:'Dwarf Fortress','Courier New';
 }
 
+.atk {font-family:'atk'; }
+
+.d4 {font-family:'d4'; }
+
+.d6 {font-family:'d6'; }
+
+.d8 {font-family:'d8'; }
+
+.d10 {font-family:'d10'; }
+
+.d12 {font-family:'d12'; }
+
+.d20 {font-family:'d20'; }
+
+.sc {font-variant: small-caps;}
+
+.tc-tag-label {
+	font-family:'Lobster';
+}
+
+.serif {
+	font-family: "Celestia Antiqua Alt", "Liberation Serif", "Times New Roman", serif;
+}
+
+.heresy {
+	font-family: "Celestia Antiqua SC", "Liberation Serif", "Times New Roman", serif;
+	color: red;
+	font-size: 110%;
+
 .tc-tagged-Tyranids {
 	font-family: "Cardo", "Celestia Antiqua Alt", "Liberation Serif", "Times New Roman", serif;
 }
@@ -15,7 +44,7 @@ code {
 	fill: #333353;
 	verical-align: bottom;
 }
-.tc-tagged-Tyranids sub, .tc-tagged-Tyranids sup {
+sub, sup {
 	font-variant: small-caps;
 }
 

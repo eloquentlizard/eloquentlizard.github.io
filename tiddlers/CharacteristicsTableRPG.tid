@@ -1,10 +1,32 @@
+agility: 40
+armour: test
+ballistic-skill: 10
 created: 20150212173914745
-creator: Jeanbeaux
-modified: 20201012231157302
-modifier: Jeanbeaux
-tags: [[Warhammer 40,000]] Components
+creator: eloquentlizard
+fellowship: 80
+intelligence: 50
+modified: 20201014013131622
+modifier: eloquentlizard
+perception: 60
+strength: 20
+tags: $:/tags/template
 title: CharacteristicsTableRPG
+toughness: 30
 type: text/vnd.tiddlywiki
+weapon-skill: 1
+willpower: 70
+wounds: test
 
-| WS | BS | S | T | W | I | A | Ld | Sv | Type |h
-| {{!!weapon-skill}} | {{!!ballistics-skill}} | {{!!strength}} | {{!!toughness}} | {{!!wounds}} | {{!!initiative}} | {{!!attacks}} | {{!!leadership}} | {{!!armor-save}} | {{!!unit-type}} |
+| WS | BS | S | T | Ag | Int | Per | WP | Fel |h
+| {{!!weapon-skill}} | {{!!ballistic-skill}} | {{!!strength}} | {{!!toughness}} | {{!!agility}} | {{!!intelligence}} | {{!!perception}} | {{!!willpower}} | {{!!fellowship}} |
+|{{!!weapon-skill-bonus}}|{{!!ballistic-skill-bonus}}|{{!!strength-bonus}}|{{!!toughness-bonus}}|{{!!agility-bonus}}|{{!!intelligence-bonus}}|{{!!perception-bonus}}|{{!!willpower-bonus}}|{{!!fellowship-bonus}}|
+| <$reveal type=nomatch state=!!wounds text="">''Wounds'': {{!!wounds}}<$reveal type=nomatch state=!!armour text="">; </$reveal></$reveal><$reveal type=nomatch state=!!armour text="">''Armour'': {{!!armour}}</$reveal> |c
+
+
+
+
+
+
+
+
+

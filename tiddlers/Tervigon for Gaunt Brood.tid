@@ -1,15 +1,15 @@
 armor-save: {{Tervigon!!armor-save}}
 attacks: {{Tervigon!!attacks}}
-ballistics-skill: {{Tervigon!!ballistics-skill}}
+ballistic-skill: {{Tervigon!!ballistics-skill}}
 biomorphs: [[Scything Talons]]
 caption: Tervigon
 created: 20151231200050363
-creator: Jeanbeaux
+creator: eloquentlizard
 description: {{Tervigon!!description}}
 initiative: {{Tervigon!!initiative}}
 leadership: {{Tervigon!!leadership}}
-modified: 20201012231046221
-modifier: Jeanbeaux
+modified: 20201013212933491
+modifier: eloquentlizard
 points: {{Tervigon!!points}}
 special-rules: [[Brood Progenitor]] [[Extremely Bulky]] [[Psyker (Mastery Level 1)]] [[Spawn Gaunts]] [[Shadow in the Warp]] [[Synapse Creature]] [[Synaptic Backlash]] +[sort[title]]
 strength: {{Tervigon!!strength}}

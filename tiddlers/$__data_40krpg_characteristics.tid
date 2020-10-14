@@ -1,0 +1,16 @@
+created: 20201013171151374
+list: weapon-skill ballistic-skill strength toughness agility intelligence perception willpower fellowship
+modified: 20201014003717054
+tags: 
+title: $:/data/40krpg/characteristics
+type: application/x-tiddler-dictionary
+
+weapon-skill:WS
+ballistic-skill:BS
+strength:S
+toughness:T
+agility:Ag
+intelligence:Int
+perception:Per
+willpower:WP
+fellowship:Fel

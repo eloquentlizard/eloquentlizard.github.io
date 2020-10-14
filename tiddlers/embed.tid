@@ -1,8 +1,8 @@
 created: 20141226061746800
-creator: Jeanbeaux
+creator: eloquentlizard
 description: Usage: `{{file||embed}}` to embed within a tiddler.
 modified: 20200728191109698
-modifier: Jeanbeaux
+modifier: eloquentlizard
 tags: $:/tags/Macro
 title: embed
 type: text/vnd.tiddlywiki

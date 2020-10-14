@@ -1,12 +1,12 @@
 color: #e8a137
 created: 20150218171026362
-creator: Jeanbeaux
+creator: eloquentlizard
 description: ''Designer's Note'': Tyranid Melee weapons come as pairs. For game purposes, each pair is treated as a single Melee weapon. Tyranids cannot gain bonus attacks for dual-wielding; however, the ''Multistrike'' special rule on the ''scything talons'' bio-weapon helps make up for this lack.
 footer: For a complete listing of every weapon and biomorph available to any Tyranid unit, see [[Weapons & Biomorphs/Index]].
 icon: $:/core/images/_sword
 list-after: Forces of the Hive Mind
 modified: 20201012232844514
-modifier: Jeanbeaux
+modifier: eloquentlizard
 tags: Tyranids
 title: Weapons & Biomorphs
 type: text/vnd.tiddlywiki

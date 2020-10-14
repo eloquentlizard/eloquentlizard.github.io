@@ -1,8 +1,8 @@
 caption: talent
 created: 20150202032615904
-creator: Jeanbeaux
+creator: eloquentlizard
 modified: 20200728191109354
-modifier: Jeanbeaux
+modifier: eloquentlizard
 subtitle: {{!!title}}{{modal!!button}}
 tags: Components
 title: Dedicated Hero/Talent

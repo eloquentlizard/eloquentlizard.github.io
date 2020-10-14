@@ -1,8 +1,8 @@
 caption: divine spells
 created: 20150203021238131
-creator: Jeanbeaux
+creator: eloquentlizard
 modified: 20200728191107950
-modifier: Jeanbeaux
+modifier: eloquentlizard
 subtitle: {{!!title}}{{modal!!button}}
 tags: Components
 title: Acolyte/Divine Spells

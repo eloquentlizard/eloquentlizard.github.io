@@ -1,13 +1,11 @@
-caption: Homepage
 color: #519bfc
 created: 20140826090252364
-creator: Jeanbeaux
+creator: eloquentlizard
 description: The Homepage of this TiddlyWiki
 icon: $:/core/images/home-button
-modified: 20200728191110766
+modified: 20201014014804541
 modifier: eloquentlizard
 subtitle: {{!!caption}}{{modal!!button}}
-tags: [[Table of Contents]]
 title: HelloThere
 type: text/vnd.tiddlywiki
 

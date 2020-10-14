@@ -1,8 +1,8 @@
 caption: action boost
 created: 20150204145747984
-creator: Jeanbeaux
+creator: eloquentlizard
 modified: 20200728191109098
-modifier: Jeanbeaux
+modifier: eloquentlizard
 subtitle: {{!!title}}{{modal!!button}}
 tags: Components
 title: Daredevil/Action Boost

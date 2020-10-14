@@ -1,14 +1,13 @@
 caption: The Tyranids
 color: #519bfc
 created: 20140826090252364
-creator: Jeanbeaux
+creator: eloquentlizard
 description: The Tyranids are an ancient race of hyper-aggressive aliens; a vast swarm of predators biologically adapted to kill and consume. Against such a consummate foe, even the mightiest of armies are naught but prey for the slaughter.
 footer: All game rules content is from the Warhammer 40,000 //Codex: Tyranids//, plus other resources from http://www.games-workshop.com
 icon: $:/icons/tyranid
-list: [[The Great Devourer]] [[First Contact]] [[The Behemoth]] [[Tyranid Bio-ships]] [[Battle for Macragge]] [[The First Tyrannic War]] [[The Kraken]] [[Doom of the Eldar]] [[The Gorgon]] [[The Second Tyrannic War]] [[The Leviathan]] [[War in Octarius]] [[The Fall of Shadowbrink]] [[The Third Tyrannic War]] [[Galactic Feeding Grounds]]
-list-before: Forces of the Hive Mind
-modified: 20201012233504936
-modifier: Jeanbeaux
+list: $:/Lore/Tyranids [[Forces of the Hive Mind]] [[Weapons & Biomorphs]] [[Tyranid Psychic Disciplines]] [[Special Rules]] [[Campaign Tyranid Warlords]]
+modified: 20201013164217641
+modifier: eloquentlizard
 subtitle: {{!!caption}}{{modal!!button}}
 tags: Tyranids Projects Archived [[Warhammer 40,000]]
 title: Tyranids

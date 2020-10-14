@@ -1,11 +1,11 @@
 caption: Improved Diehard
 created: 20141230022629238
-creator: Jeanbeaux
+creator: eloquentlizard
 description: +4 on Con checks, +4 vs massive damage
 description-full: You gain a +4 bonus on all Constitution checks (ability checks, not skill checks) and a +4 bonus on Fortitude saves versus massive damage.
 flavor: You can recover from even the worst wounds.
 modified: 20200728191113398
-modifier: Jeanbeaux
+modifier: eloquentlizard
 prereqs: Endurance, Diehard
 tags: Homebrew Feats [[Extinguishing the Guiding Light]]
 title: Improved Diehard

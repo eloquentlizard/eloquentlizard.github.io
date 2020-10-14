@@ -1,11 +1,11 @@
 created: 20141230022631799
-creator: Jeanbeaux
+creator: eloquentlizard
 description: Take 10 on Initiative, force reroll 1/day
 description-full: If the natural result of your initiative check rolls under 10, take a 10. In addition, once per day, you may force any single combatant to reroll its initiative with either a +4 bonus or a -4 penalty (your choice). This ability may be used mid-combat.
 flavor: There is no one more ready than you.
 list-after: Greater Initiative
 modified: 20200728191117509
-modifier: Jeanbeaux
+modifier: eloquentlizard
 prereqs: Alertness, Improved Initiative, Greater Initiative
 tags: Feats [[Extinguishing the Guiding Light]] Homebrew
 title: Supreme Initiative

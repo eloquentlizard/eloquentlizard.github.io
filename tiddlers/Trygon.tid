@@ -1,14 +1,14 @@
 armor-save: 3+
 attacks: 5
-ballistics-skill: 3
+ballistic-skill: 3
 biomorphs: [[Bio-electric Pulse]] [[Two pairs of Scything Talons]]
 created: 20150222041008186
-creator: Jeanbeaux
+creator: eloquentlizard
 footer: {{$:/Lore/Trygon}}
 initiative: 4
 leadership: 8
-modified: 20201012231046950
-modifier: Jeanbeaux
+modified: 20201013212928830
+modifier: eloquentlizard
 points: 210
 special-rules: [[Deep Strike]] [[Fearless]] [[Fleet]] [[Colossal Serpent]] [[Subterranean Assault]] +[sort[title]]
 strength: 7

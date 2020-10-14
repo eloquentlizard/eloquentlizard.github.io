@@ -1,15 +1,15 @@
 armor-save: 3+
 attacks: 3
-ballistics-skill: 3
+ballistic-skill: 3
 biomorphs: [[Scything Talons]]
 created: 20150218214742898
-creator: Jeanbeaux
+creator: eloquentlizard
 description: ''The Scuttling Swarm'': {{The Scuttling Swarm}}
 footer: {{$:/Lore/Tervigons}}
 initiative: 2
 leadership: 10
-modified: 20201012231046205
-modifier: Jeanbeaux
+modified: 20201013212924532
+modifier: eloquentlizard
 points: 180
 special-rules: [[Brood Progenitor]] [[Extremely Bulky]] [[Spawn Termagants]] [[Psyker (Mastery Level 1)]] [[Shadow in the Warp]] [[Synapse Creature]] [[Synaptic Backlash]] +[sort[title]]
 strength: 5

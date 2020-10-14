@@ -1,15 +1,15 @@
 armor-save: 2+/5++
 attacks: 8
-ballistics-skill: 3
+ballistic-skill: 3
 biomorphs: [[Two Gargantuan Bio-cannons]] [[Three pairs of Scything Talons]] [[Regeneration]] [[Toxic Miasma]] +[sort[title]]
 caption: Hierophant Bio-titan
 created: 20151230053000809
-creator: Jeanbeaux
+creator: eloquentlizard
 footer: {{$:/Lore/Hierophant}}
 initiative: 3
 leadership: 10
-modified: 20201012231043438
-modifier: Jeanbeaux
+modified: 20201013212933115
+modifier: eloquentlizard
 points: 750
 special-rules: [[Agile]] [[Psychic Barrier]] +[sort[title]]
 strength: 10

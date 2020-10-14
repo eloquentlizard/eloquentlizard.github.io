@@ -1,13 +1,13 @@
 armor-save: 2+
 attacks: 3
-ballistics-skill: 3
+ballistic-skill: 3
 created: 20151230051405798
-creator: Jeanbeaux
+creator: eloquentlizard
 footer: {{$:/Lore/Tyrannofex}}
 initiative: 1
 leadership: 8
-modified: 20201012231047247
-modifier: Jeanbeaux
+modified: 20201013212932722
+modifier: eloquentlizard
 points: 190
 special-rules: [[Instinctive Behaviour (Hunt)]] [[Fearless]] [[Cumbersome]] +[sort[title]]
 strength: 10

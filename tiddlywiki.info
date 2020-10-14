@@ -79,5 +79,8 @@
             "static/static.css",
             "text/plain"
         ]
-    }
+    },
+	"config": {
+		"retain-original-tiddler-path": true
+	}
 }

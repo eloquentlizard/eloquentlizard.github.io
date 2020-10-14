@@ -1,17 +1,17 @@
 armor-save: 3+
 attacks: 4
-ballistics-skill: 4
+ballistic-skill: 4
 created: 20150920055350783
-creator: Jeanbeaux
+creator: eloquentlizard
 description: The Apex Warrior
 initiative: 5
 leadership: 10
-modified: 20201012233052863
-modifier: Jeanbeaux
+modified: 20201013212930140
+modifier: eloquentlizard
 points: 165
 prefix: The
 strength: 5
-tags: [[WH40K Campaign Tyranid Warlords]]
+tags: [[Campaign Tyranid Warlords]]
 title: Shroudwalker
 toughness: 5
 type: text/vnd.tiddlywiki

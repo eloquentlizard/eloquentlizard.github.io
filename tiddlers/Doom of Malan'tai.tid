@@ -1,15 +1,15 @@
 armor-save: 4+/3++
 attacks: 3
-ballistics-skill: 4
+ballistic-skill: 4
 biomorphs: [[Psychic Blast]] [[Scything Talons]]
 caption: The Doom of Malan'tai
 created: 20150217162226310
-creator: Jeanbeaux
+creator: eloquentlizard
 description: If your detachment contains the Doom of Malan'tai, you may add an additonal Zoanthrope brood to your detachment. This additional brood does not take up a Force Organization slot. If this option is chosen, the Doom of Malan'tai must deploy attached to that brood of Zoanthropes.
 initiative: 4
 leadership: 10
-modified: 20201012231042573
-modifier: Jeanbeaux
+modified: 20201013212922340
+modifier: eloquentlizard
 points: 235
 special-rules: [[Warp Field]] [[Hive Mind's Conduit]] [[Synapse Creature (18")]] [[Shadow in the Warp]] [[Preferred Enemy (Eldar)]] [[Consumptive Field]] [[Psyker (Mastery Level 3)]] +[sort[title]]
 strength: 6

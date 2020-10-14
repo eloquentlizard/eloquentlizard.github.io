@@ -1,8 +1,8 @@
 caption: special ability
 created: 20150105150900769
-creator: Jeanbeaux
+creator: eloquentlizard
 modified: 20200728191111903
-modifier: Jeanbeaux
+modifier: eloquentlizard
 subtitle: {{!!title}}{{modal!!button}}
 tags: Components
 title: Homebrew/Rogue/Special Ability

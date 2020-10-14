@@ -1,8 +1,8 @@
 caption: bonus feat
 created: 20150203112204248
-creator: Jeanbeaux
+creator: eloquentlizard
 modified: 20200728191108417
-modifier: Jeanbeaux
+modifier: eloquentlizard
 subtitle: {{!!title}}{{modal!!button}}
 tags: Components
 title: Bodyguard/Bonus Feat

@@ -1,15 +1,15 @@
 armor-save: 3+
 attacks: 3
-ballistics-skill: 3
+ballistic-skill: 3
 biomorphs: [[Acid Blood]] [[Crushing Claws]] [[Grasping Tongue]]
 caption: Haruspex Brood
 created: 20150219160702665
-creator: Jeanbeaux
+creator: eloquentlizard
 footer: {{$:/Lore/Haruspex}}
 initiative: 3
 leadership: 7
-modified: 20201012231043358
-modifier: Jeanbeaux
+modified: 20201013212926267
+modifier: eloquentlizard
 points: 125
 special-rules: Fearless [[Bulky]] [[Feeder-Beast]] [[Instinctive Behaviour (Feed)]] [[Rapacious Hunger]] +[sort[title]]
 strength: 6

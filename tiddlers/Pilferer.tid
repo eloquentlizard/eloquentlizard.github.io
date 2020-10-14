@@ -1,17 +1,17 @@
 armor-save: 3+
 attacks: 4
-ballistics-skill: 0
+ballistic-skill: 0
 created: 20150921164650060
-creator: Jeanbeaux
+creator: eloquentlizard
 description: The Master of the Brood
 initiative: 7
 leadership: 10
-modified: 20201012233035573
-modifier: Jeanbeaux
+modified: 20201013212930448
+modifier: eloquentlizard
 points: 120
 prefix: The
 strength: 5
-tags: [[WH40K Campaign Tyranid Warlords]] Archived
+tags: [[Campaign Tyranid Warlords]] Archived
 title: Pilferer
 toughness: 5
 type: text/vnd.tiddlywiki

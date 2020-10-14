@@ -1,15 +1,15 @@
 armor-save: 3+
 attacks: 4
-ballistics-skill: 4
+ballistic-skill: 4
 biomorphs: [[Two pairs of Scything Talons]]
 created: 20150213161111027
-creator: Jeanbeaux
+creator: eloquentlizard
 description: 
 footer: {{$:/Lore/Hive Tyrant}}
 initiative: 5
 leadership: 10
-modified: 20201012231043598
-modifier: Jeanbeaux
+modified: 20201013204959096
+modifier: eloquentlizard
 points: 165
 special-rules: [[Synapse Creature]] [[Shadow in the Warp]] [[Psyker (Mastery Level 2)]] +[sort[title]]
 strength: 6

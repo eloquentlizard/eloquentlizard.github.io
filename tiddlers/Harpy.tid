@@ -1,15 +1,15 @@
 armor-save: 4+
 attacks: 3
-ballistics-skill: 3
+ballistic-skill: 3
 biomorphs: [[Twin-Linked Stranglethorn Cannon]] [[Scything Talons]] [[Spore Mine cysts]] [[Wings]] +[sort[title]]
 caption: Tyranid Harpy
 created: 20150221143209746
-creator: Jeanbeaux
+creator: eloquentlizard
 footer: {{$:/Lore/Harpy}}
 initiative: 5
 leadership: 10
-modified: 20201012231043335
-modifier: Jeanbeaux
+modified: 20201013212928204
+modifier: eloquentlizard
 points: 135
 special-rules: [[Sonic Screech]] [[Instinctive Behaviour (Hunt)]] [[Fearless]] +[sort[title]]
 strength: 5

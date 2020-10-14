@@ -2,12 +2,12 @@ abilities: +0 all
 caption: Races
 color: 
 created: 20141227134444109
-creator: Jeanbeaux
+creator: eloquentlizard
 creaturetype: magical beast
 icon: $:/core/images/plugin-generic-language
 languages: swahili
 modified: 20200728191116922
-modifier: Jeanbeaux
+modifier: eloquentlizard
 size: fine
 speed: 1,000,000 ft.
 tags: Template

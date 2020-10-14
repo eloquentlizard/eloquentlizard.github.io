@@ -1,11 +1,11 @@
 components: somatic, verbal
 created: 20150103183628228
-creator: Jeanbeaux
+creator: eloquentlizard
 descriptor: Force
 duration: instantaneous
 level: sorcerer 1st, wizard 1st
 modified: 20200728191114273
-modifier: Jeanbeaux
+modifier: eloquentlizard
 range: medium (100 ft. + 10 ft./level)
 save: no
 school: Evocation

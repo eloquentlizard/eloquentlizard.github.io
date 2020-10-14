@@ -1,8 +1,8 @@
 caption: medical mastery
 created: 20150204144450439
-creator: Jeanbeaux
+creator: eloquentlizard
 modified: 20200728191110166
-modifier: Jeanbeaux
+modifier: eloquentlizard
 subtitle: {{!!title}}{{modal!!button}}
 tags: Components
 title: Field Medic/Medical Mastery

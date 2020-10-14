@@ -1,8 +1,8 @@
 caption: talent
 created: 20150201204445804
-creator: Jeanbeaux
+creator: eloquentlizard
 modified: 20200728191109951
-modifier: Jeanbeaux
+modifier: eloquentlizard
 subtitle: {{!!title}}{{modal!!button}}
 tags: Components
 title: Fast Hero/Talent
