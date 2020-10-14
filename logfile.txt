@@ -1,1 +1,0 @@
- syncer-server-filesystem: Dispatching 'save' task: $:/StoryList 
