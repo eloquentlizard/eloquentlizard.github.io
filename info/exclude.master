@@ -1,0 +1,12 @@
+tiddlers\$__Storylist.tid
+*.ps1
+*.bat
+tiddlers/$__StoryList.tid
+docs/*
+docs\*
+output/*
+output\*
+master/$__StoryList.tid
+master\$__StoryList.tid
+logfile.txt
+info/exclude.page

@@ -1,0 +1,23 @@
+#!/bin/sh
+
+old_ref=$1
+new_ref=$2
+branch_switched=$3
+
+if [[ $branch_switched != '1' ]]
+then
+    exit 0
+fi
+
+current_branch=$(git rev-parse --abbrev-ref HEAD)
+hook_dir=$(dirname $0)
+info_dir=$(realpath "$hook_dir/../info")
+
+exclude_target='__default__'
+if [[ -f "$info_dir/exclude.$current_branch" ]]
+then
+    exclude_target=$current_branch
+fi
+cd $info_dir
+rm exclude
+ln -s exclude.$exclude_target exclude
