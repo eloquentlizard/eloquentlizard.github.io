@@ -1,9 +1,0 @@
-caption: New workbook
-created: 20200126104342985
-creator: eloquentlizard
-import-spec-role: workbook
-list: $:/_ExcelImporter/ImportSpecifiers/Sheet
-modified: 20200728191105160
-modifier: eloquentlizard
-title: $:/_ExcelImporter/ImportSpecifiers/Workbook
-type: text/vnd.tiddlywiki
