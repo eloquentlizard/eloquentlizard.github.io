@@ -1,0 +1,31 @@
+created: 20201014155908181
+modified: 20201014205353219
+src: Image/earthbound-battle-bg
+tags: 
+title: seventeen-beans
+type: text/vnd.tiddlywiki
+
+\define imguri() <$macrocall $name=makedatauri type={{{[{!!src}get[type]]}}} text={{{[{!!src}get[text]]}}} _canonical_uri={{{[{!!src}get[_canonical_uri]]}}} $type="text/plain"/>
+\define imgwidth() {{{[{!!src}get[width]]}}}px
+\define imgheight() {{{[{!!src}get[height]]}}}px
+>
+
+<div>
+	<$link to={{!!src}} >
+		<div style="""
+			background: url(<<datauri earthbound-battle-bg>>);
+			border: 1px black solid;
+			text-align: center;
+			z-index: 4;
+			min-width: <<imgwidth>>;
+			width: <<imgwidth>>;
+			max-width: <<imgwidth>>;
+			min-height: <<imgheight>>;
+			height: <<imgheight>>;
+			max-height: <<imgheight>>;
+			position: relative;
+		""">
+			aa 
+		</div>
+	</$link>
+</div>
