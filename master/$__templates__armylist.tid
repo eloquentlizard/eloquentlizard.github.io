@@ -1,0 +1,40 @@
+created: 20151116220414668
+creator: eloquentlizard
+modified: 20201012231041361
+modifier: eloquentlizard
+tags: 
+title: $:/templates/_armylist
+type: text/vnd.tiddlywiki
+
+<table class="tc-tagged-Class" style="font-variant:small-caps;">
+	<tr>
+		<th></th>
+		<th><abbr title="Unit Type">u</abbr></th>
+        <th><abbr title="minimum points for this unit">pts</abbr></th>
+		<th><abbr title="Weapon Skill">ws</abbr></th>
+		<th><abbr title="Ballistic Skill">bs</abbr></th>
+		<th><abbr title="Strength">s</abbr></th>
+		<th><abbr title="Toughness">t</abbr></th>
+		<th><abbr title="Wounds">w</abbr></th>
+		<th><abbr title="Initiative">i</abbr></th>
+		<th><abbr title="Attacks">a</abbr></th>
+		<th><abbr title="Leadership">ld</abbr></th>
+		<th><abbr title="Armour Save">sv</abbr></th>
+	</tr>
+<$list filter="[!has[draft.of]is[current]tagging[]] +[sort[title]sort[points]]">
+	<tr>
+		<td style="font-variant:initial;text-align:left;"><$reveal type="match" state=!!caption  text=""><$link to={{!!title}}>{{!!title}}</$link></$reveal><$reveal type="nomatch" state=!!caption  text=""><$link to={{!!title}}>{{!!caption}}</$link></$reveal></td>
+        <td style="text-align:left;font-variant:initial;"><$list filter="[[$:/data/unit-types]getindex{!!unit-type}]"><span class=small >{{||$:/core/templates/unwikified}}</span></$list></td>
+		<td style="text-align:right;">{{!!points}}</td>
+		<td style="text-align:center;">{{!!weapon-skill}}</td>
+		<td style="text-align:center;">{{!!ballistics-skill}}</td>
+		<td style="text-align:center;">{{!!strength}}</td>
+		<td style="text-align:center;">{{!!toughness}}</td>
+		<td style="text-align:center;">{{!!wounds}}</td>
+		<td style="text-align:center;">{{!!initiative}}</td>
+		<td style="text-align:center;">{{!!attacks}}</td>
+		<td style="text-align:center;">{{!!leadership}}</td>
+		<td style="text-align:center;">{{!!armor-save}}</td>
+	</tr>
+</$list>
+</table>

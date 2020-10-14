@@ -1,0 +1,18 @@
+caption: talent
+created: 20150202032615904
+creator: eloquentlizard
+modified: 20200728191109354
+modifier: eloquentlizard
+subtitle: {{!!title}}{{modal!!button}}
+tags: Components
+title: Dedicated Hero/Talent
+type: text/vnd.tiddlywiki
+
+!Talents
+At 1st, 3rd, 5th, 7th, and 9th level, the Dedicated hero selects a talent from the following talent trees. Some trees have a set order that must be followed, while others provide a list to choose from. As long as the hero qualifies, he or she can select freely from any and all talent trees. No talent can be selected more than once unless expressly indicated.
+
+{{Empathic Talent Tree||slider}}
+
+{{Healing Talent Tree||slider}}
+
+{{Insightful Talent Tree||slider}}

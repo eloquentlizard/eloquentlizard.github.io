@@ -1,0 +1,14 @@
+caption: harm's way
+created: 20150203111657097
+creator: eloquentlizard
+modified: 20200728191108457
+modifier: eloquentlizard
+subtitle: {{!!title}}{{modal!!button}}
+tags: Components
+title: Bodyguard/Harm's Way
+type: text/vnd.tiddlywiki
+
+!Harm's Way
+Once per round, if the Bodyguard is adjacent to an ally who is targeted by a direct melee or ranged attack (but not an area effect), the Bodyguard can subject him or herself to the attack in the ally's stead. If the attack hits the Bodyguard, he or her takes damage normally. If it misses, it also misses the ally.
+
+The Bodyguard must declare his or her intention to place him or herself in harm's way before the attack roll is made. The Bodyguard selects his or her ally either prior to combat or immediately after the Bodyguard makes his or her initiative check. The Bodyguard can't change his or her ally for the duration of the combat.

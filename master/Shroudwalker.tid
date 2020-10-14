@@ -1,0 +1,42 @@
+armor-save: 3+
+attacks: 4
+ballistic-skill: 4
+created: 20150920055350783
+creator: eloquentlizard
+description: The Apex Warrior
+initiative: 5
+leadership: 10
+modified: 20201013212930140
+modifier: eloquentlizard
+points: 165
+prefix: The
+strength: 5
+tags: [[Campaign Tyranid Warlords]]
+title: Shroudwalker
+toughness: 5
+type: text/vnd.tiddlywiki
+unit-type: Infantry (Character)
+weapon-skill: 6
+wounds: 3
+
+!!Weapons & Biomorphs
+*<abbr title="S User; AP 3; Melee, Life Drain, Swiftstrike">Lash Whip & Bonesword</abbr>
+*<abbr title='18"; S 6; AP —; Assault 6'>Devourer with Brainleech Worms</abbr>
+*Flesh Hooks
+*Toxic Miasma
+*Toxin Sacs
+!!Special Rules
+*Alpha Warrior
+*Independent Character
+*Psyker (Mastery Level 1)
+*Shadow in the Warp
+*Spore Cloud
+*Synapse Creature
+*Very Bulky
+*Walking Spore Chimney
+!!Psychic Powers
+The {{!!title}} always knows the Catalyst and Dominion psychic powers.
+
+!!Special Rule
+;Walking Spore Chimney
+:The {{!!title}} grants the Stealth special rule to any friendly units affected by its Spore Cloud. In addition, its Toxic Miasma biomorph is usable every turn, rather than once per game.

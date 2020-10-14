@@ -1,0 +1,16 @@
+created: 20141230024933668
+creator: eloquentlizard
+description: Attack with three weapons
+description-full: You can make one extra attack with a third weapon; however, using this style, all your attacks (with primary, secondary, and tertiary weapons) only add half your Strength bonus to damage and you take a -1 penalty on all attack rolls for that round (this penalty stacks with that of Two-Weapon Fighting).
+flavor: You are proficient in the three-weapon fighting style, where one weapon is constantly being juggled.
+list-after: Perfect Two-Weapon Fighting
+list-before: Improved Three-Weapon Fighting
+modified: 20200728191117750
+modifier: eloquentlizard
+prereqs: Dex 17, Two-Weapon Fighting
+tags: Feats Homebrew [[Extinguishing the Guiding Light]]
+tags-feat: Fighter Bonus Feat
+title: Three-Weapon Fighting
+type: text/vnd.tiddlywiki
+
+{{||Feats}}

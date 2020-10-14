@@ -1,0 +1,27 @@
+[
+    {
+        "created": "20151229204539063",
+        "text": "!!{{!!caption}} --- {{!!points}} points\n\n{{||CharacteristicsTable}}\n\n''Unit Composition'': 3 {{!!title}}\n\n{{||$:/templates/biomorphs-rules}}\n\n;Options\n*May include up to seven additional {{!!title}} --- 17 points/model\n*One model may take an option from the {{Basic Bio-cannons||$:/templates/tooltips}} list. If the unit numbers ten, then two models may take such an option.\n*Any model may take items from the {{Basic Bio-weapons||$:/templates/tooltips}}, {{Biomorphs||$:/templates/tooltips}} and {{Melee Bio-weapons||$:/templates/tooltips}} lists.\n",
+        "type": "text/vnd.tiddlywiki",
+        "title": "Tyranid Shrikes",
+        "tags": "[[Fast Attack]]",
+        "modifier": "Jeanbeaux",
+        "modified": "20201013212930772",
+        "creator": "Jeanbeaux",
+        "wounds": "3",
+        "weapon-skill": "5",
+        "unit-type": "Jump Infantry",
+        "toughness": "4",
+        "strength": "4",
+        "special-rules": "[[Synapse Creature]] [[Shadow in the Warp]] [[Very Bulky]] +[sort[title]]",
+        "points": " 51",
+        "leadership": "10",
+        "initiative": "4",
+        "footer": "{{$:/Lore/Tyranid Shrikes}}",
+        "caption": "Tyranid Shrike Brood",
+        "biomorphs": "[[Two pairs of Scything Talons]] [[Wings]]",
+        "attacks": "3",
+        "armor-save": "4+",
+        "ballistic-skill": "3"
+    }
+]

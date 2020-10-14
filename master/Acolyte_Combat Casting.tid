@@ -1,0 +1,12 @@
+caption: combat casting
+created: 20150203023826692
+creator: eloquentlizard
+modified: 20200728191107923
+modifier: eloquentlizard
+subtitle: {{!!title}}{{modal!!button}}
+tags: Components
+title: Acolyte/Combat Casting
+type: text/vnd.tiddlywiki
+
+!Combat Casting
+At 5th level, the Acolyte becomes adept at casting spells during combat. She gets a +4 bonus on Concentration checks made to cast a spell while on the defensive.

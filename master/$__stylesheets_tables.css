@@ -1,0 +1,22 @@
+.tc-table table, .tc-table thead, .tc-table th, .tc-table tr, .tc-table td {
+	border: none;
+}
+.tc-tagged-Class table {
+	font-size: 0.76em;
+}
+tr:nth-child(even) {
+    background-color: #eeeeff;
+}
+tr:nth-child(odd) {
+    background-color: #fcfcfc;
+}
+table caption {
+	text-align: left;
+}
+.tc-tagged-Class input[type=number] {
+	width: 3em;
+}
+
+.tc-fullwidth-table table, .tc-fullwidth-table table input {
+	width: 100%;
+}

@@ -1,0 +1,11 @@
+created: 20150218174913293
+creator: eloquentlizard
+description: Scything talons are long, razor-edged claws of serrated chitin.
+modified: 20201012231045227
+modifier: eloquentlizard
+tags: Weapon
+title: Scything Talons
+type: text/vnd.tiddlywiki
+
+|| Range | S | AP | Type |h
+|Scything Talons| --- | User | 6 |Melee, [[Multistrike]]|

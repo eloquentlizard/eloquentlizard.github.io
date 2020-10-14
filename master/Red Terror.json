@@ -1,0 +1,28 @@
+[
+    {
+        "created": "20150218222421005",
+        "text": "!!{{!!caption}} --- {{!!points}} points\n\n{{||CharacteristicsTable}}\n\nUnit Composition --- 1 ([[Unique|Unique Model]])\n\n{{||$:/templates/biomorphs-rules}}\n\n;Warlord Trait\n<<<\n;Unending Hunger\n:Once per game, when your Warlord uses its Swallow Whole ability, it may force the reroll of a single Invulnerable saving throw.\n<<<\n",
+        "type": "text/vnd.tiddlywiki",
+        "title": "Red Terror",
+        "tags": "Character [[Unique Model]] [[Fast Attack]]",
+        "modifier": "Jeanbeaux",
+        "modified": "20201013212925243",
+        "creator": "Jeanbeaux",
+        "wounds": "3",
+        "weapon-skill": "6",
+        "unit-type": "Beast (Character)",
+        "toughness": "5",
+        "strength": "5",
+        "special-rules": "[[Very Bulky]] [[Deep Strike]] [[Swallow Whole]] [[Alpha Hunter]] [[Instinctive Behaviour (Feed)]] +[sort[title]]",
+        "points": " 75",
+        "list-after": "Raveners",
+        "leadership": "8",
+        "initiative": "5",
+        "footer": "{{$:/Lore/The Red Terror}}",
+        "caption": "The Red Terror",
+        "biomorphs": "[[Adrenal Glands]] [[Two pairs of Scything Talons]] [[Prehensile Pincer]]",
+        "attacks": "4",
+        "armor-save": "4+",
+        "ballistic-skill": "3"
+    }
+]

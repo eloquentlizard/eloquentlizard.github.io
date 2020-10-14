@@ -1,0 +1,16 @@
+caption: maneuvers
+created: 20150105143746345
+creator: eloquentlizard
+modified: 20200728191111837
+modifier: eloquentlizard
+tags: Components
+title: Homebrew/Rogue/Maneuvers
+type: text/vnd.tiddlywiki
+
+!Maneuvers
+A rogue may select from the disciplines of Diamond Mind, Setting Sun, Shadow Hand, and Tiger Claw for her martial maneuvers & stances. It takes 5 minutes to ready her known maneuvers, and stances take a swift action to initiate, end, or change.
+
+The table indicates the rogue's number of maneuvers `K`nown, `R`eadied, the number of `S`tances she knows, and the `(`highest level of maneuver he has access to`)`. 
+
+:;→ See Also
+::{{Homebrew/Rogue/Quick Recovery||modal}}, {{Homebrew/Rogue/Retrain Maneuver||modal}}

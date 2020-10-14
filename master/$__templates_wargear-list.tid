@@ -1,0 +1,12 @@
+created: 20151229024147750
+creator: eloquentlizard
+modified: 20201012231041407
+modifier: eloquentlizard
+tags: 
+title: $:/templates/wargear-list
+type: text/vnd.tiddlywiki
+
+<$list filter="[is[current]tagging[]] -[has[draft.of]] +[sort[points]]">
+
+*{{||$:/templates/tooltips}} --- <$reveal state=!!points type=match text=0>//free//</$reveal><$reveal state=!!points type=nomatch text=0>{{!!points}} points</$reveal>
+</$list>

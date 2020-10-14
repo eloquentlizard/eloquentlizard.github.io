@@ -1,0 +1,13 @@
+created: 20150210024412305
+creator: eloquentlizard
+description: A simple banner for editing the description of a tiddler.
+list-before: $:/core/ui/EditTemplate/tags
+modified: 20200728191106229
+modifier: eloquentlizard
+tags: $:/tags/EditTemplate
+title: $:/core/ui/EditTemplate/_DescriptionBanner
+type: text/vnd.tiddlywiki
+
+<div class="tc-improvement-banner">
+{{$:/core/images/edit-button}} Editing this tiddler as <$link to={{$:/status/UserName}}>{{$:/status/UserName}}</$link> | <$edit-text tag="input" type="text" field="description" placeholder="Enter a description for this tiddler." class="tc-btn-invisible" size=100/>
+</div>

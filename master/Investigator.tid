@@ -1,0 +1,62 @@
+created: 20140825044354440
+creator: eloquentlizard
+modified: 20200728191113544
+modifier: eloquentlizard
+tags: [[Advanced Class]] [[d20 Modern]] Class
+title: Investigator
+type: text/vnd.tiddlywiki
+
+!Requirements
+To qualify to become an Investigator, a character must fulfill the following criteria.
+
+*''Base Attack Bonus'' +2.
+
+*''Skills'' Search or Research 6 ranks, Listen 6 ranks, Sense Motive 6 ranks.
+
+!Game Rule Information
+The following information pertains to the Investigator advanced class.
+
+''Hit Die'' d6
+
+''Action Points'' 6 + &#189; character level, rounded down
+
+!!Class Skills
+The Investigator's class skills are Bluff, Computer Use, Disable Device, Drive, Forgery, Gather Information, Intimidate, Knowledge (behavioral sciences, civics, current events, streetwise), Listen, Profession, Read/Write Language, Research, Search, Sense Motive, Speak Language, & Spot.
+
+''Skill Points at Each Level'' 5 + Int modifier.
+
+|!Level|!Base Attack|!Fort|!Ref|!Will|!Special|!Defense|!Reputation|
+|!1st|+0|+0|+1|+1|Profile|+1|+1|
+|!2nd|+1|+0|+2|+2|Contact, low-level|+1|+1|
+|!3rd|+2|+1|+2|+2|Bonus feat|+2|+1|
+|!4th|+3|+1|+2|+2|Nonlethal force|+2|+2|
+|!5th|+3|+1|+3|+3|Contact, mid-level|+3|+2|
+|!6th|+4|+2|+3|+3|Bonus feat|+3|+2|
+|!7th|+5|+2|+4|+4|Discern lie|+4|+3|
+|!8th|+6|+2|+4|+4|Contact, high-level|+4|+3|
+|!9th|+6|+3|+4|+4|Bonus feat|+5|+3|
+|!10th|+7|+3|+5|+5|Sixth sense|+5|+4|
+
+!!Class Features
+The following features pertain to the Investigator advanced class.
+
+;Profile
+:By making a Gather Information check (DC 15) when talking to witnesses of a crime, the Investigator compiles a rough mental picture of the suspect. This mental picture provides a physical description, including distinguishing markings and visible mannerisms. Success makes the profile accurate, at least concerning a particular suspect as seen by witnesses. (For this Gather Information check, no money changes hands.) The Investigator can expand the profile by making a Search check (DC 15) involving the crime scene or other evidence linked to the suspect. If successful, the Investigator combines eyewitness accounts with forensic evidence to develop a profile of the suspect's method of operation. This provides a +2 circumstance bonus on any skill checks made to uncover additional evidence or otherwise locate and capture the suspect.
+
+;Contact
+:An Investigator of 2nd level or higher cultivates associates and informants. Each time the Investigator gains a contact, the GM should develop a supporting character to represent the contact. The player can suggest the type of contact his or her character wants to gain, but the contact must be an ordinary character, not a heroic character. A contact will not accompany an Investigator on missions or risk his or her life. A contact can, however, provide information or render a service (make a specific skill check on the Investigator's behalf).
+At 2nd level, the Investigator gains a low-level contact, at 5th level a mid-level contact, and at 8th level a high-level contact. The Investigator can't call on the same contact more than once in a week, and when he or she does call on a contact, compensation may be required for the assistance the contact renders. In general, a professional associate won't be compensated monetarily, but instead will consider that the Investigator owes him or her a favor. Contacts with underworld or street connections usually demand monetary compensation for the services they render, and experts in the use of skills normally want to be paid for the services they provide. For underworld or street contacts, this expense is represented by a Wealth check against a purchase DC of 10 for the low-level contact, 15 for the mid-level contact, or 20 for the high-level contact. For skilled experts, the purchase DC is 10 + the ranks the expert has in the appropriate skill.
+
+;Bonus Feats
+:At 3rd, 6th, and 9th level, the Investigator gets a bonus feat. The bonus feat must be selected from the following list, and the Investigator must meet all the prerequisites of the feat to select it.
+```
+Advanced Firearms Proficiency, Armor Proficiency (light), Armor Proficiency (medium), Brawl, Defensive Martial Arts, Dodge, Double Tap, Educated, Knockout Punch, Personal Firearms Proficiency, Point Blank Shot.
+```
+;Nonlethal Force
+:At 4th level, an Investigator becomes adept at using nonlethal force to subdue an opponent. From this point on, he or she can deal nonlethal damage with a weapon that normally deals lethal damage (if he or she so chooses) without taking the normal -4 penalty on the attack roll.
+
+;Discern Lie
+:At 7th level, an Investigator develops the ability to gauge whether another character is telling the truth by reading facial expressions and interpreting body language. The Investigator must be able to see and hear (but not necessarily understand) the individual under scrutiny. With a successful Sense Motive check opposed by the subject's Bluff check result or against DC 10 (whichever is greater), the Investigator can tell whether the subject is deliberately and knowingly speaking a lie. This ability doesn't reveal the truth, uncover unintentional inaccuracies, or necessarily reveal omissions in information.
+
+;Sixth Sense
+:At 10th level, an Investigator becomes so attuned at solving mysteries that he or she finds a way to put two and two together and rarely misses a clue. Whenever the Investigator spends 1 action point to improve the result of a skill check made using certain skills (see below), the Investigator gets to add an additional 1d6 to the result.<br>The skills that sixth sense applies to are Gather Information, Listen, Research, Search, and Spot.

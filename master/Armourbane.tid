@@ -1,0 +1,12 @@
+created: 20150214234038498
+creator: eloquentlizard
+description: This weapon has been crafted with one aim in mind: to pierce the hides of armoured vehicles.
+modified: 20201012231041681
+modifier: eloquentlizard
+tags: [[Special Rule]]
+title: Armourbane
+type: text/vnd.tiddlywiki
+
+If a model has this special rule, or is attacking with a Melee weapon that has this special rule, it rolls an additional D6 for armour penetration in close combat.
+
+If a model makes a shooting attack with a weapon that has this special rule, it rolls an additional D6 for armour penetration. In either case, this special rule has no effect against non-vehicle models.

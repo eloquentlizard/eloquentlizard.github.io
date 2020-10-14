@@ -1,0 +1,83 @@
+created: 20140924011427720
+creator: eloquentlizard
+modified: 20200728191108830
+modifier: eloquentlizard
+tags: [[RPG System]] [[Dungeons: The Dragoning 40,000, 7th Edition]] Projects Homebrew Archived
+title: D:tD40k7e Adaptation Fantasy RPG
+type: text/vnd.tiddlywiki
+
+!Special Shit
+*''Spirit'' (SP): Each round, every living party member contributes a number of SP to a party pool equal to his or her level. SP are used to cast spells and use special abilities, which are character-specific.
+*''Luck'': The player gains 7 Luck at the beginning of the game, which are refreshed at the beginning of a new chapter. 1 point allows a character an extra reaction in a turn. One point an be burned (permanently reducing your maximum Luck) to keep a character alive.
+!Base Attributes
+||Power|Finesse|Resistance|h
+|!Physical|Strength|Dexterity|Constitution|
+|!Mental|Intelligence|Wisdom|Willpower|
+|!Social|Charisma|Fellowship|Composure|
+*''Race'': Determines Size and a few other characteristics, like stat bonuses
+!Derived Statistics
+*''Size'': Determined by Race
+*''Hit Points'': 2 × (Constitution + Willpower)
+*''Speed'': Strength + Dexterity
+*''Initiative'': Dexterity + Intelligence + Composure
+*''Defense'': 10 + 3 × (Dexterity + Wisdom) - 2 × Size
+*''Resilience'': Size + other modifiers +1 if Dwarf.
+*''Level'': Highest value of any Professional Skill
+!Skills
+*''Acrobatics'': Used for dodging and feats of dexterity.
+*''Athletics'': Used for breaking things or using a feat of great strength.
+*''Mêlée'': Used for attacking in melee combat and parrying.
+*''Missiles'': Used for attacking in ranged combat.
+*''Negotiation'': Used for coercing, convincing, and ascertaining others.
+*''Notice'': Used for spotting things.
+*''Sneak'': Used for hiding and sneaking around.
+!Professional Skills
+*''Mage'': Used for attacking with magical spells and supernatural effects.
+*''Monk'': Grants bonuses to attack and damage with natural weapons and unarmed attacks.
+*''Priest'': Used for healing creatures and summoning divine powers.
+*''Thief'': Used for picking pockets and disabling traps and/or locks.
+*''Warrior'': Grants bonuses to attack and damage with manufactured weapons.
+!Races
+~~
+*''Human'': +1 to the spirit pool every round. +1 Intelligence, Wisdom and Willpower. Size 4.
+*''Elf'': +1 Intelligence and Dexterity, +1 Mêlée, Missiles, and Notice. Size 3.
+*''Dwarf'': +1 Constitution and Willpower, Use Constitution instead of Dexterity for Defense. +1 Resilience. Size 3.
+*''Gnome'': +1 Intelligence and Fellowship, +1 Arcana, Thievery, and Notice. Size 3.
+*''Halfling'': +1 Fellowship and Charisma. +1 Thievery. Use Dexterity to determine Defense instead of Wisdom (so 6 × Dexterity). Size 2.
+*''Orc'': +1 Strength and Constitution, +1 Mêlée, Warrior, and Athletics. +2 Defense. Size 4.
+~~
+
+!Advancement & Experience Points
+*You may advance your characters at any time, even in combat.
+*Every time you fell an enemy, you gain 1 Experience Point (XP). Particularly difficult enemies may grant 2 XP upon defeat. Bosses give 5 XP.
+*Advancing a character costs a number of XP according what you want to advance.
+*Experience is not handled per-character; rather, it is a global pool of points that can be spent advancing anyone in your party.
+
+|>| Advancing a character: XP costs |h
+| +1 to a base attribute | 2 XP × current rank |
+| +1 to a current skill | 1 XP × current rank |
+| New skill | 2 XP |
+| New profession | 3 XP |
+| +1 to a current profession | 2 XP × current rank |
+| Gain a perk | 2 XP |
+|Note that you may have no more perks than twice your level, plus one. The only way to increase your level is by improving existing professions.|c
+*The interesting bit about the level advancement method is that every character has unique perks for each profession. Many perks have prerequisite ranks in professional skills.
+----
+!Characters
+*''Hero'' -- a leader and a commander for the forces. Fully customizable by the player, down to name and race. If (s)he dies, though, it's game over.
+*''Ballin'' -- Ballin Stonehearth, a sturdy dwarf whose relaxed attitude masks his incredible combat ferocity.
+*''Imlir'' -- Imlir Oakenfold, a lithe elf who feels the pressure of his kin to make something of himself.
+*''Calem'' -- Calem Taylor, a quiet human with a volley of hidden bravery and strength.
+*''Fnipper'' -- "Fnipper", a gnomish inventor, tinker, and alchemist.
+*''Alder'' -- Alder Brushgather, a halfling whose short stature (even for a halfling) gets him in and out of interesting places.
+*''Korôk'' -- Korôk Gorrá, a very muscular, illiterate orc with poor social skills.
+*''Reimann'' -- Reimann ~LaGrange, a human that exudes an aura of supernatural wrongness. He's got the heart of a warrior in the body of a wizard.
+*''Tamantha'' -- Tamantha Badgerclaw, a halfling raised in the human lands, and knows a few of their tricks.
+*''Dodók'' -- Dodók Sabrefrenzies, a dwarvish librarian and compiler of secret lore. She was the sole survivor of a great tragedy.
+*''Gorton'' -- Gorton Axebeard, a dwarf veteran of grand siege. He's aged a bit since the war, but he still fights like no other.
+*''Jorina'' -- Jorina Crowsbeak, a human that's also possibly half-giant. She towers over her comrades and can reach farther than they can.
+*''Portia'' -- Portia Glittergem, an elf raised by gnomes. She is very skilled with a bow.
+*''Broglie'' -- Broglie Alexandrite, a troglodyte tired of a secluded existence, wanting to integrate within normal society. His inherent stench is a bit off-putting.
+*''Dervish'' -- Dervish Graymoon, an elf with a deep connection to the woodlands and the feykind. He knows the woodlands like the back of his hand.
+*''Kran'' -- Kran Gootcha, a goblin shaman with bizzare powers. Her strange powers aid her in surprising ways.
+*''Jacinth'' -- Jacinth Korl, an aging orc with a mysterious connection to the sky. The weather changes at his command.

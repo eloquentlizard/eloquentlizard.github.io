@@ -1,0 +1,12 @@
+created: 20151229043601592
+creator: eloquentlizard
+modified: 20201012231043867
+modifier: eloquentlizard
+tags: [[Instinctive Behaviour]]
+title: Instinctive Behaviour (Lurk)
+type: text/vnd.tiddlywiki
+
+|D6|Lurk Result|h
+|1-3|''Survive'': //The Tyranids’ survival instincts take over and they turn tail and flee the battlefield.//<br>The unit is treated as having failed a Morale test and must immediately Fall Back.|
+|4-5|''Seek Cover'': //The brood immediately seeks out shelter to hide from the enemy, ignoring the foe until they are safely concealed from their eyes.//<br>In the Movement phase, the unit is not slowed by difficult terrain, though its models must take Dangerous Terrain tests as normal. In the Shooting phase, the unit can run or shoot. If the unit shoots, models in open ground cannot shoots (models that are in base contact with another type of terrain can shoot normally).|
+|6|''Stalk'': //The Tyranids blend seamlessly into the shadows, stalking their prey from safety until the right time to strike presents itself.//<br>This follows all the rules for Seek Cover (above). In addition, the unit gains the [[Stealth]] special rule.|

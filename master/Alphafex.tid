@@ -1,0 +1,38 @@
+armor-save: 3+
+attacks: 4
+ballistic-skill: 4
+created: 20150919224344022
+creator: eloquentlizard
+description: The Tyranids' Screaming Demon
+initiative: 3
+leadership: 10
+modified: 20201013212929804
+modifier: eloquentlizard
+points: 200
+prefix: The
+strength: 9
+tags: [[Campaign Tyranid Warlords]] Archived
+title: Alphafex
+toughness: 6
+type: text/vnd.tiddlywiki
+unit-type: Monstrous Creature (Character)
+weapon-skill: 3
+wounds: 4
+
+!!Weapons & Biomorphs
+*Two pairs of <abbr title="S User; AP 6; Melee">Scything Talons</abbr>
+*<abbr title='12"; S 7; AP 2; Assault 1, Blast'>Bio-plasma</abbr>
+*Regeneration
+!!Special Rules
+*Fearless
+*Living Battering Ram
+*Psyker (Mastery Level 2)
+*Shadow in the Warp
+*Warp Field
+
+!!Psychic Powers
+The Alphafex always knows the Dominion and Warp Blast psychic powers. It also knows an additional psychic power from the Powers of the Hive Mind.
+
+!!Warlord Trait
+;Synaptic Relay
+:All Synapse Creatures within 6" of the Warlord add +6" to their Synapse range. If the Warlord is a Synapse Creature, it does not gain this extra +6" to its Synapse range.

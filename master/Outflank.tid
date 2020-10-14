@@ -1,0 +1,15 @@
+created: 20150215011037072
+creator: eloquentlizard
+description: The best way to surprise an enemy is to strike from an unexpected quarter.
+modified: 20201012231044373
+modifier: eloquentlizard
+tags: [[Special Rule]]
+title: Outflank
+type: text/vnd.tiddlywiki
+
+During deployment, players can declare that any unit that contains at least one model with this special rule is attempting to Outflank the enemy. This means they are making a wide sweeping move to get behind enemy lines or come at the foe from an unexpected direction.
+
+When an Outflanking unit arrives from Reserves, but not Ongoing Reserve, the controlling player rolls a D6: on a 1-2, the unit comes in from the table edge to the left of their controlling player’s own table edge; on a 3-4, they come on from the right; on a 5-6, the player can choose left or right. Models move onto the table as described for other Reserves. If such a unit deploys inside a Dedicated Transport, they may Outflank along with their Transport.
+
+!!Infiltrate & Outflank
+If a unit with [[Infiltrate]] deploys inside a Dedicated Transport, they may Outflank along with their Transport.

@@ -1,0 +1,13 @@
+[
+    {
+        "created": "20150215040137049",
+        "title": "Instinctive Behaviour",
+        "text": "This special rule is always followed, in brackets, by a type: either [[Lurk|Instinctive Behaviour (Lurk)]], [[Feed|Instinctive Behaviour (Feed)]], or [[Hunt|Instinctive Behaviour (Hunt)]]; which corresponds to a table. At the beginning of each of your turns, all Tyranids Faction units with this special rule that are outside of the synapse range of any friendly [[Synapse Creature]]s (see below) must take a Leadership test unless they are: engaged in combat, falling back, have gone to ground or arrived from reserve this turn. If the test is passed, the unit acts normally during this turn. If the test is failed, the unit must roll a D6 on the appropriate Instinctive Behaviour table. The effects of the result rolled last until the beginning of your next turn, unless specified otherwise.",
+        "creator": "Jeanbeaux",
+        "modified": "20201012231043827",
+        "modifier": "Jeanbeaux",
+        "tags": "[[Special Rule]]",
+        "type": "text/vnd.tiddlywiki",
+        "description": "Unless controlled or coordinated by the domineering will of the Hive Mind, many Tyranid organisms will revert to their baser instincts. "
+    }
+]

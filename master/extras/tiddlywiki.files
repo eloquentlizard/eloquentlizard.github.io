@@ -1,0 +1,18 @@
+{
+    "directories": [
+        {
+            "path": "./fonts",
+            "filesRegExp": "^.*\\.ttf$",
+            "isTiddlerFile": false,
+            "fields": {
+                "title": {"source": "basename-uri-decoded", "prefix": "$:/fonts/"},
+                "created": {"source": "created"},
+                "modified": {"source": "modified"},
+                "type": "application/x-font-ttf",
+                "tags": ["$:/tags/font"],
+                "text": "",
+                "_canonical_uri": {"source": "filename", "prefix": "fonts/"}
+            }
+        }
+    ]
+}

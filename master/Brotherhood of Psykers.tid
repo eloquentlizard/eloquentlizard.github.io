@@ -1,0 +1,13 @@
+created: 20150215000149321
+creator: eloquentlizard
+description: Some highly-trained psykers act in groups, focussing on a single goal. Few can resist such mighty minds working in concert.
+modified: 20201012231042105
+modifier: eloquentlizard
+tags: Psyker
+title: Brotherhood of Psykers
+type: text/vnd.tiddlywiki
+
+A unit containing at least one model with this special rule is a Psyker unit – if no Mastery Level is shown, then that unit has a Mastery Level of 1. Rules for generating and manifesting psychic powers can be found in the Psychic phase section. The unit follows all the normal rules for Psykers, with the following clarifications:
+
+*When manifesting a psychic power, this unit measures range and line of sight from, and uses the characteristics profile (if required) of, any one model in the unit that has the Brotherhood of Psykers/Sorcerers special rule (controlling player’s choice).
+*If this unit suffers Perils of the Warp, or is hit by an attack that specifically targets Psykers, the hits are Randomly Allocated amongst models with the Brotherhood of Psykers/Sorcerers special rule. If a model with this special rule gains or loses a psychic power, all other models with this special rule in their unit also gain or lose that power. 

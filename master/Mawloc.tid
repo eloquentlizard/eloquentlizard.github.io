@@ -1,0 +1,31 @@
+armor-save: 3+
+attacks: 3
+ballistic-skill: 3
+created: 20150222042038237
+creator: eloquentlizard
+footer: {{$:/Lore/Mawloc}}
+initiative: 4
+leadership: 8
+modified: 20201013212929165
+modifier: eloquentlizard
+points: 140
+special-rules: [[Burrow]] [[Extremely Bulky]] [[Deep Strike]] [[Fearless]] [[Hit & Run]] [[Instinctive Behaviour (Feed)]] [[Terror From the Deep]] +[sort[title]]
+strength: 6
+tags: [[Heavy Support]]
+title: Mawloc
+toughness: 6
+type: text/vnd.tiddlywiki
+unit-type: Monstrous Creature
+weapon-skill: 3
+wounds: 6
+
+!!{{!!title}} --- {{!!points}} points
+
+{{||CharacteristicsTable}}
+
+Unit Composition --- 1 {{!!title}}
+
+{{||$:/templates/biomorphs-rules}}
+
+;Options
+*May take items from the {{Biomorphs||$:/templates/tooltips}} and {{Tail Biomorphs||$:/templates/tooltips}} lists.

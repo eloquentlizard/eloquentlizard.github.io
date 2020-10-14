@@ -1,0 +1,64 @@
+created: 20141015002656924
+creator: eloquentlizard
+modified: 20200728191117699
+modifier: eloquentlizard
+tags: [[Dungeons & Dragons 3.5]]
+title: The Tarrasque, but better!
+type: text/vnd.tiddlywiki
+
+//Only differences here is that Toughness ×6 and Alertness were replaced with much better feats. Much, much better.//
+
+!Tarrasque
+*''Size/Type'': Colossal Magical Beast
+*''Hit Dice'': 48d10+624 (888 hp)
+*''Initiative'': +7
+*''Speed'': 20 ft. (4 squares)
+*''Armor Class'': 35 (-8 size, +3 Dex, +30 natural), touch 5, flat-footed 32
+*''Base Attack/Grapple'': +48/+81
+*''Attack'': Bite +52* melee (4d8+25/18-20/×3)
+*''Full Attack'': Bite +52* melee (4d8+22/18-20/×3) and 2 horns +57 melee or ranged (1d10+17) and 2 claws +57 melee or ranged (1d12+17) and tail slap +57 melee or ranged (3d8+17)
+**The given Bite attack includes a 5-point Power Attack.
+*''Space/Reach'': 30 ft./20 ft. (20-foot range increment with all attacks except bite)
+*''Special Attacks'': Augmented critical; frightful presence; improved grab; rush; swallow whole; crush (Large or smaller, Ref DC 43, 4d8+25/round, pin)
+*''Special Qualities'': Carapace; damage reduction 15/epic; immunity to fire, poison, disease, energy drain, and ability damage; regeneration 40; scent; spell resistance 32
+*''Saves'': Fort +38, Ref +29, Will +20
+*''Abilities'': Str 45, Dex 16, Con 35, Int 3, Wis 14, Cha 14
+*''Skills'': Listen +15, Search +9, Spot +15, Survival +14 (+16 following tracks)
+*''Feats'':	Awesome Blow, Blind-Fight, Brutal Throw, Cleave, Combat Reflexes, Crush, Detach, Dodge, Fling Enemy, Great Cleave, Improved Bull Rush, Improved Initiative, Improved Multiattack, Improved Toughness, Iron Will, Multiattack, Power Attack 
+*''Environment'': Any
+*''Organization'': Solitary
+*''Challenge Rating'': 20
+*''Treasure'': None
+*''Alignment'': Always neutral
+*''Advancement'': 49+ HD (Colossal)
+*''Level Adjustment'': ---
+The tarrasque is 70 feet long and 50 feet tall, and it weighs about 130 tons.
+
+The tarrasque cannot speak.
+
+!!Combat
+
+The tarrasque attacks with its claws, teeth, horns, and tail.
+
+The tarrasque’s natural weapons are treated as epic weapons for the purpose of overcoming damage reduction.
+
+''Augmented Critical'' (Ex): The tarrasque’s bite threatens a critical hit on a natural attack roll of 18-20, dealing triple damage on a successful critical hit.
+
+''Frightful Presence'' (Su): The tarrasque can inspire terror by charging or attacking. Affected creatures must succeed on a DC 36 Will save or become shaken, remaining in that condition as long as they remain with 60 feet of the tarrasque. The save DC is Charisma-based.
+
+''Improved Grab'' (Ex): To use this ability, the tarrasque must hit a Huge or smaller opponent with its bite attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can try to swallow the foe the following round.
+
+''Rush'' (Ex): Once per minute, the normally slow-moving tarrasque can move at a speed of 150 feet.
+
+''Swallow Whole'' (Ex): The tarrasque can try to swallow a grabbed opponent of Huge or smaller size by making a successful grapple check. Once inside, the opponent takes 2d8+8 points of crushing damage plus 2d8+6 points of acid damage per round from the tarrasque’s digestive juices. A swallowed creature can cut its way out by dealing 50 points of damage to the tarrasque’s digestive tract (AC 25). Once the creature exits, muscular action closes the hole; another swallowed opponent must cut its own way out. The tarrasque’s gullet can hold 2 Huge, 8 Large, 32 Medium, 128 Small, or 512 Tiny or smaller creatures.
+
+''Carapace'' (Ex): The tarrasque’s armorlike carapace is exceptionally tough and highly reflective, deflecting all rays, lines, cones, and even magic missile spells. There is a 30% chance of reflecting any such effect back at the caster; otherwise, it is merely negated. Check for reflection before rolling to overcome the creature’s spell resistance.
+
+''Regeneration'' (Ex): No form of attack deals lethal damage to the tarrasque. The tarrasque regenerates even if it fails a saving throw against a disintegrate spell or a death effect. If the tarrasque fails its save against a spell or effect that would kill it instantly (such as those mentioned above), the spell or effect instead deals nonlethal damage equal to the creature’s full normal hit points +10 (or 898 hp). The tarrasque is immune to effects that produce incurable or bleeding wounds, such as mummy rot, a sword with the wounding special ability, or a clay golem’s cursed wound ability.
+
+The tarrasque can be slain only by raising its nonlethal damage total to its full normal hit points +10 (or 898 hit points) and using a //wish// or //miracle// spell to keep it dead.
+
+If the tarrasque loses a limb or body part, the lost portion regrows in 1d6 minutes (the detached piece dies and decays normally). The creature can reattach the severed member instantly by holding it to the stump.
+
+''Skills'': The tarrasque has a +8 racial bonus on Listen and Spot checks.
+

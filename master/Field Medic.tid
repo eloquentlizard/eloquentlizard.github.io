@@ -1,0 +1,23 @@
+created: 20140825051853840
+creator: eloquentlizard
+modified: 20200728191110059
+modifier: eloquentlizard
+ordering: medic
+tags: [[Advanced Class]] Class [[d20 Modern]]
+title: Field Medic
+type: text/vnd.tiddlywiki
+
+{{Field Medic/Requirements||modal}}
+|tc-tagged-Class|k
+|!Level|!Base Attack|!Fort|!Ref|!Will|!Special|!Defense|!Reputation|
+|!1st|+0|+2|+0|+1|{{Field Medic/Medical Specialist||modal}} +1|+1|+1|
+|!2nd|+1|+3|+0|+2|{{Field Medic/Expert Healer||modal}}|+1|+1|
+|!3rd|+1|+3|+1|+2|{{Field Medic/Bonus Feat||modal}}|+2|+1|
+|!4th|+2|+4|+1|+2|{{Field Medic/Medical Mastery||modal}}|+2|+2|
+|!5th|+2|+4|+1|+3|{{Field Medic/Medical Specialist||modal}} +2 |+3|+2|
+|!6th|+3|+5|+2|+3|{{Field Medic/Bonus Feat||modal}}|+3|+2|
+|!7th|+3|+5|+2|+4|{{Field Medic/Minor Medical Miracle||modal}}|+4|+3|
+|!8th|+4|+6|+2|+4|{{Field Medic/Medical Specialist||modal}} +3|+4|+3|
+|!9th|+4|+6|+3|+4|{{Field Medic/Bonus Feat||modal}}|+5|+3|
+|!10th|+5|+7|+3|+5|{{Field Medic/Medical Miracle||modal}}|+5|+4|
+|''Hit Die'': 1d8<br>''Action Points'': 6 + ½ level<br>''Skill Points'': 5 + Int modifier<br>''Class Skills'': Computer Use, Concentrate, Craft,,pharmaceutical,,, Diplomacy, Drive, Knowledge,,behavioral sciences, current events, earth and life sciences, popular culture, technology,,, Listen, Pilot, Profession, Read/Write Language, Research, Speak Language, Spot, & Treat Injury.|c

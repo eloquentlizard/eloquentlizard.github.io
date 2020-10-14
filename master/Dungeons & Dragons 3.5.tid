@@ -1,0 +1,27 @@
+color: #efc74b
+created: 20140823052731876
+creator: eloquentlizard
+icon: d20lt-20
+modified: 20200728191109552
+modifier: eloquentlizard
+src: http://1d4chan.org/wiki/Dungeons_%26_Dragons_3rd_Edition
+tags: [[RPG System]]
+title: Dungeons & Dragons 3.5
+type: text/vnd.tiddlywiki
+
+<div class="tc-sidediv">tagging:<br><$list filter="[tag[Dungeons & Dragons 3.5]!tag[Components]sort[title]]">
+
+</$list></div><span style="float:right;">[img [Cover of the Player's Handbook|dnd35phb]]</span> The third edition of the Advanced Dungeons & Dragons game, albeit dropping "advanced" from the title to make it more accessible to new players. Though initially published in 2000 by Wizards of the Coast (as the version commonly referred to as "3e"), a "3.5" revision was published in 2003 with some significant changes, and it is the 3.5 revision that most 3rd edition players use. Wizards have since gone on to release 4e, which received a [[controversial greeting|http://1d4chan.org/wiki/RAGE]].
+
+!System
+!!The Core Mechanic
+3rd edition introduced the now ubiquitous "d20 System", where almost every action with a chance of failure is resolved by rolling a d20, applying relevant modifiers, and comparing the result to a set difficulty (or in, some cases, another character's roll) to determine success, referred to by the system as the "Core Mechanic". For example, a fighter attempting to hit a monster with his sword rolls a d20 and may add his Base Attack Bonus, Strength bonus, relevant Weapon Focus bonuses, magical enhancements, etc. with the objective of beating his opponent's Armour Class. Rolling equal to or over the target's AC means he has successfully hit and gets to deal damage. In a similar vein, a rogue attempting to pick a lock rolls a d20 and adds his skill ranks, dexterity bonus, any relevant skill bonuses from feats, modifiers depending on the quality of his equipment, etc. in an attempt to beat the target DC (Difficulty Class) of the lock.
+
+This was generally regarded as a significant improvement on the systems used in 1e and 2e, where many different parts of the game were governed by vastly different mechanics. Restructuring the game around the single core mechanic made gameplay much simpler and easier to pick up for new players.
+
+!!Characters and Creatures
+Characters and creatures in the system are structured around Hit Dice and ability scores, wherein bonuses and traits from various hit dice are stacked together and combined with modifiers derived from the base ability scores to determine the other statistics of the entity. For example, a 2nd level Cleric/3rd level Fighter would have a +1 BAB for his two cleric hit dice and a +3 BAB for his three fighter hit dice, combining to give him a total Base Attack Bonus of +4, which would then be modified by other abilities such as strength or dexterity to determine his overall bonus when making an attack. The hit points granted to him by each of those hit dice would be added together and modified by the constitution score to determine his overall hit point total, and so on.
+
+Almost all entities have six ability scores: Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma - that describe basic qualities of their character. The human average ability score, as the baseline from which all other ability scores are referenced, is 10 or 11. Ability scores higher than this grant bonuses to their relevant checks, and lower than this impose penalties. Every two points of score results in a +1 modifier, such that a score of 8-9 is a -1 penalty, 10-11 is +0, 12-13 is +1, and so on. Different races generally have bonuses and penalties to some ability scores to represent how they differ to humans; for example, the graceful but frail elves have a +2 to their dexterity (giving them an extra +1 bonus to dexterity-related checks in general) but a -2 penalty to their constitution, whereas the stout but surly dwarves receive a +2 to their constitution but suffer a -2 to their charisma.
+
+In general, having any ability score reduced to 0 (by magic or other effects) results in incapacitation or death; a 0 Str or Dex character is unable to move himself, a 0 Con character is dead, and a 0 in a mental ability stat results in a coma. Some entities are lacking certain abilities entirely, a situation explicitly different from having a 0 in the stat; for example, a mindless magical construct that cannot think for itself both has no constitution score, as it is not a living being and is not subject to poisons, diseases, and other such things as living beings are; it also has no intelligence score, as it is generally incapable of making its own decisions and instead acts only on the orders given to it by its master.

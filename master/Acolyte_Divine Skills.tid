@@ -1,0 +1,12 @@
+caption: divine skills
+created: 20150203021027773
+creator: eloquentlizard
+modified: 20200728191107936
+modifier: eloquentlizard
+subtitle: {{!!title}}{{modal!!button}}
+tags: Components
+title: Acolyte/Divine Skills
+type: text/vnd.tiddlywiki
+
+!Divine Skills
+An Acolyte has access to the Spellcraft skill, and it is considered a class skill for her. In addition, she gains Concentration as a class skill, and the skill's uses expand to include spellcasting.

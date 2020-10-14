@@ -1,0 +1,12 @@
+caption: maximize spell
+created: 20150203023651741
+creator: eloquentlizard
+modified: 20200728191107964
+modifier: eloquentlizard
+subtitle: {{!!title}}{{modal!!button}}
+tags: Components
+title: Acolyte/Maximize Spell
+type: text/vnd.tiddlywiki
+
+!Maximize Spell
+At 10th level, an Acolyte learns to cast some of her spells to maximum effect. All variable, numeric effects of a maximized spell automatically achieve their maximum values. A maximized spell deals the most possible points of damage, affects the maximum number of targets, and so forth, as appropriate. Saving throws and opposed checks are not affected. Spells without random variables are not affected. When a maximized spell is prepared, it is treated as a spell of three levels higher than the spell’s actual level.

@@ -1,0 +1,18 @@
+[
+    {
+        "created": "20150103185312130",
+        "title": "Moment of Perfect Mind",
+        "text": "{{||Spell}}\nYou may use this maneuver any time you would be required to make a Will save. Make a Concentration check instead of the Will save and use the result of that check to determine the save's success. You must use this maneuver before you attempt the Will save. A result of natural 1 on your Concentration check is not an automatic failure.",
+        "creator": "Jeanbeaux",
+        "modified": "20200728191114505",
+        "modifier": "Jeanbeaux",
+        "tags": "[[Weeaboo Fightan Magic]]",
+        "type": "text/vnd.tiddlywiki",
+        "discipline": "Diamond Mind",
+        "level": "1st",
+        "range": "Personal",
+        "subschool": " Counter",
+        "target": "You",
+        "time": "1 immediate action"
+    }
+]

@@ -1,0 +1,14 @@
+caption: bonus feat
+created: 20150204144407918
+creator: eloquentlizard
+modified: 20200728191110072
+modifier: eloquentlizard
+subtitle: {{!!title}}{{modal!!button}}
+tags: Components
+title: Field Medic/Bonus Feat
+type: text/vnd.tiddlywiki
+
+!Bonus Feats
+At 3rd, 6th, and 9th level, the Field Medic gets a bonus feat. The bonus feat must be selected from the following list, and the Field Medic must meet all the prerequisites of the feat to select it.
+
+>Armor Proficiency,,light, medium,,, Cautious, Defensive Martial Arts, Dodge, Educated, Improved Initiative, Medical Expert, Personal Firearms Proficiency, Surface Vehicle Operation, Vehicle Expert.

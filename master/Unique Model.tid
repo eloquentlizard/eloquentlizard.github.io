@@ -1,0 +1,15 @@
+created: 20150214232303963
+creator: eloquentlizard
+description: Some models are noted as being Unique in their Army List Entry. Unique models include named characters and extraordinary units or vehicles, of which there is only one known example in the whole galaxy. Because of this, you can only ever include one of each Unique model in an army.
+modified: 20201012231047297
+modifier: eloquentlizard
+tags: [[Unit Type]]
+title: Unique Model
+type: text/vnd.tiddlywiki
+
+!!Tyranid Unique Models
+<$list filter="[tag[Unique Model]sort[title]]">
+
+*<$link><$view field=title/></$link>
+
+</$list>

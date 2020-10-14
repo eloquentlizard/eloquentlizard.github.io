@@ -1,0 +1,16 @@
+created: 20150209112234596
+creator: eloquentlizard
+modified: 20200728191117997
+modifier: eloquentlizard
+tags: 
+title: Video Player
+type: text/vnd.tiddlywiki
+
+!Info
+*File Location: <$edit-text tag="input" type="text" field="_canonical_uri" tiddler="$:/stream" />
+*File Type: <$edit-text tag="input" type="text" field="type" tiddler="$:/stream" /> (usually `video/mp4` or `video/ogg`)
+!Video
+<video width="320" height="240" controls>
+  <source src={{$:/stream!!_canonical_uri}} type={{$:/stream!!type}}>
+`Your browser does not support the video tag.`
+</video> 

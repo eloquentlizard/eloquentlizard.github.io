@@ -1,0 +1,10 @@
+created: 20150215004639784
+creator: eloquentlizard
+description: Some blows can slay an enemy outright, no matter how hardy he may be.
+modified: 20201012231043805
+modifier: eloquentlizard
+tags: [[Special Rule]]
+title: Instant Death
+type: text/vnd.tiddlywiki
+
+If a model suffers an unsaved Wound from an attack with this special rule, it is reduced to 0 Wounds and is removed as a casualty. 

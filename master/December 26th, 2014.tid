@@ -1,0 +1,15 @@
+created: 20141226053346864
+creator: eloquentlizard
+modified: 20200728191109284
+modifier: eloquentlizard
+tags: Journal
+title: December 26th, 2014
+type: text/vnd.tiddlywiki
+
+''Let the bullshit commence!''
+<br><br>
+Seriously, though, I figured out how to use `<iframe>` tags today. Check out the <<tag "External Source">> tag over there on the sidebar. Websites rendered inside TiddlyWiki, bitches!
+<br><br>
+Anyway, all absurdity aside, I'm still working on this thing. Going to be doing some more experimentation and seeing how it goes. What can I do under TiddlyWiki?
+<br><br>
+I also grabbed some template snippets for generating things like code blocks and other dumb things via selective transclusion.

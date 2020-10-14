@@ -1,0 +1,59 @@
+created: 20140825052056063
+creator: eloquentlizard
+modified: 20200728191114666
+modifier: eloquentlizard
+tags: [[Advanced Class]] [[d20 Modern]] Class
+title: Negotiator
+type: text/vnd.tiddlywiki
+
+!Requirements
+To qualify to become a Negotiator, a character must fulfill the following criteria.
+
+*''Skills'' Bluff 6 ranks, Diplomacy 6 ranks.
+
+*''Feat'' Alertness.
+!Game Rule Information
+The following information pertains to the Negotiator advanced class.
+
+''Hit Die'' d8
+
+''Action Points'' 6 + &#189; character level, rounded down
+
+!!Class Skills
+The Negotiator's class skills are Bluff, Computer Use, Diplomacy, Drive, Gamble, Gather Information, Intimidate, Knowledge (behavioral sciences, business, civics, current events, popular culture, streetwise), Profession, --Read/Write Language--, Search, Sense Motive, --Speak Language--, & Spot.
+
+''Skill Points at Each Level'' 5 + Int modifier.
+
+|!Level|!Base Attack|!Fort|!Ref|!Will|!Special|!Defense|!Reputation|
+|!1st|+0|+1|+0|+2|Conceal motive|+0|+1|
+|!2nd|+1|+2|+0|+3|React first|+1|+1|
+|!3rd|+2|+2|+1|+3|Bonus feat|+1|+1|
+|!4th|+3|+2|+1|+4|Talk down (one opponent)|+1|+2|
+|!5th|+3|+3|+1|+4|No sweat|+2|+2|
+|!6th|+4|+3|+2|+5|Bonus feat|+2|+2|
+|!7th|+5|+4|+2|+5|Talk down (several opponents)|+2|+3|
+|!8th|+6|+4|+2|+6|Sow distrust|+3|+3|
+|!9th|+6|+4|+3|+6|Bonus feat|+3|+3|
+|!10th|+7|+5|+3|+7|Talk down (all opponents)|+3|+4|
+!!Class Features
+All of the following are features of the Negotiator advanced class.
+
+;Conceal Motive
+:A Negotiator gets to add a bonus equal to his or her Negotiator level whenever he or she opposes a Sense Motive check.
+
+;React First
+:Starting at 2nd level, a Negotiator gains the ability to react first when trying to make a deal or mediate a settlement. The Negotiator must make contact and speak to the participants prior to the start of combat. If he or she does this, he or she gains a free readied action that allows the Negotiator to make either a move or attack action if either side in the negotiation (other than the Negotiator) decides to start hostilities. The Negotiator gets to act before any initiative checks are made, in effect giving him or her the benefit of surprise.
+
+;Bonus Feats
+:At 3rd, 6th, and 9th level, the Negotiator gets a bonus feat. The bonus feat must be selected from the following list, and the Negotiator must meet all the prerequisites of the feat to select it.
+```
+Advanced Firearms Proficiency, Armor Proficiency (light), Armor Proficiency (medium), Attentive, Confident, Dead Aim, Deceptive, Educated, Far Shot, Iron Will, Personal Firearms Proficiency, Trustworthy.
+```
+;Talk Down
+:A Negotiator of 4th level or higher can talk his or her way out of trouble. Either prior to the start of hostilities or during combat, the Negotiator can talk down a single opponent within 15 feet of his or her position or otherwise able to hear the Negotiator's voice. The target must be able to understand the Negotiator. That opponent immediately stops fighting and reverts to an indifferent attitude regarding the Negotiator and the situation in general. Any hostile action by the Negotiator or by one of the Negotiator's allies directed at the opponent allows the opponent to act as he or she sees fit. To initiate this talent, the Negotiator must spend a full-round action talking to his or her opponent. The opponent makes a Will saving throw. The DC is equal to 10 + Negotiator's class level + Negotiator's Charisma bonus. If the save fails, the opponent stops fighting. If the save succeeds, the opponent continues as normal. At 7th level, a Negotiator can talk down a number of opponents equal to his or her Charisma bonus within 15 feet of his or her position or within 15 feet of a television, radio, or telephone broadcasting the Negotiator's message. At 10th level, the range extends to 30 feet and covers all opponents who can hear and understand the Negotiator's voice.
+
+;No Sweat
+:Starting at 5th level, whenever a Negotiator spends 1 action point to improve the result of a die roll, he or she rolls an additional 1d6. The Negotiator can then select the highest die roll to add to his or her d20 roll.
+
+;Sow Distrust
+:A Negotiator of 8th level or higher can turn one character against another. The Negotiator must spend a full-round action and know the Name of the character he or she is attempting to persuade as well as the Name of the character toward whom the target's distrust will be directed. The target must be able to hear and understand the Negotiator. The target makes a Will save. The DC is equal to 10 + Negotiator's class level + Negotiator's Charisma bonus. If the target fails the save, his or her attitude toward the other designated character worsens by one step: helpful turns to friendly, friendly to indifferent, indifferent to unfriendly, unfriendly to hostile (see the Diplomacy skill). The target makes a Will save whenever the Negotiator uses this talent against him or her. As long as the target continues to fail the Will save, the Negotiator can continue taking full-round actions to worsen the target's attitude toward a designated character. When the target's attitude drops to hostile, he or she attacks the designated character. A successful Will save doesn't restore previous attitude shifts, but it does render the target immune for 24 hours to further attempts by the Negotiator to sow distrust. The Negotiator can't use this talent on his or her allies.

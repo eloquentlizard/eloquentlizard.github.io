@@ -1,0 +1,12 @@
+created: 20151229043701070
+creator: eloquentlizard
+modified: 20201012231043842
+modifier: eloquentlizard
+tags: [[Instinctive Behaviour]]
+title: Instinctive Behaviour (Feed)
+type: text/vnd.tiddlywiki
+
+|D6|Feed Result|h
+|1-3|''Cannibalistic Hunger'': //On the verge of starvation and desperate to sate their gnawing hunger, the Tyranids turn upon themselves.//<br>The unit immediately suffers a number of hits equal to the number of models in that unit. These hits are resolved using the unit’s majority Strength (if drawn, use the highest) and AP-. Wounds are allocated by the owning player and armour saves (but not cover saves) may be taken. After resolving casualties (if any) the unit can do nothing else until the end of its turn. Units consisting of only a single model treat this result as Devour (below), instead.|
+|4-5|''Devour'': //Driven by their instincts, the Tyranids hurl themselves at the closest prey they can find, teeth and claws eager to bite into flesh.//<br>In the Shooting phase, the unit cannot shoot or Run. In the Assault phase, if the unit is able to declare a charge, it must do so against the closest viable enemy unit. If the unit cannot declare a charge, it does nothing in the Assault phase.|
+|6|''Kill'': //The brood’s ravenous hunger sends them into a murderous frenzy.//<br>This follows all the rules for Devour (above). In addition, the unit gains the [[Rage]] special rule.|

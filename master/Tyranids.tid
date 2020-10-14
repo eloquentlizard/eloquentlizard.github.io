@@ -1,0 +1,23 @@
+caption: The Tyranids
+color: #519bfc
+created: 20140826090252364
+creator: eloquentlizard
+description: The Tyranids are an ancient race of hyper-aggressive aliens; a vast swarm of predators biologically adapted to kill and consume. Against such a consummate foe, even the mightiest of armies are naught but prey for the slaughter.
+footer: All game rules content is from the Warhammer 40,000 //Codex: Tyranids//, plus other resources from http://www.games-workshop.com
+icon: $:/icons/tyranid
+list: $:/Lore/Tyranids [[Forces of the Hive Mind]] [[Weapons & Biomorphs]] [[Tyranid Psychic Disciplines]] [[Special Rules]] [[Campaign Tyranid Warlords]]
+modified: 20201013164217641
+modifier: eloquentlizard
+subtitle: {{!!caption}}{{modal!!button}}
+tags: Tyranids Projects Archived [[Warhammer 40,000]]
+title: Tyranids
+type: text/vnd.tiddlywiki
+
+The Tyranids are a race of ravenously hungry aliens. They have travelled through the cold darkness of the intergalactic void, hibernating for aeons in order to feed upon the planets of our galaxy. Now they have awakened, sinking their tendrils ever deeper into populated space like a galactic plague of locusts. Impossibly large swarms of scuttling creatures, winged horrors and towering monstrosities consume everything in their path, scouring whole worlds of life as they seek to slake an insatiable appetite. The Tyranid race continuously learns and adapts, spawning new warriors and beasts of war to better defeat its foes. Unrelenting and unstoppable, the Tyranids represent an unimaginable threat, not only to Mankind, but to the whole galaxy.
+
+!Tyranids
+Of all the races in the 41st Millennium, the Tyranids are the most alien. Each Tyranid is a living weapon, a creature perfectly designed to fulfil its role. Driven by the gestalt consciousness of the Hive Mind, the Tyranids overwhelm their prey with weight of numbers. Those that are not swept aside under a tide of razor-sharp claws and lethal bio-weaponry fire are smashed asunder by gigantic alien monsters the size of battle tanks.
+
+<div class="tc-table-of-contents" style="-webkit-column-count: 3;-moz-column-count: 3;column-count: 3;">
+<<toc '$:/Lore/Tyranids' ''>>
+</div>

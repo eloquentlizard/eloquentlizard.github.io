@@ -1,0 +1,63 @@
+created: 20150214215808773
+creator: eloquentlizard
+description: Flying Monstrous Creatures are massive winged monstrosities that are essentially ferocious living aircraft.
+modified: 20201012231043040
+modifier: eloquentlizard
+tags: [[Unit Type]]
+title: Flying Monstrous Creature
+type: text/vnd.tiddlywiki
+
+Flying Monstrous Creatures are [[Monstrous Creature]]s that have a number of additional rules.
+
+!!Deployment
+A Flying Monstrous Creature that is deployed at the start of the game starts in Gliding mode. If a Flying Monstrous Creature is kept as Reserves then, as soon as it enters play, you must declare whether it is in Swooping or Gliding mode. If a Flying Monstrous Creature arrives via Deep Strike Reserve, it always counts as being in Swooping mode.
+
+!!Special Rules
+In addition to the special rules that all [[Monstrous Creature]]s have, Flying Monstrous Creatures also have the [[Jink]] and [[Vector Strike]] special rules.
+
+!!Flight Modes
+Flying Monstrous Creatures can move using one of two flight modes: Swooping or Gliding. 
+
+!!!Changing Flight Mode
+At the start of its move, a Flying Monstrous Creature must declare whether it is Swooping or Gliding until the start of its next turn. If a Flying Monstrous Creature changes flight modes during its turn, it cannot declare a charge during the same turn.
+
+A Gliding Flying Monstrous Creature cannot change flight mode whilst Falling Back.
+
+!!Gliding
+If a Flying Monstrous Creature is Gliding, it moves, Runs and charges exactly like a [[Jump|Jump Unit]] [[Monstrous Creature]].
+
+!!Swooping
+If a Flying Monstrous Creature is Swooping, it moves exactly like a [[Jump|Jump Unit]] [[Monstrous Creature]], with the following exceptions:
+
+*It must move at least 12" and can move up to 24".
+*Due to its limited manoeuvrability, a Flying Monstrous Creature that is Swooping can make a single pivot on the spot of up to 90° before it moves. Thereafter it must move directly forwards in a straight line. As many Flying Monstrous Creatures are mounted on circular or oval bases, it’s not always clear which way is forward. If in doubt, just make sure you use the same point on the base as the ‘front’ for the entire game.
+*A Flying Monstrous Creature that is Swooping can move over intervening units and impassable terrain exactly as a [[Jump|Jump Unit]] [[Monstrous Creature]]. In addition, a Flying Monstrous Creature that is Swooping does not take Dangerous Terrain tests.
+*Models that physically fit under a Swooping Flying Monstrous Creature can move beneath it. Likewise, a Swooping Flying Monstrous Creature can end its move over such models. However, when moving this way, enemy models must still remain 1" away from the base of the Swooping Flying Monstrous Creature, and it cannot end its move with its base within 1" of other enemy models.
+*A Flying Monstrous Creature that elects to Run can move up to 2D6" straight forwards if Swooping. 
+*A Flying Monstrous Creature cannot charge or be charged whilst it is Swooping.
+*A Swooping Flying Monstrous Creature can never [[Fall Back]].
+
+!!!Swooping Hunters
+Flying Monstrous Creatures are quick-witted predators, able to track their targets even when moving at high speeds. They can, therefore, fire up to two of their weapons normally, even if Swooping (provided that they don’t [[Run]]). Flying Monstrous Creatures can shoot all around, just like other non-vehicle models.
+
+In addition, a Flying Monstrous Creature that is Swooping can choose whether or not to use the [[Skyfire]] special rule at the start of each phase. They don’t have to use the [[Skyfire]] special rule, but if they do, all weapons they fire that phase are treated as having the [[Skyfire]] special rule.
+
+!!!Hard to Hit
+A Swooping Flying Monstrous Creature is a very difficult target for units without specialised weapons. Shots resolved at such a target can only be resolved as Snap Shots unless the model or weapon has the [[Skyfire]] special rule.
+
+!!!Leaving Combat Airspace
+It’s quite likely that a Flying Monstrous Creature will leave the board whilst Swooping. Indeed it can, unlike other units, deliberately do so. If this happens, whether deliberate or not, the unit is said to have left combat airspace – it then enters Ongoing Reserves. Whilst in Reserve, the unit cannot change flight mode (it’s too busy trying to get back to the battlefield).
+
+A Flying Monstrous Creature cannot leave combat airspace on the same turn that it entered play from Reserves – the owning player must deploy their model in such a way that it will not leave the board on this turn.
+
+!!!Grounded Tests
+If a Flying Monstrous Creature that is Swooping suffers one or more unsaved Wounds during any phase, it must take a Grounded test at the end of that phase.
+
+To take a Grounded test roll a D6. On a 3+, the Flying Monstrous Creature maintains control and suffers no additional effect. 
+
+If a 1 or 2 is rolled, the beast comes crashing down to the ground – it suffers a single Strength 9 hit with no armour or cover saves allowed, and becomes Grounded. A Grounded Flying Monstrous Creature is treated as if it is in Glide mode with immediate effect, and can therefore be charged in the following Assault phase. Furthermore, a Grounded model automatically loses any saving throw granted by the [[Jink]] special rule (if it had one) until the start of its next Movement phase and cannot [[Jink]] for the rest of the current turn. A Grounded model can revert to Swoop mode again in its next turn.
+
+Note that if a Flying Monstrous Creature is Grounded during the enemy’s turn, it will start its own Movement phase in Glide mode and so can declare a charge during its turn if it chooses to do so, unless it chooses to change flight modes.
+
+!!!Swooping Flying Monstrous Creatures & Tank Shock
+Due to their high altitude and manoeuvrability, a vehicle cannot Tank Shock a Swooping Flying Monstrous Creature – if the vehicle would end up underneath a Swooping Flying Monstrous Creature, move the vehicle by the shortest distance so that it is 1" away from the base of the Flying Monstrous Creature.

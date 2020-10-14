@@ -1,0 +1,12 @@
+created: 20150215123148314
+creator: eloquentlizard
+description: The tails of some Tyranids are deadly weapons, from bony protrusions dense enough to cave in the side of a tank to stingers containing enough poison to kill whole regiments.
+modified: 20201012231041996
+modifier: eloquentlizard
+points: 15
+tags: [[Tail Biomorphs]]
+title: Bone Mace
+type: text/vnd.tiddlywiki
+
+||Range|S|AP|Type|h
+|Bone Mace| --- | 8 | --- |Melee, [[Tail Biomorph]], [[Unwieldy]]|

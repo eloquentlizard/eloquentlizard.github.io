@@ -1,0 +1,15 @@
+created: 20150207151011474
+creator: eloquentlizard
+modified: 20200728191113665
+modifier: eloquentlizard
+tags: Template $:/tags/Macro Journal
+title: JournalTemplate
+type: text/vnd.tiddlywiki
+
+\define journalTemplate(journal)
+
+<$transclude tiddler="$journal$"/> <$transclude tiddler="Journal" field="signature"/>
+
+\end
+
+<$macrocall $name="journalTemplate" journal={{!!title}}/> 

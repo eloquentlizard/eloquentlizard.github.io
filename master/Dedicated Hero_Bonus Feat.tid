@@ -1,0 +1,14 @@
+caption: bonus feat
+created: 20150202032509855
+creator: eloquentlizard
+modified: 20200728191109340
+modifier: eloquentlizard
+subtitle: {{!!title}}{{modal!!button}}
+tags: Components
+title: Dedicated Hero/Bonus Feat
+type: text/vnd.tiddlywiki
+
+!Bonus Feats
+At 2nd, 4th, 6th, 8th, and 10th level, the Dedicated hero gains a bonus feat. This feat must be from this list, and the Dedicated hero must meet any prerequisites.
+
+>Advanced Firearms Proficiency, Alertness, Archaic Weapons Proficiency, Attentive, Blind-Fight, Deceptive, Educated, Far Shot, Iron Will, Medical Expert, Meticulous, Surgery, Track, Weapon Focus.

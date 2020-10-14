@@ -1,0 +1,9 @@
+created: 20150211171843789
+creator: eloquentlizard
+modified: 20200728191106256
+modifier: eloquentlizard
+tags: $:/tags/KeyboardShortcuts
+title: $:/core/ui/keys/new-tiddler
+type: text/vnd.tiddlywiki
+
+<$keyboard message="tm-new-tiddler" key="alt+N" />

@@ -1,0 +1,19 @@
+caption: roaring recovery
+created: 20150105051251603
+creator: eloquentlizard
+modified: 20200728191111021
+modifier: eloquentlizard
+tags: Components
+title: Homebrew/Barbarian/Roaring Recovery
+type: text/vnd.tiddlywiki
+
+!Roaring Recovery
+A barbarian recovers a single expended maneuver whenever he…
+
+*Enters a rage.
+*Spends a daily use of rage at any time (no action required) to recover a maneuver.
+*Spends a full-round action working himself up, roaring, or generally getting pumped (does not provoke an attack of opportunity).
+*Fells a target while raging, dropping it to 0 HP or below (see the Cleave feat).
+
+:;→ See Also
+::{{Homebrew/Barbarian/Improved Roaring Recovery||modal}}

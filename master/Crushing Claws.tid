@@ -1,0 +1,12 @@
+created: 20150218174125751
+creator: eloquentlizard
+description: The obscene strength of these claws allows them to smash any foe.
+modified: 20201012231042369
+modifier: eloquentlizard
+points: 15
+tags: Weapon [[Melee Bio-weapons]]
+title: Crushing Claws
+type: text/vnd.tiddlywiki
+
+|| Range | S | AP | Type |h
+|Crushing Claws| --- | +1 | 2 |Melee, [[Armourbane]], [[Unwieldy]]|

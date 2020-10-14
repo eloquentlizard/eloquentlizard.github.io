@@ -1,0 +1,15 @@
+caption: medical miracle
+created: 20150204144706319
+creator: eloquentlizard
+modified: 20200728191110180
+modifier: eloquentlizard
+subtitle: {{!!title}}{{modal!!button}}
+tags: Components
+title: Field Medic/Medical Miracle
+type: text/vnd.tiddlywiki
+
+!Medical Miracle
+At 10th level, a Field Medic can revive a character reduced to -10 hit points or lower. If the Field Medic is able to administer aid within 3 minutes of the character's death, he or she can make a Treat Injury check. The DC for this check is 40, and the Field Medic can't take 10 or take 20. If the check succeeds, the dead character can make a Fortitude save (DC 20) to stabilize and be restored to 1d6 hit points. If the Field Medic fails the skill check or the patient fails the Fortitude save, the dead character can't be restored.
+
+:;See Also
+::→ {{Field Medic/Minor Medical Miracle||modal}}

@@ -1,0 +1,13 @@
+color: #ffffff
+created: 20150214213850111
+creator: eloquentlizard
+description: Elite units are normally powerful but expensive. They are the best, and often most specialised, soldiers an army has to offer, but there are rarely ever enough of them. In some cases they will be specialists, while at other times they will be more experienced versions of regular soldiers.
+icon: $:/core/images/_elites
+list-after: Troops
+modified: 20201012231042665
+modifier: eloquentlizard
+tags: [[Unit Type]] [[Forces of the Hive Mind]]
+title: Elite
+type: text/vnd.tiddlywiki
+
+{{||$:/templates/_armylist}}

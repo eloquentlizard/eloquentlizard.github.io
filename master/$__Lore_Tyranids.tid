@@ -1,0 +1,15 @@
+caption: {{Tyranids!!caption}}
+color: {{Tyranids!!color}}
+created: 20201013152743237
+description: {{Tyranids!!description}}
+footer: {{Tyranids!!footer}}
+icon: {{Tyranids!!icon}}
+list: [[The Great Devourer]] [[First Contact]] [[The Behemoth]] [[Tyranid Bio-ships]] [[Battle for Macragge]] [[The First Tyrannic War]] [[The Kraken]] [[Doom of the Eldar]] [[The Gorgon]] [[The Second Tyrannic War]] [[The Leviathan]] [[War in Octarius]] [[The Fall of Shadowbrink]] [[The Third Tyrannic War]] [[Galactic Feeding Grounds]]
+list-before: Forces of the Hive Mind
+modified: 20201013153258834
+subtitle: {{Tyranids!!subtitle}}
+tags: Tyranids
+title: $:/Lore/Tyranids
+type: text/vnd.tiddlywiki
+
+{{Tyranids}}

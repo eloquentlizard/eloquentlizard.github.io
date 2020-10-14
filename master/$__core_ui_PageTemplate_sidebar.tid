@@ -1,0 +1,37 @@
+created: 20141226010845329
+creator: eloquentlizard
+modified: 20200728191106270
+modifier: eloquentlizard
+tags: $:/tags/PageTemplate
+title: $:/core/ui/PageTemplate/sidebar
+type: text/vnd.tiddlywiki
+
+<$scrollable fallthrough="no" class="tc-sidebar-scrollable">
+
+<div class="tc-sidebar-header">
+
+<$reveal state="$:/state/sidebar" type="match" text="yes" default="yes" retain="yes">
+
+<h1 class="tc-site-title">
+
+<$transclude tiddler="$:/SiteTitle" mode="inline"/>
+
+</h1>
+
+<div class="tc-site-subtitle">
+
+<$transclude tiddler="$:/SiteSubtitle" mode="inline"/>
+
+<$transclude tiddler="$:/SiteLink" mode="inline"/>
+
+</div>
+
+{{||$:/core/ui/PageTemplate/pagecontrols}}
+
+<$transclude tiddler="$:/core/ui/SideBarLists" mode="inline"/>
+
+</$reveal>
+
+</div>
+
+</$scrollable>

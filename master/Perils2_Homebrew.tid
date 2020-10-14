@@ -1,0 +1,115 @@
+caption: House Rules
+created: 20140823111513723
+creator: eloquentlizard
+modified: 20200728191115949
+modifier: eloquentlizard
+ordering: 2
+tags: [[Extinguishing the Guiding Light]] Homebrew
+title: Perils2/Homebrew
+type: text/vnd.tiddlywiki
+
+This game has house rules, but unusually few for me. While this looks like a wall of text, most of the stuff is pretty simple in idea and execution, and I also have logic as to why certain rules are implemented.
+
+!Books and Such
+
+*''Banned books'': __Tome of Magic__, __Book of Vile Darkness__
+**''Note'': While psionics isn't banned, per se, I would prefer that the game be either magic or psionics, not both.
+**''Note 2'': [[The Book of Weeaboo Fightan Magic|http://1d4chan.org/wiki/The_Book_of_Weeaboo_Fightan_Magic]] is allowed, but I swear to all that is holy I will [[smack|http://1d4chan.org/wiki/Rock_of_Doom]] you if you make a disgustingly weeaboo character.
+*''Homebrew Policy'': If it ain't here, it ain't allowed. No [[dandwiki|http://www.dandwiki.com/wiki/Main_Page]], save for SRD (although I may allow Big Dumb Barbarian). 3rd Party, save for __Dragon Compenium__ and __Nymphology__ are also covered under this rule.
+**''A note about __Dragon Magic__'': Some things in that book are very poorly worded (dragonscale husk and //wings of flurry// standing out in my mind). If you want to use something from that book, talk to me about it and we'll fix the typos and lazy editing.
+
+!Character Creation & Advancement
+*''Allowed Races'': Human, half-human (see "Racial Modifiers", below), dwarf, elf, gnome, goliath, halfling, gnome, orc. Other races require approval and discussion with DM.{{CRAB MOTHERFUCKING NICHOLSON}}
+**//Templates//: None above LA +3 at character creation, and even those need to be run by the DM first.
+*No XP penalty for multiclassing
+*d20 Modern Allegiances instead of Alignment. See [[the d20 Modern SRD|http://12tomidnight.com/d20modernsrd/Allegiances.php]] for more info. I'd recommend two to three allegiances at character creation, although more or less are also options.
+*Skill, Feat, and Spell retraining rules as per the __Player's Handbook II__.
+*Base Attack and Base Save bonuses of the same rates from different classes stack together to determine your total Base Attack bonus and saving throws.
+**//"What does that even mean?"// So if you're playing a barbarian 6 / fighter 2 / wizard 7, your base fortitude save is that of an 8th-level fighter (or barbarian), plus that of a 7th-level wizard (because fighter and barbarian both have a "good" fortitude save, which is 2 + 1/2 level). Your base reflex save would be that of a 15th-level barbarian (or fighter or wizard), because all three classes have a poor reflex save (1/3 level). Your base will save would be that of an 8th-level fighter (or barbarian), plus that of a 7th-level wizard, because, again, both fighter and barbarian both have the same progression rate for will (1/3 level).
+**//"Why are you doing it this way?"// Multiclassing (even with prestige classes), with rules as written, can do bizarre things to your base saving throws and base attack bonus. This house rule is one I commonly use to help alleviate some of the silliness imposed by the rules, and is even a house rule used by a few of the 3.5 authors (if that tells you anything). Also, no one wants to end up with a +2 Base Attack at level 20.
+*All skills, regardless of whether it's a class skill or not, cost only 1 skill point per rank
+**//"What does this mean, exactly?"// Barbarians need only spend 1 skill point for literacy, Speak Language no longer needs to be a class skill for anyone (meaning you, too can learn an additional language for only 1 skill point). Max ranks still apply, however.
+*Fighter now gets Knowledge (dungeoneering, engineering, local), Spot, Listen, Search, and Survival as class skills and 4 + Int modifier skill points/level (×4 @ 1st level, as normal)
+*Sorcerer gains Eschew Materials at 1st level as a bonus feat, and may choose a bonus metamagic feat or fighter bonus feat at 5th, 10th, 15th, and 20th levels (similarly to how the wizard gains bonus feats).
+*Barbarian, Bard, Fighter, Monk, Paladin, Ranger, and Rogue may utilize the [[options listed here|http://wiki.faxcelestis.net/index.php?title=Tome_of_Battle_Core_Class_Update]]. With great power comes great responsibility to not piss me the hell off.
+*Bardic Knowledge and similar class features (Loremaster's Lore, etc.) instead grant a +&#190; class level on all Knowledge checks and allow Knowledge to be made untrained. This bonus is treated as ranks for the purposes of feats and prestige classes.
+*Open Lock has been merged into Disable Device.
+*4th levels (4th, 8th, 12th, 16th, 18th) grant you +1 to ''two'' ability scores, as per SWSE/D&D 4e rules (meaning they may not be applied to the same score) and ALSO grant +1 skill point/level (retroactively as well).
+*Permanent Intelligence increases (say, from inherent bonuses or allocating points on level-up) retroactively add skill points.
+**The rule we're kicking away here is a really stupid one, like XP penalties for multiclassing.
+*Every 10th level (10th, 20th, 30th if the game somehow gets that high), you gain a +1 to all ability scores and a feat (as though gained at a level that would grant you one).
+*On the note of feats, we use Pathfinder progression (+1 feat every odd-numbered level), rather than 3.5
+*HD rolls may be rerolled if they are too low. Definitions of "too low" depend on die.
+**d4s consider a 1 to be too low, d6s consider 1 and 2 to be too low, d8s consider 1-3 too low, d10s consider 1-4 too low, and d12s consider 1-5 too low. You're welcome.
+*Everyone gets 1 free weapon proficiency feat at 1st level. Consider this a true bonus feat (you may pick a feat even if you don't meet the prerequisites).
+*Your first five character levels are [[gestalt|http://www.d20srd.org/srd/variant/classes/gestaltCharacters.htm]]. After 5th level, you advance in levels as normal for a character.
+*Player Characters begin play with 7,000 experience points and 6,000 gold coins worth of items. 
+**''HOWEVER'': Your starting equipment may ''not'' include any magical items, and any leftover gold is halved. If you need additional gold, however, you may spend starting experience points for additional gold coins at a ratio of 1:1. These bonus gold coins are treated as an increase in base wealth, so after spending it, any leftovers will still be halved. This halved gold goes to your trade caravan and helps determine starting provisions for the caravan.
+***''Exception'': If you possess item creation feats, you may "purchase" magic items at normal market price. These items are made by you before the campaign begins. You do not lose any experience points or need to make checks. Treat them as if you were purchasing them at standard market price.
+**''More Stuff'': You may also "purchase" feats and skills with your experience points at a rate of 100 XP per feat, or 20 XP for an additional skill point. You cannot retrain these skill points or feats, and you must have in your backstory a reason for having these skills or feats, which must be approved by the DM.
+*''Ability Scores'': Array of 15, 14, 13, 12, 11, 9; plus you can gain up to a total of three +1s distributed amongst your ability scores, chosen by me dependent upon your backstory.
+**//Those scores aren't very high...// They're good enough for what you need, and you gain bonuses more readily than in other games I've run.
+**''Racial Modifiers'': Humans get +2 to any single ability score of their choosing (replacing the normal ability adjustments). Dwarves get +2 Wis in addition to whatever their subrace gives them. Elves get +2 Int in addition to normal racial traits. Halflings and Gnomes get +2 Charisma in addition to racial traits. Half-Elves, Half-Orcs, Half-Dwarves, Half-Hobbits (or Quarterlings), and Half-Gnomes are also playable races, using the standard human traits, plus their half-race's additional subtype (so a half-orc is a humanoid with the human and orc subtypes, for example).
+
+<div style='font-size:0.8em;width:25em;float:right;line-height:0.5em;border:1px;margin:0.5em;border-color:#547599;line-height:1.3em;border-style:solid;padding:0.5em;background:#f7f7f9;'>
+
+!Magic & Spells
+And now it's time we tackle the old behemoth of D&D 3.*: Blasphemy and its derivatives (Holy Word, Word of Chaos, & Dictum). The problem with them is that they get broken really quickly with inflated caster levels, which are easier to get that you'd think. So, I propose a simple constructive edit for the sake of game balance that doesn't nerf the basic potency of the spell or just go the Pathfinder route and give it a "Will negates" entry. 
+<h1 style='line-height:0.5em'>Blasphemy</h1>
+//Evocation [Sonic, (chosen allegiance -- see text)]//<br>
+''Level'': Cleric 7th, Law 7th<br>
+''Components'': Verbal<br>
+''Casting Time'': 1 standard action<br>
+''Range'': 40 ft.<br>
+''Area'': Creatures not possessing the specified allegiance in a 40-ft.-radius spread centered on you<br>
+''Duration'': Instantaneous<br>
+''Saving Throw'': Will special or Will negates; see text<br>
+''Spell Resistance'': Yes
+
+When you cast this spell, choose an allegiance you possess. Any creature within the area of a //blasphemy// spell without the specified allegiance suffers the following ill effects.
+
+|HD|Effect|h
+|Equal to caster level|Deafened|
+|Up to caster level -1|Slowed, deafened|
+|Up to caster level -5|Paralyzed, slowed, deafened|
+|Up to caster level -10|Killed, paralyzed, slowed, deafened|
+
+The effects are cumulative and concurrent. No saving throw is allowed against these effects'', but a Will saving throw may be made for an affected creature to be treated as having 5 HD more than it possesses for the purposed of being affected by the //blasphemy//.''
+
+*''Deafened'': The creature is deafened for 1d4 rounds.
+*''Slowed'': The creature is slowed, as by the //slow// spell, for 2d4 rounds.
+*''Paralyzed'': The creature is paralyzed and helpless for 1d10 minutes.
+*''Killed'': Living creatures die. Undead creatures are destroyed.
+
+Furthermore, if you are on your home plane when you cast this spell, extraplanar creatures without the specified allegiance within the area are instantly banished back to their home planes. Creatures so banished cannot return for at least 24 hours. This effect takes place regardless of whether the creatures hear the //blasphemy//. The banishment effect allows a Will save (at a -4 penalty) to negate.
+
+Creatures whose HD exceed your caster level are unaffected by //blasphemy//.
+
+
+
+</div>
+
+!Magic Items
+*Nearly any spell of 3rd level or lower can be made into a potion with the advent of "splash potions", potions that require you to make a ranged touch attack to hit a target or a square (if an area effect) and otherwise use all normal rules for throwing a splash weapon. Also, infinite-charge staves and wands are no-nos. You can still add more than fifty charges, but the cost for 100 charges will only get you 100 charges instead of infinite charges. Hell, you could put 8,000 charges on a wand for all I care, as long as you're willing to pay for it.
+**//Why're you doing this awful thing?// I use infinite-charge wands and staves a lot when I play, and I know how much bullshit they are. I want you guys to actually have to worry about resources every now and then. You could use the rules for having a certain number of charges per day, rather than just a total number of charges before the item burns out.
+**//Creativity with Splash Potions// You could also pelt an ally with a splash healing potion to heal him from range. You just need to succeed on an attack vs AC 5 (same as a square). You could also drink splash potions or pour them on yourself (same action as utilizing a potion) or trick someone into drinking a potion of //sleep// or //hold person//, for example, to have him or her suffer the effects (note that a drunken //fireball// splash potion will only hit the imbiber, but will grant no save as you can't dodge an explosion from fucking inside you).
+**//Making Higher-level Potions// I'll also allow Brew Potion to create items with spells beyond 3rd level, with some interesting stipulations: "potions" with spells of 4th, 5th, or 6th level take 1 minute to apply to a user, and "potions" with spells of 7th, 8th, or 9th level take 10 minutes to apply to a user, instead of the 1 standard action normally used by a standard potion or oil. I use quotes on "potion" because if it takes that long, it's likely something that needs to be consumed (such as a sandwich) or a lotion or ointment that needs to be rubbed into the user's skin. An example would be //shampoo of foresight//; you thoroughly wash your hair with it and gain the effects of a //foresight// spell (9th level). Attack spells might utilize a set of items that need to be placed in a proper alignment, although if it's not something eaten, drunken, or applied via contact (oil on a weapon, lotion, ointment, shampoo, etc.), it'll likely require Craft Wondrous Item to create, much like a magical trap.
+!Adventuring
+We'll be using Action Points in this game, albeit with a bit of a different method of acquisition. The rules for using Action Points can be found at [[d20srd.org|http://www.d20srd.org/srd/variant/adventuring/actionPoints.htm#usingActionPoints]].
+
+!!Acquiring Action Points
+Unlike standard AP rules, a player character doesn't just have a certain allotment per level; instead the allotment is per game session. A player character begins any given session with a number of action points equal to one-fifth of his or her level, rounded down (minimum 0). At the end of a session, all unused action points are discarded, and a new set is granted on the following session. In addition, action points can be gained mid-session by enemies utilizing Stunts.
+
+!!!Villains and Stunts
+Stunts are special actions that powerful enemies can utilize that are generally pretty awful to be a part of, but in return, an affected PC gains an action point. Examples include a cryohydra firing a full-powered breath weapon from each head in multiple directions, a mind flayer turning its mind blast into a burst attack that also deals damage, or an enemy expending an action point.
+
+!Combat
+Massive Damage is slightly less severe, and yet slightly more severe. See below for more info.
+
+!!Massive Damage and Wounds
+If a character with a Constitution score takes a single attack that deals it at least 50 hit points of damage and that does not lower the character's hit point total to zero or lower, it must make a Fortitude saving throw at a DC of (Damage dealt - 40) or be instantly dropped to 0 HP. In addition, if the save fails, the character has a 1% chance per point of damage the attack dealt of suffering a disfiguring injury (covered in more detail below).
+
+!!Dismemberment and Disfigurement
+Whenever a character's hit point total is lowered to 0 or fewer by an attack, there is a chance of severe bodily injury. When a character's hit point total reaches zero or fewer (but not enough to kill it), there is a 1% chance per point of damage dealt by the offending attack that something is injured. If an injury does occur, location is determined by a d10 roll, and severity of injury is determined by a d4. Results are determined by the DM. Severed limbs do not grow back with standard healing; only a //regenerate// spell may regrow lost limbs and body parts.
+
+{{Crutch-Walking}}

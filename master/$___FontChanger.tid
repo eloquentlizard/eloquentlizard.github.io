@@ -1,0 +1,36 @@
+created: 20150104065905764
+creator: eloquentlizard
+modified: 20200728191105174
+modifier: eloquentlizard
+subtitle: Edit Font Size{{modal!!button}}
+title: $:/_FontChanger
+type: text/vnd.tiddlywiki
+
+<div class="tc-fullwidth-table">
+
+{{$:/themes/tiddlywiki/vanilla/themetweaks}}
+</div>
+<!--- Enter a new font size and line height. Defaults are `10pt` and `12pt`. Changes take effect //immediately//, even while you type.
+
+''New font size'': <span style="text-align:center;"><$edit-text tiddler="$:/themes/tiddlywiki/vanilla/metrics/fontsize" tag="input" size="5"/></span>
+
+''New line height'': <span style="text-align:center;"><$edit-text tiddler="$:/themes/tiddlywiki/vanilla/metrics/lineheight" tag="input" size="5"/></span>
+
+!!Valid size units in CSS3
+|Unit|Measurement|h
+|em|relative to the normal font-size (most likely around 12-14px here)|
+|ex|relative to the x-height of current font (seldom used)|
+|ch|relative the the width of the "0" for the font|
+|rem|relative the the font-size of the root element|
+|vw|Relative to 1% of the width of the viewport|
+|vh|Relative to 1% of the height of the viewport|
+|vmin|Relative to 1% of viewport's smaller dimension|
+|vmax|Relative to 1% of viewport's larger dimension|
+|%|percentage of normal font-size.|
+|px|pixels (1px = 1/96th of 1in)|
+|cm|centimeters|
+|mm|millimeters|
+|in|inches|
+|pt|points (1pt = ^^1^^/,,76,,in)|
+|pc|picas (1pc = 12pt)|
+|[[unit documentation source|http://www.w3schools.com/cssref/css_units.asp]]|c --->

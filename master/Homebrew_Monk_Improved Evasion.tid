@@ -1,0 +1,11 @@
+caption: improved evasion
+created: 20150106004622816
+creator: eloquentlizard
+modified: 20200728191111503
+modifier: eloquentlizard
+tags: Components
+title: Homebrew/Monk/Improved Evasion
+type: text/vnd.tiddlywiki
+
+!Improved Evasion (Ex)
+At 9th level, a monk’s {{Homebrew/Monk/Evasion||modal}} ability improves. She still takes no damage on a successful Reflex saving throw against attacks, but henceforth she takes only half damage on a failed save. A helpless monk does not gain the benefit of improved evasion.

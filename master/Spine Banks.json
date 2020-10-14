@@ -1,0 +1,14 @@
+[
+    {
+        "created": "20150215122621030",
+        "title": "Spine Banks",
+        "text": "Models equipped with this biomorph don’t suffer the penalty to their Initiative for charging enemies through difficult terrain but fight at their normal Initiative. In addition, they can each be fired as a ranged weapon with the relevant profile below.\n\n||Range|S|AP|Type|h\n|Spine Banks| 6\" | User | --- | [[Assault]] 2|",
+        "creator": "Jeanbeaux",
+        "modified": "20201012231045528",
+        "modifier": "Jeanbeaux",
+        "tags": "Biomorph [[Carapace Biomorphs]]",
+        "type": "text/vnd.tiddlywiki",
+        "description": "The explosive spine banks imbedded in the carapaces of some Carnifexes can also be fired at the foe as the Tyranid charges.",
+        "points": " 5"
+    }
+]

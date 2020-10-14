@@ -1,0 +1,12 @@
+created: 20151229212945321
+creator: eloquentlizard
+description: The Tyranid taps into the raw power of the Hive Mind, unleashing it as a blast of pure Warp energy that arcs from its cranium and vaporises its prey.
+modified: 20201012231044805
+modifier: eloquentlizard
+tags: Weapon
+title: Psychic Blast
+type: text/vnd.tiddlywiki
+
+|| Range | S | AP | Type |h
+|Psychic Blast (burst)| 24" | 5 | 3 |[[Assault]] 1, [[Blast]]|
+|Psychic Blast (lance)| 18" | 10 | 2 |[[Assault]] 1, [[Lance]]|

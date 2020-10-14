@@ -1,0 +1,12 @@
+caption: nip-up
+created: 20150204145746271
+creator: eloquentlizard
+modified: 20200728191109178
+modifier: eloquentlizard
+subtitle: {{!!title}}{{modal!!button}}
+tags: Components
+title: Daredevil/Nip-Up
+type: text/vnd.tiddlywiki
+
+!Nip-Up
+A Daredevil of 2nd level or higher can stand up from a prone position as a free action that does not provoke an attack of opportunity.

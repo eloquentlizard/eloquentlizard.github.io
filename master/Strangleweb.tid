@@ -1,0 +1,12 @@
+created: 20150218185624245
+creator: eloquentlizard
+description: The strangleweb fires a mesh of sticky strands that ensnare the foe, leaving them at the mercy of the approaching swarm.
+modified: 20201012231045761
+modifier: eloquentlizard
+points: 0
+tags: Weapon [[Basic Bio-cannons]]
+title: Strangleweb
+type: text/vnd.tiddlywiki
+
+|| Range | S | AP | Type |h
+|Strangleweb| [[Template]] | 2 | --- |[[Assault]] 1, [[Pinning]], [[Shred]]|

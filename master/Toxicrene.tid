@@ -1,0 +1,32 @@
+armor-save: 4+
+attacks: 6
+ballistic-skill: 3
+biomorphs: [[Acid Blood]] [[Choking Cloud]] [[Lash Whips]] [[Feeder Tendrils]] [[Grasping Tendrils]] [[Toxic Miasma]] +[sort[title]]
+created: 20150220124331650
+creator: eloquentlizard
+footer: {{$:/Lore/Toxicrene}}
+initiative: 3
+leadership: 8
+modified: 20201013212927244
+modifier: eloquentlizard
+points: 160
+special-rules: Fearless [[Very Bulky]] Hypertoxic [[Poisoned (2+)]] Shrouded [[Instinctive Behaviour (Feed)]] +[sort[title]]
+strength: 5
+tags: [[Heavy Support]]
+title: Toxicrene
+toughness: 6
+type: text/vnd.tiddlywiki
+unit-type: Monstrous Creature
+weapon-skill: 3
+wounds: 5
+
+!!{{!!title}} --- {{!!points}} points
+
+{{||CharacteristicsTable}}
+
+Unit Composition --- 1 {{!!title}}
+
+{{||$:/templates/biomorphs-rules}}
+
+;Options
+*May take items from the {{Biomorphs||$:/templates/tooltips}} list.

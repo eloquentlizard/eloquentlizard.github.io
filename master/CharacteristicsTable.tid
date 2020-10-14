@@ -1,0 +1,33 @@
+created: 20150212173914745
+creator: eloquentlizard
+modified: 20201013205021407
+modifier: eloquentlizard
+title: CharacteristicsTable
+type: text/vnd.tiddlywiki
+
+<table>
+	<tr>
+    	<th></th>
+		<th>WS</th>
+        <th>BS</th>
+        <th>S</th>
+        <th>T</th>
+        <th>W</th>
+		<th>I</th>
+		<th>A</th>
+		<th>Ld</th>
+		<th>Sv</th>
+	</tr>
+	<tr>
+        <td style="text-align:left;">{{!!unit-type}}</td>
+		<td style="text-align:center;">{{!!weapon-skill}}</td>
+		<td style="text-align:center;">{{!!ballistic-skill}}</td>
+		<td style="text-align:center;">{{!!strength}}</td>
+		<td style="text-align:center;">{{!!toughness}}</td>
+		<td style="text-align:center;">{{!!wounds}}</td>
+		<td style="text-align:center;">{{!!initiative}}</td>
+		<td style="text-align:center;">{{!!attacks}}</td>
+		<td style="text-align:center;">{{!!leadership}}</td>
+		<td style="text-align:center;">{{!!armor-save}}</td>
+	</tr>
+</table>

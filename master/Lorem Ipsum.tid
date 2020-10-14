@@ -1,0 +1,32 @@
+class: serif
+created: 20150207011810077
+creator: eloquentlizard
+modified: 20200728191114138
+modifier: eloquentlizard
+src: http://lipsum.org/
+style: text-indent:2ch;
+tags: scratch
+title: Lorem Ipsum
+type: text/vnd.tiddlywiki
+
+!!CSS Styling Testground
+Test CSS classes here: 
+<$edit-text field=class/><br>
+Test CSS stylings here: 
+<$edit-text field=style/>
+
+---
+
+<div class={{!!class}} style={{!!style}}>
+
+!Lorem Ipsum
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sit amet felis enim. Phasellus viverra erat nec molestie blandit. Nullam enim nulla, posuere at dictum vitae, sollicitudin vitae lectus. Maecenas eleifend vestibulum rhoncus. Maecenas dignissim lectus nec magna fringilla volutpat. Quisque fermentum libero at libero pellentesque, eget dapibus mauris congue. Phasellus dignissim augue vel urna ultricies blandit. Donec ornare nulla in tellus pretium tempus. Donec sed pellentesque nisi. Sed ac sodales neque. Nunc tellus ex, ultrices vel dapibus non, commodo ut mi. Ut vitae turpis viverra, sollicitudin felis quis, lobortis nulla. Etiam iaculis et velit sit amet dignissim. Quisque sit amet venenatis tortor, non dictum mauris.
+
+Vivamus ac accumsan ante. Nullam fringilla lobortis erat blandit placerat. Fusce nulla tellus, aliquam eu felis malesuada, rutrum suscipit lorem. Ut ac lectus at nibh suscipit condimentum eu pellentesque mauris. Ut faucibus tincidunt scelerisque. Donec ut euismod tellus. Vestibulum ac arcu facilisis nisi vestibulum placerat nec quis nunc. Nulla dictum non mauris id tristique.
+
+Donec suscipit, sem quis venenatis vulputate, quam eros sodales leo, maximus scelerisque orci dui quis urna. Nulla facilisis tristique orci nec venenatis. Cras eget congue velit, eget feugiat neque. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse potenti. Maecenas sed risus ut nibh auctor sagittis. Fusce posuere rhoncus ullamcorper. Maecenas id accumsan ipsum. Sed sollicitudin aliquam sapien, quis dictum nisi bibendum nec.
+
+Sed tempus varius tortor nec molestie. Maecenas fermentum aliquam justo. Phasellus dui lectus, fringilla quis quam quis, varius bibendum elit. Quisque nec dui quis neque semper semper tincidunt at ante. Fusce rutrum libero sagittis eros mattis lobortis. Phasellus at diam urna. Nunc ut tincidunt erat, sit amet finibus quam. Vivamus luctus neque mi, congue lacinia nisl sollicitudin vitae. Pellentesque ultrices porta turpis ut lacinia. Ut lorem tortor, tincidunt in mauris in, porta fringilla turpis.
+
+Integer tempor purus arcu, vel sodales dui sollicitudin in. In at felis a mi feugiat eleifend. Nam dignissim elementum ex eget consectetur. Praesent eget dignissim lacus, sit amet consectetur diam. Maecenas non ante pulvinar, efficitur ante nec, hendrerit neque. Etiam ut velit nec urna porttitor ultricies id et dolor. Vestibulum sollicitudin turpis turpis, non tempor arcu molestie ac. Proin varius porttitor dui, vel vulputate felis placerat at. Praesent vel ullamcorper sapien. Ut mollis sapien in fringilla fringilla. In venenatis magna orci, quis scelerisque magna pretium ac. Nunc sodales nunc quis convallis blandit. 
+</div>

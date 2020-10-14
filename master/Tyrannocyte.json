@@ -1,0 +1,28 @@
+[
+    {
+        "created": "20150220130514873",
+        "text": "!!{{!!caption}} --- {{!!points}} points\n\n{{||CharacteristicsTable}}\n\nUnit Composition --- 1 Tyrannocyte\n\n{{||$:/templates/biomorphs-rules}}\n\n;Options\n*May replace all five {{Deathspitter||$:/templates/tooltips}}s with one of the following:\n**Five {{Barbed Strangler||$:/templates/tooltips}}s --- 25 points\n**Five {{Venom Cannon||$:/templates/tooltips}}s --- 25 points \n*May take options from the {{Biomorphs||$:/templates/tooltips}} list.",
+        "type": "text/vnd.tiddlywiki",
+        "title": "Tyrannocyte",
+        "tags": "[[Heavy Support]]",
+        "modifier": "Jeanbeaux",
+        "modified": "20201013212927539",
+        "creator": "Jeanbeaux",
+        "wounds": "6",
+        "weapon-skill": "2",
+        "unit-type": "Monstrous Creature",
+        "toughness": "5",
+        "strength": "5",
+        "special-rules": "[[Transport Spore]] [[Drifting Death]] [[Instinctive Fire]] [[Dropped from Orbit]] [[Deep Strike]] [[Fearless]] +[sort[title]]",
+        "points": " 75",
+        "leadership": "8",
+        "initiative": "3",
+        "footer": "{{$:/Lore/Tyrannocyte}}",
+        "description": "Despite being classified as a \"Heavy Support\" choice, a Tyrannocyte //does not// use up a slot on the Force Organisation Chart. See the [[Transport Spore]] special rule, below, for more information.",
+        "caption": "Tyrannocyte",
+        "biomorphs": "[[Five Deathspitters]]",
+        "attacks": "3",
+        "armor-save": "4+",
+        "ballistic-skill": "2"
+    }
+]

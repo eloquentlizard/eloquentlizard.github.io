@@ -1,0 +1,16 @@
+created: 20150215002011382
+creator: eloquentlizard
+description: Whether through force of will, bionic augmentation or foul sorcery, this warrior can fight despite fearsome wounds.
+modified: 20201012231042812
+modifier: eloquentlizard
+tags: [[Special Rule]]
+title: Feel No Pain
+type: text/vnd.tiddlywiki
+
+When a model with this special rule suffers an unsaved Wound, it can make a special Feel No Pain roll to avoid being wounded (this is not a saving throw and so can be used against attacks that state that ‘no saves of any kind are allowed’, for example those inflicted by Perils of the Warp). 
+
+Feel No Pain saves may not be taken against Destroyer attacks or against unsaved Wounds that have the Instant Death special rule. 
+
+Roll a D6 each time an unsaved Wound is suffered. On a 4 or less, you must take the Wound as normal. On a 5+, the unsaved Wound is discounted – treat it as having been saved.
+
+If a unit has the Feel No Pain special rule with a number in brackets afterwards – Feel No Pain (6+), for example – then the number in brackets is the D6 result needed to discount the Wound.

@@ -1,0 +1,12 @@
+created: 20150218192328218
+creator: eloquentlizard
+description: //The Reaper of Obliterax// was first encountered amongst the re-emergent Tyranid swarms of Hive Fleet Jormungandr. A deadly bio-weapon resembling a bonesword, this sentient blade is commonly wielded alongside a lash whip. The //Reaper// discharges highly concentrated bursts of destructive energy, and even the lightest blow can result in the blade’s target being rent asunder.
+modified: 20201012231046577
+modifier: eloquentlizard
+points: 30
+tags: Weapon [[Tyranid Bio-artefacts]]
+title: The Reaper of Obliterax
+type: text/vnd.tiddlywiki
+
+|| Range | S | AP | Type |h
+|//The Reaper of Obliterax//| --- | +1 | 3 |Melee, [[Life Drain]], [[Shred]], [[Swiftstrike]]|

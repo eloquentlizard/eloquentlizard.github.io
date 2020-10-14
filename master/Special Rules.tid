@@ -1,0 +1,27 @@
+color: #ffc576
+created: 20150215003400385
+creator: eloquentlizard
+icon: $:/core/images/_books
+list-after: Tyranid Psychic Disciplines
+modified: 20201012232844113
+modifier: eloquentlizard
+tags: Tyranids
+title: Special Rules
+type: text/vnd.tiddlywiki
+
+Here we have a catalog of all Special Rules relevant to the Tyranids, as well as a few that aren't.
+
+!!Special Rules
+<div class="tc-link-info">
+<$list filter="[tag[Special Rule]!tag[HQ]!tag[Troops]!tag[Elites]!tag[Fast Attack]!tag[Heavy Support]!tag[Infantry]!tag[Beast]!tag[Monstrous Creature]!tag[Flying Monstrous Creature]!tag[Jump Unit]] +[sort[title]]">
+
+<div class="tc-link-info-item" style="width:20em;height:20em;overflow:scroll;">
+
+!!{{!!title}}
+{{}}
+
+
+</div>
+
+</$list>
+</div>

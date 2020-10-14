@@ -1,0 +1,7 @@
+created: 20201014205732563
+modified: 20201014214822844
+title: $:/themes/tiddlywiki/vanilla/settings/backgroundextras
+type: text/vnd.tiddlywiki
+
+background-repeat: repeat;
+animation: diamondwobble-bg 30s linear 0s infinite alternate both running;

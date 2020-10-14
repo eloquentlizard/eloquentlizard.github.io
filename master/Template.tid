@@ -1,0 +1,24 @@
+color: #ffc576
+created: 20141227133803469
+creator: eloquentlizard
+description: Template weapons shoot clouds of fire, gas or other lethal substances, rather than shells or bullets. They’re excellent for killing enemy troops in cover, as the payload simply flows over intervening obstacles to assail the foe behind.
+icon: $:/core/images/_books
+list-after: Swarms
+modified: 20201012231040676
+modifier: eloquentlizard
+tags: [[Special Rule]]
+title: Template
+type: text/vnd.tiddlywiki
+
+Template weapons are indicated by having the word ‘Template’ for their range instead of a number. Instead of rolling To Hit, simply place the template so that its narrow end is touching the base of the firing model and the rest of the template covers as many models in the target unit as possible, without touching any other friendly models (including other models from the firing model’s unit). Any models fully or partially under the template are hit. Against vehicles, the template must be placed to cover as much of the vehicle as possible without touching a friendly model. The position of the firer is used to determine which armour facing is hit. A template weapon never hits the model firing it. 
+
+Template weapons have the [[Ignores Cover]], Wall of Death and No Escape special rules (see below). Wounds inflicted by template weapons are allocated following the normal rules. Template weapons cannot fire Snap Shots.
+
+!!Multiple Templates
+If a unit is firing more than one shot with the Template type, resolve each shot, one at a time, as described above, determining and recording how many hits are scored by each template. Once the number of hits from all templates has been determined, roll To Wound as normal. 
+
+!!Wall of Death
+Template weapons can fire Overwatch, even though they cannot fire Snap Shots. Instead, if a Template weapon fires Overwatch, it automatically inflicts D3 hits on the charging unit, resolved at its normal Strength and AP value. Don’t worry about comparing the length of the template with the distance to the enemy. If the charge is successful, it doesn’t matter anyway. If the charge failed, we can assume that the enemy ran into range of the Template weapon and were driven back. 
+
+!!No Escape
+If a Template weapon hits a building’s Fire Point or an Open-topped vehicle and there is a unit embarked inside that building or vehicle, then in addition to any other effects that unit suffers D6 hits, resolved at the Strength and AP of the weapon. These hits are Randomly Allocated.

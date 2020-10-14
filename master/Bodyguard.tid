@@ -1,0 +1,23 @@
+created: 20140825043443642
+creator: eloquentlizard
+modified: 20200728191108391
+modifier: eloquentlizard
+ordering: bodyguard
+tags: [[Advanced Class]] Class [[d20 Modern]]
+title: Bodyguard
+type: text/vnd.tiddlywiki
+
+{{Bodyguard/Requirements||modal}}
+|tc-tagged-Class|k
+|!Level|!Base Attack|!Fort|!Ref|!Will|!Special|!Defense|!Reputation|
+|!1st|+0|+1|+2|+0|{{Bodyguard/Harm's Way||modal}}|+1|+0|
+|!2nd|+1|+2|+3|+0|{{Bodyguard/Combat Sense||modal}} +1|+1|+0|
+|!3rd|+2|+2|+3|+1|{{Bodyguard/Bonus Feat||modal}}|+2|+1|
+|!4th|+3|+2|+4|+1|{{Bodyguard/Sudden Action||modal}}|+2|+1|
+|!5th|+3|+3|+4|+1|{{Bodyguard/Improved Charge||modal}}|+3|+1|
+|!6th|+4|+3|+5|+2|{{Bodyguard/Bonus Feat||modal}}|+3|+2|
+|!7th|+5|+4|+5|+2|{{Bodyguard/Defensive Strike||modal}}|+4|+2|
+|!8th|+6|+4|+6|+2|{{Bodyguard/Combat Sense||modal}} +2|+4|+2|
+|!9th|+6|+4|+6|+3|{{Bodyguard/Bonus Feat||modal}}|+5|+3|
+|!10th|+7|+5|+7|+3|{{Bodyguard/Blanket Protection||modal}}|+5|+3|
+|''Hit Die'' 1d12<br>''Action Points'' 6 + ½ character level<br>''Skill Points'': 3 + Int modifier<br>''Class Skills'' Concentration, Disguise, Drive, Forgery, Gather Information, Intimidate, Knowledge,,behavioral sciences, civics, current events, streetwise,,, Listen, Profession, Read/Write Language, Search, Sense Motive, Speak Language, & Spot.|c

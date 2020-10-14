@@ -1,0 +1,16 @@
+caption: Requirements
+created: 20150204143513974
+creator: eloquentlizard
+modified: 20200728191110220
+modifier: eloquentlizard
+subtitle: {{!!title}}{{modal!!button}}
+tags: Components
+title: Field Medic/Requirements
+type: text/vnd.tiddlywiki
+
+!Requirements
+To qualify to become a Field Medic, a character must fulfill the following criteria.
+
+*''Base Attack Bonus'' +2.
+*''Skills'' Treat Injury 6 ranks, Spot 6 ranks.
+*''Feat'' Surgery.

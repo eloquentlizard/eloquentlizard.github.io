@@ -1,0 +1,12 @@
+caption: damage threshold
+created: 20150204145750514
+creator: eloquentlizard
+modified: 20200728191109137
+modifier: eloquentlizard
+subtitle: {{!!title}}{{modal!!button}}
+tags: Components
+title: Daredevil/Damage Threshold
+type: text/vnd.tiddlywiki
+
+!Damage Threshold
+A 10th-level Daredevil increases his or her massive damage threshold by 3 points. This increase stacks with the increase provided by the Improved Damage Threshold feat.
