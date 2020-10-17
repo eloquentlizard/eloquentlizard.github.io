@@ -1,0 +1,24 @@
+attacks: {{Tervigon!!attacks}}
+ballistic-skill: {{Tervigon!!ballistics-skill}}
+biomorphs: [[Scything Talons]]
+caption: Tervigon
+created: 20151231200050363
+creator: eloquentlizard
+description: {{Tervigon!!description}}
+initiative: {{Tervigon!!initiative}}
+leadership: {{Tervigon!!leadership}}
+modified: 20201016165905355
+modifier: eloquentlizard
+points: {{Tervigon!!points}}
+save: {{Tervigon!!armor-save}}
+special: [[Brood Progenitor]] [[Extremely Bulky]] [[Psyker (Mastery Level 1)]] [[Spawn Gaunts]] [[Shadow in the Warp]] [[Synapse Creature]] [[Synaptic Backlash]] +[sort[title]]
+strength: {{Tervigon!!strength}}
+tags: Troops [[Fast Attack]]
+title: Tervigon for Gaunt Brood
+toughness: {{Tervigon!!toughness}}
+type: text/vnd.tiddlywiki
+unit-type: Monstrous Creature
+weapon-skill: {{Tervigon!!weapon-skill}}
+wounds: {{Tervigon!!wounds}}
+
+{{||Tervigon}}

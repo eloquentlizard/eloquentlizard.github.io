@@ -1,0 +1,21 @@
+created: 20150212173914745
+creator: eloquentlizard
+modified: 20201015214011561
+modifier: eloquentlizard
+tags: $:/tags/Template
+title: 40k/rpg/Characteristics
+type: text/vnd.tiddlywiki
+
+| WS | BS | S | T | Ag | Int | Per | WP | Fel |h
+| {{!!weapon-skill}} | {{!!ballistic-skill}} | {{!!strength}} | {{!!toughness}} | {{!!agility}} | {{!!intelligence}} | {{!!perception}} | {{!!willpower}} | {{!!fellowship}} |
+|{{!!weapon-skill-bonus}}|{{!!ballistic-skill-bonus}}|{{!!strength-bonus}}|{{!!toughness-bonus}}|{{!!agility-bonus}}|{{!!intelligence-bonus}}|{{!!perception-bonus}}|{{!!willpower-bonus}}|{{!!fellowship-bonus}}|
+| <$reveal type=nomatch state=!!wounds text="">''Wounds'': {{!!wounds}}<$reveal type=nomatch state=!!armour text="">; </$reveal></$reveal><$reveal type=nomatch state=!!armour text="">''Armour'': {{!!armour}}</$reveal> |c
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,27 @@
+[
+    {
+        "created": "20150218155824271",
+        "text": "!!{{!!caption}} --- {{!!points}} points\n\n{{||CharacteristicsTable}}\n\nUnit Composition --- 1 {{!!title}}\n\n{{||$:/templates/biomorphs-rules}}\n\n;Options\n*May include up to two additional {{!!title}}s - {{!!points}} points/model\n*May take items from the {{Biomorphs||$:/templates/tooltips}} list.",
+        "type": "text/vnd.tiddlywiki",
+        "title": "Lictor",
+        "tags": "Elite [[Fast Attack]]",
+        "modifier": "Jeanbeaux",
+        "modified": "20201016165849826",
+        "creator": "Jeanbeaux",
+        "wounds": "3",
+        "weapon-skill": "6",
+        "unit-type": "Infantry",
+        "toughness": "4",
+        "strength": "6",
+        "points": " 50",
+        "leadership": "10",
+        "initiative": "6",
+        "footer": "{{$:/Lore/Lictors}}",
+        "caption": "Lictor Brood",
+        "biomorphs": "[[Flesh Hooks]] [[Rending Claws]] [[Scything Talons]] [[Feeder Tendrils]] +[sort[title]]",
+        "ballistic-skill": "3",
+        "attacks": "3",
+        "save": "5+",
+        "special": "[[Chameleonic Skin]] [[Deep Strike]] Fear Fleet [[Hit & Run]] [[Infiltrate]] [[Instinctive Behaviour (Lurk)]] [[Move Through Cover]] [[Pheromone Trail]] [[Stealth]] [[Shrouded]] [[Very Bulky]] +[sort[title]]"
+    }
+]

@@ -1,0 +1,20 @@
+created: 20150303172531092
+creator: eloquentlizard
+description: As Hive Fleet Leviathan continues to coil its tendrils around the galaxy, entire worlds are being scoured of life, and hundreds more are embroiled in a desperate fight for survival. So far, all attempts to slay Leviathan have resulted in death and failure, and the Hive Mind’s inexorable advance shows no signs of stopping.
+list: [[Ever Emerging Threats]] [[Hive Fleet Hydra]] [[A Glimmer of Hope]] [[War Zone Valedor]]
+modified: 20201013152719416
+modifier: eloquentlizard
+tags: $:/Lore/Tyranids
+title: Galactic Feeding Grounds
+type: text/vnd.tiddlywiki
+
+The Great Devourer has sunk its tendrils deep into the galaxy, and thus far, it has shown only the first hints of its true strength. Leviathan’s encroachment could not have happened at a worse time for the Imperium, for the Imperial Tarot have predicted a time of darkness for the galaxy, unmatched since the bleakest hours of the Horus Heresy. All portents indicate that the arch-traitor Abaddon the Despoiler is on the verge of launching his 13th Black Crusade, and the Imperium can ill afford to leave its back unguarded against a foe as powerful as Hive Fleet Leviathan as it turns to face the imminent Chaos onslaught.
+
+The Adeptus Terra has been sufficiently shaken by the constant flow of Tyranid invasion reports to convene the High Lords of Terra. Their rapid and succinct conclusion is that the inroads Leviathan has made into the Imperium must be stopped at all costs; the Tyranid race must, if possible, be utterly exterminated. The military juggernaut of the Imperium’s armed forces are slowly being marshalled to face the Tyranid threat – the Imperium will not submit to the Great Devourer without a fight. 
+
+<$list filter="[is[current]tagging[]]">
+
+!!{{!!title}}
+{{}}
+
+</$list>

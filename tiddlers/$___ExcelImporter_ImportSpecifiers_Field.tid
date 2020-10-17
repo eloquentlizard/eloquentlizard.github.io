@@ -1,0 +1,11 @@
+created: 20200126104423529
+creator: eloquentlizard
+import-field-column: Column Name
+import-field-name: fieldname
+import-field-source: column
+import-field-type: string
+import-spec-role: field
+modified: 20200728191105107
+modifier: eloquentlizard
+title: $:/_ExcelImporter/ImportSpecifiers/Field
+type: text/vnd.tiddlywiki

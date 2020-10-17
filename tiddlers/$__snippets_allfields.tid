@@ -1,0 +1,10 @@
+created: 20201016142037367
+modified: 20201016164925725
+title: $:/snippets/allfields
+type: text/vnd.tiddlywiki
+
+\define renderfield(title)
+<tr class="tc-view-field"><td class="tc-view-field-name">''$title$'':</td><td class="tc-view-field-value"><$reveal state="$:/state/snippets/allfields/allowedit" type=nomatch text=yes>//<span style="text-transform: lowercase;">{{$:/language/Docs/Fields/$title$}}</span>//</$reveal><$reveal state="$:/state/snippets/allfields/allowedit" type=match text=yes><$edit-text default="" placeholder="enter field description here" tag=input tiddler="$:/language/Docs/Fields/$title$" /></$reveal></td><td style="text-align:center;width:5em;"><$checkbox tiddler="$:/language/Docs/Fields/$title$/editable" default=no checked=yes unchecked=no field=text /></td></tr>
+\end
+<table class="tc-view-field-table"><tbody><tr><th>Field</th><th>Description <$checkbox default=no tiddler="$:/state/snippets/allfields/allowedit" field=text checked=yes unchecked=no /></th><th>Editable</th></tr><$list filter="[fields[]sort[title]]" variable="listItem"><$macrocall $name="renderfield" title=<<listItem>>/></$list>
+</tbody></table>

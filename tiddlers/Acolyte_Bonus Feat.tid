@@ -1,0 +1,14 @@
+caption: bonus feat
+created: 20150203023429599
+creator: eloquentlizard
+modified: 20200728191107909
+modifier: eloquentlizard
+subtitle: {{!!title}}{{modal!!button}}
+tags: Components
+title: Acolyte/Bonus Feat
+type: text/vnd.tiddlywiki
+
+!Bonus Feats
+At 3rd, 6th, and 9th level, the Acolyte gets a bonus feat. The bonus feat must be selected from the following list, and the Acolyte must meet all the prerequisites of the feat to select it.
+
+>Animal Affinity, Archaic Weapons Proficiency, Armor Proficiency (light), Attentive, Combat Expertise, Educated, Frightful Presence, Iron Will, Medical Expert, Studious, Trustworthy.

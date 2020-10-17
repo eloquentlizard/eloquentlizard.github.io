@@ -1,0 +1,26 @@
+[
+    {
+        "created": "20161002220838688",
+        "text": "!!{{!!title}} --- {{!!points}} points\n\n{{||CharacteristicsTable}}\n\nUnit Composition --- 1 {{!!title}}\n\n{{||$:/templates/biomorphs-rules}}\n\n;Options\n*May take up to two additional {{!!title}}s --- {{!!points}} points/model.\n**Multiple {{!!title}}s in the same unit are deployed using the Infiltrate rules as though they were separate units.",
+        "type": "text/vnd.tiddlywiki",
+        "title": "Reclamation Pool",
+        "tags": "Fortification",
+        "modifier": "Jeanbeaux",
+        "modified": "20201016165905996",
+        "creator": "Jeanbeaux",
+        "wounds": "6",
+        "weapon-skill": "0",
+        "unit-type": "Infantry",
+        "toughness": "5",
+        "strength": "0",
+        "points": " 25",
+        "leadership": "5",
+        "initiative": "0",
+        "footer": "",
+        "biomorphs": "[[Acid Blood]]",
+        "ballistic-skill": "0",
+        "attacks": "0",
+        "save": "5+",
+        "special": "[[Fearless]] [[Infiltrate]] [[Immobile Pod]] [[Spawn Rippers]] +[sort[title]]"
+    }
+]

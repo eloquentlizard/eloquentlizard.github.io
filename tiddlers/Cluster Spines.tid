@@ -1,0 +1,12 @@
+created: 20150218181545364
+creator: eloquentlizard
+description: Some Tyranid bioforms have rows of quills imbedded in their carapaces that they can project a considerable distance.
+modified: 20201012231042302
+modifier: eloquentlizard
+points: 15
+tags: Weapon [[Carapace Biomorphs]]
+title: Cluster Spines
+type: text/vnd.tiddlywiki
+
+|| Range | S | AP | Type |h
+|Cluster Spines| 18" | 5 | --- |[[Assault]] 1, [[Large Blast]]|

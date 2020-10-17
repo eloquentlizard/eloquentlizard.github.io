@@ -1,0 +1,9 @@
+color: #999999
+created: 20201016192405156
+modified: 20201016212018128
+prefix: $:
+tags: 
+title: $:/config/systemprefix
+type: text/vnd.tiddlywiki
+
+Color: <$edit-text field=color tag=input />

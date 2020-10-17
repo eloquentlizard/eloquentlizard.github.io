@@ -1,0 +1,11 @@
+caption: improved roaring recovery
+created: 20150105051701649
+creator: eloquentlizard
+modified: 20200728191110873
+modifier: eloquentlizard
+tags: Components
+title: Homebrew/Barbarian/Improved Roaring Recovery
+type: text/vnd.tiddlywiki
+
+!Improved Roaring Recovery
+At 19th level, the barbarian recovers two expended maneuvers instead of one when recovering maneuvers as described under {{Homebrew/Barbarian/Roaring Recovery||modal}}.

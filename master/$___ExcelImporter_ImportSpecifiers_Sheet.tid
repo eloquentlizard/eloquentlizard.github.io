@@ -1,9 +1,0 @@
-created: 20200126104413362
-creator: eloquentlizard
-import-sheet-name: Sheet name
-import-spec-role: sheet
-list: $:/_ExcelImporter/ImportSpecifiers/Row
-modified: 20200728191105145
-modifier: eloquentlizard
-title: $:/_ExcelImporter/ImportSpecifiers/Sheet
-type: text/vnd.tiddlywiki

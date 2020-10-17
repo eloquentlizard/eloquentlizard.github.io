@@ -1,0 +1,9 @@
+tiddlers\$__Storylist.tid
+*.ps1
+*.bat
+tiddlers/$__StoryList.tid
+output/*
+output\*
+fonts/*
+fonts\*
+logfile.txt

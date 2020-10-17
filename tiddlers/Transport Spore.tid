@@ -1,0 +1,13 @@
+created: 20161002213120041
+creator: eloquentlizard
+modified: 20201012231046922
+modifier: eloquentlizard
+tags: [[Special Rule]]
+title: Transport Spore
+type: text/vnd.tiddlywiki
+
+A model with this special rule has a Transport Capacity of 20 models. A Monstrous Creature counts as 4 models for the purposes of being transported by a model with this special rule, multiplied accordingly by the effects of the transported model's [[Bulky]], [[Very Bulky]], or [[Extremely Bulky]] special rules, as appropriate. [[Gargantuan Creature]]s cannot be transported by a model with this special rule.
+
+For example, an [[Exocrine]] is a Monstrous Creature with the Bulky special rule, so it would count as 8 models for the purposes of transporting.
+
+In addition, if a model with this special rule is on the table and killed while models are embarked within it, each model inside is treated as though it were inside a vehicle that had exploded as per a ''Explodes!'' result on the ''Vehicle Damage Table''. If the transporting model has the [[Acid Blood]] biomorph, these hits are resolved as per the [[Volatile]] special rule---at S 5 AP 2.

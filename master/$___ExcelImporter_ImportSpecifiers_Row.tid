@@ -1,8 +1,0 @@
-created: 20200126104420434
-creator: eloquentlizard
-import-spec-role: row
-list: $:/_ExcelImporter/ImportSpecifiers/Field
-modified: 20200728191105123
-modifier: eloquentlizard
-title: $:/_ExcelImporter/ImportSpecifiers/Row
-type: text/vnd.tiddlywiki

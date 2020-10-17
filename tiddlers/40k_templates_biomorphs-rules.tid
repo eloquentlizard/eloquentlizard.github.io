@@ -1,0 +1,21 @@
+created: 20151229040507272
+creator: eloquentlizard
+modified: 20201015184122869
+modifier: eloquentlizard
+tags: $:/tags/Template
+title: 40k/templates/biomorphs-rules
+type: text/vnd.tiddlywiki
+
+;<$reveal type=nomatch text="" default="" state=!!biomorphs >Weapons & Biomorphs</$reveal>
+
+<$list filter={{!!biomorphs}}>
+
+*<$reveal state=!!title type=nomatch text="Two Gargantuan Bio-cannons"><$reveal state=!!title type=nomatch text="Four Tentaclids"><$reveal state=!!title type=nomatch text="Five Deathspitters"><$reveal state=!!title type=nomatch text="Two pairs of Scything Talons"><$reveal state=!!title type=nomatch text="Three pairs of Scything Talons">{{||$:/templates/tooltips}}</$reveal></$reveal></$reveal></$reveal><$reveal state=!!title type=match text="Two pairs of Scything Talons">Two pairs of {{Scything Talons||$:/templates/tooltips}}</$reveal><$reveal state=!!title type=match text="Three pairs of Scything Talons">Three pairs of {{Scything Talons||$:/templates/tooltips}}</$reveal><$reveal state=!!title type=match text="Five Deathspitters">Five {{Deathspitter||$:/templates/tooltips}}s</$reveal></$reveal><$reveal state=!!title type=match text="Four Tentaclids">Four {{Tentaclids||$:/templates/tooltips}}</$reveal><$reveal state=!!title type=match text="Two Gargantuan Bio-cannons">Two {{Gargantuan Bio-cannon||$:/templates/tooltips}}s</$reveal>
+
+</$list>
+
+;Special Rules
+<$list filter={{!!special-rules}} >
+
+*{{||$:/templates/tooltips}}
+</$list>

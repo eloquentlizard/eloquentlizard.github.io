@@ -1,0 +1,26 @@
+[
+    {
+        "created": "20150215120333403",
+        "text": "!!{{!!title}} --- {{!!points}} points\n\n{{||CharacteristicsTable}}\n\n''Unit Composition'': 1 {{!!title}}\n\n{{||$:/templates/biomorphs-rules}}\n\n;Options\n*May take {{Wings||$:/templates/tooltips}} --- 5 points\n*Psyker Mastery Level 1 --- 30 points\n**A Tyranid Prime with a Pysker Mastery Level generates its powers from the ''Biomancy'', {{Broodmind||$:/templates/tooltips}}, {{Powers of the Hive Mind||$:/templates/tooltips}}, and ''Telepathy'' disciplines.\n**Psyker Mastery Level 2 --- 30 points\n***Psyker Mastery Level 3 --- 30 points\n*May take items from the {{Basic Bio-cannons||$:/templates/tooltips}}, {{Basic Bio-weapons||$:/templates/tooltips}}, {{Melee Bio-weapons||$:/templates/tooltips}}, {{Biomorphs||$:/templates/tooltips}}, and {{Tyranid Bio-artefacts||$:/templates/tooltips}} lists.",
+        "type": "text/vnd.tiddlywiki",
+        "title": "Tyranid Prime",
+        "tags": "HQ",
+        "modifier": "Jeanbeaux",
+        "modified": "20201016165846208",
+        "creator": "Jeanbeaux",
+        "wounds": "3",
+        "weapon-skill": "6",
+        "unit-type": "Infantry (Character)",
+        "toughness": "5",
+        "strength": "5",
+        "points": " 55",
+        "leadership": "10",
+        "initiative": "5",
+        "footer": "{{$:/Lore/Tyranid Prime}}",
+        "biomorphs": "[[Two pairs of Scything Talons]]",
+        "ballistic-skill": "4",
+        "attacks": "4",
+        "save": "3+",
+        "special": "[[Alpha Warrior]] [[Independent Character]] [[Shadow in the Warp]] [[Synapse Creature]] [[Very Bulky]] +[sort[title]]"
+    }
+]

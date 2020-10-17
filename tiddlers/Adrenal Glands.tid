@@ -1,0 +1,13 @@
+created: 20150215121802108
+creator: eloquentlizard
+description: Adrenal glands saturate their host’s bodies with chemicals that boost the creature’s metabolism to a hyperactive state of frenzy.
+modified: 20201012231041556
+modifier: eloquentlizard
+points: 10
+tags: Biomorphs Biomorph
+title: Adrenal Glands
+type: text/vnd.tiddlywiki
+
+A model with the adrenal glands biomorph has the [[Fleet]] and [[Furious Charge]] special rules.
+
+''Special'': If a model is purchasing this biomorph from the [[Biomorphs]] list and already possesses one of two special rules granted by this biomorph, this biomorph costs only 5 points, rather than {{!!points}}.

@@ -1,0 +1,11 @@
+created: 20150216083031966
+creator: eloquentlizard
+modified: 20201012231045270
+modifier: eloquentlizard
+tags: [[Special Rule]]
+title: Shieldwall
+type: text/vnd.tiddlywiki
+
+Models with this special rule treat friendly [[Hive Tyrant]]s (including the [[Swarmlord]]) exactly as though they were [[Independent Character]]s. 
+
+A [[Hive Tyrant]] (or the [[Swarmlord]]) in a unit that contains at least one model with this special rule automatically passes Look Out, Sir! rolls.

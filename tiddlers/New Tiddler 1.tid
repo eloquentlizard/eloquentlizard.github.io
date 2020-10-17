@@ -1,0 +1,11 @@
+created: 20201016041904258
+modified: 20201016050643615
+tags: 
+title: New Tiddler 1
+type: text/vnd.tiddlywiki
+
+<$list filter="[tag[$:/tags/Stylesheet]] -[[$:/stylesheets/fonts]] -[is[shadow]] -[has[draft.of]]">
+
+<$link to={{!!title}}>{{}}</$link>
+
+</$list>

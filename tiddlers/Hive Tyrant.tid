@@ -1,0 +1,43 @@
+attacks: 4
+ballistic-skill: 4
+biomorphs: [[Two pairs of Scything Talons]]
+created: 20150213161111027
+creator: eloquentlizard
+description: 
+footer: {{$:/Lore/Hive Tyrant}}
+initiative: 5
+leadership: 10
+modified: 20201016165845139
+modifier: eloquentlizard
+points: 165
+save: 3+
+special: [[Synapse Creature]] [[Shadow in the Warp]] [[Psyker (Mastery Level 2)]] +[sort[title]]
+strength: 6
+tags: HQ
+title: Hive Tyrant
+toughness: 6
+type: text/vnd.tiddlywiki
+unit-type: Monstrous Creature (Character)
+weapon-skill: 8
+wounds: 4
+
+!!{{!!title}} --- {{!!points}} points
+
+{{||CharacteristicsTable}}
+
+''Unit Composition'': 1 {{!!title}}
+
+{{||$:/templates/biomorphs-rules}}
+
+;Psychic Powers
+:A Hive Tyrant generates its psychic powers from the ''Biomancy'', {{Broodmind||$:/templates/tooltips}}, {{Powers of the Hive Mind||$:/templates/tooltips}}, and ''Telepathy'' disciplines.
+;Options
+*May take items from the {{Biomorphs||$:/templates/tooltips}}, {{Melee Bio-weapons||$:/templates/tooltips}}, {{Monstrous Bio-cannons||$:/templates/tooltips}}, {{Tail Biomorphs||$:/templates/tooltips}}, {{Thorax Biomorphs||$:/templates/tooltips}}, and {{Tyranid Bio-artefacts||$:/templates/tooltips}} lists.
+*May take any of the following upgrades:
+**{{Indescribable Horror||$:/templates/tooltips}} --- 10 points
+**{{Old Adversary||$:/templates/tooltips}} --- 15 points
+**{{Hive Commander||$:/templates/tooltips}} --- 20 points
+**Psyker Mastery Level 3 --- 30 points
+**{{Wings||$:/templates/tooltips}} --- 35 points
+***{{Fighter Ace||$:/templates/tooltips}} (requires Wings) --- 35 points
+

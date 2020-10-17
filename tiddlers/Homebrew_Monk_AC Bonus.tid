@@ -1,0 +1,15 @@
+caption: AC bonus
+created: 20150106004249449
+creator: eloquentlizard
+modified: 20200728191111313
+modifier: eloquentlizard
+tags: Components
+title: Homebrew/Monk/AC Bonus
+type: text/vnd.tiddlywiki
+
+!AC Bonus (Ex)
+Starting at 2nd level, a monk may add her Wisdom bonus (if any) to her Armor Class. This bonus to AC applies even against touch attacks or when the monk is flat-footed; however, she loses this bonus when she is immobilized or helpless.
+
+A monk may wear any armor, use a shield, and/or carry a medium or heavy load and still gain her AC bonus; however, in return, she also applies her Armor Check Penalty (if any) to her Armor Class.
+
+At 5th level, and every five levels thereafter, a monk gains an additional +1 to her AC, otherwise following all rules above.

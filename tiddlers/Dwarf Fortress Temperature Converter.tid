@@ -1,0 +1,153 @@
+created: 20150523142328304
+creator: eloquentlizard
+modified: 20201013022339914
+modifier: eloquentlizard
+tags: [[Dwarf Fortress]]
+title: Dwarf Fortress Temperature Converter
+type: text/html
+
+<HTML>
+<HEAD>
+<TITLE>DF Temperature Converter</TITLE>
+<script type="text/javascript">
+/* <![CDATA[ */
+
+// From the wiki:
+// [DF scale] = [FAHRENHEIT] + 9968
+// [DF scale] = [CELSIUS] * 9/5 + 10000
+// [DF scale] = [KELVIN] * 9/5 + 9508.33
+// [DF scale] = [RANKINE] + 9508.33 
+//  9508.33 U is absolute zero 
+//  65535 U is the maximum temperature in game, because temperature is stored in a 16-bit unsigned integer.
+
+function DFconvert(f) {
+  var output;
+  if (f.convert.checked == true) {
+    output = convert(f);
+  } else {
+    output = deconvert(f);
+  }
+  document.getElementById('Output').innerHTML=output;
+  return false;
+}
+
+function convert(f) {
+  // Converts normal tempteratures to degrees Urist.
+  var t = parseInt(f.temperature.value, 10);
+  var output = "";
+  var scale;
+  var degU;
+
+  if (isNaN(t)) {
+    return "Please enter a temperature to convert.";
+  } else {
+    if (f.tempscale[0].checked) {
+      // Fahrenheit
+      scale = " &deg;F";
+      degU = t+9968;
+    }
+    if (f.tempscale[1].checked) {
+      // Celsius
+      scale = " C";
+      degU = (t * 9/5) + 10000;
+    }
+    if (f.tempscale[2].checked) {
+      // Kelvin
+      scale = " &deg;K";
+      degU = (t * 9/5) + 9508.33;
+    }
+    if (f.tempscale[3].checked) {
+      // Rankine
+      scale = " &deg;R";
+      degU = t + 9508.33;
+    }
+  }
+
+  degU = Math.round(degU);  // DF temperatures have to be integers.
+
+  if (degU > 65535) {
+    output  = "That temperature is too high!  The maximum temperature allowed is 65535 &deg;Urist.<br>";
+    output += "But in theory, " + t + scale + " would convert to " + degU + " &deg;Urist";
+    return output;
+  }
+  if (degU <= 9508) {
+    output  = "That's below absolute zero!<br>";
+    if (degU < 0) {
+      output += "The game can't handle anything below 0 &deg;Urist.<br>";
+    }
+    output += "But in theory, " + t + scale + " would convert to " + degU + " &deg;Urist";
+    return output;
+  }
+
+  return t + scale + " == " + degU + " &deg;Urist";
+
+}
+
+function deconvert(f) {
+  // Converts degrees Urist to normal temperature scales.
+
+  var degU = parseInt(f.temperature.value, 10);
+  var output = "";
+  var scale;
+  var t;
+
+  if (isNaN(degU)) {
+    return "Please enter a temperature to convert.";
+  } else {
+    if (degU > 65535) {
+      return "The maximum temperature in game is 65535 &deg;Urist.";
+    }
+    if (degU < 9508) {
+      output = "That's below absolute zero!";
+      if (degU < 0) { output += "<br>The game can't even handle temperatures below 0 &deg;Urist." }
+      return output;
+    }
+    if (f.tempscale[0].checked) {
+      // Fahrenheit
+      scale = " &deg;F";
+      t = degU - 9968;
+    }
+    if (f.tempscale[1].checked) {
+      // Celsius
+      scale = " C";
+      t = (degU - 10000) * (5/9);
+    }
+    if (f.tempscale[2].checked) {
+      // Kelvin
+      scale = " &deg;K";
+      t = (degU - 9508.33) * (5/9);
+    }
+    if (f.tempscale[3].checked) {
+      // Rankine
+      scale = " &deg;R";
+      t = degU - 9508.33;
+    }
+  }
+  t = Math.round(t);
+  return degU + " &deg;Urist == " + t + scale;
+}
+
+/* ]]> */
+</script> 
+</HEAD>
+<BODY>
+<H1>DF Temperature Converter</H1>
+
+Type a temperature into the box to convert it.  The checkbox controls whether you are converting to &deg;Urist to a normal temperature scale, or trying to convert a normal temperature to &deg;Urist.  As of v0.31.22, anything with a melting point over 12000 &deg;Urist is magma-safe.  If you want more information about Dwarf Fortress temperatures, <a href="http://df.magmawiki.com/index.php/DF2010:Temperature">check the wiki article on temperature</a>.<br><br>
+
+<div id="Output" style="color: green;">
+Please enter a temperature to convert.
+</div>
+<br>
+
+<FORM NAME="TempConvert">
+<INPUT TYPE="text" NAME="temperature" Value=" " onKeyUp="DFconvert(this.form);"><BR>
+<INPUT TYPE="checkbox" NAME="convert" Value="Convert" CHECKED onChange="DFconvert(this.form);"> Normal -> &deg;Urist?<BR>
+<INPUT TYPE="radio" NAME="tempscale" Value="Fahrenheit" CHECKED  onChange="DFconvert(this.form);" onClick="DFconvert(this.form);"> &deg;F &nbsp;
+<INPUT TYPE="radio" NAME="tempscale" Value="Celsius" onChange="DFconvert(this.form);" onClick="DFconvert(this.form);"> C &nbsp;
+<INPUT TYPE="radio" NAME="tempscale" Value="Kelvin" onChange="DFconvert(this.form);" onClick="DFconvert(this.form);"> &deg;K &nbsp;
+<INPUT TYPE="radio" NAME="tempscale" Value="Rankine" onChange="DFconvert(this.form);" onClick="DFconvert(this.form);"> &deg;R &nbsp;
+</FORM>
+
+</BODY>
+</HTML>

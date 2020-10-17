@@ -1,0 +1,21 @@
+created: 20141228162937730
+creator: eloquentlizard
+modified: 20200728191109311
+modifier: eloquentlizard
+tags: Journal
+title: December 28th, 2014
+type: text/vnd.tiddlywiki
+
+Well, here we are again.
+<br><br>
+So I've come to figure out how to play around with auto-styling using the `tc-tagged-{tagname}` classes. I've done it for the <<tag Class>> tag, and all the tables within look much nicer.
+<br><br>
+Also, another cool little thing I've been figuring out how to use are templates, chiefly the fourth and fifth parameters of the `<<tabs>>` macro. The fourth lets you pass up to three CSS classes onto the rendered content, separated by spaces. The fifth lets you apply a template to the rendered content; however, it's pertinient to note that you may have to use ``<$tiddler tiddler=<<currentTab>>>`` … ``</$tiddler>``  to tell TiddlyWiki to apply the template to the current tab, instead of the current tiddler (which is the tiddler containing the tabs macro).
+<br><br>
+I also added all the races for [[Histories of Tenacity & Resourcefulness]] into the TiddlyWiki, although rules clarifications and character generation rules will need to be expanded upon.
+<br><br>
+All in all, I feel like I'm actually making some sense of progress and accomplishing something by working on this wiki now, which is always good.
+<br><br>
+I think that's it for today's update.
+<br><br>
+Oh, and I fixed the previous journal entries not showing their proper line breaks.

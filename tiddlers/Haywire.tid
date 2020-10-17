@@ -1,0 +1,15 @@
+created: 20150215004317904
+creator: eloquentlizard
+description: Haywire weapons send out powerful electromagnetic pulses.
+modified: 20201012231043373
+modifier: eloquentlizard
+tags: [[Special Rule]]
+title: Haywire
+type: text/vnd.tiddlywiki
+
+When a weapon with this special rule hits a vehicle, roll a D6 to determine the effect rather than rolling for armour penetration normally:
+
+|D6|Result|h
+|1|No effect|
+|2-5|Glancing hit|
+|6|Penetrating hit|

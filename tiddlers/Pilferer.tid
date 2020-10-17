@@ -1,0 +1,47 @@
+attacks: 4
+ballistic-skill: 0
+caption: The {{!!title}}
+created: 20150921164650060
+creator: eloquentlizard
+description: The Master of the Brood
+initiative: 7
+leadership: 10
+modified: 20201016165753542
+modifier: eloquentlizard
+points: 120
+save: 3+
+strength: 5
+tags: [[Campaign Tyranid Warlords]]
+title: Pilferer
+toughness: 5
+type: text/vnd.tiddlywiki
+unit-type: Infantry (Character)
+weapon-skill: 7
+wounds: 4
+
+!!Weapons & Biomorphs
+*<abbr title="S User; AP 5; Melee, Rending">Rending Claws</abbr>
+*<abbr title="S User; AP 6; Melee">Scything Talons</abbr>
+*Adrenal Glands
+*Flesh Hooks
+*Toxin Sacs
+!!Special Rules
+*Bounding Leap
+*Feeder Tendrils
+*Independent Character
+*Psyker (Mastery Level 2)
+*Shadow in the Warp
+*Stealth
+*Synapse Creature
+
+!!Psychic Powers
+The {{!!title}} always knows the Dominion and The Horror psychic powers. It also knows an additional power from Powers of the Hive Mind.
+
+!!Warlord Trait
+;Leaping Strikedown
+:Your Warlord gains the effects of the Grasping Tail biomorph and the Eternal Warrior and Smash special rules while fighting in a challenge.
+
+!!Special Rule
+;Feeder Tendrils
+:All allied Tyranid models within 3" of this model gain the Preferred Enemy special rule (including itself). In addition, all Genestealers in the same unit as the {{!!title}} gain the Bounding Leap and Stealth special rules for as long as the {{!!title}} remains in their unit.
+

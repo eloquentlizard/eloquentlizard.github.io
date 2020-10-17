@@ -1,0 +1,35 @@
+attacks: 3
+ballistic-skill: 3
+biomorphs: [[Twin-Linked Stranglethorn Cannon]] [[Scything Talons]] [[Spore Mine cysts]] [[Wings]] +[sort[title]]
+caption: Tyranid Harpy
+created: 20150221143209746
+creator: eloquentlizard
+footer: {{$:/Lore/Harpy}}
+initiative: 5
+leadership: 10
+modified: 20201016165858084
+modifier: eloquentlizard
+points: 135
+save: 4+
+special: [[Sonic Screech]] [[Instinctive Behaviour (Hunt)]] [[Fearless]] +[sort[title]]
+strength: 5
+tags: [[Fast Attack]]
+title: Harpy
+toughness: 5
+type: text/vnd.tiddlywiki
+unit-type: Flying Monstrous Creature
+weapon-skill: 3
+wounds: 5
+
+!!{{!!caption}} --- {{!!points}} points
+
+{{||CharacteristicsTable}}
+
+Unit Composition --- 1 {{!!title}} 
+
+{{||$:/templates/biomorphs-rules}}
+
+;Options
+*May replace {{Twin-Linked Stranglethorn Cannon||$:/templates/tooltips}} with {{Twin-Linked Heavy Venom Cannon||$:/templates/tooltips}} --- 5 points
+*May take items from the {{Biomorphs||$:/templates/tooltips}} and {{Carapace Biomorphs||$:/templates/tooltips}} list.
+*May take {{Fighter Ace||$:/templates/tooltips}} --- 35 points

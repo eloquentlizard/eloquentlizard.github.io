@@ -1,0 +1,28 @@
+[
+    {
+        "created": "20150218170026554",
+        "text": "!!{{!!caption}} --- {{!!points}} points\n\n{{||CharacteristicsTable}}\n\nUnit Composition --- 1 Tyrant Guard\n\n{{||$:/templates/biomorphs-rules}}\n\n;Options\n*May include up to two additional Tyrant Guard - {{!!points}} points/model\n*The unit may replace {{Instinctive Behaviour (Feed)||$:/templates/tooltips}} with {{Instinctive Behaviour (Lurk)||$:/templates/tooltips}} -- //free// \n*Any model may replace a single pair of ''scything talons'' with an {{Impaler Cannon||$:/templates/tooltips}} --- 10 points\n*Any model may take items from the {{Basic Bio-cannons||$:/templates/tooltips}}, {{Basic Bio-weapons||$:/templates/tooltips}}, {{Biomorphs||$:/templates/tooltips}}, and {{Melee Bio-weapons||$:/templates/tooltips}} lists.",
+        "type": "text/vnd.tiddlywiki",
+        "title": "Tyrant Guard",
+        "tags": "Elite",
+        "modifier": "Jeanbeaux",
+        "modified": "20201016165850974",
+        "creator": "Jeanbeaux",
+        "wounds": "2",
+        "weapon-skill": "5",
+        "unit-type": "Infantry",
+        "toughness": "6",
+        "strength": "5",
+        "points": " 30",
+        "leadership": "7",
+        "initiative": "4",
+        "footer": "{{$:/Lore/Tyrant Guard}}",
+        "description": "''Special'': //You may include one Tyrant Guard Brood for each [[Hive Tyrant]] (including the [[Swarmlord]]) in your army. These broods do not use up a Force Organisation slot. Otherwise, Tyrant Guard Broods may be taken as Elite choices//",
+        "caption": "Tyrant Guard Brood",
+        "biomorphs": "[[Two pairs of Scything Talons]]",
+        "ballistic-skill": "3",
+        "attacks": "2",
+        "save": "3+",
+        "special": "[[Shieldwall]] [[Fused Skull]] [[Blind Rampage]] [[Instinctive Behaviour (Feed)]] [[Very Bulky]] [[Feel No Pain]] +[sort[title]]"
+    }
+]

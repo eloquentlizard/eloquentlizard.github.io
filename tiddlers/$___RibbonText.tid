@@ -1,0 +1,11 @@
+created: 20150210014537375
+creator: eloquentlizard
+modified: 20200728191105200
+modifier: eloquentlizard
+tags: 
+title: $:/_RibbonText
+type: text/vnd.tiddlywiki
+
+<span class="tiny"><$list filter="[!is[system]!has[draft.of]!sort[modified]limit[1]]">
+<$link to={{!!title}}><$reveal type=nomatch state=!!caption text="" default="">{{!!caption}}</$reveal><$reveal type=match state=!!caption text="" default="">{{!!title}}</$reveal></$link>
+</$list></span>

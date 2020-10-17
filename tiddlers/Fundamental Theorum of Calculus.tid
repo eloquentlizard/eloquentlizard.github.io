@@ -1,0 +1,29 @@
+created: 20141231145743827
+creator: eloquentlizard
+description: A test of the [[KaTeX plugin|$:/plugins/tiddlywiki/katex]] for TiddlyWiki5.
+modified: 20201016170012338
+modifier: eloquentlizard
+source: http://en.wikipedia.org/wiki/Fundamental_theorem_of_calculus
+tags: Info
+title: Fundamental Theorum of Calculus
+type: text/vnd.tiddlywiki
+
+!!Part I
+Let $$f$$ be a continuous real-valued function defined on a closed interval $$[a, b]$$. Let $$F$$ be the function defined, for all $$x$$ in $$[a, b]$$, by
+
+<$latex text="\displaystyle F(x) = \int_a^x f(t)\,dt"/>
+
+Then, $$F$$ is continuous on $$[a, b]$$, differentiable on the open interval $$(a, b)$$, and
+
+<$latex text="\displaystyle F'(x) = f(x)"/>
+
+!!Part II
+Let $$f$$ and $$F$$ be real-valued functions defined on a closed interval $$[a, b]$$ such that the derivative of $$F$$ is $$f$$. That is, $$f$$ and $$F$$ are functions such that for all $$x$$ in $$[a, b]$$,
+
+$$\displaystyle F'(x) = f(x)$$
+
+If $$f$$ is Riemann integrable on $$[a, b]$$ then
+
+$$\displaystyle \int_a^b f(x)\,dx = F'(b) - F'(a)$$
+
+When an antiderivative $$F$$ exists, then there are infinitely many antiderivatives for $$f$$, obtained by adding to $$F$$ an arbitrary constant. Also, by the first part of the theorem, antiderivatives of $$f$$ always exist when $$f$$ is continuous.

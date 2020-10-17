@@ -1,0 +1,12 @@
+created: 20150218184621613
+creator: eloquentlizard
+description: This weapon fires two different projectiles, launched in quick succession. The first is a bloated tick that bursts upon impact, showering the target in a thick oily substance. The second, a seedpod, reacts as it contacts the viscous remains of the tick, creating an implosion which can even wrench armoured vehicles inside out.
+modified: 20201012231045202
+modifier: eloquentlizard
+points: 60
+tags: Weapon [[Monstrous Heavy Bio-weapons]]
+title: Rupture Cannon
+type: text/vnd.tiddlywiki
+
+|| Range | S | AP | Type |h
+|Rupture Cannon| 48" | 10 | 4 |[[Assault]] 2|

@@ -1,0 +1,15 @@
+<$list filter="[tag[$:/tags/Font]!has[draft.of]]">
+
+`/* `<$link to={{!!title}} ></$link>` */
+
+@font-face{
+	font-family: `{{!!description}}`;
+	src: url("data:font/ttf;base64,`<$view field=text type="text/plain" />`"), format("truetype");
+	`{{!!info}}`
+}
+
+.`{{!!description}}` {
+	font-family: `{{!!description}}`;
+}
+`
+</$list>

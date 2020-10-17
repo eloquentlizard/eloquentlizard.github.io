@@ -1,0 +1,15 @@
+created: 20150201202551506
+creator: eloquentlizard
+modified: 20200728191112021
+modifier: eloquentlizard
+tags: Components
+title: Ignore Hardness Talent Tree
+type: text/vnd.tiddlywiki
+
+The Strong hero has an innate talent for finding weaknesses in objects. This allows a Strong hero to ignore some of an object's hardness when making a melee attack to break it.
+
+*''Ignore Hardness'': The Strong hero ignores 2 point of an object's hardness.{{br}}
+*''Improved Ignore Hardness'': The Strong hero ignores 2 additional point of an object's hardness (for a total of 4).
+::''Prerequisite'': Ignore hardness.{{br}}
+*''Advanced Ignore Hardness:'' The Strong hero ignores 2 additional point of an object's hardness (for a total of 6).
+::''Prerequisites'': Ignore hardness, improved ignore hardness.

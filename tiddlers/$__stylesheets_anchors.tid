@@ -1,0 +1,48 @@
+created: 20150127083555098
+creator: eloquentlizard
+modified: 20201016035656729
+modifier: eloquentlizard
+tags: $:/tags/Stylesheet
+title: $:/stylesheets/anchors
+type: text/vnd.tiddlywiki
+
+`a[href]:not(.tc-tiddlylink) {
+	text-decoration: none;
+}
+
+a[href]:not(.tc-tiddlylink):hover {
+	text-decoration: underline;
+}
+
+a[href]:not(.tc-tiddlylink)::after {
+	content: " " url(`<<datauri "$:/core/images/_external-link">>`);
+	text-decoration: inherit;
+}
+
+a[href].tc-tiddlylink {
+	font-stretch: expanded;
+	font-weight: normal;
+}
+
+a[href].tc-tiddlylink-missing {
+	font-variant: small-caps;
+	font-style: normal;
+	font-size: 0.85em;
+	verical-align: middle;
+	color: `<<color code-foreground>>`;
+}
+
+.tc-site-subtitle a:not(.tc-tiddlylink) {
+	text-decoration: inherit;
+	color: inherit;
+}
+
+.tc-site-subtitle a[href]:not(.tc-tiddlylink):visited,{
+	text-decoration: inherit;
+	color: inherit;
+}
+
+.tc-site-subtitle a[href]:not(.tc-tiddlylink):hover {
+	text-decoration: underline;
+	color: inherit;
+}

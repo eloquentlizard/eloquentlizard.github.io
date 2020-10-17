@@ -1,0 +1,11 @@
+created: 20150218184440939
+creator: eloquentlizard
+description: Impaler cannons propel osseous spines at such high velocities that they can punch through reinforced plasteel. At the base of each spine is a small creature known as a shard-beast that uses thin membranous fins to steer the spine towards its target.
+modified: 20201012231043718
+modifier: eloquentlizard
+tags: Weapon
+title: Impaler Cannon
+type: text/vnd.tiddlywiki
+
+|| Range | S | AP | Type |h
+|Impaler Cannon| 24" | 8 | 4 |[[Assault]] 2, [[Homing]], [[Ignores Cover]]|

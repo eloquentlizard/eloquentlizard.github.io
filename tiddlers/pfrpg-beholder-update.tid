@@ -1,0 +1,46 @@
+created: 20140826102923572
+creator: eloquentlizard
+modified: 20200728191116455
+modifier: eloquentlizard
+tags: scratch
+title: pfrpg-beholder-update
+type: text/vnd.tiddlywiki
+
+```
+Beholder
+-
+ LE Large Aberration
+ Init: +8, Senses: all-around vision, darkvision 60 ft.; Perception +23
+==Defense==
+ AC 26, touch 11, flat-footed 24 (-1 size, +2 Dex, +15 natural)
+ hp 104 (11d8+55)
+ Fort +9; Reflex +5; Will +11
+==Offense==
+ Speed: 5 ft., fly 20 ft. (good)
+ Ranged: Eye rays +10 touch
+ Full Attack: Eye rays +10 ranged touch and bite +2 melee (2d4)
+ Space: 10 ft.; Reach: 5 ft.
+ Special Attacks: Eye rays
+ Special Abilities: Antimagic cone
+==Statistics==
+ Str 10, Dex 14, Con 18, Int 17, Wis 15, Cha 15
+ Base Atk: +8; CMB: +9; CMD: 21 (can't be tripped)
+ Feats: Alertness (B), Flyby Attack, Great Fortitude, Improved Initiative, Iron Will, Weapon Focus (eye rays), Ability Focus (eye rays)
+ Skills: Fly +17, Intimidate +17, Knowledge (arcana) +18, Perception +23, Spellcraft +18, Stealth +17, Survival +17
+-
+ A beholder is an eight-foot-wide orb dominated by a central eye and a large, toothy maw. Ten smaller eyes on stalks sprout from the top of the orb.
+ Beholders often attack without provocation. Though not powerful physically, they often plow right into groups and use as many of their eyes as they can. When closing with an enemy, a beholder tries to cause as much disruption and confusion as possible.
+==Special=Abilities==
+ Eye Rays (Su): Each of a beholder's ten eye rays resembles a spell cast by a 13th-level caster. Each eye ray has a range of 150 feet and a save DC of 19. The save DCs are Charisma-based. The ten eye rays include:
+	Charm Monster: The target must succeed on a Will save or be affected as though by the spell. Beholders use this eye ray to confuse the opposition, usually employing it early in a fight. The beholder generally instructs a charmed target to restrain a comerade or stand aside.
+	Charm Person: The target must succeed on a Will save or be affected as though by the spell. Beholders use this ray in the same manner as the charm monster ray.
+	Disintegrate: The target must succeed on a Fortitude save of be affected as though by the spell. The beholder likes to use this ray against any foe it considers a real threat.
+	Fear: This ray works like the spell, except that it targets one creature. They target must succeed on a Will save or be affected as though by the spell. Beholders liek to use this ray against warriors or other powerful creatures early in a fight, to break up the opposition.
+	Finger of Death: The target must succeed on a Fortitude save or be affected as though by the spell. The target takes 3d6+13 damage if its saving throw succeeds. Beholders use this ray to eliminate dangerous foes quickly.
+	Flesh to Stone: The target must succeed on a Fortitude save of be affected as though by the spell. Beholders like to aim this ray at enemy spellcasters. They also use it an any creature that they find interesting (After the fight, the beholder takes the statue to its lair as decoration).
+	Inflict Moderate Wounds: This works liek the spell, causing 2d8+10 points of damage (Will half).
+	Sleep: This works like the spell, except it affects one creature with any number of Hit Dice (Will negates). Beholders like to use this ray against warriors or other powerful creatures. They know that their foes can quickly awaken teh sleepers, but doing so takes time and can delay an effective counterattack.
+	Slow: This works like the spell, except that it affects one creature. The target can make a Will save to negate the effect. Beholders often use this ray against the same target of their disintegrate, flesh to stone, or finger of death ray. If the former ray fails to eliminate the foe, this one might at least hamper it.
+	Telekinesis: The beholder can move objects or creatures that weigh up to 325 pounds, as though with a telekinesis spell. Creatures can resist its effect with a successful Will save.
+Antimagic Cone (Su): A beholder's central eye continually produces a 150-foot cone of antimagic. This cone functions as an antimagic field (caster level 13th); all magical and supernatural powers or effects within the cone are suppressed, including the beholder's own eye rays. Once each round, the beholder decides whether the antimagic cone is active or not (the beholder deactivates the cone by shutting its central eye).
+```

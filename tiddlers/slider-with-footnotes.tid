@@ -1,0 +1,29 @@
+created: 20150219161823276
+creator: eloquentlizard
+footer: sample footer
+modified: 20201012231045402
+modifier: eloquentlizard
+tags: 
+title: slider-with-footnotes
+type: text/vnd.tiddlywiki
+
+\define slider(label)
+<$button popup="$:/state/$label$" class="tc-btn-invisible tw-slider tc-tiddlylink"><$reveal type="match" text="" default="" state="$:/state/$label$">{{$:/core/images/right-arrow}}</$reveal><$reveal type="nomatch" text="" default="" state="$:/state/$label$">{{$:/core/images/down-arrow}}</$reveal> {{$label$||unwikified}}</$button>
+<$reveal type="nomatch" text="" default="" state="$:/state/$label$" animate="yes">
+<div>
+
+<blockquote>
+
+<$transclude/>
+
+<hr>
+
+<$transclude field=footer />
+
+</blockquote>
+
+</div>
+</$reveal>
+\end
+
+<$macrocall $name="slider" label={{!!title}}/>

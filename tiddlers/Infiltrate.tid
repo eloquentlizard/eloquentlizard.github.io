@@ -1,0 +1,24 @@
+created: 20150215005548309
+creator: eloquentlizard
+description: Many armies employ reconnaissance troops who sit concealed for days, just waiting for the right moment in which to strike.
+modified: 20201012231043789
+modifier: eloquentlizard
+tags: [[Special Rule]]
+title: Infiltrate
+type: text/vnd.tiddlywiki
+
+Units that contain at least one model with this special rule are deployed last, after all other units (friend and foe) have been deployed. If both sides have Infiltrators, the players roll-off and the winner decides who goes first, then alternate deploying these units. 
+
+Infiltrators can be set up anywhere on the table that is more than 12" from any enemy unit, as long as no deployed enemy unit can draw line of sight to them. This includes in a building, as long as the building is more than 12" from any enemy unit. Alternatively, they can be set up anywhere on the table more than 18" from any enemy unit, even in plain sight. 
+
+If a unit with Infiltrate deploys inside a Dedicated Transport, they may Infiltrate along with their Transport.
+
+A unit that deploys using these rules cannot charge in their first turn.
+
+Having Infiltrate also confers the [[Outflank]] special rule to units of Infiltrators that are kept as Reserves.
+
+!!Infiltrate & Outflank
+If a unit with Infiltrate deploys inside a Dedicated Transport, they may [[Outflank]] along with their Transport.
+
+!!Infiltrate & Scout
+If a unit has both the Infiltrate and [[Scout]] special rule, that unit can deploy as per the Infiltrate special rule and then redeploy as per the Scout special rule.

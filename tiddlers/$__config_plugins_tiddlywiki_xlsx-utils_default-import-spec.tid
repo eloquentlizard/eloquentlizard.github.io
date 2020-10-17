@@ -1,0 +1,8 @@
+created: 20200126104537304
+creator: eloquentlizard
+modified: 20200728191105653
+modifier: eloquentlizard
+title: $:/config/plugins/tiddlywiki/xlsx-utils/default-import-spec
+type: text/vnd.tiddlywiki
+
+$:/_ExcelImporter/ImportSpecifiers/Workbook

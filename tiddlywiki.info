@@ -1,5 +1,5 @@
 {
-    "description": "Basic client-server edition",
+    "description": "modified from basic client-server edition",
     "plugins": [
         "tiddlywiki/tiddlyweb",
         "tiddlywiki/filesystem",
@@ -50,15 +50,26 @@
     ],
     "build": {
         "index": [
-            "--rendertiddler",
-            "$:/plugins/tiddlywiki/tiddlyweb/save/offline",
-            "index.html",
-            "text/plain"
-        ], 
-        "favicon": [
             "--savetiddler",
             "$:/favicon.ico",
-            "favicon.ico"
+            "favicon.ico",
+			"--savetiddlers",
+            "[is[image]!title[$:/favicon.ico]]",
+            "images",
+			"--setfield",
+            "[is[image]]",
+            "_canonical_uri",
+            "$:/core/templates/canonical-uri-external-image",
+            "text/plain",
+			"--setfield",
+            "[is[image]]",
+            "text",
+            "\"\"",
+            "text/plain",
+			"--rendertiddler",
+            "$:/plugins/tiddlywiki/tiddlyweb/save/offline",
+            "index.html",
+            "text/plain"         
         ],
         "static": [
             "--rendertiddler",
@@ -81,6 +92,6 @@
         ]
     },
 	"config": {
-		"retain-original-tiddler-path": true
+		"retain-original-tiddler-path": false
 	}
 }

@@ -1,0 +1,15 @@
+created: 20150101210549551
+creator: eloquentlizard
+modified: 20200728191108817
+modifier: eloquentlizard
+tags: Skills [[Extinguishing the Guiding Light]] Homebrew
+title: Crutch-Walking
+type: text/vnd.tiddlywiki
+
+!!Crutch-Walking
+;Dexterity-based Skill
+:Armor Check Penalty, Trained Only
+;Description
+:Any character with at least 1 rank in Crutch-Walking gains Crutch-Walking as a class skill for all classes.
+:If a character loses a leg, the penalties are pretty severe. Normally, your base land speed drops to 5 ft. If a character has something to brace against, though, he can build up some tolerance and eventually overcome his disability enough to where he can move just as quickly as before.{{br}}
+:Each rank in Crutch-Walking grants +5 ft. of the character's base land speed back to it, up to a maximum of its original speed. If a character loses both legs, two ranks of Crutch-Walking are necessary for the same effect. In addition, delicate maneuvers may require Crutch-Walking checks to avoid tripping. Trip attempts against a character missing one or more legs gain a +4 bonus per leg lost unless the character has at least 10 ranks in Crutch-Walking (15 for a character who has lost both legs). In addition, a character attempting a Balance or Tumble check may make a DC 15 Crutch-Walking check as a non-action to halve normal penalties for leg loss (normally -10 per leg for Tumble, -4 per leg for Balance, -8 per leg for Jump).

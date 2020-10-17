@@ -1,0 +1,17 @@
+caption: External Sources
+color: #1d47c7
+created: 20141226040807155
+creator: eloquentlizard
+description: A collection of embedded links to elsewhere
+icon: $:/core/images/_external-link
+list-after: Miscellaneous
+modified: 20200728191109859
+modifier: eloquentlizard
+tags: [[Table of Contents]]
+title: External Source
+type: text/vnd.tiddlywiki
+
+<$list filter="[tag[External Source]sort[title]]">
+
+*<$link><$view field="title"/></$link> -- {{!!description}} -- {{!!src}}
+</$list>

@@ -1,0 +1,33 @@
+color: #e8a137
+created: 20150218171026362
+creator: eloquentlizard
+description: ''Designer's Note'': Tyranid Melee weapons come as pairs. For game purposes, each pair is treated as a single Melee weapon. Tyranids cannot gain bonus attacks for dual-wielding; however, the ''Multistrike'' special rule on the ''scything talons'' bio-weapon helps make up for this lack.
+footer: For a complete listing of every weapon and biomorph available to any Tyranid unit, see [[Weapons & Biomorphs/Index]].
+icon: $:/core/images/_sword
+list-after: Forces of the Hive Mind
+modified: 20201012232844514
+modifier: eloquentlizard
+tags: Tyranids
+title: Weapons & Biomorphs
+type: text/vnd.tiddlywiki
+
+This section of //Codex: Tyranids// lists the weapons and biomorphs used by the Tyranid hive fleets along with the rules for using them in your games of //Warhammer 40,000//. Unique weapons and biomorphs carried by named characters are detailed in the appropriate entry in the [[Forces of the Hive Mind]] section, while weapons and biomorphs used by all the other types of units are detailed here.
+
+These lists detail the points values of various weapon and biomorph upgrades available to your units. Many unit entries in the army list that follows may include options to select items from one or more of these lists – in each instance, the army list entry will tell you exactly which of these lists you may use.
+
+<hr>
+
+<div class="tc-link-info">
+
+<$list filter="[tag[Wargear List]sort[title]]">
+
+<div class="tc-link-info-item" style="border-radius:10px;">
+
+!!{{!!title}}
+{{}}
+
+
+</div>
+
+</$list>
+</div>

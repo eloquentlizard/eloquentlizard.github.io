@@ -1,0 +1,25 @@
+created: 20150214215403191
+creator: eloquentlizard
+modified: 20201012231041810
+modifier: eloquentlizard
+tags: [[Unit Type]]
+title: Beast
+type: text/vnd.tiddlywiki
+
+>Beasts are savage and swift-moving creatures.
+
+!!Movement
+Beasts can move up to 12" in the Movement phase. Beasts are not slowed by difficult terrain (even when charging) and automatically pass Dangerous Terrain tests.
+
+!!Fall Back Moves
+Beasts make Fall Back moves just like Infantry, except that they move 3D6".
+
+!!Special Rules
+Beasts have the [[Fleet]] special rule.
+
+!!Tyranid Beasts
+<$list filter="[tag[Beast]sort[title]]">
+
+*<$link><$view field=title/></$link>
+
+</$list>

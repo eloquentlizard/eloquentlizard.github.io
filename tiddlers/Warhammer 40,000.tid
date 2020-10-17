@@ -1,0 +1,21 @@
+caption: Warhammer 40,000
+color: #4f8d97
+created: 20141116075540287
+creator: eloquentlizard
+description: 
+icon: $:/core/images/_gun
+modified: 20201016041234262
+modifier: eloquentlizard
+prefix: 40k
+tags: Miscellaneous
+title: Warhammer 40,000
+type: text/vnd.tiddlywiki
+
+!Warhammer 40,000
+<<<.tc-big-quote
+//In the grim darkness of the far future, there is only war.// 
+<<<
+
+<div class="tc-table-of-contents" style="-webkit-column-count: 3;-moz-column-count: 3;column-count: 3;">
+<<toc [tagging[]] ''>>
+</div>

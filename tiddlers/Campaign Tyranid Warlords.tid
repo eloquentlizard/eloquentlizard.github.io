@@ -1,0 +1,42 @@
+caption: Homebrew Warlords
+created: 20150917052016796
+creator: eloquentlizard
+list-after: Special Rules
+modified: 20201015173349769
+modifier: eloquentlizard
+planet: 
+star-system: 
+tags: Tyranids
+title: Campaign Tyranid Warlords
+type: text/vnd.tiddlywiki
+
+<$edit-text field=star-system/> ''>'' <$edit-text field=planet/>
+
+<$list filter="[is[current]tagging[]!tag[Archived]!has[draft.of]sort[title]]">
+
+<div class="tc-sidediv tc-row" style="float:none;width:auto;max-width:100%;-moz-border-radius:15px;-webkit-border-radius:15px;border-radius:15px;">
+
+<div class="tc-col">
+
+!!<$reveal state={{{!!caption}} type=match text="">{{!!caption}}</$reveal><$reveal>state={{{!!caption}} type=nomatch text="">{{!!title}}</$reveal> --- {{!!points}} points
+{{||CharacteristicsTable}}
+
+{{}}
+
+</div>
+
+<div class="tc-col">
+
+!!{{!!description}}
+
+<$list filter="[tag{!!title}]">
+
+{{}}
+
+</$list>
+
+</div>
+
+</div>
+
+</$list>

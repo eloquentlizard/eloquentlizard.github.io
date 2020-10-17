@@ -1,0 +1,47 @@
+created: 20140824005842812
+creator: eloquentlizard
+modified: 20200728191109847
+modifier: eloquentlizard
+tags: [[Pathfinder RPG]]
+title: Experience & Wealth-By-Level
+type: text/vnd.tiddlywiki
+
+This page details information about Pathfinder RPG's Wealth By Level, Experience to Level, and XP Rewards for monsters of a given CR.
+
+!Character XP/Wealth XP Table + XP Reward Table
+|!Level|!XP Total|!Wealth By Level|!|!CR|!XP Reward|!|!CR|!XP Reward|
+|!1st| 0| Starting Gold|!|!1| 400|!|!1/8| 50|
+|!2nd| 2,000| 1,000gp|!|!2| 600|!|!1/4| 100|
+|!3rd| 5,000| 3,000gp|!|!3| 800|!|!1/3| 135|
+|!4th| 9,000| 6,000gp|!|!4| 1,200|!|!1/2| 200|
+|!5th| 15,000| 10,500gp|!|!5| 1,600|!|>||
+|!6th| 23,000| 16,000gp|!|!6| 2,400|!|>||
+|!7th| 35,000| 23,500gp|!|!7| 3,200|!|>||
+|!8th| 51,000| 33,000gp|!|!8| 4,800|!|>||
+|!9th| 75,000| 46,000gp|!|!9| 6,400|!|>||
+|!10th| 105,000| 62,000gp|!|!10| 9,600|!|>||
+|!11th| 155,000| 82,000gp|!|!11| 12,800|!|!21| 409,600|
+|!12th| 220,000| 108,000gp|!|!12| 19,200|!|!22| 614,400|
+|!13th| 315,000| 140,000gp|!|!13| 25,600|!|!23| 819,200|
+|!14th| 445,000| 185,000gp|!|!14| 38,400|!|!24| 1,228,800|
+|!15th| 635,000| 240,000gp|!|!15| 51,200|!|!25| 1,638,400|
+|!16th| 890,000| 315,000gp|!|!16| 76,800|!|>||
+|!17th| 1,300,000| 410,000gp|!|!17| 102,400|!|>||
+|!18th| 1,800,000| 530,000gp|!|!18| 153,600|!|>||
+|!19th| 2,550,000| 685,000gp|!|!19| 204,800|!|>||
+|!20th| 3,600,000| 880,000gp|!|!20| 307,200|!|>||
+|We're assuming a Medium Level Advancement rate here. For Fast advancement, multiply XP Totals by 2/3. For Slow advancement, multiply by 3/2.|c
+
+!Starting Gold By Class (WBL @ Level 1)
+Since table form makes this a little more tedious, we're handling this in an unordered list fashion. In addition, you can click the links to show class descriptions.
+
+*1d6 × 10 gp
+**[[Monk|http://www.d20pfsrd.com/classes/core-classes/monk]]
+*2d6 × 10 gp
+**[[Druid|http://www.d20pfsrd.com/classes/core-classes/druid]], [[Sorcerer|http://www.d20pfsrd.com/classes/core-classes/sorcerer]], [[Summoner|http://www.d20pfsrd.com/classes/base-classes/summoner]], [[Wizard|http://www.d20pfsrd.com/classes/core-classes/wizard]]
+*3d6 × 10 gp
+**[[Alchemist|http://www.d20pfsrd.com/classes/base-classes/alchemist]], [[Barbarian|http://www.d20pfsrd.com/classes/core-classes/barbarian]], [[Bard|http://www.d20pfsrd.com/classes/core-classes/bard]], [[Oracle|http://www.d20pfsrd.com/classes/base-classes/oracle]], [[Samurai|http://www.d20pfsrd.com/classes/alternate-classes/samurai]], [[Witch|http://www.d20pfsrd.com/classes/base-classes/witch]]
+*4d6 × 10 gp
+**[[Cleric|http://www.d20pfsrd.com/classes/core-classes/cleric]], [[Inquisitor|http://www.d20pfsrd.com/classes/base-classes/inquisitor]], [[Magus|http://www.d20pfsrd.com/classes/base-classes/magus]], [[Ninja|http://www.d20pfsrd.com/classes/alternate-classes/ninja]], [[Rogue|http://www.d20pfsrd.com/classes/core-classes/rogue]]
+*5d6 × 10 gp
+**[[Cavalier|http://www.d20pfsrd.com/classes/base-classes/cavalier]], [[Fighter|http://www.d20pfsrd.com/classes/core-classes/fighter]], [[Gunslinger|http://www.d20pfsrd.com/classes/base-classes/gunslinger]], [[Paladin|http://www.d20pfsrd.com/classes/core-classes/paladin]], [[Ranger|http://www.d20pfsrd.com/classes/core-classes/ranger]]

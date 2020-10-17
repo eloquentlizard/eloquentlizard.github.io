@@ -1,0 +1,30 @@
+abilities: +0 all
+caption: Races
+color: 
+created: 20141227134444109
+creator: eloquentlizard
+creaturetype: magical beast
+icon: $:/core/images/plugin-generic-language
+languages: swahili
+modified: 20200728191116922
+modifier: eloquentlizard
+size: fine
+speed: 1,000,000 ft.
+tags: Template
+title: Races
+type: text/vnd.tiddlywiki
+
+<$tiddler tiddler=<<currentTab>> >
+
+!{{!!caption}} Racial Traits
+;Abilities
+:{{!!abilities}}
+;Size & Type
+:{{!!size}} {{!!creaturetype}}
+;Speed
+:{{!!speed}}
+;Automatic Languages
+:{{!!languages}}
+;Other Traits
+:{{}}
+</$tiddler>

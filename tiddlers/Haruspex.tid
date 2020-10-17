@@ -1,0 +1,34 @@
+attacks: 3
+ballistic-skill: 3
+biomorphs: [[Acid Blood]] [[Crushing Claws]] [[Grasping Tongue]]
+caption: Haruspex Brood
+created: 20150219160702665
+creator: eloquentlizard
+footer: {{$:/Lore/Haruspex}}
+initiative: 3
+leadership: 7
+modified: 20201016165854851
+modifier: eloquentlizard
+points: 125
+save: 3+
+special: Fearless [[Bulky]] [[Feeder-Beast]] [[Instinctive Behaviour (Feed)]] [[Rapacious Hunger]] +[sort[title]]
+strength: 6
+tags: [[Monstrous Creature]] Elite
+title: Haruspex
+toughness: 6
+type: text/vnd.tiddlywiki
+unit-type: Monstrous Creature
+weapon-skill: 4
+wounds: 5
+
+!!{{!!caption}} --- {{!!points}} points
+
+{{||CharacteristicsTable}}
+
+Unit Composition --- 1 {{!!title}}
+
+{{||$:/templates/biomorphs-rules}}
+
+;Options
+*May add up to two additional {{!!title}}es -- {{!!points}} points/model
+*May take items from the {{Biomorphs||$:/templates/tooltips}}, {{Carapace Biomorphs||$:/templates/tooltips}}, and {{Tail Biomorphs||$:/templates/tooltips}} lists

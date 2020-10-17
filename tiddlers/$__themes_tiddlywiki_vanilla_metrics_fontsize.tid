@@ -1,0 +1,6 @@
+created: 20201013032916827
+modified: 20201013032921627
+title: $:/themes/tiddlywiki/vanilla/metrics/fontsize
+type: text/vnd.tiddlywiki
+
+{{$:/themes/tiddlywiki/vanilla/metrics/bodyfontsize}}

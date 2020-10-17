@@ -1,0 +1,36 @@
+created: 20140826103027493
+creator: eloquentlizard
+modified: 20200728191108898
+modifier: eloquentlizard
+tags: scratch
+title: d20-modern-necron
+type: text/vnd.tiddlywiki
+
+```
+Necron
+CR 10
+Medium Construct (augmented undead)
+HD 9d12+20 (78 hp)
+AC 20 (+1 Dex, +9 natural)
+Str 15, Dex 13, Con --, Int 17, Wis 14, Cha 16
+Fort +3, Ref +4, Will +8
+Skills: Concentration +15, Hide +21, Listen +22, Move Silently +21, Search +23, Sense Motive +22, Spellcraft +15, Spot +22
+Special: Construct traits, undead traits, combat machine (BAB=HD), fast healing 5, rejuvenate (1d10 days), turn resistance +4, immunity to cold/polymorph, DR 15/adamantine
+Feats: Advanced Firearms Proficiency, Archaic Weapons Proficiency^^B^^, Personal Firearms Proficiency^^B^^, ~Point-Blank Shot, Precise Shot, Quick Draw, Quick Reload, Simple Weapons Proficiency^^B^^
+Attack: longsword +11 (1d8+2) or shotgun +11 (2d8+1)
+Equipment: Mossberg 12-gauge shotgun (2d8), longsword (1d8)
+Level Adjustment: +0 (but see below)
+
+//This creature looks like a cross between a robot and a human skeleton. Its eyes glow with a fierce inner green light. It holds a shotgun on its belt the way many would hold a pistol, and an archaic blade rests in a hilt on the other side of its belt. Its eyes flicker with sinister insight, as though it is calculating the most efficient way to kill its target.//
+
+!Combat
+Necrons were once spellcasters that gave up their power in exchange for an extremely powerful and durable body that is both undead and mechanical.
+''Fast Healing (Su)'': A necron recovers 5 hit points per round as long as it has 1 HP or more.
+''Combat Machine (Ex)'': Unlike most undead or constructs, a necron is systematically designed and programmed for combat. Its racial base attack bonus is equal to its racial Hit Dice, or +9. In addition, a necron may fire a two-handed rifle or shotgun with one hand at no penalty, but still requires two hands to reload, take aim with the Dead Eye feat, etc. It may not use autofire or burst fire one-handed. Only normal, single shots can be fired one-handed.
+''Construct Traits (Ex)'': A necron has many of a construct's normal traits, although some are overridden by its undead traits (see below). The construct traits the necron possesses are: low-light vision; darkvision 60 feet; immunity to all mind-affecting effects; immunity to anything requiring a Fortitude save unless it affects objects or constructs specifically; immunity to critical hits, sneak attack, nonlethal damage, ability damage and draing, fatigue, exhaustion, and energy drain; immunity to poison, sleep, paralysis, stunning, disease, death effects, and most necromancy effects (see undead traits); not at risk of death from massive damage; destroyed at 0 HP or lower; +20 bonus hit points based on construct side (Medium); and does not eat, sleep, or breathe.
+''Rejuvenate (Ex)'': Even after slain, a necron's body begins the basic processes of rebuilding itself. 1d10 days after its apparent death, it rises again, much like a lich. It is this trait, along with the requirement of significant spellcasting power, that has earned the necrons the colloquial name of "technolich".
+''Undead Traits (Ex)'': Since necrons are constructs animated by forces of unlife, they also possess a number of undead traits that override some of the normal construct traits. A necron has d12 hit dice instead of a construct d10 HD, has good Will saves for its racial hit dice (instead of all poor saves), and has base skill points equal to 4+Int modifier (rather than the construct's 2+Int modifier). It also is affected by inflict and cure spells as an undead. It also uses its Charisma modifier for Concentration checks instead of Constitution (since it lacks Constitution altogether).
+
+!Becoming a Necron
+The process requires that the human spellcaster have a caster level of at least 9th. Constructing the body requires a Craft (mechanical) check, a Craft (electronic) check, and a Spellcraft check, all at DC 25. It also costs materials with a total Purchase DC of 25. The process then involves a special incantation requiring a Knowledge (arcane lore) check of 25. The incantation process takes 1 week. If the check succeeds, then at the end of the week-long incantation, the spellcaster loses all class levels, and becomes a Necron with the stats above, except that its ability scores are equal to that of the caster, with the following changes: Str +4, Dex +2, Con --, Int +2, Wis +2, Cha +2. A Necron's class skills are Bluff, Concentration, Craft (all), Intimidate, Hide, Knowledge (all), Listen, Move Silently, Search, Sense Motive, Spellcraft, Spot, and if the base creature had Use Magic Device as a class skill, so does the Necron. Class skills are presented only for Necrons with higher Intelligence scores that the one seen here; Necrons with 16 or 17 Intelligence, have these exact skill points invested. A Necron has a +8 racial bonus on Hide, Listen, Move Silently, Search, Sense Motive, and Spot checks (already included in the calculations). The given Necron feats and HD rolls are also not for the character to choose; they come with the altercation. Even though the Necron has lost all its class levels, it is fully free to adventure and regain lost levels, even spellcasting levels it once had. Its mechanically undead body causes no arcane spell failure. Should the incantation fail, the body explodes in a 100 foot burst, dealing 10d6 points of damage to everything in the area (Reflex DC 18 half), and the entire process must begin anew.
+```

@@ -1,0 +1,10 @@
+created: 20151230020632375
+creator: eloquentlizard
+description: Some warriors refuse to be laid low by what would be mortal wounds to lesser warriors
+modified: 20201012231042690
+modifier: eloquentlizard
+tags: [[Special Rule]]
+title: Eternal Warrior
+type: text/vnd.tiddlywiki
+
+If a model with this special rule suffers an unsaved Wound from an attack that inflicted [[Instant Death]], it only reduces its Wounds by 1, instead of automatically reducing its Wounds to 0.

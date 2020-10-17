@@ -1,0 +1,11 @@
+caption: bonus feat
+created: 20150104030146420
+creator: eloquentlizard
+modified: 20200728191111167
+modifier: eloquentlizard
+tags: Components
+title: Homebrew/Fighter/Bonus Feat
+type: text/vnd.tiddlywiki
+
+!Bonus Feats
+At 1st level, 2nd level, and every even-numbered level thereafter, a fighter gains an additional feat, selected from the list of ''[Fighter Bonus Feats]''. He must meet all prerequisites for a feat he selects.

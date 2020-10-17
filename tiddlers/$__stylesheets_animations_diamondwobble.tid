@@ -1,0 +1,41 @@
+created: 20201014152230429
+modified: 20201016044129061
+tags: $:/tags/Stylesheet
+title: $:/stylesheets/animations/diamondwobble
+type: text/vnd.tiddlywiki
+
+.animate-<$text text={{{[{!!title}removeprefix[$:/stylesheets/animations/]]}}}/> {
+	position: relative;
+	animation: <$text text={{{[{!!title}removeprefix[$:/animations/]]}}}/> 30s linear 0s infinite alternate both running;
+}
+
+@keyframes <$text text={{{[{!!title}removeprefix[$:/animations/]]}}}/> {
+	0% {top: 0%; left: 0%;}
+	4% {top: 0%; left: 0%;}
+	24% {top: 100%; left: 100%;}
+	28% {top: 100%; left: 100%;}
+	48% {top: 0%; left: 200%;}
+	52% {top: 0%; left: 200%;}
+	72% {top: -100%; left: 100%;}
+	76% {top: -100%; left: 100%;}
+	96% {top: 0%; left: 0%;}
+	100% {top: 0%; left: 0%;}
+}
+
+<$vars bg-ht={{{ [{$:/themes/tiddlywiki/vanilla/settings/backgroundimage}get[height]] }}} bg-wd=	{{{ [{$:/themes/tiddlywiki/vanilla/settings/backgroundimage}get[width]] }}}>
+
+/* background dimensions: <<bg-ht>> x <<bg-wd>>  */
+
+@keyframes <$text text={{{[{!!title}removeprefix[$:/stylesheets/animations/]]}}}/>-bg {
+		0% {background-position: {{{ =0.00 =[<bg-ht>] +[product[]ceil[]] }}}px {{{ =0.00 =[<bg-wd>] +[product[]ceil[]] }}}px;}
+	4% {background-position: {{{ =0.00 =[<bg-ht>] +[product[]ceil[]] }}}px {{{ =0.00 =[<bg-wd>] +[product[]ceil[]] }}}px;}
+	24% {background-position: {{{ =1.00 =[<bg-ht>] +[product[]ceil[]] }}}px {{{ =1.00 =[<bg-wd>] +[product[]ceil[]] }}}px;}
+	28% {background-position: {{{ =1.00 =[<bg-ht>] +[product[]ceil[]] }}}px {{{ =1.00 =[<bg-wd>] +[product[]ceil[]] }}}px;}
+	48% {background-position: {{{ =0.00 =[<bg-ht>] +[product[]ceil[]] }}}px {{{ =2.00 =[<bg-wd>] +[product[]ceil[]] }}}px;}
+	52% {background-position: {{{ =0.00 =[<bg-ht>] +[product[]ceil[]] }}}px {{{ =2.00 =[<bg-wd>] +[product[]ceil[]] }}}px;}
+	72% {background-position: {{{ =1.00 +[negate[]] =[<bg-ht>] +[product[]ceil[]] }}}px {{{ =1.00 =[<bg-wd>] +[product[]ceil[]] }}}px;}
+	76% {background-position: {{{ =1.00 +[negate[]] =[<bg-ht>] +[product[]ceil[]] }}}px {{{ =1.00 =[<bg-wd>] +[product[]ceil[]] }}}px;}
+	96% {background-position: {{{ =0.00 =[<bg-ht>] +[product[]ceil[]] }}}px {{{ =0.00 =[<bg-wd>] +[product[]ceil[]] }}}px;}
+	100% {background-position: {{{ =0.00 =[<bg-ht>] +[product[]ceil[]] }}}px {{{ =0.00 =[<bg-wd>] +[product[]ceil[]] }}}px;}
+}
+</$vars>

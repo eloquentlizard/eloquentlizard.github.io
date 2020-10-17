@@ -1,0 +1,34 @@
+attacks: 3
+ballistic-skill: 3
+biomorphs: [[Drool Cannon]] [[Scything Talons]] [[Four Tentaclids]] [[Wings]]
+caption: Tyranid Hive Crone
+created: 20150221144936489
+creator: eloquentlizard
+footer: {{$:/Lore/Hive Crone}}
+initiative: 5
+leadership: 10
+modified: 20201016165859107
+modifier: eloquentlizard
+points: 155
+save: 4+
+special: [[Raking Strike]] [[Instinctive Behaviour (Feed)]] [[Fearless]] +[sort[title]]
+strength: 5
+tags: [[Fast Attack]]
+title: Hive Crone
+toughness: 5
+type: text/vnd.tiddlywiki
+unit-type: Flying Monstrous Creature
+weapon-skill: 3
+wounds: 5
+
+!!{{!!caption}} --- {{!!points}} points
+
+{{||CharacteristicsTable}}
+
+Unit Composition --- 1 {{!!title}} 
+
+{{||$:/templates/biomorphs-rules}}
+
+;Options
+*May take items from the {{Biomorphs||$:/templates/tooltips}} and {{Carapace Biomorphs||$:/templates/tooltips}} list.
+*May take {{Fighter Ace||$:/templates/tooltips}} --- 35 points

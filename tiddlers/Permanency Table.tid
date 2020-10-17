@@ -1,0 +1,23 @@
+created: 20150423124742391
+creator: eloquentlizard
+modified: 20200728191116389
+modifier: eloquentlizard
+tags: [[Dungeons & Dragons 3.5]]
+title: Permanency Table
+type: text/vnd.tiddlywiki
+
+So I figured out how caster levels/XP costs work for //permanency//.
+
+| Desired <br> Spell Level | Minimum <br> Caster Level |XP Cost|h
+|!0| 9th | 500 |
+|!1st| 9th | 500 |
+|!2nd| 10th | 1,000 |
+|!3rd| 11th | 1,500 |
+|!4th| 12th | 2,000 |
+|!5th| 13th | 2,500 |
+|!6th| 14th | 3,000 |
+|!7th| 15th | 3,500 |
+|!8th| 16th | 4,000 |
+|!9th| 17th | 4,500 |
+
+That's just for my own reference later.

@@ -1,0 +1,14 @@
+created: 20141230022631434
+creator: eloquentlizard
+description: Fight without penalty at 0 HP and lower
+description-full: You gain the ferocity special quality, as the boar has, meaning you may fight without penalty at 0 HP and below, as long as your HP total isn't enough to kill you. If you are at negative hit points, any application of fatigue will knock you unconscious.
+flavor: Your body is battered, but your resolve won't be broken.
+list-after: Greater Diehard
+modified: 20200728191117496
+modifier: eloquentlizard
+prereqs: Iron Will, Endurance, Diehard, Improved Diehard, Greater Diehard
+tags: Feats [[Extinguishing the Guiding Light]] Homebrew
+title: Supreme Diehard
+type: text/vnd.tiddlywiki
+
+{{||Feats}}

@@ -1,0 +1,11 @@
+created: 20150220124743691
+creator: eloquentlizard
+description: A cloud of sentient spore organisms engulf the foe, inflicting a horrible death.
+modified: 20201012231042289
+modifier: eloquentlizard
+tags: Weapon
+title: Choking Cloud
+type: text/vnd.tiddlywiki
+
+|| Range | S | AP | Type |h
+|Choking Cloud| 12" | 3 | --- |[[Assault]] 1, [[Ignores Cover]], [[Large Blast]], [[Poisoned]] (2+), [[Predatory Sentience]]|

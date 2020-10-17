@@ -1,0 +1,14 @@
+caption: bonus feat
+created: 20150203112204248
+creator: eloquentlizard
+modified: 20200728191108417
+modifier: eloquentlizard
+subtitle: {{!!title}}{{modal!!button}}
+tags: Components
+title: Bodyguard/Bonus Feat
+type: text/vnd.tiddlywiki
+
+!Bonus Feats
+At 3rd, 6th, and 9th level, the Bodyguard gets a bonus feat. The bonus feat must be selected from the following list, and the Bodyguard must meet all the prerequisites of the feat to select it.
+
+>Advanced Firearms Proficiency, Armor Proficiency,,light, medium,,, Attentive, Combat Expertise, Combat Reflexes, Double Tap, Improved Brawl, Improved Feint, Improved Knockout Punch, Knockout Punch, Precise Shot, Quick Draw, Quick Reload, Streetfighting, Vehicle Expert

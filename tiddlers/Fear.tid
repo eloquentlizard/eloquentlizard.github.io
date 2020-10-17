@@ -1,0 +1,10 @@
+created: 20150215001759841
+creator: eloquentlizard
+description: Some beings are so monstrous or alien that they can force their foes to recoil in horror.
+modified: 20201012231042757
+modifier: eloquentlizard
+tags: [[Special Rule]]
+title: Fear
+type: text/vnd.tiddlywiki
+
+At the start of each Fight sub-phase, a unit in base contact with one or more enemy models that cause Fear must take a Leadership test (called a Fear test) before any blows are struck. If the test is passed, all is well and there is no effect. If the test is failed, the unit succumbs to fear – all models in the unit have their Weapon Skill reduced to 1 for the remainder of that Fight sub-phase. Note that a model that causes Fear is not itself immune to Fear, and will still need to take a Fear test if it is base contact with any enemy models that cause Fear.

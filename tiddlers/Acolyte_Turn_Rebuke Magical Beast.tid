@@ -1,0 +1,15 @@
+caption: turn/rebuke magical beast
+created: 20150203023933462
+creator: eloquentlizard
+modified: 20200728191108027
+modifier: eloquentlizard
+subtitle: {{!!title}}{{modal!!button}}
+tags: Components
+title: Acolyte/Turn/Rebuke Magical Beast
+type: text/vnd.tiddlywiki
+
+!Turn/Rebuke Magical Beast
+At 7th level, the Acolyte gains the supernatural ability to affect magical beasts. This ability works just like turning undead, except the creature type is magical beast. Magical beasts, unlike undead creatures, can’t be destroyed or commanded. All other rules pertaining to turning apply. The number of times per day the Acolyte can make a turning attempt (3 + Cha modifier) does not increase.
+
+:;See Also
+::→ {{Acolyte/Turn/Rebuke Undead||modal}}, {{Acolyte/Turn/Rebuke Outsider||modal}}

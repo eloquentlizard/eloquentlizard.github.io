@@ -1,0 +1,13 @@
+color: #FFFFFF
+created: 20150214213919321
+creator: eloquentlizard
+description: Fast Attack units are generally faster than their comrades, and are masters of manoeuvrability. Often, they are used for reconnaissance and scouting, while at other times they are ferocious assault troops who rely on speed to get their bloody work done.
+icon: $:/core/images/_fast-attack
+list-after: Elite
+modified: 20201012231042744
+modifier: eloquentlizard
+tags: [[Unit Type]] [[Forces of the Hive Mind]]
+title: Fast Attack
+type: text/vnd.tiddlywiki
+
+{{||$:/templates/_armylist}}

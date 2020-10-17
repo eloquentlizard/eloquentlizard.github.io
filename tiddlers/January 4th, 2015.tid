@@ -1,0 +1,13 @@
+created: 20150104062111311
+creator: eloquentlizard
+modified: 20200728191113625
+modifier: eloquentlizard
+tags: Journal
+title: January 4th, 2015
+type: text/vnd.tiddlywiki
+
+Holy shit, everypeoples!{{br}}
+So I figured out how to make modal dialogues today. I made a simple-to-execute [[modal]] template to quickly and easily make the dialogues with. You can see an example here with the {{Fundamental Theorum of Calculus||modal}}.{{br}}
+Also, with that link above, I added in the [[KaTeX|$:/plugins/tiddlywiki/katex]] plugin into the wiki for proper rendering of ~LaTeX syntax by the use of either the `<$katex>` widget, the `<$latex>` widget, or by surrounding ~LaTeX markup with `$$`s. It's pretty nifty, and allows me to better take notes related to mathematical/scientific stuff, which I was planning on adding more of at some point anyway.{{br}}
+Anyway, I started a new concept of work for campaigns where I make homebrew classes; I can add class features, spell lists, and maneuver lists as modal dialogues into the tables, so that everything is contained within an easily accessible format. Also, according to the TiddlyWiki documentation, modal dialogues can be nested, which adds another layer of usability and functionality.{{br}}
+All in all, I'm excited to begin a new set of projects that will hopefully make the system more usable for both myself and visitors wishing to utilize the tools I have (and will soon have) hidden away on this giant wad of binary digits.

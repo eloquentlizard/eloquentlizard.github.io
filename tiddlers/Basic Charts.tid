@@ -1,0 +1,57 @@
+created: 20150308150112081
+creator: eloquentlizard
+list-after: Special Rules
+modified: 20201012231441391
+modifier: eloquentlizard
+tags: [[Warhammer 40,000]]
+title: Basic Charts
+type: text/vnd.tiddlywiki
+
+<div class="tc-tagged-Class" style="-webkit-column-count: 2;-moz-column-count: 2;column-count: 2;">
+
+|>|>|>|>|>|>|>|>|>|>| To Hit Chart (Ballistics) |h
+| Firer's BS | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |h
+| !To Hit | 6+ | 5+ | 4+ | 3+ | 2+ | 2+/6+ | 2+/5+ | 2+/4+ | 2+/3+ | 2+/2+ |
+|Ballistics Skill above 5 allows a reroll on 1, using a lower number to hit, as indicated by the slash.|c
+
+|>|>|>|>|>|>|>|>|>|>|>|>| To Hit Chart (Melee) |h
+|>| |>|>|>|>|>|>|>|>|>|>| Defender's Weapon Skill |h
+|~|~|WS1|WS2|WS3|WS4|WS5|WS6|WS7|WS8|WS9|WS10|h
+| ! <svg height="15em" width="1em" viewBox="0 0 10 100"><text x=4 y=100 transform="rotate(-90 9,100)" fill="#333353">Attacker's Weapon Skill </text></svg> |!WS1|4+|4+|5+|5+|5+|5+|5+|5+|5+|5+|
+|~|!WS2|3+|4+|4+|4+|5+|5+|5+|5+|5+|5+|
+|~|!WS3|3+|3+|4+|4+|4+|4+|5+|5+|5+|5+|
+|~|!WS4|3+|3+|3+|4+|4+|4+|4+|4+|5+|5+|
+|~|!WS5|3+|3+|3+|3+|4+|4+|4+|4+|4+|4+|
+|~|!WS6|3+|3+|3+|3+|3+|4+|4+|4+|4+|4+|
+|~|!WS7|3+|3+|3+|3+|3+|3+|4+|4+|4+|4+|
+|~|!WS8|3+|3+|3+|3+|3+|3+|4+|4+|4+|4+|
+|~|!WS9|3+|3+|3+|3+|3+|3+|3+|4+|4+|4+|
+|~|!WS10|3+|3+|3+|3+|3+|3+|3+|3+|4+|4+|
+
+
+
+|>|>|>|>|>|>|>|>|>|>|>| To Wound Chart |h
+||T1|T2|T3|T4|T5|T6|T7|T8|T9|T10|h
+|!S1|4+|5+|6+|6+|---|---|---|---|---|---|
+|!S2|[[3+|Instant Death]]|4+|5+|6+|6+|---|---|---|---|---|
+|!S3|[[2+|Instant Death]]|3+|4+|5+|6+|6+|---|---|---|---|
+|!S4|[[2+|Instant Death]]|[[2+|Instant Death]]|3+|4+|5+|6+|6+|---|---|---|
+|!S5|[[2+|Instant Death]]|[[2+|Instant Death]]|2+|3+|4+|5+|6+|6+|---|---|
+|!S6|[[2+|Instant Death]]|[[2+|Instant Death]]|[[2+|Instant Death]]|2+|3+|4+|5+|6+|6+|---|
+|!S7|[[2+|Instant Death]]|[[2+|Instant Death]]|[[2+|Instant Death]]|2+|2+|3+|4+|5+|6+|6+|
+|!S8|[[2+|Instant Death]]|[[2+|Instant Death]]|[[2+|Instant Death]]|[[2+|Instant Death]]|2+|2+|3+|4+|5+|6+|
+|!S9|[[2+|Instant Death]]|[[2+|Instant Death]]|[[2+|Instant Death]]|[[2+|Instant Death]]|2+|2+|2+|3+|4+|5+|
+|!S10|[[2+|Instant Death]]|[[2+|Instant Death]]|[[2+|Instant Death]]|[[2+|Instant Death]]|[[2+|Instant Death]]|2+|2+|2+|3+|4+|
+|Note that if the attack's Strength is at least double the defender's Toughness, the attack gains the [[Instant Death]] special rule.|c
+
+|>| Vehicle Damage Table |h
+|D6|Result|h
+|^!1-3|''Crew Shaken'': The vehicle is rocked by the attack, but no serious damage is sustained. The vehicle can only fire Snap Shots until the end of its next turn.|
+|^!4|''Crew Stunned'': Either the vehicle’s crew is knocked about by the attack, or the vehicle’s targeting and steering systems are temporarily scrambled. The vehicle can only fire Snap Shots until the end of its next turn. If the vehicle is a Zooming Flyer, it must move 18" and cannot turn at all in its next Movement phase. If the vehicle is not a Zooming Flyer, it cannot move or pivot until the end of its next turn.|
+|^!5|''Weapon Destroyed'': The strike causes critical damage to part of the vehicle’s armament. One of the vehicle’s weapons (randomly chosen) is destroyed – including any combi- or built in weapons. This can include vehicle upgrades that are weapons, such as pintle-mounted storm bolters or hunter-killer missiles. Do not count weapons that have run out of ammunition – they’re already non-functional for the most part. If a vehicle has no weapons left, treat this result as an //Immobilised// result instead (see below).|
+|^!6|''Immobilised'': The vehicle has taken a hit that has crippled a wheel, track, grav plate, engine or leg. If the vehicle is a Chariot, count this result as a //Crew Stunned// result instead (see above). If the vehicle is a Zooming Flyer, roll a further D6: on a 1 or 2, that Flyer will immediately //Crash and Burn!// (see below), on a 3+ the Flyer counts this result as //Crew Stunned// instead (see above). Other vehicles are Immobilised. An Immobilised vehicle cannot move – it may not even pivot, but its turrets may continue to rotate to select targets, and other weapons retain their normal arcs of fire. Any Immobilised results suffered by an already Immobilised vehicle instead remove an additional Hull Point.|
+|^!7+*|''Explodes!'': The vehicle is ripped apart in a spectacular explosion, as its fuel and ammo detonate. The vehicle is destroyed. If the vehicle is a Zooming Flyer, it will immediately //Crash and Burn!// (see below), otherwise nearby units suffer a Strength 4 AP- hit for each model within D6" of the vehicle (resolve this once, regardless of how many times the result is inflicted), as flaming debris scatters across the area. The vehicle is then removed from the battlefield.|
+|>|''Crash and Burn!'': The aircraft is torn apart and flaming debris rains down upon the battlefield. Centre the large blast marker over the Flyer – it then scatters 2D6". Any units under the blast marker’s final position suffer a number of Strength 6 AP- hits equal to the number of models that unit has under the marker. The Flyer is then removed from the battlefield.|
+|* = AP 2 weapons grant a +1 bonus to the result of this table, and AP 1 weapons grant a +2.|c
+
+</div>

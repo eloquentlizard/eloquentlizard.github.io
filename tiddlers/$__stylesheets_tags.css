@@ -1,0 +1,46 @@
+.title, h1, h2, h3, h4, h5, h6 {
+	font-family: london;
+}
+
+code {
+	font-family: dwarf, "Courier New";
+}
+
+.sc {
+	font-variant: small-caps;
+}
+
+.tc-tag-label {
+	font-family:"lobster";
+}
+
+.tc-system-title-prefix {
+	font-weight: bold;
+}
+
+.serif {
+	font-family: "ca", "Liberation Serif", "Times New Roman", serif;
+}
+
+.heresy {
+	font-family: "ca-sc", "Liberation Serif", "Times New Roman", serif;
+	color: red;
+	font-size: 1.05em;
+	transform: rotate(-11deg);
+	display: inline-block;
+}
+
+.tc-tagged-Tyranids {
+	font-family: "cardo", "ca", "Liberation Serif", "Times New Roman", serif;
+}
+.tc-tagged-Tyranids svg {
+	width: 0.85em;
+	height: 0.85em;
+	fill: #333353;
+	verical-align: bottom;
+}
+sub, sup {
+	font-variant: small-caps;
+}
+
+.tc-tagged-Tyranids h1,.tc-tagged-Tyranids h2,.tc-tagged-Tyranids h3,.tc-tagged-Tyranids h4,.tc-tagged-Tyranids h5,.tc-tagged-Tyranids h6 {font-family: "monty", "Heveltica Neue", "Heveltica", "Arial";}

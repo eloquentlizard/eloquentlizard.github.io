@@ -1,0 +1,11 @@
+created: 20150217170138589
+creator: eloquentlizard
+modified: 20201012231043880
+modifier: eloquentlizard
+tags: [[Special Rule]]
+title: Instinctive Fire
+type: text/vnd.tiddlywiki
+
+Each weapon on this model automatically fires at the nearest enemy unit within range and line of sight. The shots are resolved at the end of the Shooting phase before Morale checks are taken.
+
+Each weapon can fire at a different target unit, but they cannot be fired in any other way or at any other time.

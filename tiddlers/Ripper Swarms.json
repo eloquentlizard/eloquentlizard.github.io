@@ -1,0 +1,26 @@
+[
+    {
+        "created": "20150220131615774",
+        "text": "!!{{!!caption}} --- {{!!points}} points\n\n{{||CharacteristicsTable}}\n\nUnit Composition --- 3 {{!!title}}\n\n{{||$:/templates/biomorphs-rules}}\n\n;Options\n*May include up to six additional {{!!title}} --- 15 points/base\n*The unit may take {{Spinefists||$:/templates/tooltips}} --- 3 points/base\n*The unit may take items from the {{Gaunt Biomorphs||$:/templates/tooltips}} list at the listed cost/base.",
+        "type": "text/vnd.tiddlywiki",
+        "title": "Ripper Swarms",
+        "tags": "Troops [[Fast Attack]]",
+        "modifier": "Jeanbeaux",
+        "modified": "20201016165857555",
+        "creator": "Jeanbeaux",
+        "wounds": "4",
+        "weapon-skill": "2",
+        "unit-type": "Beast",
+        "toughness": "3",
+        "strength": "3",
+        "points": " 45",
+        "leadership": "5",
+        "initiative": "2",
+        "footer": "{{$:/Lore/Rippers}}",
+        "caption": "Ripper Swarm Brood",
+        "ballistic-skill": "2",
+        "attacks": "4",
+        "save": "6+",
+        "special": "[[Deep Strike]] [[Fearless]] [[Furious Charge]] [[Instinctive Behaviour (Feed)]] [[Rage]] [[Swarms]]"
+    }
+]

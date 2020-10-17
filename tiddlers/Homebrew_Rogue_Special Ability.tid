@@ -1,0 +1,26 @@
+caption: special ability
+created: 20150105150900769
+creator: eloquentlizard
+modified: 20200728191111903
+modifier: eloquentlizard
+subtitle: {{!!title}}{{modal!!button}}
+tags: Components
+title: Homebrew/Rogue/Special Ability
+type: text/vnd.tiddlywiki
+
+!Special Ability
+On attaining 10th level, and at every level indicated on the table, a rogue gains a special ability of her choice from among the following options.
+
+*''Crippling Strike'' (Ex): A rogue with this ability can sneak attack opponents with such precision that her blows weaken and hamper them. An opponent damaged by one of her sneak attacks also takes 2 points of Strength damage. Ability points lost to damage return on their own at the rate of 1 point per day for each damaged ability.{{br}}
+
+*''Defensive Roll'' (Ex): The rogue can roll with a potentially lethal blow to take less damage from it than she otherwise would. Once per day, when she would be reduced to 0 or fewer hit points by damage in combat (from a weapon or other blow, not a spell or special ability), the rogue can attempt to roll with the damage. To use this ability, the rogue must attempt a Reflex saving throw (DC = damage dealt). If the save succeeds, she takes only half damage from the blow; if it fails, she takes full damage. She must be aware of the attack and able to react to it in order to execute her defensive roll—if she is denied her Dexterity bonus to AC, she can’t use this ability. Since this effect would not normally allow a character to make a Reflex save for half damage, the rogue’s evasion ability does not apply to the defensive roll.{{br}}
+
+*''Improved Evasion'' (Ex): This ability works like {{Homebrew/Rogue/Evasion||modal}}, except that while the rogue still takes no damage on a successful Reflex saving throw against attacks henceforth she takes only half damage on a failed save. A helpless rogue does not gain the benefit of improved evasion.{{br}}
+
+*''Opportunist'' (Ex): Once per round, the rogue can make an attack of opportunity against an opponent who has just been struck for damage in melee by another character. This attack counts as the rogue’s attack of opportunity for that round. Even a rogue with the Combat Reflexes feat can’t use the opportunist ability more than once per round.{{br}}
+
+*''Skill Mastery'': The rogue becomes so certain in the use of certain skills that she can use them reliably even under adverse conditions. Upon gaining this ability, she selects a number of skills equal to 3 + her Intelligence modifier. When making a skill check with one of these skills, she may take 10 even if stress and distractions would normally prevent her from doing so. A rogue may gain this special ability multiple times, selecting additional skills for it to apply to each time.{{br}}
+
+*''Slippery Mind'' (Ex): This ability represents the rogue’s ability to wriggle free from magical effects that would otherwise control or compel her. If a rogue with slippery mind is affected by an enchantment spell or effect and fails her saving throw, she can attempt it again 1 round later at the same DC. She gets only this one extra chance to succeed on her saving throw.{{br}}
+
+*''Bonus Feat'': A rogue may gain a bonus feat in place of a special ability. She must meet all prerequisites for a chosen feat.

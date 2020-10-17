@@ -1,0 +1,13 @@
+created: 20141228081125620
+creator: eloquentlizard
+modified: 20201012231040635
+modifier: eloquentlizard
+title: scrollabletab
+type: text/vnd.tiddlywiki
+
+<$scrollable class="tc-scrollable-tab tc-tiddler-frame">
+
+
+<$transclude tiddler=<<currentTab>> field="text"/>
+
+</$scrollable>

@@ -1,0 +1,20 @@
+caption: flurry of blows
+created: 20150106003037813
+creator: eloquentlizard
+modified: 20200728191111439
+modifier: eloquentlizard
+tags: Components
+title: Homebrew/Monk/Flurry of Blows
+type: text/vnd.tiddlywiki
+
+!Flurry of Blows (Ex)
+A monk may strike with a flurry of blows at the expense of accuracy. When doing so, she may make one extra attack in a round at her highest base attack bonus, but this attack takes a -2 penalty, as does each other attack made that round. The resulting modified base attack bonuses are shown in the Flurry of Blows Attack Bonus column on the given table. This penalty applies for 1 round, so it also affects attacks of opportunity the monk might make before her next action. 
+
+When a monk reaches 5th level, the penalty lessens to -1, and at 9th level it disappears. A monk must use a full attack action to strike with a flurry of blows.
+
+When using flurry of blows, a monk may attack only optimally with unarmed strikes or with special monk weapons (kama, nunchaku, quarterstaff, sai, shuriken, and siangham). If she attempts to flurry with a non-monk weapon, she takes a -4 penalty on her attack rolls with that weapon (this penlaty stacks with the penalty for nonproficiency as well as the normal penalty for using flurry of blows).  She may attack with unarmed strikes and weapons interchangeably as desired. When using weapons as part of a flurry of blows, a monk applies her Strength bonus (not Str bonus × 1½ or ×½) to her damage rolls for all successful attacks, whether she wields a weapon in one or both hands. The monk can’t use any weapon other than a special monk weapon as part of a flurry of blows.
+
+In the case of the quarterstaff, each end counts as a separate weapon for the purpose of using the flurry of blows ability. Even though the quarterstaff requires two hands to use, a monk may still intersperse unarmed strikes with quarterstaff strikes, assuming that she has enough attacks in her flurry of blows routine to do so.
+
+:;→ See Also
+::{{Homebrew/Monk/Unarmed Strike||modal}}, {{Homebrew/Monk/Greater Flurry||modal}}

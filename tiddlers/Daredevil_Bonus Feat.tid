@@ -1,0 +1,14 @@
+caption: bonus feat
+created: 20150204145747119
+creator: eloquentlizard
+modified: 20200728191109125
+modifier: eloquentlizard
+subtitle: {{!!title}}{{modal!!button}}
+tags: Components
+title: Daredevil/Bonus Feat
+type: text/vnd.tiddlywiki
+
+!Bonus Feats
+At 3rd, 6th, and 9th level, the Daredevil gets a bonus feat. The bonus feat must be selected from the following list, and the Daredevil must meet all the prerequisites of the feat to select it.
+
+>Acrobatic, Armor Proficiency,,light, medium,,, Athletic, Brawl, Cautious, Dodge, Force Stop, Improved Brawl, Improved Damage Threshold, Improved Knockout Punch Knockout Punch, Mobility, Nimble, Spring Attack, Streetfighting, Surface Vehicle Operation, Toughness, Vehicle Dodge, Vehicle Expert.

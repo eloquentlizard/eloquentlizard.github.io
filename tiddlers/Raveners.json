@@ -1,0 +1,27 @@
+[
+    {
+        "created": "20150218221213944",
+        "text": "!!{{!!caption}} --- {{!!points}} points\n\n{{||CharacteristicsTable}}\n\nUnit Composition --- 3 {{!!title}}\n\n{{||$:/templates/biomorphs-rules}}\n\n;Options\n*May include up to seven additional {{!!title}} --- 14 points/model\n*Any model may take items from the {{Biomorphs||$:/templates/tooltips}} and {{Melee Bio-weapons||$:/templates/tooltips}} lists.\n*A model may take a thorax-mounted {{Fleshborer||$:/templates/tooltips}} --- 3 points/model\n**A model with a thorax-mounted ''fleshborer'' may replace it with an item from either the {{Basic Bio-cannons||$:/templates/tooltips}} and {{Basic Bio-weapons||$:/templates/tooltips}} lists.",
+        "type": "text/vnd.tiddlywiki",
+        "title": "Raveners",
+        "tags": "[[Fast Attack]]",
+        "modifier": "Jeanbeaux",
+        "modified": "20201016165852645",
+        "creator": "Jeanbeaux",
+        "wounds": "3",
+        "weapon-skill": "5",
+        "unit-type": "Beast",
+        "toughness": "4",
+        "strength": "4",
+        "points": " 42",
+        "leadership": "6",
+        "initiative": "5",
+        "footer": "{{$:/Lore/Raveners}}",
+        "caption": "Ravener Brood",
+        "biomorphs": "[[Adrenal Glands]] [[Two pairs of Scything Talons]]",
+        "ballistic-skill": "3",
+        "attacks": "3",
+        "save": "5+",
+        "special": "[[Very Bulky]] [[Deep Strike]] [[Instinctive Behaviour (Feed)]] +[sort[title]]"
+    }
+]

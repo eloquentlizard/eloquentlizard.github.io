@@ -1,0 +1,38 @@
+attacks: 8
+ballistic-skill: 3
+biomorphs: [[Two Gargantuan Bio-cannons]] [[Three pairs of Scything Talons]] [[Regeneration]] [[Toxic Miasma]] +[sort[title]]
+caption: Hierophant Bio-titan
+created: 20151230053000809
+creator: eloquentlizard
+footer: {{$:/Lore/Hierophant}}
+initiative: 3
+leadership: 10
+modified: 20201016165904797
+modifier: eloquentlizard
+points: 750
+save: 2+/5++
+special: [[Agile]] [[Psychic Barrier]] +[sort[title]]
+strength: 10
+tags: [[Lord of War]]
+title: Hierophant
+toughness: 9
+type: text/vnd.tiddlywiki
+unit-type: Gargantuan Creature
+weapon-skill: 6
+wounds: 10
+
+!!{{!!caption}} --- {{!!points}} points
+
+{{||CharacteristicsTable}}
+
+Unit Composition --- 1 {{!!title}}
+
+{{||$:/templates/biomorphs-rules}}
+
+;Options
+*May take items from the {{Biomorphs||$:/templates/tooltips}}, {{Carapace Biomorphs||$:/templates/tooltips}}, {{Melee Bio-weapons||$:/templates/tooltips}}, {{Monstrous Heavy Bio-weapons||$:/templates/tooltips}}, and {{Thorax Biomorphs||$:/templates/tooltips}} list.
+*May take the {{Psyker||$:/templates/tooltips}} (Mastery Level 1) upgrade --- 55 points
+**A {{!!caption}} with a Psyker Mastery Level generates its psychic powers from the ''Biomancy'', {{Broodmind||$:/templates/tooltips}}, {{Powers of the Hive Mind||$:/templates/tooltips}}, and ''Telepathy'' disciplines.
+*May take one of the following upgrades:
+**{{Spore Node||$:/templates/tooltips}} --- 35 points
+**{{Transport Spore||$:/templates/tooltips}} --- 50 points

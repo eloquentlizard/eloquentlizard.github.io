@@ -1,0 +1,10 @@
+created: 20150101165113513
+creator: eloquentlizard
+modified: 20200728191106387
+modifier: eloquentlizard
+tags: $:/tags/ViewTemplate
+title: $:/core/ui/ViewTemplate/tags
+type: text/vnd.tiddlywiki
+
+<$reveal state=!!tags type=nomatch text="" default=""><div class="tc-tags-wrapper">
+<$list filter="[all[current]tags[]sort[title]]" template="$:/core/ui/TagTemplate" storyview="pop"/><span class="tc-subtitle"> <$reveal type=match state="$:/state/ViewTemplate/TagEditor" text="hide" default="hide" animate="yes"><$button class="tc-btn-invisible" set="$:/state/ViewTemplate/TagEditor" setTo="show">//edit tags//</$button></$reveal><$reveal type=match state="$:/state/ViewTemplate/TagEditor" text="show" default="hide" animate="yes"><$button class="tc-btn-invisible" set="$:/state/ViewTemplate/TagEditor" setTo="hide">//finished editing tags//</$button></$reveal></span><$reveal type=match state="$:/state/ViewTemplate/TagEditor" text="show" default="hide" animate="yes"><$transclude tiddler="$:/core/ui/EditTemplate/tags"/></$reveal></div></$reveal>

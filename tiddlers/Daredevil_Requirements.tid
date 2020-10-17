@@ -1,0 +1,16 @@
+caption: Requirements
+created: 20150204145257806
+creator: eloquentlizard
+modified: 20200728191109190
+modifier: eloquentlizard
+subtitle: {{!!title}}{{modal!!button}}
+tags: Components
+title: Daredevil/Requirements
+type: text/vnd.tiddlywiki
+
+!Requirements
+To qualify to become a Daredevil, a character must fulfill the following criteria.
+
+*''Base Attack Bonus'' +2.
+*''Skills'' Concentration 6 ranks, Drive 6 ranks.
+*''Feat'' Endurance.

@@ -1,0 +1,18 @@
+created: 20150220140940256
+creator: eloquentlizard
+description: The Tyranids are unlike any other race to be encountered by humanity. They are the ultimate predators, and all living things, from the lowliest insect to the most advanced civilisation, are nothing but their prey. Only now are the inhabitants of the galaxy realising the scale of the threat; unless the Tyranids can be stopped, it will mean nothing less than the extinction of all.
+list: [[The Intergalactic Predator]] [[The Hive Fleets]] [[Creatures of the Swarm]] [[The Hive Mind]] [[The Shadow in the Warp]] [[Destroyer of Worlds]]
+modified: 20201013152710908
+modifier: eloquentlizard
+tags: $:/Lore/Tyranids
+title: The Great Devourer
+type: text/vnd.tiddlywiki
+
+The Tyranids are likened to a galactic swarm consuming everything in its path, feeding on entire worlds and leaving only dead husks in their wake. Their threat is such that an unprotected planet can be infested and stripped clean of all its organic material in a matter of weeks without even slowing down the greater advance of the hive fleet.
+
+<$list filter="[is[current]tagging[]]">
+
+!!{{!!title}}
+{{}}
+
+</$list>

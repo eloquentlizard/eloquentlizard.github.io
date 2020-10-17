@@ -1,0 +1,14 @@
+created: 20150215002156886
+creator: eloquentlizard
+description: Many are the weapons and creatures whose merest caress is fatal.
+modified: 20201012231042932
+modifier: eloquentlizard
+tags: [[Special Rule]]
+title: Fleshbane
+type: text/vnd.tiddlywiki
+
+If a model has this special rule, or is attacking with a Melee weapon that has this special rule, they always Wound on a 2+ in close combat.
+
+Similarly, if a model makes a shooting attack with a weapon that has this special rule, they always Wound on a 2+.
+
+In either case, this special rule has no effect against vehicles or buildings.

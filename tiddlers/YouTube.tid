@@ -1,0 +1,16 @@
+color: #ff0006
+created: 20141227232736869
+creator: eloquentlizard
+description: Usage: `{{video||YouTube}}` embeds http://youtu.be/`video`
+icon: $:/core/images/video
+modified: 20200728191118190
+modifier: eloquentlizard
+tags: Template
+title: YouTube
+type: text/vnd.tiddlywiki
+
+\define youtube(url)
+<iframe width="560" height="315" src="http://www.youtube.com/embed/$url$" frameborder="0" allowfullscreen></iframe>
+\end
+
+<$macrocall $name="youtube" url={{!!source}}/>

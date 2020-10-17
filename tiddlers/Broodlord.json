@@ -1,0 +1,27 @@
+[
+    {
+        "created": "20150217024709537",
+        "text": "!!{{!!title}} --- {{!!points}} points\n\n{{||CharacteristicsTable}}\n\nUnit Composition --- 1 {{!!title}}\n\n{{||$:/templates/biomorphs-rules}}\n\n;Psyker\n:A Broodlord generates its psychic powers from the ''Biomancy'', {{Broodmind||$:/templates/tooltips}}, {{Powers of the Hive Mind||$:/templates/tooltips}}, and ''Telepathy'' disciplines.\n;Options\n*May take up to one of each of the following upgrades:\n**{{Feeder Tendrils||$:/templates/tooltips}} --- 2 points\n**{{Implant Attack||$:/templates/tooltips}} --- 2 points\n**{{Scything Talons||$:/templates/tooltips}} --- 3 points\n**{{The Ymgarl Factor||$:/templates/tooltips}} --- 4 points\n**{{Synapse Creature||$:/templates/tooltips}} (6\") and {{Shadow in the Warp||$:/templates/tooltips}} --- 15 points\n*May exchange [[rending claws|Rending Claws]] with {{Broodlord's Claws||$:/templates/tooltips}} --- 25 points\n*May upgrade Psyker Mastery Level to 2 --- 30 points\n*May take items from the {{Biomorphs||$:/templates/tooltips}} list.",
+        "type": "text/vnd.tiddlywiki",
+        "title": "Broodlord",
+        "tags": "HQ",
+        "modifier": "Jeanbeaux",
+        "modified": "20201016165847783",
+        "creator": "Jeanbeaux",
+        "wounds": "3",
+        "weapon-skill": "7",
+        "unit-type": "Infantry (Character)",
+        "toughness": "5",
+        "strength": "6",
+        "points": " 65",
+        "leadership": "10",
+        "initiative": "7",
+        "footer": "{{$:/Lore/Genestealers}}",
+        "description": "If a Broodlord possesses the Ymgarl Factor (see below), you may also upgrade a single unit of Genestealers with the Ymgarl Factor. If you choose to do so, the Broodlord must start the game attached to that brood of Genestealers.",
+        "biomorphs": "[[Rending Claws]] [[Flesh Hooks]]",
+        "ballistic-skill": "4",
+        "attacks": "4",
+        "save": "4+/5++",
+        "special": "[[Bulky]] [[Hit & Run]] [[Furious Charge]] [[Fleet]] [[Independent Character]] [[Fearless]] [[Fear]] [[Infiltrate]] [[Move Through Cover]] [[Return to the Shadows]] [[Hyper-reflexes]] [[Psyker (Mastery Level 1)]] [[Stealth]] [[Master of the Brood]] +[sort[title]]"
+    }
+]

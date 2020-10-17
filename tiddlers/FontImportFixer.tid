@@ -1,0 +1,18 @@
+created: 20201016023732397
+modified: 20201016030902147
+tags: 
+title: FontImportFixer
+type: text/vnd.tiddlywiki
+
+<$list filter="[tag[$:/tags/Font]]">
+
+*{{!!title}} 
+**<$edit-text field=type />
+**to: <$edit-text tag=input />
+**from: <$list filter="[<currentTiddler>removeprefix[$:/fonts/]addsuffix[.ttf]] +[is[tiddler]]" variable=deezNuts ><$edit-text tiddler=<<deezNuts>> tag=input />
+
+<$button actions="""
+<$action-setfield $tiddler=<<currentTiddler>> $field=text $value={{{ [<deezNuts>get[text]] }}} />
+""">do it!</$button> <$button actions="""
+<$action-deletetiddler $tiddler=<<deezNuts>> />
+""">destroy the evidence</$button></$list>

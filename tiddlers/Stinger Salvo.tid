@@ -1,0 +1,12 @@
+created: 20150218185510946
+creator: eloquentlizard
+description: Stinger salvoes are simple but effective weapons that fire rows of metre-long, razor-sharp spikes.
+modified: 20201012231045721
+modifier: eloquentlizard
+points: 10
+tags: Weapon [[Carapace Biomorphs]]
+title: Stinger Salvo
+type: text/vnd.tiddlywiki
+
+|| Range | S | AP | Type |h
+|Stinger Salvo| 18" | 5 | 4 |[[Assault]] 4|

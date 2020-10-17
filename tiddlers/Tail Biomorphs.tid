@@ -1,0 +1,14 @@
+color: #f3ae4a
+created: 20150218193755559
+creator: eloquentlizard
+description: 
+icon: $:/core/images/import-button
+modified: 20201012231046149
+modifier: eloquentlizard
+tags: [[Wargear List]]
+title: Tail Biomorphs
+type: text/vnd.tiddlywiki
+
+A model may take up to one of the following biomorphs:
+
+{{||$:/templates/wargear-list}}

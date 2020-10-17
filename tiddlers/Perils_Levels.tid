@@ -1,0 +1,51 @@
+caption: Level-Up Guide
+created: 20140824001828642
+creator: eloquentlizard
+modified: 20200728191115208
+modifier: eloquentlizard
+ordering: 2
+tags: [[Perils of the Shadowrealm]] Homebrew
+title: Perils/Levels
+type: text/vnd.tiddlywiki
+
+First, consult the following table to determine your maximum stuff:
+
+|Level|Experience Total|Max Base Atk|Feats Total*|Ability Boost?|Max Skill Ranks**|h
+|!0| -1,000 XP| +3 (auto)| 3 feats| By sub-class| 4 ranks|
+|!1st| 0 XP| +4| 4 feats|| 4 ranks|
+|!2nd| 1,000 XP| +4| 4 feats|| 4 ranks|
+|!3rd| 3,000 XP| +4| 5 feats|| 4 ranks|
+|!4th| 6,000 XP| +4| 5 feats| +1 to one| 4 ranks|
+|!5th| 10,000 XP| +5| 6 feats|| 5 ranks|
+|!6th| 15,000 XP| +6/+1| 6 feats|| 6 ranks|
+|!7th| 21,000 XP| +7/+2| 7 feats|| 7 ranks|
+|!8th| 28,000 XP| +8/+3| 7 feats| +1 to one| 8 ranks|
+|!9th| 36,000 XP| +9/+4| 8 feats|| 9 ranks|
+|!10th| 45,000 XP| +10/+5| 8 feats| +1 to all| 10 ranks|
+|!11th| 55,000 XP| +11/+6/+1| 9 feats|| 11 ranks|
+|!12th| 66,000 XP| +12/+7/+2| 9 feats| +1 to one| 12 ranks|
+|!13th| 78,000 XP| +13/+8/+3| 10 feats|| 13 ranks|
+|!14th| 91,000 XP| +14/+9/+4| 10 feats|| 14 ranks|
+|!15th| 105,000 XP| +15/+10/+5| 11 feats|| 15 ranks|
+|!16th| 120,000 XP| +16/+11/+6/+1| 11 feats| +1 to one| 16 ranks|
+|!17th| 136,000 XP| +17/+12/+7/+2| 12 feats|| 17 ranks|
+|!18th| 153,000 XP| +18/+13/+8/+3| 12 feats|| 18 ranks|
+|!19th| 171,000 XP| +19/+14/+9/+4| 13 feats|| 19 ranks|
+|!20th| 190,000 XP| +20/+15/+10/+5| 13 feats| +1 to all| 20 ranks|
+|''*'' = This number does not include bonus feats granted by class features.<br>''**'' = This number does not count the +3 trained bonus for investing ranks in class skills. That bonus ONLY counts as ranks when determining eligibility for Feats, Advanced Classes, and Prestige Classes. It is in all other respects (including on your character sheet) considered a bonus.|c
+
+Then, decide what class your new level will be in. Mark down relevant Class Features, then we can do the fun stuff:
+
+#Roll your class's Hit Die (d6, d8, d10, or sometimes d12) and add your Constitution modifier. Reroll any natural result of 1. Add the result to your maximum Hit Points.<br>If you somehow end up with less than a +1 to your Hit Points, add +1 to your Hit Points (you can't lose HP or not gain any HP at all on a level-up, after all).
+#Add up your new Base Attack Bonus (if it changed). Keep in mind your maximum allowed Base Attack from the table above.<br>If your Base Attack would exceed this number, place the remainder in the Maximum slot of your Base Attack attribute on your Roll20 character sheet, and if you gain a level where you wouldn't be granted an increase, you can deduct +1 from that slot and add it in.
+#Allocate any ability score increases you may have gained by your Hit Dice. These are untyped bonuses, and thus stack with any other bonus you may acquire.
+#Discard any and all Action Points you currently have. If your new level is in a base class, your new Action Point total is 5 + &#189; your total character level, rounded down. If your new level is in an advanced class or prestige class, your new Action Point total is 6 + &#189; your total character level, rounded down.
+#First, get the Skill Points per Level from your class (3, 5, 7, or sometimes 9), then add your Intelligence modifier, and allocate the resulting number of Skill Points. Be mindful of your maximum ranks per skill on the table above, however!
+#*Also, if your Intelligence modifier increased this level, //you also retroactively gain Skill Points for all previous levels//!
+#**''Calculation Shortcut'': Intelligence modifier adjustment * (Current Level + 2), plus the Skill Points for your new level.
+#Please, please, please, ''DO NOT'' add in your +3 trained bonus on class skills to your Ranks<~SkillName>(Current). Add it to Ranks<~SkillName>(Maximum). Please?
+#Make a Profession check, versus a DC equal to your current Wealth Bonus. If you succeed, you gain +1 Wealth. If not, you don't take any sort of penalty.
+#*If you invested Skill Points into Profession, you may gain an additional Wealth bonus. 1 - 2 ranks grants you +1 Wealth, 3 - 7 ranks grants you +2 Wealth, 8 - 12 ranks grants you +3 Wealth, 13 - 17 ranks grants you +4 Wealth, and 18 - 20 ranks grants you +5 Wealth. These bonuses are cumulative.
+#Allocate any Feats you may have gained, be they by a class feature or through normal level advancement. Remember that class features gained at this level, as well as skill ranks allocated at this level, may be counted for the purposes of meeting feat prerequisites.
+#Check your class features and see if they modify any of your existing Attributes or Abilities on your Roll20 sheet. If the feature grants a skill bonus, mark it in the appropriate Maximum column. In addition, record any other class features on your main Description block/tab.
+#If you gain any FX Abilities (arcane or divine magic, for this campaign), advance those features as normal. If you are gaining your first level as a class with FX abilities, you may need to add your FX skill (for Mages or Acolytes, Spellcraft; and for Occultists, Use Magic Device) onto your sheet. It requires adding an Attribute and an Ability to your Roll20 character sheet.

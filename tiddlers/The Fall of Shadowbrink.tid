@@ -1,0 +1,18 @@
+created: 20150303165725923
+creator: eloquentlizard
+description: As Hive Fleet Leviathan drifted into the dead-zone left by Kryptman’s evacuations, the Tyranids found world after world reduced to empty shells. Yet one planet, the cathedral world of Shadowbrink, still stood defiant. As the Hive Mind stretched out its mighty tendrils to claim Shadowbrink for its own, it could not know the horrors its hunger was about to unleash.
+list: [[To the Last Man...]] [[From the Maelstrom's Heart]] [[The Wrath of the Warp]] [[Slaughter on the Plains]] [[The Tide Turns]]
+modified: 20201013152718020
+modifier: eloquentlizard
+tags: $:/Lore/Tyranids
+title: The Fall of Shadowbrink
+type: text/vnd.tiddlywiki
+
+When the order to evacuate reached Shadowbrink’s rulers, they stood paralysed with indecision. Their orders from Segmentum Command were clear, and there could be little doubt that Shadowbrink faced the onrushing fury of a sizeable tendril of Hive Fleet Leviathan. Yet beneath its swooping gothic spires and macromausolea, Shadowbrink’s capital city of Rossov concealed a terrible secret. In a vast sepulchre, buried deep beneath the city’s streets, there lurked a ring of obscene archeotech dating back to the Dark Age of Technology. Upon its discovery by Inquisitorial acolytes, some three decades earlier, the foul relic had been christened the Maelstrom Cradle. Emitting a steadily strengthening Warp-signature and fluctuating patterns of empyric overbleed, this evil device had resisted all efforts at destruction. Thus, a permanent garrison of Grey Knights had been assigned to stand sentry over it, performing daily rituals of warding while their Librarians worked to permanently seal the potential daemonic rift. With the onset of Hive Fleet Leviathan, it appeared the Grey Knights had run out of time, yet their leader – Brother-Librarian Cadulon – could not permit evacuation while there was a chance the rift might burst asunder. Were Daemons allowed to spill through onto Shadowbrink, there was a very real chance that the Imperium would be faced with a major daemonic incursion on top of the woes of attempting to battle Hive Fleet Leviathan. This was a threat that Imperial forces could ill afford. Employing his authority, Cadulon instructed Shadowbrink’s Governor to refuse the order to evacuate his people, instead commanding that the defences be readied to repulse the approaching Tyranids. 
+
+<$list filter="[is[current]tagging[]]">
+
+!!{{!!title}}
+{{}}
+
+</$list>

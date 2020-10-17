@@ -1,0 +1,14 @@
+color: #e8a137
+created: 20150218172759171
+creator: eloquentlizard
+icon: $:/core/images/_gun
+modified: 20201012231044213
+modifier: eloquentlizard
+ordering: 3
+tags: [[Wargear List]]
+title: Monstrous Bio-cannons
+type: text/vnd.tiddlywiki
+
+A model may replace any pair of ''scything talons'' with one of the following:
+
+{{||$:/templates/wargear-list}}

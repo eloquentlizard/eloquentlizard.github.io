@@ -1,0 +1,20 @@
+created: 20150201201228545
+creator: eloquentlizard
+modified: 20200728191109966
+modifier: eloquentlizard
+tags: Components
+title: Fast-Talk Talent Tree
+type: text/vnd.tiddlywiki
+
+The Charismatic hero has an innate talent for bending the truth and dazzling others with a combination of words, mannerisms, and charm.
+
+;Fast-Talk
+:The Charismatic hero has a way with words when attempting to con and deceive. With this talent, he or she applies his or her Charismatic level as a bonus on any Bluff, Diplomacy, or Gamble checks the hero makes while attempting to lie, cheat, or otherwise bend the truth.
+;Dazzle
+:The Charismatic hero has the ability to dazzle a target through sheer force of personality, a winning smile, and fast-talking. The target must have an Intelligence score of 3 or higher to be susceptible to a dazzle attempt, must be within 30 feet of the hero, and must be able to see, hear, and understand the hero. To dazzle a target, the hero must use an attack action and make a Charisma check (DC 15), adding his or her Charismatic level as a bonus. If the Charisma check succeeds, the target can try to resist. The target resists the dazzle attempt by making a Will saving throw (DC 10 + Charismatic hero's class level + Charismatic hero's Cha bonus). If the save fails, the target receives a -1 penalty on attack rolls, ability checks, skill checks, and saving throws for a number of rounds equal to the character's Charismatic level. This talent can be selected multiple times, each time worsening the dazzled penalty by -1.
+:;Prerequisite
+::Fast-talk.
+;Taunt
+:The Charismatic hero has the ability to temporarily rattle a target through the use of insults and goading. The target must have an Intelligence score of 3 or higher to be susceptible to a taunt, must be within 30 feet of the hero, and must be able to hear and understand the hero. To taunt a target, the hero must use an attack action and make a Charisma check (DC 15), adding his or her Charismatic level as a bonus. If the Charisma check succeeds, the target can try to resist. The target resists the taunt by making a Will saving throw (DC 10 + Charismatic hero's class level + Charismatic hero's Cha bonus). If the save fails, the target becomes dazed (unable to act, but can defend normally) for 1 round. A taunt can be played on an opponent any number of times. 
+:;Prerequisites
+::Fast-talk, dazzle.

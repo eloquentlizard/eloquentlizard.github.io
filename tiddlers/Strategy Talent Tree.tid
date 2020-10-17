@@ -1,0 +1,31 @@
+created: 20150201200544463
+creator: eloquentlizard
+modified: 20200728191117432
+modifier: eloquentlizard
+tags: Components
+title: Strategy Talent Tree
+type: text/vnd.tiddlywiki
+
+The Smart hero has the brainpower to see solutions in most situations. These talents can be selected in any order, but before the hero can select a talent from this tree he or she must have previously selected at least one talent from the Research Talent Tree.
+
+;Exploit Weakness
+:After 1 round of combat, the Smart hero can designate one opponent and try to find ways to gain an advantage by using brains over brawn. The Smart hero uses a move action and makes an Intelligence check (DC 15) with a bonus equal to his or her Smart level. If the check succeeds, for the rest of the combat the Smart hero uses his or her Intelligence bonus instead of either Strength or Dexterity bonus on attack rolls as the hero finds ways to outthink his opponent and notices weaknesses in his opponent's fighting style.
+:;Prerequisite
+::One talent from the Research Talent Tree.
+
+;Plan
+:Prior to a dramatic situation, either combat- or skill-related, the Smart hero can develop a plan of action to handle the situation. Using this talent requires preparation; a Smart hero can't use this talent when surprised or otherwise unprepared for a particular situation. <span style="float:right;">
+
+|!Check Result|!Bonus|
+|9 or lower|+0 (check failed)|
+|10-14|+1|
+|15-24|+2|
+|25 or higher|+3|
+</span> The Smart hero makes an Intelligence check (DC 10) with a bonus equal to his or her Smart level. The result of the check provides the Smart hero and allies with a circumstance bonus. A Smart hero can't take 10 or 20 when making this check. This bonus can be applied to all skill checks and attack rolls made by the Smart hero and his or her allies, but the bonus only lasts for the first 3 rounds. After that time, reduce the bonus by 1 point (to a minimum of +0) for every additional round the situation continues, as the vagaries of circumstance begin to unravel even the best-laid plans.
+:;''Prerequisite''
+::One talent from the Research Talent Tree.
+
+;Trick
+:The Smart hero has the ability to temporarily confuse a target (a GM character) through the use of ploy and deception. The target must have an Intelligence score of 3 or higher to be susceptible to a trick, must be within 30 feet of the hero, and must be able to hear and understand the hero. To play a trick on a target, the hero must use a full-round action and make an Intelligence check (DC 15), adding his or her Smart level as a bonus. If the Intelligence check succeeds, the target can try to think quickly and ignore the trick. The target resists the trick by making a Reflex saving throw (DC 10 + Smart hero's class level + Smart hero's Int bonus). If the saving throw fails, the target becomes dazed (unable to act, but can defend normally) for 1 round. A trick can only be played on a particular target once per encounter. After the first trick in an encounter, whether the attempt succeeds or not, that target becomes wary and immune to such ploys. 
+:;Prerequisite
+::One talent from the Research Talent Tree.

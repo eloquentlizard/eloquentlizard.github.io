@@ -1,0 +1,11 @@
+created: 20150305141930571
+creator: eloquentlizard
+description: The Swarmlord wields two pairs of serrated bone sabres. Through the core of each blade lies a crystalline growth. These alien crystals are not indigenous to this galaxy, and the bone sabres crackle with lethal power.
+modified: 20201012231042010
+modifier: eloquentlizard
+tags: Weapon
+title: Bone Sabres
+type: text/vnd.tiddlywiki
+
+|| Range | S | AP | Type |h
+|Bone Sabres| --- | User | 2 |Melee, [[Blade Parry]], [[Instant Death]], [[Multistrike]], [[Shred]]|

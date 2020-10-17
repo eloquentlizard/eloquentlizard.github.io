@@ -1,0 +1,37 @@
+attacks: 3
+ballistic-skill: 3
+biomorphs: [[Scything Talons]]
+created: 20150218214742898
+creator: eloquentlizard
+description: ''The Scuttling Swarm'': {{The Scuttling Swarm}}
+footer: {{$:/Lore/Tervigons}}
+initiative: 2
+leadership: 10
+modified: 20201016165852059
+modifier: eloquentlizard
+points: 180
+save: 3+
+special: [[Brood Progenitor]] [[Extremely Bulky]] [[Spawn Termagants]] [[Psyker (Mastery Level 1)]] [[Shadow in the Warp]] [[Synapse Creature]] [[Synaptic Backlash]] +[sort[title]]
+strength: 5
+tags: HQ
+title: Tervigon
+toughness: 6
+type: text/vnd.tiddlywiki
+unit-type: Monstrous Creature
+weapon-skill: 3
+wounds: 6
+
+!!{{!!title}} --- {{!!points}} points
+
+{{||CharacteristicsTable}}
+
+Unit Composition --- 1 {{!!title}}
+
+{{||$:/templates/biomorphs-rules}}
+
+;Psychic Powers
+:A Tervigon generates its psychic powers from the ''Biomancy'', {{Broodmind||$:/templates/tooltips}}, {{Powers of the Hive Mind||$:/templates/tooltips}}, and ''Telepathy'' disciplines.
+;Options
+*May take items from the {{Biomorphs||$:/templates/tooltips}}, {{Carapace Biomorphs||$:/templates/tooltips}}, {{Melee Bio-weapons||$:/templates/tooltips}}, {{Thorax Biomorphs||$:/templates/tooltips}} and {{Tyranid Bio-artefacts||$:/templates/tooltips}} lists.
+*May replace [[Brood Progenitor]], [[Spawn Termagants]] (or [[Spawn Gaunts]]), and [[Synaptic Backlash]] special rules with the {{Transport Spore||$:/templates/tooltips}} special rule and may be taken as a Dedicated Transport by any one Tyranid unit that does not consist of one or more Gargantuan Creatures --- 35 points.
+*May upgrade its Psyker Mastery Level to 2 --- 30 points.

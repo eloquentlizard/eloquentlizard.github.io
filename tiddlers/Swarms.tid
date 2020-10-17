@@ -1,0 +1,10 @@
+created: 20150215013206307
+creator: eloquentlizard
+description: These creatures are so multitudinous that they cannot be picked out individually and must be fought as a group.
+modified: 20201012231045953
+modifier: eloquentlizard
+tags: [[Special Rule]]
+title: Swarms
+type: text/vnd.tiddlywiki
+
+If, when allocating Wounds to a unit with the Swarms special rule, two or more models could be chosen as the closest enemy, the closest enemy is always the model with the least number of Wounds. If a model with the Swarm special rule suffers an unsaved Wound from a [[Blast]] (any size) or [[Template]] weapon, each unsaved Wound is multiplied to two unsaved Wounds unless that Wound has the [[Instant Death]] special rule. However, a unit entirely composed of models with the Swarm special rule is not slowed by difficult terrain, but must test for Dangerous Terrain as normal. 

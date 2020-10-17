@@ -1,0 +1,10 @@
+created: 20141226031336766
+creator: eloquentlizard
+description: Usage: `{{tiddler||code}}` renders the tiddler as a codeblock
+modified: 20200728191108737
+modifier: eloquentlizard
+tags: Template
+title: code
+type: text/vnd.tiddlywiki
+
+<pre><$view field="text"/></pre>
