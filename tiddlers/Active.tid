@@ -3,9 +3,9 @@ color: #73f7a0
 created: 20140823110233148
 creator: eloquentlizard
 icon: $:/core/images/done-button
-modified: 20200728191108083
+list-order: 1
+modified: 20201018033358575
 modifier: eloquentlizard
-ordering: 1
 tags: CampaignTag
 title: Active
 type: text/vnd.tiddlywiki

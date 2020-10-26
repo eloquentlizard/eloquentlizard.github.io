@@ -1,16 +1,17 @@
 created: 20150211185836403
 creator: eloquentlizard
+flavor: sample flavor text
 footer: this is a sample footer
-modified: 20200728191106360
+modified: 20201018033131303
 modifier: eloquentlizard
 tags: $:/tags/ViewTemplate
 title: $:/core/ui/ViewTemplate/footer
 type: text/vnd.tiddlywiki
 
-<$reveal type=nomatch state=!!footer text="" default="">
+<$list filter="[is[current]has[footer]then{!!title}]">
 
 <div class="tc-improvement-banner">
-{{$:/core/images/star-filled}} {{!!footer}}
+<$list filter="[is[current]has[flavor]then{!!title}]"><blockquote style="background: rgb(0,0,0,0);border-left: none;"><br>//{{!!flavor}}//</blockquote></$list><$transclude tiddler={{$:/config/DefaultTiddlerIcon}}/>{{!!footer}}
 </div>
 
-</$reveal>
+</$list>

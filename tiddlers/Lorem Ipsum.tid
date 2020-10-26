@@ -1,10 +1,10 @@
-class: serif
+class: heresy
 created: 20150207011810077
 creator: eloquentlizard
-modified: 20201016170013803
+modified: 20201020004700447
 modifier: eloquentlizard
 source: http://lipsum.org/
-style: text-indent:2ch;
+style: 
 tags: scratch
 title: Lorem Ipsum
 type: text/vnd.tiddlywiki
@@ -16,7 +16,7 @@ Test CSS stylings here:
 <$edit-text field=style/>
 
 ---
-
+<div style="width:100%;height:100%;">
 <div class={{!!class}} style={{!!style}}>
 
 !Lorem Ipsum
@@ -29,4 +29,5 @@ Donec suscipit, sem quis venenatis vulputate, quam eros sodales leo, maximus sce
 Sed tempus varius tortor nec molestie. Maecenas fermentum aliquam justo. Phasellus dui lectus, fringilla quis quam quis, varius bibendum elit. Quisque nec dui quis neque semper semper tincidunt at ante. Fusce rutrum libero sagittis eros mattis lobortis. Phasellus at diam urna. Nunc ut tincidunt erat, sit amet finibus quam. Vivamus luctus neque mi, congue lacinia nisl sollicitudin vitae. Pellentesque ultrices porta turpis ut lacinia. Ut lorem tortor, tincidunt in mauris in, porta fringilla turpis.
 
 Integer tempor purus arcu, vel sodales dui sollicitudin in. In at felis a mi feugiat eleifend. Nam dignissim elementum ex eget consectetur. Praesent eget dignissim lacus, sit amet consectetur diam. Maecenas non ante pulvinar, efficitur ante nec, hendrerit neque. Etiam ut velit nec urna porttitor ultricies id et dolor. Vestibulum sollicitudin turpis turpis, non tempor arcu molestie ac. Proin varius porttitor dui, vel vulputate felis placerat at. Praesent vel ullamcorper sapien. Ut mollis sapien in fringilla fringilla. In venenatis magna orci, quis scelerisque magna pretium ac. Nunc sodales nunc quis convallis blandit. 
+</div>
 </div>

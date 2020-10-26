@@ -1,13 +1,50 @@
 .illustration {
-      border: 1px black solid;
-      float: right;
-      padding: 0em;
-      margin: 0.5em;
-      box-shadow: 5px 5px 5px #bbbbbb;
+	border: 2px solid black;
+	padding: 1px;
+	margin: 1px;
+	box-shadow: 5px 5px 5px #bbbbbb;
 }
+
+.illustration ~ figcaption {
+	vertical-align:top;
+	text-align:center;
+}
+
 .tc-inline-image svg {
 	width: 1em;
 	height: 1em;
 	fill: #333353;
 	vertical-align: middle;
+}
+
+.manasymbol-container {
+	display: inline;
+	width: 16px;
+	height: 16px;
+	margin-left: 2px;
+}
+.manasymbol-container * {
+	width: 16px;
+	height: 16px;
+	border-radius: 16px;
+	box-shadow: -2px 2px black;
+}
+
+.mtgcard {
+	border:4px solid black;
+	border-radius:16px;
+	display: grid;
+	grid-template-columns:320px;
+	grid-template-rows: auto auto auto auto auto auto;
+	grid-gap: 1px;
+	width: 320px;
+	position:relative;
+	padding: 6px;
+}
+
+.mtgcard > * {
+	border: 1px solid red;
+	padding: 0px;
+	width: 300px;
+	margin: 0px;
 }

@@ -1,6 +1,8 @@
 caption: {{$:/language/ThemeTweaks/ThemeTweaks}}
 created: 20201014163047160
-modified: 20201014163647915
+creator: eloquentlizard
+modified: 20201020003748377
+modifier: eloquentlizard
 tags: $:/tags/ControlPanel/Appearance
 title: $:/themes/tiddlywiki/vanilla/themetweaks
 type: text/vnd.tiddlywiki
@@ -54,7 +56,9 @@ type: text/vnd.tiddlywiki
 
 ! <<lingo Settings>>
 
-|<$link to="$:/themes/tiddlywiki/vanilla/settings/fontfamily"><<lingo Settings/FontFamily>></$link> |<$edit-text tiddler="$:/themes/tiddlywiki/vanilla/settings/fontfamily" default="" tag="input"/> | |
+|<$link to="$:/themes/tiddlywiki/vanilla/settings/fontfamily"><<lingo Settings/FontFamily>> (sans-serif)</$link> |<$edit-text tiddler="$:/themes/tiddlywiki/vanilla/settings/fontfamily" default="" tag="input"/> | |
+|<$link to="$:/themes/tiddlywiki/vanilla/settings/fontfamily/serifs"><<lingo Settings/FontFamily>> (serif)</$link> |<$edit-text tiddler="$:/themes/tiddlywiki/vanilla/settings/fontfamily/serifs" default="" tag="input"/> | |
+|<$link to="$:/themes/tiddlywiki/vanilla/settings/fontfamily/headings"><<lingo Settings/FontFamily>> (headings)</$link> |<$edit-text tiddler="$:/themes/tiddlywiki/vanilla/settings/fontfamily/headings" default="" tag="input"/> | |
 |<$link to="$:/themes/tiddlywiki/vanilla/settings/codefontfamily"><<lingo Settings/CodeFontFamily>></$link> |<$edit-text tiddler="$:/themes/tiddlywiki/vanilla/settings/codefontfamily" default="" tag="input"/> | |
 |<$link to="$:/themes/tiddlywiki/vanilla/settings/editorfontfamily"><<lingo Settings/EditorFontFamily>></$link> |<$edit-text tiddler="$:/themes/tiddlywiki/vanilla/settings/editorfontfamily" default="" tag="input"/> | |
 |<$link to="$:/themes/tiddlywiki/vanilla/settings/backgroundimage"><<lingo Settings/BackgroundImage>></$link> |<$edit-text tiddler="$:/themes/tiddlywiki/vanilla/settings/backgroundimage" default="" tag="input"/> |<<backgroundimage-dropdown>> |

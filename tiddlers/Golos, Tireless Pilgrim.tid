@@ -1,0 +1,15 @@
+art: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/1/f/1fa48620-4c3d-4f75-be1f-c12c4aa59f51.jpg
+artist: Joseph Meehan
+cost: 5
+created: 20201021041431604
+modified: 20201021154316890
+strength: 3
+tags: Legendary Artifact Creature Scout Colorless Card
+template: mtg/cardtemplate
+title: Golos, Tireless Pilgrim
+toughness: 5
+type: text/vnd.tiddlywiki
+
+When {{!!title}} enters the battlefield, you may search your library for a land card, put that card onto the battlefield tapped, then shuffle your library.
+
+{{2wuberg||mtg/manaparse}} : Exile the top three cards of your library. You may play them this turn without paying their mana costs.

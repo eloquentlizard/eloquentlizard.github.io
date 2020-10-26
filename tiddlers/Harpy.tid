@@ -7,13 +7,13 @@ creator: eloquentlizard
 footer: {{$:/Lore/Harpy}}
 initiative: 5
 leadership: 10
-modified: 20201016165858084
+modified: 20201021004739631
 modifier: eloquentlizard
 points: 135
 save: 4+
 special: [[Sonic Screech]] [[Instinctive Behaviour (Hunt)]] [[Fearless]] +[sort[title]]
 strength: 5
-tags: [[Fast Attack]]
+tags: [[Fast Attack]] Creature
 title: Harpy
 toughness: 5
 type: text/vnd.tiddlywiki

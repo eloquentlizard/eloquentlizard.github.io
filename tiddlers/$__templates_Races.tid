@@ -1,0 +1,34 @@
+appearance-modifier: 0
+caption: Races
+charisma-modifier: 0
+color: 
+constitution-modifier: 0
+created: 20141227134444109
+creator: eloquentlizard
+creaturetype: magical beast
+dexterity-modifier: 0
+icon: $:/core/images/plugin-generic-language
+intelligence-modifier: 0
+languages: swahili
+modified: 20201017164855671
+modifier: eloquentlizard
+size-category: fine
+speed: 1,000,000 ft.
+strength-modifier: 0
+tags: Template
+title: $:/templates/Races
+type: text/vnd.tiddlywiki
+wisdom-modifier: 0
+
+!{{!!caption}} Racial Traits
+
+;Abilities
+:<$list filter="[all[current]has[strength-modifier]]">Str <$list filter="=[<currentTiddler>get[strength-modifier]] +[sign[]match[-1]else[+]]  =[<currentTiddler>get[strength-modifier]]"><$view field=title /></$list>; </$list><$list filter="[all[current]has[dexterity-modifier]]">Dex <$list filter="=[<currentTiddler>get[dexterity-modifier]] +[sign[]match[-1]else[+]]  =[<currentTiddler>get[dexterity-modifier]]"><$view field=title /></$list>; </$list><$list filter="[all[current]has[constitution-modifier]]">Con <$list filter="=[<currentTiddler>get[constitution-modifier]] +[sign[]match[-1]else[+]]  =[<currentTiddler>get[constitution-modifier]]"><$view field=title /></$list>; </$list><$list filter="[all[current]has[intelligence-modifier]]">Int <$list filter="=[<currentTiddler>get[intelligence-modifier]] +[sign[]match[-1]else[+]]  =[<currentTiddler>get[intelligence-modifier]]"><$view field=title /></$list>; </$list><$list filter="[all[current]has[wisdom-modifier]]">Wis <$list filter="=[<currentTiddler>get[wisdom-modifier]] +[sign[]match[-1]else[+]]  =[<currentTiddler>get[wisdom-modifier]]"><$view field=title /></$list>; </$list><$list filter="[all[current]has[charisma-modifier]]">Cha <$list filter="=[<currentTiddler>get[charisma-modifier]] +[sign[]match[-1]else[+]]  =[<currentTiddler>get[charisma-modifier]]"><$view field=title /></$list>; </$list><$list filter="[all[current]has[appearance-modifier]]">App <$list filter="=[<currentTiddler>get[appearance-modifier]] +[sign[]match[-1]else[+]]  =[<currentTiddler>get[appearance-modifier]]"><$view field=title /></$list>; </$list>
+;Size & Type
+:{{!!size-category}} {{!!creaturetype}}
+;Speed
+:{{!!speed}}
+;Automatic Languages
+:{{!!languages}}
+;Other Traits
+:{{}}

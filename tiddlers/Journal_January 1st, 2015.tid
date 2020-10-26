@@ -1,0 +1,28 @@
+created: 20150101171744491
+creator: eloquentlizard
+description: Happy New Year, everyone!
+modified: 20201019222439306
+modifier: eloquentlizard
+tags: Journal Archived
+title: Journal/January 1st, 2015
+type: text/vnd.tiddlywiki
+
+So I've done a bit of work on the actual core parts of TiddlyWiki lately. I've edited the [[$:/core/ui/ViewTemplate/tags]] and [[$:/core/ui/ViewTemplate/subtitle]] tiddlers to
+<br>
+<ol>
+<li>Only show on a tiddler when they have content to display.</li>
+<li>Give a lot more information (and in the case of the tags bit, even have a way to edit tags outside of the `EditTemplate`)!</li>
+<br>
+</ol>
+In the case of the [[…/subtitle|$:/core/ui/ViewTemplate/subtitle]] tidder above, fields will be dynamically shown as they are relevant, including
+<br>
+<ul>
+<li>The description of the tiddler</li>
+<li>The date and time last modified</li>
+<li>Who last modified the tiddler (me unless I somehow find a way to have more people work on this or I imported the tiddler from another wiki)</li>
+<li>Who created the tiddler (if it isn't a shadow tiddler), and when it was created.</li>
+</ul>
+<br>
+If a field is missing/empty, then the subtitle just won't show anything in that section.
+<br><br>
+I'll get back to working on more fanciful things soon, but I wanted to extend what the wiki did with information as well as make tag editing easier on myself. I think that's a worthy goal.

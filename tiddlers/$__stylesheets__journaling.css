@@ -1,8 +1,17 @@
-.tc-journal p {
-	text-indent: 0.5em;
+.tc-journalentry p {
+	text-indent: 0.25em;
 }
-/*.tc-journal p::first-letter {
-	font-size: 1.2em;
+.tc-journalentry div > p:first-child::first-letter {
+	font-size: 3em;
 	text-shadow: 1px 1px #bbbbbb;
-	vertical-align: middle; 
-} */
+	vertical-align: text-top;
+	position: relative;
+	font-family: serif;
+	float: left;
+	text-indent: 0em;
+	top: 1em;
+}
+
+.tc-journalentry div > p:first-child {
+	text-indent: 0em;
+}

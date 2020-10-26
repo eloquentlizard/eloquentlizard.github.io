@@ -1,6 +1,6 @@
 created: 20201014014604636
 description: 
-modified: 20201014032430734
+modified: 20201020143258347
 tags: 
 title: $:/config/EmptyStoryMessage
 type: text/vnd.tiddlywiki
@@ -17,7 +17,6 @@ type: text/vnd.tiddlywiki
 }
 
 .emptyStory:not(.tc-titlebar){
-	font-weight: 600;
 	color: <<colour sidebar-controls-foreground>>;
 }
 </style>

@@ -3,9 +3,9 @@ color: #25d722
 created: 20140826093832564
 creator: eloquentlizard
 icon: flag
-modified: 20200728191108776
+list-order: 3
+modified: 20201018033402171
 modifier: eloquentlizard
-ordering: 3
 tags: CampaignTag
 title: Completed
 type: text/vnd.tiddlywiki

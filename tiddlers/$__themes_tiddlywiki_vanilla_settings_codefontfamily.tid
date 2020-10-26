@@ -1,6 +1,8 @@
 created: 20201013032100697
-modified: 20201016015954181
+creator: eloquentlizard
+modified: 20201020005002167
+modifier: eloquentlizard
 title: $:/themes/tiddlywiki/vanilla/settings/codefontfamily
 type: text/vnd.tiddlywiki
 
-"dwarf", "SFMono-Regular",Consolas,"Liberation Mono",Menlo,Courier,monospace
+"Nova Mono", "SFMono-Regular" ,Consolas ,"Liberation Mono" , Menlo, Courier, monospace

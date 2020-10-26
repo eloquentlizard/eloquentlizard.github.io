@@ -1,0 +1,12 @@
+color: #c9c4be
+created: 20201020173220180
+icon: mtg/s
+modified: 20201021034229707
+tags: [[Magic: the Gathering]]
+title: Snow
+type: text/vnd.tiddlywiki
+
+<$list filter="[tag{!!title}] +[!tag[mtg/tags/ManaSymbol]] +[!has[draft.of]]">
+
+*<$link to={{!!title}}>{{!!caption}}</$link>
+</$list>

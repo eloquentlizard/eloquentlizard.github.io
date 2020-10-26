@@ -1,7 +1,9 @@
+color: <<color foreground>>
 created: 20140828063307878
 creator: eloquentlizard
-modified: 20200728191107482
+modified: 20201018025127169
 modifier: eloquentlizard
+prefix: Image
 title: $:/tags/Image
 type: text/vnd.tiddlywiki
 
@@ -11,6 +13,6 @@ type: text/vnd.tiddlywiki
 </$list>
 
 !Normal Tiddlers
-<$list filter="[tag[$:/tags/Image]!tag[Image Gallery]sort[title]]">
-<$link to={{!!title}}>{{}}</$link>
+<$list filter="[tag[$:/tags/Image]!tag[ASCII]!tag[$:/tags/Background]sort[title]]">
+<div style="display:inline-block; width:22pt;height:22pt;"><$link to={{!!title}}>{{}}</$link></div>
 </$list>

@@ -1,0 +1,13 @@
+created: 20150601201840603
+creator: eloquentlizard
+modified: 20201019223018381
+modifier: eloquentlizard
+tags: Journal Archived
+title: Journal/June 1st, 2015
+type: text/vnd.tiddlywiki
+
+<div class="tc-journal">
+<p>Well hello, weary traveler!</p>
+<p>So I decided to finally get off my ass and make the Tiddlywiki embedded images external and use the `_canonical_uri` field to link them up so they behave like they're natively embeddded. The advantage should reduce the load time of this html document //considerably//. Other work has been started to get more things organized the way they should have been from the beginning.</p>
+</div>
+Tiddlywiki's gonna get some much-needed cleanup! To the rescue of browser load times I go!

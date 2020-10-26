@@ -1,5 +1,5 @@
 created: 20201016215405333
-modified: 20201016215704607
+modified: 20201017160119190
 tags: $:/tags/ViewTemplate
 title: $:/core/ui/ViewTemplate/title
 type: text/vnd.tiddlywiki
@@ -25,7 +25,7 @@ $:/config/ViewToolbarButtons/Visibility/$(listItem)$
 </$transclude>
 </span>
 </$set>
-<$list filter="[all[current]get[title]] +[split[/]] +[first[1]]" variable=prefixCheck ><$list variable=currentPrefix filter={{{ [has[prefix]get[prefix]] +[match<prefixCheck>]}}} emptyMessage="""<h2 class="tc-title"><$text text=<<currentTiddler>> /></h2>""" ><$list variable=prefixSource filter=" [all[tiddlers]field:prefix<prefixCheck>]" ><$set name=currentPrefix value={{{ [<currentPrefix>addsuffix[/]] }}} ><$list filter="[all[current]prefix<currentPrefix>removeprefix<currentPrefix>]" ><h2 class="tc-title" title=<<prefixSource>> ><span class="tc-system-title-prefix" style={{{ [<prefixSource>get[color]] +[addprefix[color: ]addsuffix[;]] }}} ><<currentPrefix>></span><$text text=<<currentTiddler>> /></h2></$list></$set></$list></$list></$list>
+<$list filter="[all[current]get[title]] +[split[/]] +[first[1]]" variable=prefixCheck ><$list variable=currentPrefix filter={{{ [!has[draft.of]has[prefix]get[prefix]] +[match<prefixCheck>]}}} emptyMessage="""<h2 class="tc-title"><$text text=<<currentTiddler>> /></h2>""" ><$list variable=prefixSource filter=" [all[tiddlers]field:prefix<prefixCheck>]" ><$set name=currentPrefix value={{{ [<currentPrefix>addsuffix[/]] }}} ><$list filter="[all[current]prefix<currentPrefix>removeprefix<currentPrefix>]" ><h2 class="tc-title" title=<<prefixSource>> ><span class="tc-system-title-prefix" style={{{ [<prefixSource>get[color]] +[addprefix[color: ]addsuffix[;]] }}} ><<currentPrefix>></span><$text text=<<currentTiddler>> /></h2></$list></$set></$list></$list></$list>
 </$link>
 </$set>
 </div>

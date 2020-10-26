@@ -1,15 +1,2 @@
-<$list filter="[tag[$:/tags/Font]!has[draft.of]]">
-
-`/* `<$link to={{!!title}} ></$link>` */
-
-@font-face{
-	font-family: `{{!!description}}`;
-	src: url("data:font/ttf;base64,`<$view field=text type="text/plain" />`"), format("truetype");
-	`{{!!info}}`
-}
-
-.`{{!!description}}` {
-	font-family: `{{!!description}}`;
-}
-`
-</$list>
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nova+Mono&display=swap');

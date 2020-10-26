@@ -1,0 +1,10 @@
+caption: 3
+created: 20201020151159113
+description: {{!!caption}} Generic Mana
+icon: mtg/3
+modified: 20201021034236549
+order: 1
+points: 3
+tags: $:/tags/Icon $:/tags/Image mtg/tags/ManaSymbol Colorless
+title: mtg/3
+type: image/svg+xml

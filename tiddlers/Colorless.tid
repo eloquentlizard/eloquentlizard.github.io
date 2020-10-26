@@ -1,0 +1,12 @@
+color: #cbc2bf
+created: 20201020150845080
+icon: mtg/c
+modified: 20201020150912517
+tags: [[Magic: the Gathering]]
+title: Colorless
+type: text/vnd.tiddlywiki
+
+<$list filter="[tag{!!title}] +[!tag[ManaSymbol]] +[!has[draft.of]]">
+
+*<$link to={{!!title}}>{{!!caption}}</$link>
+</$list>

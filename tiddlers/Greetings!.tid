@@ -1,13 +1,13 @@
 created: 20140823051839668
 creator: eloquentlizard
 description: A lovely little introduction to what this whole shendig is about!
-modified: 20200728191110658
+modified: 20201019235606339
 modifier: eloquentlizard
-tags: Journal HelloThere
+tags: Journal HelloThere Archived
 title: Greetings!
 type: text/vnd.tiddlywiki
 
-<div class="tc-journal">
+<div class="tc-journalentry">
 
 Oh, hello!
 

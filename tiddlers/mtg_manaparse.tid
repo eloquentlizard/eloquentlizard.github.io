@@ -1,0 +1,7 @@
+created: 20201020180454258
+modified: 20201021042737267
+tags: Template
+title: mtg/manaparse
+type: text/vnd.tiddlywiki
+
+<$list variable=manaSymbol filter="[<currentTiddler>lowercase[]splitbefore[(]split[]] [<currentTiddler>lowercase[]split[(]search:title,literal[)]else[]addprefix[(]] +[addprefix[mtg/]] +[nsort[order]]"><div class="manasymbol-container"><$transclude tiddler=<<manaSymbol>> /></div></$list>

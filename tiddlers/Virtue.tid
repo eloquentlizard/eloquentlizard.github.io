@@ -3,7 +3,7 @@ created: 20141205172322296
 creator: eloquentlizard
 duration: 1 minute
 level: cleric 0, druid 0, oracle 0, paladin 1st
-modified: 20200728191118050
+modified: 20201021022253097
 modifier: eloquentlizard
 range: touch
 save: no
@@ -11,10 +11,9 @@ school: Transmutation
 spellresist: yes (harmless)
 tags: [[Dodók, Survivor of Koganusân]] Spell
 target: creature touched
+template: Spell
 time: 1 standard action
 title: Virtue
 type: text/vnd.tiddlywiki
-
-{{||Spell}}
 
 With a touch, you infuse a creature with a tiny surge of life, granting the subject 1 temporary hit point.

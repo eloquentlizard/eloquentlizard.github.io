@@ -2,7 +2,7 @@ color:
 created: 20150103182313876
 creator: eloquentlizard
 icon: $:/core/images/_wannabe-pentagram
-modified: 20200728191117389
+modified: 20201021022308678
 modifier: eloquentlizard
 tags: Template
 title: Spell
@@ -21,3 +21,4 @@ type: text/vnd.tiddlywiki
 <$reveal type=nomatch text="" state=!!duration>''Duration'': {{!!duration}}<br></$reveal>
 <$reveal type=nomatch text="" state=!!save>''Saving Throw'': {{!!save}}</$reveal><$reveal type=nomatch text="" state=!!spellresist>; ''Spell Resistance'': {{!!spellresist}}</$reveal>
 
+{{}}

@@ -1,0 +1,10 @@
+caption: 13
+created: 20201020165658573
+description: {{!!caption}} Generic Mana
+icon: mtg/13
+modified: 20201021034236455
+order: 1
+points: 13
+tags: $:/tags/Icon $:/tags/Image mtg/tags/ManaSymbol Colorless
+title: mtg/13
+type: image/svg+xml

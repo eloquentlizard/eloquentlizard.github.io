@@ -2,9 +2,9 @@ caption: Session Archive
 created: 20140823222207171
 creator: eloquentlizard
 description: Session Archive for [[Extinguishing the Guiding Light]]
-modified: 20200728191116370
+list-order: 0
+modified: 20201018033359376
 modifier: eloquentlizard
-ordering: 0
 subtitle: {{!!description}} <div style="float:right;">{{modal!!footer}}</div>
 tags: [[Extinguishing the Guiding Light]]
 title: Perils2/Session Archive

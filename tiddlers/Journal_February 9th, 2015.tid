@@ -1,0 +1,24 @@
+created: 20150210022546212
+creator: eloquentlizard
+modified: 20201019222940447
+modifier: eloquentlizard
+tags: Journal Archived
+title: Journal/February 9th, 2015
+type: text/vnd.tiddlywiki
+
+<div class="tc-journal">
+<p>So I decided to play around with TiddlyWiki features again.</p>
+
+<p>Basically, what I've done is find a way to actually use the ~GitHub Banner I've had hanging around (with no content) for some time now. Rather than have the last modified date for the wiki be on the HelloThere page, I decided the last modified tiddler will show up in that lower banner.</p>
+
+<p>Oh, yeah, I also figured out how to place it in a spot other than the upper right corner, where it blocked the site title off.</p>
+
+<p>In other code-ish news, I also made my own TiddlyWiki-style button! The <button>edit font size</button> button has been revamped and given its own `*.svg` graphic and function, as well as captions and integration into the main system. You can see it there in the top left.</p>
+
+<p>I chose top left over top right so it wouldn't block off the <button>close tiddler</button> button on a mobile device.</p>
+
+<p> I also had the idea to copy the ~ImprovementBanner from the [[TiddlyWiki|http://tiddlywiki.com]] main site and rework it into a description editor, since I have no use for a ~GitHub pull on TiddlyWiki.</p>
+
+<p>With all these changes, I decided that the Recent area of the HelloThere page was now very obsolete, as there is a "Recent" tab in the sidebar, and the most recent edit is in the banner on the bottom right. So I deleted it.</p>
+</div>
+Anyway, toodles!

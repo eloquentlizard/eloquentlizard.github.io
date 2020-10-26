@@ -1,0 +1,10 @@
+caption: 7
+created: 20201020155659605
+description: {{!!caption}} Generic Mana
+icon: mtg/7
+modified: 20201021034236626
+order: 1
+points: 7
+tags: $:/tags/Icon $:/tags/Image mtg/tags/ManaSymbol Colorless
+title: mtg/7
+type: image/svg+xml

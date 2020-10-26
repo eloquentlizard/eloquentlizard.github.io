@@ -1,6 +1,8 @@
 created: 20201013031757554
-modified: 20201016033431293
+creator: eloquentlizard
+modified: 20201020005056818
+modifier: eloquentlizard
 title: $:/themes/tiddlywiki/vanilla/metrics/bodylineheight
 type: text/vnd.tiddlywiki
 
-16px
+{{$:/themes/tiddlywiki/vanilla/metrics/lineheight}}

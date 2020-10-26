@@ -1,0 +1,12 @@
+color: #aae0fa
+created: 20201020145311300
+icon: mtg/u
+modified: 20201020145952767
+tags: [[Magic: the Gathering]]
+title: Blue
+type: text/vnd.tiddlywiki
+
+<$list filter="[tag{!!title}] +[!tag[ManaSymbol]] +[!has[draft.of]]">
+
+*<$link to={{!!title}}>{{!!caption}}</$link>
+</$list>

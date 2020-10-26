@@ -1,0 +1,10 @@
+caption: 9
+created: 20201020165426043
+description: {{!!caption}} Generic Mana
+icon: mtg/9
+modified: 20201021034236653
+order: 1
+points: 9
+tags: $:/tags/Icon $:/tags/Image mtg/tags/ManaSymbol Colorless
+title: mtg/9
+type: image/svg+xml

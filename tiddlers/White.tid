@@ -1,0 +1,12 @@
+color: #fffbd5
+created: 20201020145051911
+icon: mtg/w
+modified: 20201020145939643
+tags: [[Magic: the Gathering]]
+title: White
+type: text/vnd.tiddlywiki
+
+<$list filter="[tag{!!title}] +[!tag[ManaSymbol]] +[!has[draft.of]]">
+
+*<$link to={{!!title}}>{{!!caption}}</$link>
+</$list>

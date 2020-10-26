@@ -1,0 +1,16 @@
+created: 20150603112928274
+creator: eloquentlizard
+modified: 20201019223031819
+modifier: eloquentlizard
+tags: Journal Archived
+title: Journal/June 3rd, 2015
+type: text/vnd.tiddlywiki
+
+<div class="tc-journal">
+<p>And so it begins</p>
+<p>I came up with a pretty novel idea: add a small navigation bar to the top left corner of the ~TiddlyWiki when the sidebar on the right is collapsed.</p>
+<p>The idea is that even when the sidebar is closed, the page is still very much navigable. </p>
+<p>I made a button template and then tagged a list filtering through everything in the <<tag "Table of Contents">> tag through that button template. I then tagged the list as `$:/TopLeftBar`. It's cool that the ~TiddlyWiki mechanics have preset tags like that which allow for positioning elements at points on the screen like that (`$:/TopLeftBar`, `$:/TopRightBar`, `$:/BottomLeftBar`, and `$:/BottomRightBar`).</p>
+<p>I also cleaned up some old clutter and I'll start working on exporting more images a little later and see if I can cut the file size of this document in half //again//.</p>
+</div>
+Do not worry, citizens! Progress is being made!

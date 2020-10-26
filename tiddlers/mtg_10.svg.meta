@@ -1,0 +1,10 @@
+caption: 10
+created: 20201020165506959
+description: {{!!caption}} Generic Mana
+icon: mtg/10
+modified: 20201021034236412
+order: 1
+points: 10
+tags: $:/tags/Icon $:/tags/Image mtg/tags/ManaSymbol Colorless
+title: mtg/10
+type: image/svg+xml

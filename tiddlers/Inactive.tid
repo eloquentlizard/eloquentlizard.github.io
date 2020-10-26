@@ -3,9 +3,9 @@ color: #ff6a6a
 created: 20140823213943448
 creator: eloquentlizard
 icon: $:/core/images/close-button
-modified: 20200728191113438
+list-order: 2
+modified: 20201018033359206
 modifier: eloquentlizard
-ordering: 2
 tags: CampaignTag
 title: Inactive
 type: text/vnd.tiddlywiki

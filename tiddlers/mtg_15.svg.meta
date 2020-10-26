@@ -1,0 +1,10 @@
+caption: 15
+created: 20201020165821357
+description: {{!!caption}} Generic Mana
+icon: mtg/15
+modified: 20201021034236492
+order: 1
+points: 15
+tags: $:/tags/Icon $:/tags/Image mtg/tags/ManaSymbol Colorless
+title: mtg/15
+type: image/svg+xml

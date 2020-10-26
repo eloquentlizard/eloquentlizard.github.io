@@ -1,19 +1,18 @@
 created: 20140824115403470
 creator: eloquentlizard
-modified: 20201014041246076
+modified: 20201026225247163
 modifier: eloquentlizard
 tags: HelloThere
 title: News, Journals, & Logs
 type: text/vnd.tiddlywiki
 
 \define journalButton()
-<$button tooltip={{$:/language/Buttons/NewJournal/Hint}} aria-label={{$:/language/Buttons/NewJournal/Caption}} class=<<tv-config-toolbar-class>>>
+<$button tooltip={{$:/language/Buttons/NewJournal/Hint}} aria-label={{$:/language/Buttons/NewJournal/Caption}} class=<<tv-config-toolbar-class>> style="color:<<color background>>;">
 <$action-sendmessage $message="tm-new-tiddler" title=<<now "$(journalTitleTemplate)$">> tags="$(journalTags)$"/>
 <$list filter="[<tv-config-toolbar-icons>prefix[yes]]">
 {{$:/core/images/new-journal-button}}
 </$list>
-
-<span class="tc-btn-text"><$text text="Write a new journal entry"/></span>
+<span class="tc-btn-text" style="color:#acacac;"><$text text="Write a new journal entry"/></span>
 </$button>
 \end
 
@@ -23,9 +22,8 @@ type: text/vnd.tiddlywiki
 <<journalButton>>
 </$set></$set>
 
-<$list filter="[tag[Journal]!title[Journal]!title[JournalTemplate]!has[draft.of]!sort[created]]">
+<$list filter="[tag[Journal]!tag[Archived]!title[Journal]![$:/config/NewJournal/Tags]!title[JournalTemplate]!has[draft.of]!sort[created]]">
 
-<dl><dt><$link><$view field="title"/></$link><$reveal state=!!description type=nomatch text=""> --- <$view field="description"/></$reveal></dt>
-<dd>{{||JournalTemplate}}</dd></dl>
-
+<dl><dt><$link><$view field=created format=date template="MMM DDth, YYYY" /></$link><$list filter="[is[current]has[description]get[description]]"><span style="font-weight:normal;"> — //{{!!title}}//</span></$list></dt>
+<dd class="tc-journalentry"><div><$transclude mode=block/></div> <div style="left:3em;position:relative;"><$link to={{!!creator}}><$view tiddler={{!!creator}} field=signature format=plainwikified  /></$link></div></dd></dl>
 </$list>

@@ -1,0 +1,29 @@
+created: 20201020210742922
+modified: 20201021234057253
+tags: Template
+title: mtg/cardtemplate
+type: text/vnd.tiddlywiki
+
+<div class="serif">
+<div class="mtgcard">
+	<h2 style="vertical-align:top;">{{!!title}}<div style="float:right;"><$list filter="[{!!cost}]" template="mtg/manaparse"/></div></h2>
+	<figure><img class="illustration" src={{!!art}} /><figcaption class="tiny" style="">illus. {{!!artist}}</figcaption></figure>
+	<h4><$list variable=cardTypes filter="=[is[current]tag[Legendary]then[Legendary]] =[is[current]tag[Basic]then[Basic]] =[is[current]tag[Tribal]then[Tribal]] =[is[current]tag[Snow]then[Snow]] =[is[current]tag[Enchantment]then[Enchantment]] =[is[current]tag[Artifact]then[Artifact]] =[is[current]tag[Land]then[Land]] =[is[current]tag[Creature]then[Creature]] =[is[current]tag[Planeswalker]then[Planeswalker]] =[is[current]tag[Instant]then[Instant]] =[is[current]tag[Sorcery]then[Sorcery]]"><$view tiddler=<<cardTypes>> field=title/> <$list filter=" [is[current]get[tags]split[ ]tag<cardTypes>]"> <$view field=title/> </$list></$list> <div style="float:right;"><$list filter="[all[current]tag[Creature]]">({{!!strength}}/{{!!toughness}})</$list></div></h4>
+		<div class="small">
+			<$list variable=keywordAbility filter="[is[current]get[tags]split[ ]tag[Keyword Ability]]"><$view tiddler=<<keywordAbility>> field=title/> <$list filter="[is[current]has:field<keywordAbility>get<keywordAbility>]" template="mtg/manaparse"/> <span class="small">//(<$transclude tiddler=<<keywordAbility>> field=description />)//</span>; </$list>
+	</div>
+	<div class="small">
+	
+	<$transclude mode=block;/>
+	
+	</div>
+	<div class="tiny"><$list filter="[all[current]has[flavor]]"><blockquote class="small" style="background: rgb(0,0,0,0);text-align:right;line-height:0.9em;">
+<$list filter="[all[current]has[flavor]then{!!flavor}splitbefore[::]removesuffix[::]split[\]]">
+
+//<$transclude field=title />//
+</$list>
+<$list emptyMessage="" filter="[all[current]has[flavor]then{!!flavor}split[::]last[1]]">
+<cite><$transclude field=title /></cite>
+</$list>
+</blockquote></$list></div>
+</div>

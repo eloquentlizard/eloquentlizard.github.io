@@ -1,0 +1,12 @@
+caption: Mana Symbols
+color: #a3562c
+created: 20201020171247788
+description: 
+icon: mtg/cardback
+list: 
+modified: 20201021034236789
+tags: [[Magic: the Gathering]]
+title: mtg/tags/ManaSymbol
+type: text/vnd.tiddlywiki
+
+<$list filter="[is[current]tagging[]!has[draft.of]] +[nsort[order]]"> <div abbr={{!!description}} style="display:inline-block;width:24px;height:24px;"><$link to={{!!title}}>{{}}</$link></div></$list>

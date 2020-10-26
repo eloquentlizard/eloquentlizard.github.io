@@ -1,6 +1,8 @@
 created: 20201013032916827
-modified: 20201013032921627
+creator: eloquentlizard
+modified: 20201020005144706
+modifier: eloquentlizard
 title: $:/themes/tiddlywiki/vanilla/metrics/fontsize
 type: text/vnd.tiddlywiki
 
-{{$:/themes/tiddlywiki/vanilla/metrics/bodyfontsize}}
+16px

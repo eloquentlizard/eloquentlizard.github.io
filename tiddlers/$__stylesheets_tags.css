@@ -1,38 +1,37 @@
 .title, h1, h2, h3, h4, h5, h6 {
-	font-family: london;
+	font-family: {{$:/themes/tiddlywiki/vanilla/settings/fontfamily/headings}}
 }
 
-code {
-	font-family: dwarf, "Courier New";
+.tc-tag-label {
+ font-family: {{$:/themes/tiddlywiki/vanilla/settings/fontfamily/serifs}};
 }
 
 .sc {
 	font-variant: small-caps;
 }
 
-.tc-tag-label {
-	font-family:"lobster";
-}
 
 .tc-system-title-prefix {
 	font-weight: bold;
+	font-family: {{$:/themes/tiddlywiki/vanilla/settings/codefontfamily}}
 }
 
 .serif {
-	font-family: "ca", "Liberation Serif", "Times New Roman", serif;
+ font-family: {{$:/themes/tiddlywiki/vanilla/settings/fontfamily/serifs}};
 }
 
 .heresy {
-	font-family: "ca-sc", "Liberation Serif", "Times New Roman", serif;
-	color: red;
+	font-family: {{$:/themes/tiddlywiki/vanilla/settings/fontfamily/serifs}}; 
+	color: firebrick;
 	font-size: 1.05em;
-	transform: rotate(-11deg);
+	transform: rotate(-4deg);
 	display: inline-block;
 }
 
 .tc-tagged-Tyranids {
-	font-family: "cardo", "ca", "Liberation Serif", "Times New Roman", serif;
+	font-family: {{$:/themes/tiddlywiki/vanilla/settings/fontfamily/serifs}};
 }
+
 .tc-tagged-Tyranids svg {
 	width: 0.85em;
 	height: 0.85em;
@@ -42,5 +41,3 @@ code {
 sub, sup {
 	font-variant: small-caps;
 }
-
-.tc-tagged-Tyranids h1,.tc-tagged-Tyranids h2,.tc-tagged-Tyranids h3,.tc-tagged-Tyranids h4,.tc-tagged-Tyranids h5,.tc-tagged-Tyranids h6 {font-family: "monty", "Heveltica Neue", "Heveltica", "Arial";}

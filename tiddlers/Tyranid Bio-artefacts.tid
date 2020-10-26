@@ -3,9 +3,9 @@ created: 20150218173550026
 creator: eloquentlizard
 description: The bio-artefacts of the Tyranids are symbiotic organisms of incredible rarity. Only one of each of the following items may be chosen per army – there is only thought to be one of each of these items in existence, or so the indigenous races of the galaxy hope…
 icon: $:/core/images/_crown
-modified: 20201012231047099
+list-order: 7
+modified: 20201018033406010
 modifier: eloquentlizard
-ordering: 7
 tags: [[Wargear List]]
 title: Tyranid Bio-artefacts
 type: text/vnd.tiddlywiki

@@ -1,0 +1,9 @@
+created: 20201021003025362
+modified: 20201021005406459
+tags: 
+title: Creature
+type: text/vnd.tiddlywiki
+
+<div style="display:flex; flex-flow: row wrap;"><$list filter="[is[current]tagging[]] -[tag[Card]]">
+<div style="padding:2ch;"><$link to={{!!title}}><$view field=title /></$link></div>
+</$list></div>
