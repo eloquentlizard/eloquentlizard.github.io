@@ -1,12 +1,12 @@
 caption: The Tyranids
-color: #519bfc
+color: #8b008b
 created: 20140826090252364
 creator: eloquentlizard
 description: The Tyranids are an ancient race of hyper-aggressive aliens; a vast swarm of predators biologically adapted to kill and consume. Against such a consummate foe, even the mightiest of armies are naught but prey for the slaughter.
-footer: All game rules content is from the Warhammer 40,000 //Codex: Tyranids//, plus other resources from http://www.games-workshop.com
-icon: $:/icons/tyranid
+footer: This custom codex is aimed toward the 7th edition of the //Warhammer 40,000// tabletop wargame. This codex is a reimagining of the 6th edition Warhammer 40,000 //Codex: Tyranids//, plus other resources from http://www.games-workshop.com that were available during the lifetime of the 7th edition of the game. Perhaps an update to 8th edition will happen, but it is not on my radar as of yet.
+icon: 40k/images/tyranid
 list: $:/Lore/Tyranids [[Forces of the Hive Mind]] [[Weapons & Biomorphs]] [[Tyranid Psychic Disciplines]] [[Special Rules]] [[Campaign Tyranid Warlords]]
-modified: 20201015173417292
+modified: 20201028153535206
 modifier: eloquentlizard
 subtitle: {{!!caption}}{{modal!!button}}
 tags: Tyranids Projects [[Warhammer 40,000]]

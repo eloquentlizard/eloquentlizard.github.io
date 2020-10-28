@@ -1,13 +1,13 @@
 created: 20140824115403470
 creator: eloquentlizard
-modified: 20201026225247163
+modified: 20201028153746129
 modifier: eloquentlizard
 tags: HelloThere
 title: News, Journals, & Logs
 type: text/vnd.tiddlywiki
 
 \define journalButton()
-<$button tooltip={{$:/language/Buttons/NewJournal/Hint}} aria-label={{$:/language/Buttons/NewJournal/Caption}} class=<<tv-config-toolbar-class>> style="color:<<color background>>;">
+<$button tooltip={{$:/language/Buttons/NewJournal/Hint}} aria-label={{$:/language/Buttons/NewJournal/Caption}} class=<<tv-config-toolbar-class>> style="color:#acacac;">
 <$action-sendmessage $message="tm-new-tiddler" title=<<now "$(journalTitleTemplate)$">> tags="$(journalTags)$"/>
 <$list filter="[<tv-config-toolbar-icons>prefix[yes]]">
 {{$:/core/images/new-journal-button}}
@@ -17,7 +17,7 @@ type: text/vnd.tiddlywiki
 \end
 
 <$set name="journalTitleTemplate" value={{$:/config/NewJournal/Title}}>
-<$set name="journalTags" value={{$:/config/NewJournal/Tags}}>
+<$set name="journalTags" value={{$:/config/NewJournal/Tags!!tags}}>
 
 <<journalButton>>
 </$set></$set>
