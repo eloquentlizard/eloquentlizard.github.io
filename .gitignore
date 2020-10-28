@@ -8,3 +8,6 @@ fonts/*
 fonts\*
 logfile.txt
 tiddlers/$__StoryList_1.tid
+tiddlers\$__StoryList_1.tid
+tiddlers/$__StoryList_*.tid
+tiddlers\$__StoryList_*.tid
